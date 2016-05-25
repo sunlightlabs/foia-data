@@ -1,0 +1,159 @@
+abbreviation: DNFSB
+departments:
+- address:
+    address_lines:
+    - Andrew L. Thibadeau
+    - Information/FOIA Officer
+    - Suite 700
+    city: Washington
+    state: DC
+    street: 625 Indiana Avenue, NW
+    zip: '20004'
+  description: The Defense Nuclear Facilities Safety Board reviews the content and
+    implementation of health and safety standards at Department of Energy Defense
+    Nuclear Facilities. The board also makes recommendations to the President and
+    Secretary of Energy regarding health and safety issues at Defense Nuclear Facilities.
+  emails:
+  - andrewt@dnfsb.gov
+  foia_officer:
+    name: Andrew L. Thibadeau
+    phone:
+    - 202-694-7088
+  name: Defense Nuclear Facilities Safety Board
+  phone: 202-694-7088
+  public_liaison:
+    name: Andrew L. Thibadeau
+    phone:
+    - 202-694-7088
+  reading_rooms:
+  - - FOIA Reading Room
+    - http://www.dnfsb.gov/foia-reading-room
+  request_time_stats:
+    '2013':
+      expedited_processing_average_days: '7'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '7'
+      simple_average_days: '14.53'
+      simple_highest_days: '39'
+      simple_lowest_days: '6'
+      simple_median_days: '14'
+    '2014':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '18'
+      expedited_processing_highest_days: '35'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '18'
+      simple_average_days: '30.48'
+      simple_highest_days: '256'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+  service_center:
+    name: Andrew L. Thibadeau
+    phone:
+    - 202-694-7088
+  top_level: false
+  usa_id: '52601'
+  website: http://www.dnfsb.gov/foia-reading-room
+description: The Defense Nuclear Facilities Safety Board reviews the content and implementation
+  of health and safety standards at Department of Energy Defense Nuclear Facilities.
+  The board also makes recommendations to the President and Secretary of Energy regarding
+  health and safety issues at Defense Nuclear Facilities.
+keywords:
+- Administrative practice and procedure
+- Conflict of interests
+- Courts
+- Government employees
+name: Defense Nuclear Facilities Safety Board
+request_time_stats:
+  '2008':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '6.3'
+    simple_highest_days: '19'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2009':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '2'
+    expedited_processing_highest_days: '2'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '2'
+    simple_average_days: '9'
+    simple_highest_days: '35'
+    simple_lowest_days: '1'
+    simple_median_days: '5.5'
+  '2010':
+    complex_average_days: '47'
+    complex_highest_days: '47'
+    complex_lowest_days: '47'
+    complex_median_days: '47'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '7'
+    simple_highest_days: '29'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'
+  '2011':
+    complex_average_days: '62'
+    complex_highest_days: '62'
+    complex_lowest_days: '62'
+    complex_median_days: '62'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '14'
+    simple_highest_days: '20'
+    simple_lowest_days: '3'
+    simple_median_days: '14'
+  '2012':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '11'
+    simple_highest_days: '22'
+    simple_lowest_days: '1'
+    simple_median_days: '11'
+  '2013':
+    expedited_processing_average_days: '7'
+    expedited_processing_highest_days: '8'
+    expedited_processing_lowest_days: '6'
+    expedited_processing_median_days: '7'
+    simple_average_days: '14.53'
+    simple_highest_days: '39'
+    simple_lowest_days: '6'
+    simple_median_days: '14'
+  '2014':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '18'
+    expedited_processing_highest_days: '35'
+    expedited_processing_lowest_days: '3'
+    expedited_processing_median_days: '18'
+    simple_average_days: '30.48'
+    simple_highest_days: '256'
+    simple_lowest_days: '1'
+    simple_median_days: '16'
+usa_id: '52601'

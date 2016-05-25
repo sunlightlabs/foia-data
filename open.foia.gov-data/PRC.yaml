@@ -1,0 +1,225 @@
+abbreviation: PRC
+departments:
+- address:
+    address_lines:
+    - Ruth Ann Abrams
+    - Assistant Secretary
+    - Suite 200 West
+    city: Washington
+    state: DC
+    street: 901 New York Avenue, NW
+    zip: '20268'
+  description: The Postal Regulatory Commission is responsible for oversight of the
+    U.S. Postal Service, including oversight of rates and services, and ensuring the
+    Postal Service meets all of its legal requirements.
+  fax: 202-789-6891
+  misc:
+    Assistant Secretary:
+      name: Ruth Ann Abrams
+      phone:
+      - 202-789-6800
+  name: Postal Regulatory Commission
+  phone: 202-789-6800
+  public_liaison:
+    name: Jennie Jbara
+    phone:
+    - 202-789-6800
+  request_form: http://www.prc.gov/prc-pages/misc/foia/onlineform.aspx
+  request_time_stats:
+    '2008':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '5'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2009':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '6'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '10'
+      simple_average_days: '11'
+      simple_highest_days: '57'
+      simple_lowest_days: '0'
+      simple_median_days: '15'
+    '2012':
+      complex_average_days: '27'
+      complex_highest_days: '27'
+      complex_lowest_days: '27'
+      complex_median_days: '27'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '5'
+      simple_highest_days: '15'
+      simple_lowest_days: '0'
+      simple_median_days: '3'
+    '2013':
+      complex_average_days: '29'
+      complex_highest_days: '29'
+      complex_lowest_days: '29'
+      complex_median_days: '29'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '5'
+      simple_average_days: '7'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2014':
+      expedited_processing_average_days: '19'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '19'
+      expedited_processing_median_days: '19'
+      simple_average_days: '9'
+      simple_highest_days: '21'
+      simple_lowest_days: '0'
+      simple_median_days: '12'
+  service_center:
+    phone:
+    - 202-789-6800
+  top_level: false
+  usa_id: '49621'
+  website: http://www.prc.gov/prc-pages/misc/foia/default.aspx?AspxAutoDetectCookieSupport=1
+description: The Postal Regulatory Commission is responsible for oversight of the
+  U.S. Postal Service, including oversight of rates and services, and ensuring the
+  Postal Service meets all of its legal requirements.
+keywords:
+- Administrative practice and procedure
+- Confidential business information
+- Freedom of information
+- Organization and functions (Government agencies)
+- Postal Service
+- Privacy
+- Reporting and recordkeeping requirements
+- Seals and insignia
+- Sunshine Act
+- Trademarks
+name: Postal Regulatory Commission
+request_time_stats:
+  '2008':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '5'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '2'
+  '2009':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '0'
+    simple_highest_days: '0'
+    simple_lowest_days: '0'
+    simple_median_days: '0'
+  '2010':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '6'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '3'
+  '2011':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '10'
+    expedited_processing_highest_days: '12'
+    expedited_processing_lowest_days: '8'
+    expedited_processing_median_days: '10'
+    simple_average_days: '11'
+    simple_highest_days: '57'
+    simple_lowest_days: '0'
+    simple_median_days: '15'
+  '2012':
+    complex_average_days: '27'
+    complex_highest_days: '27'
+    complex_lowest_days: '27'
+    complex_median_days: '27'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '5'
+    simple_highest_days: '15'
+    simple_lowest_days: '0'
+    simple_median_days: '3'
+  '2013':
+    complex_average_days: '29'
+    complex_highest_days: '29'
+    complex_lowest_days: '29'
+    complex_median_days: '29'
+    expedited_processing_average_days: '5'
+    expedited_processing_highest_days: '5'
+    expedited_processing_lowest_days: '5'
+    expedited_processing_median_days: '5'
+    simple_average_days: '7'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2014':
+    expedited_processing_average_days: '19'
+    expedited_processing_highest_days: '19'
+    expedited_processing_lowest_days: '19'
+    expedited_processing_median_days: '19'
+    simple_average_days: '9'
+    simple_highest_days: '21'
+    simple_lowest_days: '0'
+    simple_median_days: '12'
+usa_id: '49621'

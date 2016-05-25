@@ -1,0 +1,1310 @@
+abbreviation: HUD
+departments:
+- address:
+    address_lines:
+    - Dolores Cole
+    - Office of the Executive Secretariat
+    - Room 10139
+    city: Washington
+    state: DC
+    street: 451 7th Street, SW
+    zip: 20410-3000
+  fax: 202-708-1353
+  misc:
+    Chief, FOIA Branch:
+      name: Deborah Snowden
+      phone:
+      - 202-402-7606
+    Office of the Executive Secretariat:
+      name: Dolores Cole
+      phone:
+      - 202-708-3866
+  name: Headquarters
+  notes: This agency has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-402-2671
+  public_liaison:
+    name: Vicky J. Lewis
+    phone:
+    - 202-402-6147
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '117'
+      complex_highest_days: '1568'
+      complex_lowest_days: '2'
+      complex_median_days: '644'
+      expedited_processing_average_days: '37'
+      expedited_processing_highest_days: '61'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '43'
+      simple_average_days: '75'
+      simple_highest_days: '698'
+      simple_lowest_days: '1'
+      simple_median_days: '534'
+    '2011':
+      complex_average_days: '99'
+      complex_highest_days: '674'
+      complex_lowest_days: '1'
+      complex_median_days: '57'
+      expedited_processing_average_days: '44'
+      expedited_processing_highest_days: '59'
+      expedited_processing_lowest_days: '30'
+      expedited_processing_median_days: '44'
+      simple_average_days: '51'
+      simple_highest_days: '728'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
+    '2012':
+      complex_average_days: '98.73'
+      complex_highest_days: '533'
+      complex_lowest_days: '1'
+      complex_median_days: '69'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '45.12'
+      simple_highest_days: '400'
+      simple_lowest_days: '1'
+      simple_median_days: '23.5'
+    '2013':
+      complex_average_days: '77.63'
+      complex_highest_days: '660'
+      complex_lowest_days: '1'
+      complex_median_days: '27.5'
+      expedited_processing_average_days: '40.2'
+      expedited_processing_highest_days: '89'
+      expedited_processing_lowest_days: '12'
+      expedited_processing_median_days: '35'
+      simple_average_days: '34.85'
+      simple_highest_days: '276'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2014':
+      complex_average_days: '115.23'
+      complex_highest_days: '577'
+      complex_lowest_days: '1'
+      complex_median_days: '76'
+      expedited_processing_average_days: '22'
+      expedited_processing_highest_days: '22'
+      expedited_processing_lowest_days: '22'
+      expedited_processing_median_days: '22'
+      simple_average_days: '33.26'
+      simple_highest_days: '439'
+      simple_lowest_days: less than 1
+      simple_median_days: '11'
+  service_center:
+    name: Eugenia Harris
+    phone:
+    - 202-708-3866
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia
+- address:
+    address_lines:
+    - Room 301
+    city: Boston
+    state: MA
+    street: 10 Causeway Street
+    zip: 02222-1092
+  fax: 617-565-6558
+  misc:
+    Deputy Regional Administrator:
+      name: Kristine G. Foye
+      phone:
+      - 617-994-8218
+    FOIA Liaison:
+      name: William Matthews
+      phone:
+      - 617-994-8213
+  name: Region I (Boston, Hartford, Manchester, Providence)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 617-994-8218
+  public_liaison:
+    name: Kristine G. Foye
+    phone:
+    - 617-994-8218
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '296'
+      complex_highest_days: '411'
+      complex_lowest_days: '181'
+      complex_median_days: '350'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '49'
+      simple_highest_days: '186'
+      simple_lowest_days: '3'
+      simple_median_days: '93'
+    '2011':
+      complex_average_days: '46'
+      complex_highest_days: '78'
+      complex_lowest_days: '22'
+      complex_median_days: '43'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '20'
+      simple_highest_days: '62'
+      simple_lowest_days: '1'
+      simple_median_days: '22'
+    '2012':
+      complex_average_days: '20.63'
+      complex_highest_days: '70'
+      complex_lowest_days: '1'
+      complex_median_days: '20'
+      expedited_processing_average_days: '10.83'
+      expedited_processing_highest_days: '24'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7'
+      simple_average_days: '14.18'
+      simple_highest_days: '45'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
+    '2013':
+      complex_average_days: '18.1'
+      complex_highest_days: '58'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '18'
+      expedited_processing_highest_days: '18'
+      expedited_processing_lowest_days: '18'
+      expedited_processing_median_days: '18'
+      simple_average_days: '12.73'
+      simple_highest_days: '31'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2014':
+      complex_average_days: '18.33'
+      complex_highest_days: '28'
+      complex_lowest_days: '5'
+      complex_median_days: '22'
+      simple_average_days: '9.25'
+      simple_highest_days: '64'
+      simple_lowest_days: less than 1
+      simple_median_days: '6'
+  service_center:
+    phone:
+    - 617-994-8218
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+- address:
+    address_lines:
+    - Mirza Morales
+    - FOIA Public Liaison
+    - Suite 3541
+    city: New York
+    state: NY
+    street: 26 Federal Plaza
+    zip: 10278-0068
+  fax: 212-264-0246
+  misc:
+    Deputy Regional Administrator:
+      name: Mirza Morales
+      phone:
+      - 212-542-7109
+    FOIA Liaison:
+      name: Adam Glantz
+      phone:
+      - 212-542-7158
+  name: Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 212-542-7109
+  public_liaison:
+    name: Mirza Morales
+    phone:
+    - 212-542-7109
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '39'
+      complex_highest_days: '106'
+      complex_lowest_days: '3'
+      complex_median_days: '65'
+      expedited_processing_average_days: '21'
+      expedited_processing_highest_days: '57'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '30'
+      simple_average_days: '20'
+      simple_highest_days: '89'
+      simple_lowest_days: '1'
+      simple_median_days: '60'
+    '2011':
+      complex_average_days: '30'
+      complex_highest_days: '262'
+      complex_lowest_days: '2'
+      complex_median_days: '20'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+      simple_average_days: '16'
+      simple_highest_days: '75'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2012':
+      complex_average_days: '25.12'
+      complex_highest_days: '76'
+      complex_lowest_days: '1'
+      complex_median_days: '20'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4'
+      simple_average_days: '17.94'
+      simple_highest_days: '56'
+      simple_lowest_days: '1'
+      simple_median_days: '19.5'
+    '2013':
+      complex_average_days: '22.36'
+      complex_highest_days: '58'
+      complex_lowest_days: '2'
+      complex_median_days: '23.5'
+      expedited_processing_average_days: '4.5'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '3'
+      simple_average_days: '18.11'
+      simple_highest_days: '79'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
+    '2014':
+      complex_average_days: '20.41'
+      complex_highest_days: '45'
+      complex_lowest_days: less than 1
+      complex_median_days: '20'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '5'
+      simple_average_days: '18.97'
+      simple_highest_days: '154'
+      simple_lowest_days: less than 1
+      simple_median_days: '20'
+  service_center:
+    phone:
+    - 212-542-7109
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+- address:
+    city: Philadelphia
+    state: PA
+    street: 100 Penn Square East Building
+    zip: '10107'
+  fax: 215-656-3445
+  misc:
+    Deputy Regional Administrator:
+      name: Brenda Laroche
+      phone:
+      - 215-656-0600
+    FOIA Liaison:
+      name: Sheppard Van Williams
+      phone:
+      - 215-430-6628
+  name: Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C.,
+    Charleston, Wilmington)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 215-430-6628
+  public_liaison:
+    name: Brenda Laroche
+    phone:
+    - 215-656-0600
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '36'
+      complex_highest_days: '115'
+      complex_lowest_days: '5'
+      complex_median_days: '65'
+      expedited_processing_average_days: '19'
+      expedited_processing_highest_days: '191'
+      expedited_processing_lowest_days: '19'
+      expedited_processing_median_days: '19'
+      simple_average_days: '26'
+      simple_highest_days: '260'
+      simple_lowest_days: '1'
+      simple_median_days: '150'
+    '2011':
+      complex_average_days: '35'
+      complex_highest_days: '111'
+      complex_lowest_days: '3'
+      complex_median_days: '31'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '17'
+      simple_highest_days: '132'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
+    '2012':
+      complex_average_days: '17.71'
+      complex_highest_days: '54'
+      complex_lowest_days: '1'
+      complex_median_days: '14.5'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '14.7'
+      simple_highest_days: '65'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2013':
+      complex_average_days: '21.19'
+      complex_highest_days: '64'
+      complex_lowest_days: '1'
+      complex_median_days: '14'
+      expedited_processing_average_days: '23'
+      expedited_processing_highest_days: '23'
+      expedited_processing_lowest_days: '23'
+      expedited_processing_median_days: '23'
+      simple_average_days: '12.9'
+      simple_highest_days: '54'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2014':
+      complex_average_days: '37.11'
+      complex_highest_days: '67'
+      complex_lowest_days: less than 1
+      complex_median_days: '32.5'
+      expedited_processing_average_days: '4.5'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4.5'
+      simple_average_days: '13.84'
+      simple_highest_days: '71'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
+  service_center:
+    phone:
+    - 215-656-0600
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+- address:
+    address_lines:
+    - Thomacina Brown
+    - FOIA Public Liaison
+    city: Atlanta
+    state: GA
+    street: 40  Marietta Street
+    zip: '30303'
+  fax: 305-536-5765
+  misc:
+    FOIA Liaison:
+      name: Joy Beslow
+      phone:
+      - 678-732-2010
+    Supervisory Operations Officer:
+      name: Thomacina Brown
+      phone:
+      - 404-331-5001 x2380
+  name: Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson,
+    Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 305-520-5003
+  public_liaison:
+    name: Thomacina Brown
+    phone:
+    - 404-331-5001 x2380
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '23'
+      complex_highest_days: '170'
+      complex_lowest_days: '1'
+      complex_median_days: '135'
+      expedited_processing_average_days: '16'
+      expedited_processing_highest_days: '29'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '15'
+      simple_average_days: '15'
+      simple_highest_days: '215'
+      simple_lowest_days: '1'
+      simple_median_days: '150'
+    '2011':
+      complex_average_days: '25'
+      complex_highest_days: '154'
+      complex_lowest_days: '1'
+      complex_median_days: '21'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '25'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7'
+      simple_average_days: '12'
+      simple_highest_days: '112'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2012':
+      complex_average_days: '19.32'
+      complex_highest_days: '68'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '21'
+      expedited_processing_highest_days: '21'
+      expedited_processing_lowest_days: '21'
+      expedited_processing_median_days: '21'
+      simple_average_days: '18.13'
+      simple_highest_days: '80'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2013':
+      complex_average_days: '21.44'
+      complex_highest_days: '96'
+      complex_lowest_days: '1'
+      complex_median_days: '19'
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '3'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '3'
+      simple_average_days: '15.09'
+      simple_highest_days: '96'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
+    '2014':
+      complex_average_days: '21.62'
+      complex_highest_days: '49'
+      complex_lowest_days: '2'
+      complex_median_days: '20'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '10'
+      simple_average_days: '16.6'
+      simple_highest_days: '154'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
+  service_center:
+    phone:
+    - 404-331-5001 x2380
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+- address:
+    address_lines:
+    - Beverly Bishop
+    - FOIA Public Liaison
+    - Suite 2608
+    city: Chicago
+    state: IL
+    street: 77 W. Jackson Boulevard
+    zip: '60604'
+  misc:
+    Deputy Regional Director:
+      name: Beverly Bishop
+      phone:
+      - 312-353-5680 x2139
+    FOIA Liaison:
+      name: Debbie Wills
+      phone:
+      - 312-913-8178
+  name: Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee,
+    Minneapolis-St. Paul)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 312-353-5680 x2139
+  public_liaison:
+    name: Beverly Bishop
+    phone:
+    - 312-353-5680 x2139
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '29'
+      complex_highest_days: '60'
+      complex_lowest_days: '6'
+      complex_median_days: '35'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '18'
+      simple_highest_days: '304'
+      simple_lowest_days: '1'
+      simple_median_days: '175'
+    '2011':
+      complex_average_days: '22'
+      complex_highest_days: '36'
+      complex_lowest_days: '13'
+      complex_median_days: '17'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '15'
+      simple_highest_days: '111'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2012':
+      complex_average_days: '12.75'
+      complex_highest_days: '27'
+      complex_lowest_days: '2'
+      complex_median_days: '12'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '15.49'
+      simple_highest_days: '50'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
+    '2013':
+      complex_average_days: '13.71'
+      complex_highest_days: '35'
+      complex_lowest_days: '1'
+      complex_median_days: '17'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '19.49'
+      simple_highest_days: '17'
+      simple_lowest_days: '5'
+      simple_median_days: '19'
+    '2014':
+      complex_average_days: '8.12'
+      complex_highest_days: '20'
+      complex_lowest_days: less than 1
+      complex_median_days: '5.5'
+      simple_average_days: '16.29'
+      simple_highest_days: '43'
+      simple_lowest_days: less than 1
+      simple_median_days: '14.5'
+  service_center:
+    phone:
+    - 312-353-5680 x2139
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+- address:
+    address_lines:
+    - Patricia Campbell
+    - FOIA Public Liaison
+    - 'Suite 2500 Unit #45'
+    city: Ft. Worth
+    state: TX
+    street: 801 Cherry Street
+    zip: '76102'
+  fax: 817-978-5669
+  misc:
+    FOIA Liaison:
+      name: Patricia Campbell
+      phone:
+      - 817-978-5974 x1010
+  name: Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma,
+    San Antonio)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 817-978-5974 x1010
+  public_liaison:
+    name: Patricia Campbell
+    phone:
+    - 817-978-5974 x1010
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '30'
+      complex_highest_days: '88'
+      complex_lowest_days: '3'
+      complex_median_days: '47'
+      expedited_processing_average_days: '15'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '11'
+      simple_average_days: '18'
+      simple_highest_days: '101'
+      simple_lowest_days: '1'
+      simple_median_days: '75'
+    '2011':
+      complex_average_days: '39'
+      complex_highest_days: '71'
+      complex_lowest_days: '9'
+      complex_median_days: '41'
+      expedited_processing_average_days: '16'
+      expedited_processing_highest_days: '22'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '16'
+      simple_average_days: '15'
+      simple_highest_days: '71'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
+    '2012':
+      complex_average_days: '19.56'
+      complex_highest_days: '66'
+      complex_lowest_days: '1'
+      complex_median_days: '17.5'
+      expedited_processing_average_days: '17'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: '17'
+      expedited_processing_median_days: '17'
+      simple_average_days: '15.67'
+      simple_highest_days: '94'
+      simple_lowest_days: '1'
+      simple_median_days: '13.5'
+    '2013':
+      complex_average_days: '12.88'
+      complex_highest_days: '50'
+      complex_lowest_days: '1'
+      complex_median_days: '6'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '14.79'
+      simple_highest_days: '72'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2014':
+      complex_average_days: '11.33'
+      complex_highest_days: '38'
+      complex_lowest_days: less than 1
+      complex_median_days: '6'
+      expedited_processing_average_days: '17'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: '17'
+      expedited_processing_median_days: '17'
+      simple_average_days: '14.87'
+      simple_highest_days: '93'
+      simple_lowest_days: less than 1
+      simple_median_days: '12'
+  service_center:
+    phone:
+    - 817-978-5974 x1010
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+- address:
+    address_lines:
+    - Theresa Porter
+    - FOIA Public Liaison
+    city: Kansas City
+    state: KS
+    street: 400 State Avenue
+    zip: '66101'
+  fax: 913-551-5469
+  misc:
+    Deputy Regional Administrator:
+      name: Eugene (Gene) Lipscomb
+      phone:
+      - 913-551-5476
+    FOIA Liaison:
+      name: Bradley Streeter
+      phone:
+      - 314-418-5410
+  name: Region VII (Kansas City, Des Moines, Omaha, St. Louis)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 913-551-5476
+  public_liaison:
+    name: Eugene (Gene) Lipscomb
+    phone:
+    - 913-551-5476
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '30'
+      complex_highest_days: '51'
+      complex_lowest_days: '20'
+      complex_median_days: '25'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '22'
+      simple_highest_days: '59'
+      simple_lowest_days: '1'
+      simple_median_days: '27'
+    '2011':
+      complex_average_days: '76'
+      complex_highest_days: '138'
+      complex_lowest_days: '38'
+      complex_median_days: '64'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '29'
+      simple_highest_days: '107'
+      simple_lowest_days: '1'
+      simple_median_days: '24'
+    '2012':
+      complex_average_days: '46'
+      complex_highest_days: '119'
+      complex_lowest_days: '1'
+      complex_median_days: '26.5'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '29.14'
+      simple_highest_days: '120'
+      simple_lowest_days: '1'
+      simple_median_days: '22'
+    '2013':
+      complex_average_days: '11'
+      complex_highest_days: '14'
+      complex_lowest_days: '8'
+      complex_median_days: '11'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '13.74'
+      simple_highest_days: '54'
+      simple_lowest_days: '1'
+      simple_median_days: '11.5'
+    '2014':
+      complex_average_days: '18.5'
+      complex_highest_days: '25'
+      complex_lowest_days: '12'
+      complex_median_days: '18.5'
+      simple_average_days: '13.15'
+      simple_highest_days: '38'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
+  service_center:
+    phone:
+    - 913-551-5476
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+- address:
+    address_lines:
+    - Daniel R. Gomez, Jr.
+    - FOIA Public Liaison
+    city: Denver
+    state: CO
+    street: 1670 Broadway
+    zip: 80202-4801
+  fax: 303-672-5004
+  misc:
+    Deputy Regional Director:
+      name: Deborah Griswold
+      phone:
+      - 303-672-5440 x1442
+    FOIA Liaison:
+      name: Denise Hernandez
+      phone:
+      - 303-672-5440 x1485
+  name: Region VIII (Denver)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 303-672-5440
+  public_liaison:
+    name: Deborah Griswold
+    phone:
+    - 303-672-5440 x1442
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '19'
+      complex_highest_days: '56'
+      complex_lowest_days: '4'
+      complex_median_days: '21'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '25'
+      simple_highest_days: '109'
+      simple_lowest_days: '1'
+      simple_median_days: '45'
+    '2011':
+      complex_average_days: '52'
+      complex_highest_days: '81'
+      complex_lowest_days: '24'
+      complex_median_days: '52'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '19'
+      simple_highest_days: '80'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+    '2012':
+      complex_average_days: '1'
+      complex_highest_days: '0'
+      complex_lowest_days: '46'
+      complex_median_days: '17.52'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '18.48'
+      simple_highest_days: '295'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2013':
+      complex_average_days: '0.5'
+      complex_highest_days: '1'
+      complex_lowest_days: '1'
+      complex_median_days: '0.5'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '20.27'
+      simple_highest_days: '92'
+      simple_lowest_days: '24'
+      simple_median_days: '20'
+    '2014':
+      simple_average_days: '33.47'
+      simple_highest_days: '240'
+      simple_lowest_days: less than 1
+      simple_median_days: '21'
+  service_center:
+    phone:
+    - 303-672-5440 x1442
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+- address:
+    address_lines:
+    - John E. Moss Federal Building, Suite 4-200
+    city: Sacramento
+    state: CA
+    street: 650 Capitol Mall
+    zip: 95814-3702
+  misc:
+    FOIA Liaison:
+      name: Suzie Hernandez
+      phone:
+      - 916-498-7381
+  name: Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 415-489-6416
+  public_liaison:
+    name: Suzie Hernandez
+    phone:
+    - 916-498-7381
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '63'
+      complex_highest_days: '411'
+      complex_lowest_days: '3'
+      complex_median_days: '275'
+      expedited_processing_average_days: '15'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '17'
+      simple_average_days: '30'
+      simple_highest_days: '356'
+      simple_lowest_days: '1'
+      simple_median_days: '175'
+    '2011':
+      complex_average_days: '39'
+      complex_highest_days: '203'
+      complex_lowest_days: '6'
+      complex_median_days: '23'
+      expedited_processing_average_days: '45'
+      expedited_processing_highest_days: '45'
+      expedited_processing_lowest_days: '45'
+      expedited_processing_median_days: '45'
+      simple_average_days: '20'
+      simple_highest_days: '151'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+    '2012':
+      complex_average_days: '25.26'
+      complex_highest_days: '82'
+      complex_lowest_days: '1'
+      complex_median_days: '21'
+      expedited_processing_average_days: '9'
+      expedited_processing_highest_days: '9'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '9'
+      simple_average_days: '17.35'
+      simple_highest_days: '21'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2013':
+      complex_average_days: '14.39'
+      complex_highest_days: '49'
+      complex_lowest_days: '1'
+      complex_median_days: '15'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '18.86'
+      simple_highest_days: '72'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2014':
+      complex_average_days: '37.5'
+      complex_highest_days: '141'
+      complex_lowest_days: '2'
+      complex_median_days: '22'
+      expedited_processing_average_days: '16.5'
+      expedited_processing_highest_days: '23'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '16.5'
+      simple_average_days: '21.64'
+      simple_highest_days: '174'
+      simple_lowest_days: less than 1
+      simple_median_days: '17'
+  service_center:
+    phone:
+    - 916-498-7381
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+- address:
+    address_lines:
+    - Patricia Leong
+    - FOIA Public Liaison
+    - Suite 200
+    city: Seattle
+    state: WA
+    street: 909 First Avenue
+    zip: 98104-1000
+  fax: 206-220-5108
+  misc:
+    FOIA Liaison:
+      name: Patricia Leong
+      phone:
+      - 206-220-5358
+    Regional Lead:
+      name: Patty Huster
+      phone:
+      - 206-220-5101
+  name: Region X (Seattle, Anchorage, Portland)
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 206-220-5358
+  public_liaison:
+    name: Patty Huster
+    phone:
+    - 206-220-5101
+  reading_rooms:
+  - - E-FOIA Reading Room
+    - http://portal.hud.gov:80/hudportal/HUD?src=/program_offices/administration/foia/readingroom
+  request_form: https://hudpal.efoia-host.com/palMain.aspx
+  request_time_stats:
+    '2010':
+      complex_average_days: '27'
+      complex_highest_days: '99'
+      complex_lowest_days: '4'
+      complex_median_days: '54'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '6'
+      simple_average_days: '14'
+      simple_highest_days: '40'
+      simple_lowest_days: '1'
+      simple_median_days: '25'
+    '2011':
+      complex_average_days: '27'
+      complex_highest_days: '54'
+      complex_lowest_days: '1'
+      complex_median_days: '23'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '4'
+      simple_average_days: '15'
+      simple_highest_days: '69'
+      simple_lowest_days: '2'
+      simple_median_days: '17'
+    '2012':
+      complex_average_days: '22.78'
+      complex_highest_days: '55'
+      complex_lowest_days: '3'
+      complex_median_days: '19'
+      expedited_processing_average_days: '39'
+      expedited_processing_highest_days: '39'
+      expedited_processing_lowest_days: '39'
+      expedited_processing_median_days: '39'
+      simple_average_days: '16.01'
+      simple_highest_days: '91'
+      simple_lowest_days: '2'
+      simple_median_days: '17'
+    '2013':
+      complex_average_days: '46'
+      complex_highest_days: '115'
+      complex_lowest_days: '11'
+      complex_median_days: '28.5'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '15.74'
+      simple_highest_days: '81'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2014':
+      complex_average_days: '39.8'
+      complex_highest_days: '120'
+      complex_lowest_days: less than 1
+      complex_median_days: '18'
+      simple_average_days: '15.1'
+      simple_highest_days: '55'
+      simple_lowest_days: less than 1
+      simple_median_days: '16'
+  service_center:
+    phone:
+    - 206-220-5101
+  top_level: false
+  website: http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/foia/requests
+description: The Department of Housing and Urban Development administers programs
+  that provide housing and community development assistance. The Department also works
+  to ensure fair and equal housing opportunity for all.
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Adult education
+- Advertising
+- Aged
+- Agriculture
+- Alaska
+- American Samoa
+- Archives and records
+- Banks, banking
+- Blind
+- Broadband
+- Buildings and facilities
+- Business and industry
+- Civil rights
+- Claims
+- Classified information
+- Colleges and universities
+- Communications
+- Community development
+- Community development block grants
+- Computer technology
+- Condominiums
+- Confidential business information
+- Conflict of interests
+- Consumer protection
+- Cooperatives
+- Copyright
+- Courts
+- Credit
+- Crime
+- Cultural exchange programs
+- Drug abuse
+- Drug traffic control
+- Education
+- Education of disadvantaged
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Electric power
+- Electric power rates
+- Electric utilities
+- Electronic products
+- Elementary and secondary education
+- Employment
+- Environmental impact statements
+- Environmental protection
+- Equal access to justice
+- Equal educational opportunity
+- Equal employment opportunity
+- Fair housing
+- Federal Reserve System
+- Federal home loan banks
+- Federally affected areas
+- Fire prevention
+- Flood insurance
+- Fraud
+- Freedom of information
+- Government contracts
+- Government employees
+- Government procurement
+- Government property
+- Grant programs
+- Grant programs-Indians
+- Grant programs-education
+- Grant programs-health
+- Grant programs-housing and community development
+- Grant programs-social programs
+- Guam
+- HIV/AIDS
+- Hawaiian Natives
+- Health facilities
+- Health insurance
+- Health professions
+- Historic preservation
+- Home improvement
+- Homeless
+- Hospitals
+- Housing
+- Housing standards
+- Human research subjects
+- Income taxes
+- Indians
+- Indians-education
+- Indians-lands
+- Individuals with disabilities
+- Insurance
+- Intergovernmental relations
+- International organizations
+- Inventions and patents
+- Investigations
+- Labor
+- Lawyers
+- Lead poisoning
+- Loan programs
+- Loan programs-Indians
+- Loan programs-agriculture
+- Loan programs-communications
+- Loan programs-energy
+- Loan programs-health
+- Loan programs-housing and community development
+- Low and moderate income housing
+- Manpower training programs
+- Manufactured homes
+- Mental health programs
+- Migrant labor
+- Minority businesses
+- Mortgage insurance
+- Mortgages
+- National banks
+- Nonprofit organizations
+- Northern Mariana Islands
+- Nursing homes
+- Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
+- Penalties
+- Pets
+- Privacy
+- Private schools
+- Public housing
+- Puerto Rico
+- Religious discrimination
+- Relocation assistance
+- Rent subsidies
+- Reporting and recordkeeping requirements
+- Rural areas
+- Safety
+- Savings associations
+- Scholarships and fellowships
+- School construction
+- Schools
+- Science and technology
+- Seals and insignia
+- Securities
+- Sex discrimination
+- Small businesses
+- Social security
+- Solar energy
+- State and local governments
+- Student aid
+- Sunshine Act
+- Surety bonds
+- Surplus Government property
+- Teachers
+- Technical assistance
+- Telecommunications
+- Telephone
+- Unemployment compensation
+- Urban areas
+- Utilities
+- Veterans
+- Virgin Islands
+- Vocational education
+- Vocational rehabilitation
+- Wages
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
+- Water supply
+- Watersheds
+- Women
+name: Department of Housing and Urban Development
+request_form: https://hudpal.efoia-host.com/palMain.aspx
+request_time_stats:
+  '2010':
+    complex_highest_days: '1568'
+    complex_lowest_days: '1'
+    expedited_processing_highest_days: '191'
+    expedited_processing_lowest_days: '0'
+    simple_highest_days: '698'
+    simple_lowest_days: '1'
+  '2011':
+    complex_average_days: '69'
+    complex_highest_days: '674'
+    complex_lowest_days: '1'
+    expedited_processing_average_days: '33'
+    expedited_processing_highest_days: '83'
+    expedited_processing_lowest_days: '1'
+    simple_average_days: '28'
+    simple_highest_days: '728'
+    simple_lowest_days: '1'
+  '2012':
+    complex_average_days: '44.75'
+    complex_highest_days: '533'
+    complex_lowest_days: '1'
+    complex_median_days: '34'
+    expedited_processing_average_days: '8.4'
+    expedited_processing_highest_days: '39'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '9'
+    simple_average_days: '20.13'
+    simple_highest_days: '400'
+    simple_lowest_days: '1'
+    simple_median_days: '16'
+  '2013':
+    complex_average_days: '23.89'
+    complex_highest_days: '660'
+    complex_lowest_days: '1'
+    complex_median_days: '16.5'
+    expedited_processing_average_days: '8.89'
+    expedited_processing_highest_days: '89'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '1.5'
+    simple_average_days: '17.21'
+    simple_highest_days: '276'
+    simple_lowest_days: '1'
+    simple_median_days: '14'
+  '2014':
+    complex_average_days: '85.15'
+    complex_highest_days: '577'
+    complex_lowest_days: less than 1
+    complex_median_days: '44.5'
+    expedited_processing_average_days: '12'
+    expedited_processing_highest_days: '23'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '10'
+    simple_average_days: '22.88'
+    simple_highest_days: '439'
+    simple_lowest_days: less than 1
+    simple_median_days: '13'
+usa_id: '49023'

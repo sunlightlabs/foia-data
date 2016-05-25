@@ -1,0 +1,137 @@
+abbreviation: LSC
+departments:
+- address:
+    address_lines:
+    - Cheryl DuHart
+    - FOIA Analyst
+    - 3rd Floor
+    city: Washington
+    state: DC
+    street: 3333 K Street, NW
+    zip: '20007'
+  description: The Legal Services Corporation is an independent corporation founded
+    by Congress that provides grant funds, training, and technical assistance to civil
+    legal aid programs. The goal of the corporation is to ensure low income individuals
+    and families have access to quality legal aid in civil matters.
+  emails:
+  - FOIA@lsc.gov
+  fax: 202-337-6519
+  misc:
+    FOIA Analyst:
+      name: Cheryl DuHart
+      phone:
+      - 202-295-1500
+  name: Legal Services Corporation
+  phone: 202-295-1500
+  public_liaison:
+    name: Cheryl DuHart
+    phone:
+    - 202-295-1500
+  reading_rooms:
+  - - FOIA Electronic Public Reading Room
+    - http://www.lsc.gov/about/foia/electronic-public-reading-room
+  request_form: http://www.lsc.gov/about/foia/overview/foia-electronic-submission
+  request_time_stats:
+    '2010':
+      complex_average_days: '101'
+      complex_highest_days: '222'
+      complex_lowest_days: '28'
+      complex_median_days: '77'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '41'
+      expedited_processing_lowest_days: '41'
+      expedited_processing_median_days: '0'
+      simple_average_days: '156'
+      simple_highest_days: '482'
+      simple_lowest_days: '21'
+      simple_median_days: '77'
+    '2011':
+      complex_average_days: '256'
+      complex_highest_days: '881'
+      complex_lowest_days: '1'
+      complex_median_days: '222'
+      expedited_processing_average_days: '31'
+      expedited_processing_highest_days: '31'
+      expedited_processing_lowest_days: '31'
+      simple_average_days: '223'
+      simple_highest_days: '728'
+      simple_lowest_days: '1'
+      simple_median_days: '195'
+  service_center:
+    phone:
+    - 202-295-1500
+  top_level: false
+  usa_id: '49442'
+  website: http://www.lsc.gov/foia2/
+description: The Legal Services Corporation is an independent corporation founded
+  by Congress that provides grant funds, training, and technical assistance to civil
+  legal aid programs. The goal of the corporation is to ensure low income individuals
+  and families have access to quality legal aid in civil matters.
+keywords:
+- Administrative practice and procedure
+- Aliens
+- Civil rights
+- Crime
+- Fraud
+- Freedom of information
+- Grant programs-law
+- Individuals with disabilities
+- Lawyers
+- Legal services
+- Migrant labor
+- Reporting and recordkeeping requirements
+name: Legal Services Corporation
+request_time_stats:
+  '2010':
+    complex_average_days: '101'
+    complex_highest_days: '222'
+    complex_lowest_days: '28'
+    complex_median_days: '77'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '41'
+    expedited_processing_lowest_days: '41'
+    expedited_processing_median_days: '0'
+    simple_average_days: '156'
+    simple_highest_days: '482'
+    simple_lowest_days: '21'
+    simple_median_days: '77'
+  '2011':
+    complex_average_days: '256'
+    complex_highest_days: '881'
+    complex_lowest_days: '1'
+    complex_median_days: '222'
+    expedited_processing_average_days: '31'
+    expedited_processing_highest_days: '31'
+    expedited_processing_lowest_days: '31'
+    simple_average_days: '223'
+    simple_highest_days: '728'
+    simple_lowest_days: '1'
+    simple_median_days: '195'
+  '2012':
+    complex_average_days: '22'
+    complex_highest_days: '29'
+    complex_lowest_days: '17'
+    complex_median_days: '21'
+    expedited_processing_average_days: '9'
+    expedited_processing_highest_days: '19'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '6'
+    simple_average_days: '8.11'
+    simple_highest_days: '30'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2013':
+    simple_average_days: '9.94'
+    simple_highest_days: '53'
+    simple_lowest_days: '1'
+    simple_median_days: '7'
+  '2014':
+    expedited_processing_average_days: '15.7'
+    expedited_processing_highest_days: '24'
+    expedited_processing_lowest_days: '11'
+    expedited_processing_median_days: '12'
+    simple_average_days: '14.5'
+    simple_highest_days: '34'
+    simple_lowest_days: '1'
+    simple_median_days: '15'
+usa_id: '49442'

@@ -1,0 +1,2372 @@
+abbreviation: DOL
+address:
+  address_lines:
+  - Ramona Branch Oliver
+  - Director, Office of Information Services , Office of the Solicitor/MALS Division
+  - Room N-2420
+  city: Washington
+  state: DC
+  street: 200 Constitution Avenue, NW
+  zip: '20210'
+departments:
+- address:
+    address_lines:
+    - Ramona Branch Oliver
+    - Director, Office of Information Services , Office of the Solicitor/MALS Division
+    - Room N-2420
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  emails:
+  - foiarequests@dol.gov
+  fax: 202-693-5389
+  name: Main Office
+  phone: 202-693-5391
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  reading_rooms:
+  - - DOL-Wide FOIA Reading Room
+    - http://www.dol.gov/dol/foia/readroom.htm
+  service_center:
+    phone:
+    - 202-693-5391
+  top_level: false
+  website: http://www.dol.gov/dol/foia/main.htm
+- abbreviation: ILAB
+  address:
+    address_lines:
+    - Brenda Hoffman
+    - FOIA Coordinator
+    - Room S-5317
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: 20210-001
+  description: The Bureau of International Labor Affairs works to improve working
+    conditions, raise living standards, protect workers’ ability to exercise their
+    rights, and address the workplace exploitation of children and other vulnerable
+    populations.
+  emails:
+  - FOIARequest@dol.gov
+  fax: 202-693-4851
+  name: Bureau of International Labor Affairs
+  phone: 202-693-4877
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '29.3'
+      complex_highest_days: '131'
+      complex_lowest_days: '2'
+      complex_median_days: '13'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2009':
+      complex_average_days: '26.3'
+      complex_highest_days: '34'
+      complex_lowest_days: '1'
+      complex_median_days: '19'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '8'
+      simple_highest_days: '8'
+      simple_lowest_days: '8'
+      simple_median_days: '8'
+    '2010':
+      complex_average_days: '19.4'
+      complex_highest_days: '63'
+      complex_lowest_days: '5'
+      complex_median_days: '13'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2011':
+      complex_average_days: '21.1'
+      complex_highest_days: '69'
+      complex_lowest_days: '6'
+      complex_median_days: '17'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2012':
+      complex_average_days: '57.7'
+      complex_highest_days: '758'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2013':
+      complex_average_days: '34.9'
+      complex_highest_days: '436'
+      complex_lowest_days: '4'
+      complex_median_days: '11'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2014':
+      complex_average_days: '62.5'
+      complex_highest_days: '166'
+      complex_lowest_days: '20'
+      complex_median_days: '32'
+      simple_average_days: '7'
+      simple_highest_days: '7'
+      simple_lowest_days: '7'
+      simple_median_days: '7'
+  service_center:
+    phone:
+    - 202-693-4877
+  top_level: true
+  usa_id: '49121'
+  website: http://www.dol.gov/ilab/
+- abbreviation: BLS
+  address:
+    address_lines:
+    - Sytrina Toon
+    - FOIA Disclosure Officer
+    - Room 4080 Postal Square Building
+    city: Washington
+    state: DC
+    street: 2 Massachusetts Avenue, NE
+    zip: 20212-0001
+  description: The Bureau of Labor Statistics measures labor market activity, working
+    conditions, and price changes in the economy.
+  fax: 202-691-5111
+  name: Bureau of Labor Statistics
+  phone: 202-691-7628
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '8'
+      simple_average_days: '15'
+      simple_highest_days: '20'
+      simple_lowest_days: '2'
+      simple_median_days: '15'
+    '2009':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '12'
+      simple_highest_days: '20'
+      simple_lowest_days: '2'
+      simple_median_days: '12'
+    '2010':
+      complex_average_days: '76.7'
+      complex_highest_days: '148'
+      complex_lowest_days: '19'
+      complex_median_days: '69'
+      expedited_processing_average_days: '9'
+      expedited_processing_highest_days: '9'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '9'
+      simple_average_days: '35.6'
+      simple_highest_days: '334'
+      simple_lowest_days: '11'
+      simple_median_days: '14'
+    '2011':
+      complex_average_days: '75'
+      complex_highest_days: '75'
+      complex_lowest_days: '75'
+      complex_median_days: '75'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '11'
+      expedited_processing_lowest_days: '11'
+      expedited_processing_median_days: '11'
+      simple_average_days: '15.3'
+      simple_highest_days: '28'
+      simple_lowest_days: '3'
+      simple_median_days: '17'
+    '2012':
+      complex_average_days: '30.5'
+      complex_highest_days: '99'
+      complex_lowest_days: '17'
+      complex_median_days: '20'
+      expedited_processing_average_days: '91'
+      expedited_processing_highest_days: '91'
+      expedited_processing_lowest_days: '91'
+      expedited_processing_median_days: '91'
+      simple_average_days: '18.9'
+      simple_highest_days: '22'
+      simple_lowest_days: '9'
+      simple_median_days: '20'
+    '2013':
+      complex_average_days: '38.8'
+      complex_highest_days: '301'
+      complex_lowest_days: '7'
+      complex_median_days: '21'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '18.3'
+      simple_highest_days: '45'
+      simple_lowest_days: '2'
+      simple_median_days: '16'
+    '2014':
+      complex_average_days: '38.7'
+      complex_highest_days: '124'
+      complex_lowest_days: '4'
+      complex_median_days: '22'
+      simple_average_days: '23.9'
+      simple_highest_days: '118'
+      simple_lowest_days: '2'
+      simple_median_days: '18'
+  service_center:
+    phone:
+    - 202-691-7628
+  top_level: true
+  usa_id: '49124'
+  website: http://www.bls.gov/bls/blsfoia.htm
+- abbreviation: EBSA
+  address:
+    address_lines:
+    - Theresa Thomas
+    - FOIA Officer
+    - Public Disclosure Room, Suite N-1513
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  description: The EBSA provides information and assistance on private sector, employer-sponsored
+    retirement benefit and health benefit plans.
+  emails:
+  - foiarequests@dol.gov
+  fax: 202-219-8141
+  keywords:
+  - Accountants
+  - Accounting
+  - Administrative practice and procedure
+  - Advertising
+  - Advisory committees
+  - Brokers
+  - Claims
+  - Consumer protection
+  - Employee benefit plans
+  - Excise taxes
+  - Government employees
+  - Grant programs-health
+  - Health care
+  - Health insurance
+  - Health records
+  - Hospitals
+  - Individuals with disabilities
+  - Investments
+  - Law enforcement
+  - Loan programs-health
+  - Medicaid
+  - Organization and functions (Government agencies)
+  - Penalties
+  - Public assistance programs
+  - Reporting and recordkeeping requirements
+  - Retirement
+  - Securities
+  - State and local governments
+  - Sunshine Act
+  - Surety bonds
+  - Technical assistance
+  - Trusts and trustees
+  - Women
+  - Youth
+  name: Employee Benefits Security Administration
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-693-8673
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  reading_rooms:
+  - - Department of Labor FOIA Reading Room
+    - http://www.dol.gov/dol/foia/readroom.htm
+  request_time_stats:
+    '2008':
+      complex_average_days: '7.1'
+      complex_highest_days: '138'
+      complex_lowest_days: '1'
+      complex_median_days: '3'
+      expedited_processing_average_days: '2.7'
+      expedited_processing_highest_days: '6'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '3.4'
+      simple_highest_days: '252'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2009':
+      complex_average_days: '19.45'
+      complex_highest_days: '181'
+      complex_lowest_days: '0'
+      complex_median_days: '12'
+      expedited_processing_average_days: '6.5'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '12'
+      simple_average_days: '6.2'
+      simple_highest_days: '156'
+      simple_lowest_days: '0'
+      simple_median_days: '2'
+    '2010':
+      complex_average_days: '19.7'
+      complex_highest_days: '245'
+      complex_lowest_days: '0'
+      complex_median_days: '9'
+      expedited_processing_average_days: '1.9'
+      expedited_processing_highest_days: '13'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '5.4'
+      simple_highest_days: '52'
+      simple_lowest_days: '0'
+      simple_median_days: '3'
+    '2011':
+      complex_average_days: '16.8'
+      complex_highest_days: '307'
+      complex_lowest_days: '0'
+      complex_median_days: '11'
+      expedited_processing_average_days: '7.4'
+      expedited_processing_highest_days: '25'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1.5'
+      simple_average_days: '7.4'
+      simple_highest_days: '188'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2012':
+      complex_average_days: '120.3'
+      complex_highest_days: '1980'
+      complex_lowest_days: '0'
+      complex_median_days: '17'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '16.2'
+      simple_highest_days: '77'
+      simple_lowest_days: '0'
+      simple_median_days: '14.5'
+    '2013':
+      complex_average_days: '30.9'
+      complex_highest_days: '582'
+      complex_lowest_days: '0'
+      complex_median_days: '10'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '16.1'
+      simple_highest_days: '60'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2014':
+      complex_average_days: '35.3'
+      complex_highest_days: '871'
+      complex_lowest_days: '1'
+      complex_median_days: '14'
+      expedited_processing_average_days: '15.4'
+      expedited_processing_highest_days: '28'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '14'
+      simple_average_days: '19'
+      simple_highest_days: '90'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+  service_center:
+    phone:
+    - 202-693-8655
+  top_level: true
+  usa_id: '48029'
+  website: http://www.dol.gov/ebsa/foia/foia.html
+- abbreviation: DOLETA
+  address:
+    address_lines:
+    - Paula Taylor-Lynch
+    - FOIA Disclosure Officer
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: 20210-0002
+  description: The Employment and Training Administration provides job training and
+    assistance with finding jobs and careers.
+  fax: 202-693-2844
+  keywords:
+  - Accounting
+  - Administrative practice and procedure
+  - Adult education
+  - Aged
+  - Agricultural commodities
+  - Agriculture
+  - Aliens
+  - Australia
+  - Civil rights
+  - Claims
+  - Courts
+  - Cultural exchange programs
+  - Disaster assistance
+  - Education
+  - Employment
+  - Employment and Training Administration
+  - Employment taxes
+  - Equal educational opportunity
+  - Equal employment opportunity
+  - Foreign officials
+  - Forests and forest products
+  - Fraud
+  - Government contracts
+  - Government employees
+  - Government procurement
+  - Grant programs
+  - Grant programs-Indians
+  - Grant programs-education
+  - Grant programs-labor
+  - Grant programs-social programs
+  - Guam
+  - Hawaiian Natives
+  - Health professions
+  - Homeless
+  - Housing
+  - Housing standards
+  - Immigration
+  - Indemnity payments
+  - Indians
+  - Individuals with disabilities
+  - Investigations
+  - Labor
+  - Lobbying
+  - Longshore and harbor workers
+  - Manpower training programs
+  - Migrant labor
+  - Minimum wages
+  - Nursery stock
+  - Passports and visas
+  - Penalties
+  - Privacy
+  - Religious discrimination
+  - Relocation assistance
+  - Reporting and recordkeeping requirements
+  - Safety
+  - Seamen
+  - Sex discrimination
+  - Statistics
+  - Students
+  - Trade adjustment assistance
+  - Transportation
+  - Unemployment compensation
+  - Veterans
+  - Virgin Islands
+  - Vocational education
+  - Vocational rehabilitation
+  - Wages
+  - Workers' compensation
+  - Youth
+  name: Employment & Training Administration
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-693-3676
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '35.5'
+      complex_highest_days: '282'
+      complex_lowest_days: '1'
+      complex_median_days: '18'
+      expedited_processing_average_days: '25'
+      expedited_processing_highest_days: '25'
+      expedited_processing_lowest_days: '25'
+      expedited_processing_median_days: '25'
+      simple_average_days: '31.6'
+      simple_highest_days: '224'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2009':
+      complex_average_days: '92.9'
+      complex_highest_days: '359'
+      complex_lowest_days: '1'
+      complex_median_days: '77'
+      expedited_processing_average_days: '64.8'
+      expedited_processing_highest_days: '248'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '32.5'
+      simple_average_days: '83.5'
+      simple_highest_days: '368'
+      simple_lowest_days: '1'
+      simple_median_days: '49'
+    '2010':
+      complex_average_days: '25.7'
+      complex_highest_days: '425'
+      complex_lowest_days: '0'
+      complex_median_days: '17'
+      expedited_processing_average_days: '29.4'
+      expedited_processing_highest_days: '160'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '19'
+      simple_average_days: '19.4'
+      simple_highest_days: '300'
+      simple_lowest_days: '0'
+      simple_median_days: '10'
+    '2011':
+      complex_average_days: '32.1'
+      complex_highest_days: '452'
+      complex_lowest_days: '0'
+      complex_median_days: '23'
+      expedited_processing_average_days: '25.4'
+      expedited_processing_highest_days: '38'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '26'
+      simple_average_days: '26.9'
+      simple_highest_days: '1280'
+      simple_lowest_days: '0'
+      simple_median_days: '16.5'
+    '2012':
+      complex_average_days: '16.7'
+      complex_highest_days: '279'
+      complex_lowest_days: '0'
+      complex_median_days: '9'
+      expedited_processing_average_days: '8.6'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '6'
+      simple_average_days: '14.1'
+      simple_highest_days: '249'
+      simple_lowest_days: '0'
+      simple_median_days: '8'
+    '2013':
+      complex_average_days: '14.7'
+      complex_highest_days: '335'
+      complex_lowest_days: '0'
+      complex_median_days: '10'
+      expedited_processing_average_days: '213'
+      expedited_processing_highest_days: '215'
+      expedited_processing_lowest_days: '211'
+      expedited_processing_median_days: '213'
+      simple_average_days: '12.6'
+      simple_highest_days: '272'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2014':
+      complex_average_days: '13.4'
+      complex_highest_days: '111'
+      complex_lowest_days: '1'
+      complex_median_days: '10'
+      expedited_processing_average_days: '10.3'
+      expedited_processing_highest_days: '21'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '12'
+      simple_average_days: '6.9'
+      simple_highest_days: '191'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+  service_center:
+    phone:
+    - 202-693-3676
+  top_level: true
+  usa_id: '52693'
+  website: http://www.doleta.gov/foia/
+- address:
+    address_lines:
+    - Paula Taylor-Lynch
+    - FOIA Disclosure Officer
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  description: Job Corps. Is a no-cost education and vocational training program that
+    helps young people (ages 16 to 24) improve the quality of their lives through
+    vocational and academic training.
+  emails:
+  - foiarequests@dol.gov
+  fax: 202-693-2844
+  name: Jobs Corps
+  phone: 202-693-3676
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '5'
+      simple_highest_days: '7'
+      simple_lowest_days: '2'
+      simple_median_days: '3'
+    '2009':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '2'
+      simple_highest_days: '3'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+  service_center:
+    phone:
+    - 202-693-5500
+  top_level: true
+  usa_id: '48069'
+  website: http://www.jobcorps.gov/foia.aspx
+- abbreviation: MSHA
+  address:
+    address_lines:
+    - Lanesia Washington
+    - FOIA Officer
+    - Room 2314
+    city: Arlington
+    state: VA
+    street: 1100 Wilson Boulevard
+    zip: 22209-3939
+  description: The Mine Safety and Health Administration works to prevent mining related
+    deaths, injuries, and illnesses through mine regulations, inspections, and training
+    programs.
+  emails:
+  - foiarequests@dol.gov
+  fax: 202-963-9441
+  keywords:
+  - Administrative practice and procedure
+  - Agriculture
+  - Aliens
+  - Asbestos
+  - Black lung benefits
+  - Chemicals
+  - Child labor
+  - Coal
+  - Colleges and universities
+  - Communications equipment
+  - Education
+  - Electric power
+  - Emergency medical services
+  - Employee benefit plans
+  - Employment
+  - Environmental impact statements
+  - Explosives
+  - Fire prevention
+  - Gases
+  - Hazardous substances
+  - Health professions
+  - Housing
+  - Insurance
+  - Intergovernmental relations
+  - Investigations
+  - Labeling
+  - Law enforcement
+  - Metals
+  - Migrant labor
+  - Mine safety and health
+  - Minimum wages
+  - Motor vehicle safety
+  - Noise control
+  - Occupational safety and health
+  - Penalties
+  - Radiation protection
+  - Radio
+  - Reporting and recordkeeping requirements
+  - Research
+  - Safety
+  - Students
+  - Surface mining
+  - Television
+  - Trusts and trustees
+  - Underground mining
+  - Wages
+  - Water supply
+  - Whistleblowing
+  name: Mine Safety & Health Administration
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-693-9542
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '15'
+      complex_highest_days: '601'
+      complex_lowest_days: '1'
+      complex_median_days: '34'
+      expedited_processing_average_days: '236.6'
+      expedited_processing_highest_days: '350'
+      expedited_processing_lowest_days: '110'
+      expedited_processing_median_days: '250'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2009':
+      complex_average_days: '14.8'
+      complex_highest_days: '329'
+      complex_lowest_days: '0'
+      complex_median_days: '9'
+      expedited_processing_average_days: '48.6'
+      expedited_processing_highest_days: '180'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '3'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2010':
+      complex_average_days: '17.3'
+      complex_highest_days: '519'
+      complex_lowest_days: '0'
+      complex_median_days: '10'
+      expedited_processing_average_days: '51.2'
+      expedited_processing_highest_days: '438'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '31'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2011':
+      complex_average_days: '24'
+      complex_highest_days: '492'
+      complex_lowest_days: '0'
+      complex_median_days: '13'
+      expedited_processing_average_days: '160.4'
+      expedited_processing_highest_days: '345'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '151.5'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2012':
+      complex_average_days: '38.6'
+      complex_highest_days: '1936'
+      complex_lowest_days: '0'
+      complex_median_days: '11'
+      expedited_processing_average_days: '174.4'
+      expedited_processing_highest_days: '1302'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '51'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2013':
+      complex_average_days: '16.2'
+      complex_highest_days: '1285'
+      complex_lowest_days: '0'
+      complex_median_days: '9'
+      expedited_processing_average_days: '188.6'
+      expedited_processing_highest_days: '519'
+      expedited_processing_lowest_days: '40'
+      expedited_processing_median_days: '124'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2014':
+      complex_average_days: '19.5'
+      complex_highest_days: '391'
+      complex_lowest_days: '1'
+      complex_median_days: '10'
+      expedited_processing_average_days: '253.9'
+      expedited_processing_highest_days: '550'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '214'
+      simple_average_days: '4'
+      simple_highest_days: '4'
+      simple_lowest_days: '4'
+      simple_median_days: '4'
+  service_center:
+    phone:
+    - 202-693-9424
+  top_level: true
+  usa_id: '49462'
+  website: http://www.msha.gov/READROOM/READROOM.HTM
+- address:
+    address_lines:
+    - Frank Clubb
+    - FOIA Disclosure Officer
+    - Suite 400 North
+    city: N.W. Washington
+    state: DC
+    street: 800 K Street
+    zip: 20001-8002
+  emails:
+  - foiarequests@dol.gov
+  fax: 202-693-7365
+  name: Office of the Administrative Law Judges
+  phone: 202-693-7348
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '11.7'
+      complex_highest_days: '342'
+      complex_lowest_days: '1'
+      complex_median_days: '2'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2009':
+      complex_average_days: '9.6'
+      complex_highest_days: '175'
+      complex_lowest_days: '1'
+      complex_median_days: '3'
+      expedited_processing_average_days: '2.8'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2010':
+      complex_average_days: '9.7'
+      complex_highest_days: '326'
+      complex_lowest_days: '1'
+      complex_median_days: '4'
+      expedited_processing_average_days: '6.8'
+      expedited_processing_highest_days: '29'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2011':
+      complex_average_days: '4.3'
+      complex_highest_days: '34'
+      complex_lowest_days: '1'
+      complex_median_days: '2'
+      expedited_processing_average_days: '6.4'
+      expedited_processing_highest_days: '43'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2012':
+      complex_average_days: '7.2'
+      complex_highest_days: '171'
+      complex_lowest_days: '1'
+      complex_median_days: '3'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2013':
+      complex_average_days: '10.3'
+      complex_highest_days: '408'
+      complex_lowest_days: '1'
+      complex_median_days: '2'
+      expedited_processing_average_days: '1.8'
+      expedited_processing_highest_days: '3'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1.5'
+      simple_average_days: '4'
+      simple_highest_days: '4'
+      simple_lowest_days: '4'
+      simple_median_days: '4'
+    '2014':
+      complex_average_days: '6.6'
+      complex_highest_days: '82'
+      complex_lowest_days: '1'
+      complex_median_days: '3'
+      expedited_processing_average_days: '15.5'
+      expedited_processing_highest_days: '38'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '11'
+      simple_average_days: '20.7'
+      simple_highest_days: '33'
+      simple_lowest_days: '1'
+      simple_median_days: '26'
+  service_center:
+    phone:
+    - 202-693-7440
+  top_level: false
+  website: http://www.oalj.dol.gov/libfoia.htm
+- address:
+    address_lines:
+    - Candy March
+    - FOIA Coordinator
+    - Room S-3317
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  emails:
+  - foiarequests@dol.gov
+  fax: 202-693-7954
+  name: Office of the Assistant Secretary for Administration and Management
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-693-7126
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '30'
+      complex_highest_days: '160'
+      complex_lowest_days: '1'
+      complex_median_days: '23'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '6'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '6'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2009':
+      complex_average_days: '30.4'
+      complex_highest_days: '162'
+      complex_lowest_days: '0'
+      complex_median_days: '23'
+      expedited_processing_average_days: '27'
+      expedited_processing_highest_days: '37'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '20'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2010':
+      complex_average_days: '32'
+      complex_highest_days: '301'
+      complex_lowest_days: '1'
+      complex_median_days: '20'
+      expedited_processing_average_days: '92'
+      expedited_processing_highest_days: '92'
+      expedited_processing_lowest_days: '92'
+      expedited_processing_median_days: '92'
+      simple_average_days: '0'
+      simple_highest_days: '0'
+      simple_lowest_days: '0'
+      simple_median_days: '0'
+    '2011':
+      complex_average_days: '50'
+      complex_highest_days: '324'
+      complex_lowest_days: '0'
+      complex_median_days: '35'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '21.7'
+      simple_highest_days: '195'
+      simple_lowest_days: '2'
+      simple_median_days: '23'
+    '2012':
+      complex_average_days: '35.2'
+      complex_highest_days: '257'
+      complex_lowest_days: '0'
+      complex_median_days: '26.5'
+      expedited_processing_average_days: '35.5'
+      expedited_processing_highest_days: '49'
+      expedited_processing_lowest_days: '22'
+      expedited_processing_median_days: '35.5'
+      simple_average_days: '19'
+      simple_highest_days: '109'
+      simple_lowest_days: '2'
+      simple_median_days: '6'
+    '2013':
+      complex_average_days: '51.8'
+      complex_highest_days: '925'
+      complex_lowest_days: '1'
+      complex_median_days: '29'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '18.8'
+      simple_highest_days: '93'
+      simple_lowest_days: '1'
+      simple_median_days: '7.5'
+    '2014':
+      complex_average_days: '55.5'
+      complex_highest_days: '437'
+      complex_lowest_days: '1'
+      complex_median_days: '37.5'
+      simple_average_days: '33.7'
+      simple_highest_days: '140'
+      simple_lowest_days: '4'
+      simple_median_days: '18'
+  service_center:
+    phone:
+    - 202-693-7126
+  top_level: false
+  website: http://www.dol.gov/oasam/foia/
+- address:
+    address_lines:
+    - Herman Narcho
+    - FOIA Coordinator
+    - Room N-2428
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  emails:
+  - foiarequests@dol.gov
+  fax: 202-693-5538
+  keywords:
+  - Administrative practice and procedure
+  - Civil rights
+  - Construction industry
+  - Employment
+  - Equal employment opportunity
+  - Government contracts
+  - Government procurement
+  - Individuals with disabilities
+  - Investigations
+  - Labor
+  - Religious discrimination
+  - Reporting and recordkeeping requirements
+  - Veterans
+  - Women
+  name: Office of Federal Contract Compliance Programs
+  phone: 202-693-5500
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2009':
+      complex_average_days: '29.8'
+      complex_highest_days: '279'
+      complex_lowest_days: '1'
+      complex_median_days: '15'
+      expedited_processing_average_days: '32'
+      expedited_processing_highest_days: '54'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '29.5'
+      simple_average_days: '10.2'
+      simple_highest_days: '82'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2010':
+      complex_average_days: '33.1'
+      complex_highest_days: '271'
+      complex_lowest_days: '1'
+      complex_median_days: '21'
+      expedited_processing_average_days: '13.5'
+      expedited_processing_highest_days: '25'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '13'
+      simple_average_days: '9.2'
+      simple_highest_days: '93'
+      simple_lowest_days: '1'
+      simple_median_days: '3.5'
+    '2011':
+      complex_average_days: '33.7'
+      complex_highest_days: '462'
+      complex_lowest_days: '0'
+      complex_median_days: '23.5'
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '3'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '3'
+      simple_average_days: '10.4'
+      simple_highest_days: '116'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2012':
+      complex_average_days: '26.1'
+      complex_highest_days: '223'
+      complex_lowest_days: '0'
+      complex_median_days: '13'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '4.3'
+      simple_highest_days: '28'
+      simple_lowest_days: '0'
+      simple_median_days: '3'
+    '2013':
+      complex_average_days: '40.9'
+      complex_highest_days: '947'
+      complex_lowest_days: '0'
+      complex_median_days: '24'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+      simple_average_days: '9.8'
+      simple_highest_days: '301'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2014':
+      complex_average_days: '31.8'
+      complex_highest_days: '261'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '8.2'
+      simple_highest_days: '25'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+  service_center:
+    phone:
+    - 202-693-5500
+  top_level: false
+  website: http://www.dol.gov/ofccp/ofccp-foia.htm
+- address:
+    address_lines:
+    - Montez Cobb
+    - FOIA Coordinator
+    - Suite N-5609
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  emails:
+  - foiarequest@dol.gov
+  fax: 202-693-1340
+  keywords:
+  - Administrative practice and procedure
+  - Government contracts
+  - Insurance companies
+  - Labor management relations
+  - Labor unions
+  - Mass transportation
+  - Reporting and recordkeeping requirements
+  - Surety bonds
+  name: Office of Labor-Management Standards
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-693-0112
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2009':
+      complex_average_days: '22.5'
+      complex_highest_days: '219'
+      complex_lowest_days: '0'
+      complex_median_days: '13'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '21.2'
+      simple_highest_days: '105'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2010':
+      complex_average_days: '27.9'
+      complex_highest_days: '223'
+      complex_lowest_days: '0'
+      complex_median_days: '12'
+      expedited_processing_average_days: '6.5'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '6'
+      simple_average_days: '8.7'
+      simple_highest_days: '37'
+      simple_lowest_days: '0'
+      simple_median_days: '9'
+    '2011':
+      complex_average_days: '20'
+      complex_highest_days: '139'
+      complex_lowest_days: '0'
+      complex_median_days: '10.5'
+      expedited_processing_average_days: '7.5'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '7.5'
+      simple_average_days: '8.5'
+      simple_highest_days: '44'
+      simple_lowest_days: '0'
+      simple_median_days: '5'
+    '2012':
+      complex_average_days: '25.6'
+      complex_highest_days: '266'
+      complex_lowest_days: '0'
+      complex_median_days: '10'
+      expedited_processing_average_days: '89'
+      expedited_processing_highest_days: '89'
+      expedited_processing_lowest_days: '89'
+      expedited_processing_median_days: '89'
+      simple_average_days: '19.4'
+      simple_highest_days: '77'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2013':
+      complex_average_days: '20.6'
+      complex_highest_days: '391'
+      complex_lowest_days: '0'
+      complex_median_days: '14'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '12'
+      simple_highest_days: '17'
+      simple_lowest_days: '7'
+      simple_median_days: '12'
+    '2014':
+      complex_average_days: '24.5'
+      complex_highest_days: '75'
+      complex_lowest_days: '1'
+      complex_median_days: '22'
+      expedited_processing_average_days: '7'
+      expedited_processing_highest_days: '7'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '7'
+      simple_average_days: '15.2'
+      simple_highest_days: '39'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+  service_center:
+    phone:
+    - 202-693-0112
+  top_level: false
+  website: http://www.dol.gov/olms/regs/compliance/OLMS_FOIA.htm
+- address:
+    address_lines:
+    - Yvonne Lynah
+    - FOIA Coordinator
+    - Suite N-5609
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  emails:
+  - foiarequest@dol.gov
+  fax: 202-693-1378
+  keywords:
+  - Administrative practice and procedure
+  - Black lung benefits
+  - Cancer
+  - Chemicals
+  - Claims
+  - Government employees
+  - Health care
+  - Health professions
+  - Insurance companies
+  - Kidney diseases
+  - Labor
+  - Longshore and harbor workers
+  - Lung diseases
+  - Miners
+  - Organization and functions (Government agencies)
+  - Radioactive materials
+  - Reporting and recordkeeping requirements
+  - Underground mining
+  - Uranium
+  - Vocational rehabilitation
+  - Whistleblowing
+  - Workers' compensation
+  - X-rays
+  name: Office of Workers' Compensation Programs
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-693-0125
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2009':
+      complex_average_days: '25'
+      complex_highest_days: '41'
+      complex_lowest_days: '18.5'
+      complex_median_days: '26'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '10'
+      simple_average_days: '12.14'
+      simple_highest_days: '251'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2010':
+      complex_average_days: '27'
+      complex_highest_days: '278'
+      complex_lowest_days: '0'
+      complex_median_days: '11'
+      expedited_processing_average_days: '34'
+      expedited_processing_highest_days: '77'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '24'
+      simple_average_days: '41.5'
+      simple_highest_days: '281'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2011':
+      complex_average_days: '38'
+      complex_highest_days: '501'
+      complex_lowest_days: '0'
+      complex_median_days: '19'
+      expedited_processing_average_days: '13'
+      expedited_processing_highest_days: '13'
+      expedited_processing_lowest_days: '13'
+      expedited_processing_median_days: '13'
+      simple_average_days: '46.4'
+      simple_highest_days: '2025'
+      simple_lowest_days: '2'
+      simple_median_days: '10'
+    '2012':
+      complex_average_days: '89.4'
+      complex_highest_days: '1753'
+      complex_lowest_days: '0'
+      complex_median_days: '15'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '5'
+      simple_average_days: '71.2'
+      simple_highest_days: '1306'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2013':
+      complex_average_days: '27'
+      complex_highest_days: '1704'
+      complex_lowest_days: '0'
+      complex_median_days: '12'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '104'
+      simple_highest_days: '820'
+      simple_lowest_days: '2'
+      simple_median_days: '12'
+    '2014':
+      complex_average_days: '134.8'
+      complex_highest_days: '2107'
+      complex_lowest_days: '1'
+      complex_median_days: '23.5'
+      simple_average_days: '25.3'
+      simple_highest_days: '134'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+  service_center:
+    phone:
+    - 202-693-0125
+  top_level: false
+  website: http://www.dol.gov/owcp/foia/owcp-foia.htm
+- address:
+    address_lines:
+    - Kimberly Pacheco
+    - Disclosure Officer
+    - Room S-5506
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  fax: 202-693-7020
+  name: Office of the Inspector General
+  phone: 202-693-5116
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '79'
+      complex_highest_days: '229'
+      complex_lowest_days: '42'
+      complex_median_days: '55'
+      expedited_processing_average_days: '33'
+      expedited_processing_highest_days: '33'
+      expedited_processing_lowest_days: '33'
+      expedited_processing_median_days: '33'
+      simple_average_days: '20'
+      simple_highest_days: '50'
+      simple_lowest_days: '0'
+      simple_median_days: '28'
+    '2009':
+      complex_average_days: '84'
+      complex_highest_days: '177'
+      complex_lowest_days: '15'
+      complex_median_days: '69'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '3'
+      simple_average_days: '17'
+      simple_highest_days: '136'
+      simple_lowest_days: '0'
+      simple_median_days: '7'
+    '2010':
+      complex_average_days: '86'
+      complex_highest_days: '242'
+      complex_lowest_days: '1'
+      complex_median_days: '48'
+      expedited_processing_average_days: '22'
+      expedited_processing_highest_days: '41'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '17'
+      simple_average_days: '28'
+      simple_highest_days: '186'
+      simple_lowest_days: '0'
+      simple_median_days: '20'
+    '2011':
+      complex_average_days: '108'
+      complex_highest_days: '482'
+      complex_lowest_days: '1'
+      complex_median_days: '37'
+      expedited_processing_average_days: '30'
+      expedited_processing_highest_days: '30'
+      expedited_processing_lowest_days: '30'
+      expedited_processing_median_days: '30'
+      simple_average_days: '10'
+      simple_highest_days: '33'
+      simple_lowest_days: '0'
+      simple_median_days: '7'
+    '2012':
+      complex_average_days: '173'
+      complex_highest_days: '712'
+      complex_lowest_days: '0'
+      complex_median_days: '91'
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '15'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '1'
+      simple_average_days: '13'
+      simple_highest_days: '70'
+      simple_lowest_days: '0'
+      simple_median_days: '6'
+    '2013':
+      complex_average_days: '278'
+      complex_highest_days: '715'
+      complex_lowest_days: '12'
+      complex_median_days: '255'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '3'
+      simple_average_days: '10'
+      simple_highest_days: '91'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2014':
+      complex_average_days: '154'
+      complex_highest_days: '459'
+      complex_lowest_days: '9'
+      complex_median_days: '111'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '5'
+      simple_average_days: '15'
+      simple_highest_days: '93'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+  service_center:
+    phone:
+    - 202-693-5116
+  top_level: false
+  website: http://www.oig.dol.gov/foia.htm
+- abbreviation: OSHA
+  address:
+    address_lines:
+    - Christopher Durso
+    - FOIA Officer
+    - Room N3647
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  description: The Occupational Safety and Health Administration (OSHA) assures safe
+    and healthful working conditions for working men and women by setting and enforcing
+    standards, and by providing training, outreach, education and assistance.
+  fax: 202-693-1635
+  keywords:
+  - Administrative practice and procedure
+  - Advisory committees
+  - Agriculture
+  - Asbestos
+  - Blood
+  - Blood diseases
+  - Cancer
+  - Chemicals
+  - Confidential business information
+  - Construction industry
+  - Consumer protection
+  - Diving
+  - Electric power
+  - Employment
+  - Environmental protection
+  - Explosives
+  - Fire prevention
+  - Freedom of information
+  - Freight
+  - Gases
+  - Government employees
+  - Grant programs-labor
+  - Hazardous substances
+  - Health
+  - Health care
+  - Health facilities
+  - Health professions
+  - Health records
+  - Health statistics
+  - Highway safety
+  - Hospitals
+  - Intergovernmental relations
+  - Investigations
+  - Labeling
+  - Laboratories
+  - Law enforcement
+  - Longshore and harbor workers
+  - Marine safety
+  - Mass transportation
+  - Motor carriers
+  - Motor vehicle safety
+  - National parks
+  - Occupational Safety and Health Administration
+  - Occupational safety and health
+  - Pipeline safety
+  - Pipelines
+  - Privacy
+  - Radiation protection
+  - Railroads
+  - Reporting and recordkeeping requirements
+  - Safety
+  - Seamen
+  - Signs and symbols
+  - Small businesses
+  - Technical assistance
+  - Transportation
+  - Vessels
+  - Whistleblowing
+  name: Occupational Safety & Health Administration
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-693-2009
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '18.5'
+      complex_highest_days: '65'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '6.5'
+      expedited_processing_highest_days: '26'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '6'
+      simple_average_days: '12.7'
+      simple_highest_days: '65'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2009':
+      complex_average_days: '91'
+      complex_highest_days: '550'
+      complex_lowest_days: '1'
+      complex_median_days: '8'
+      expedited_processing_average_days: '36'
+      expedited_processing_highest_days: '138'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '11'
+      simple_average_days: '22.4'
+      simple_highest_days: '494'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2010':
+      complex_average_days: '19.7'
+      complex_highest_days: '475'
+      complex_lowest_days: '0'
+      complex_median_days: '8'
+      expedited_processing_average_days: '13.7'
+      expedited_processing_highest_days: '244'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '4'
+      simple_average_days: '16'
+      simple_highest_days: '474'
+      simple_lowest_days: '0'
+      simple_median_days: '5'
+    '2011':
+      complex_average_days: '18.4'
+      complex_highest_days: '488'
+      complex_lowest_days: '0'
+      complex_median_days: '7'
+      expedited_processing_average_days: '9.4'
+      expedited_processing_highest_days: '119'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '12.9'
+      simple_highest_days: '502'
+      simple_lowest_days: '0'
+      simple_median_days: '5'
+    '2012':
+      complex_average_days: '29.4'
+      complex_highest_days: '2796'
+      complex_lowest_days: '0'
+      complex_median_days: '9'
+      expedited_processing_average_days: '15.2'
+      expedited_processing_highest_days: '193'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7'
+      simple_average_days: '27.6'
+      simple_highest_days: '999'
+      simple_lowest_days: '0'
+      simple_median_days: '6'
+    '2013':
+      complex_average_days: '27.4'
+      complex_highest_days: '1735'
+      complex_lowest_days: '0'
+      complex_median_days: '9'
+      expedited_processing_average_days: '20.8'
+      expedited_processing_highest_days: '149'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '6'
+      simple_average_days: '15.3'
+      simple_highest_days: '1211'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+    '2014':
+      complex_average_days: '18.6'
+      complex_highest_days: '1493'
+      complex_lowest_days: '1'
+      complex_median_days: '7'
+      expedited_processing_average_days: '11.5'
+      expedited_processing_highest_days: '70'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4.5'
+      simple_average_days: '24'
+      simple_highest_days: '1426'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+  service_center:
+    phone:
+    - 202-693-2009
+  top_level: true
+  usa_id: '48101'
+  website: http://www.osha.gov/as/opa/foia/foia.html
+- address:
+    address_lines:
+    - Carrie Timus
+    - National FOIA Officer
+    - Room S-1325
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  description: VETS provides resources to prepare and assist veterans obtain meaningful
+    careers and maximize their employment opportunities.
+  emails:
+  - foiarequest@dol.gov
+  fax: 202-693-4755
+  keywords:
+  - Administrative practice and procedure
+  - Employment
+  - Government contracts
+  - Grant programs
+  - Grant programs-labor
+  - Labor
+  - Reporting and recordkeeping requirements
+  - Veterans
+  name: Veterans' Employment & Training Service
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-693-4700
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '28.7'
+      complex_highest_days: '127'
+      complex_lowest_days: '2'
+      complex_median_days: '40'
+      expedited_processing_average_days: '10.2'
+      expedited_processing_highest_days: '15'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5.5'
+      simple_average_days: '11.06'
+      simple_highest_days: '32'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2009':
+      complex_average_days: '14'
+      complex_highest_days: '23'
+      complex_lowest_days: '7'
+      complex_median_days: '10'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '10.9'
+      simple_highest_days: '63'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2010':
+      complex_average_days: '26.34'
+      complex_highest_days: '252'
+      complex_lowest_days: '1'
+      complex_median_days: '12'
+      expedited_processing_average_days: '4.4'
+      expedited_processing_highest_days: '45'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '13.1'
+      simple_highest_days: '28'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2011':
+      complex_average_days: '53.7'
+      complex_highest_days: '495'
+      complex_lowest_days: '1'
+      complex_median_days: '13'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '8'
+      simple_average_days: '12.3'
+      simple_highest_days: '28'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2012':
+      complex_average_days: '60.3'
+      complex_highest_days: '1888'
+      complex_lowest_days: '1'
+      complex_median_days: '26'
+      expedited_processing_average_days: '7.5'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '7.5'
+      simple_average_days: '811.9'
+      simple_highest_days: '1970'
+      simple_lowest_days: '2'
+      simple_median_days: '793'
+    '2013':
+      complex_average_days: '62.1'
+      complex_highest_days: '359'
+      complex_lowest_days: '1'
+      complex_median_days: '28'
+      expedited_processing_average_days: '59.3'
+      expedited_processing_highest_days: '226'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '65.2'
+      simple_highest_days: '276'
+      simple_lowest_days: '1'
+      simple_median_days: '48'
+    '2014':
+      complex_average_days: '40.1'
+      complex_highest_days: '367'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      simple_average_days: '59.9'
+      simple_highest_days: '307'
+      simple_lowest_days: '1'
+      simple_median_days: '11.5'
+  service_center:
+    phone:
+    - 202-693-4700
+  top_level: false
+  usa_id: '49730'
+  website: http://www.dol.gov/vets/foia/
+- address:
+    address_lines:
+    - 'FOIA: Wage and Hour Division'
+    - U. S. Department of Labor
+    - Room S-3201
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, N.W.
+    zip: '20210'
+  fax: 202-693-0637
+  keywords:
+  - Administrative practice and procedure
+  - Agricultural commodities
+  - Agriculture
+  - Aliens
+  - American Samoa
+  - Black lung benefits
+  - Chemicals
+  - Child labor
+  - Coal
+  - Colleges and universities
+  - Communications equipment
+  - Construction industry
+  - Cultural exchange programs
+  - Education
+  - Electric power
+  - Emergency medical services
+  - Employee benefit plans
+  - Employment
+  - Environmental impact statements
+  - Explosives
+  - Fire prevention
+  - Firefighters
+  - Foreign officials
+  - Forests and forest products
+  - Fraud
+  - Gases
+  - Government contracts
+  - Hazardous substances
+  - Health
+  - Health insurance
+  - Health professions
+  - Housing
+  - Housing standards
+  - Immigration
+  - Insurance
+  - Intergovernmental relations
+  - Investigations
+  - Irrigation
+  - Labor
+  - Labor management relations
+  - Law enforcement
+  - Law enforcement officers
+  - Maternal and child health
+  - Metals
+  - Migrant labor
+  - Mine safety and health
+  - Minimum wages
+  - Motor vehicle safety
+  - Noise control
+  - Nursery stock
+  - Occupational safety and health
+  - Passports and visas
+  - Penalties
+  - Radiation protection
+  - Radio
+  - Reporting and recordkeeping requirements
+  - Research
+  - Students
+  - Teachers
+  - Television
+  - Transportation
+  - Trusts and trustees
+  - Wages
+  - Water supply
+  - Whistleblowing
+  name: Wage and Hour Division
+  notes: This office has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-693-1350
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2009':
+      complex_average_days: '53'
+      complex_highest_days: '213'
+      complex_lowest_days: '1'
+      complex_median_days: '24'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '11'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+      simple_average_days: '19'
+      simple_highest_days: '50'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2010':
+      complex_average_days: '37.6'
+      complex_highest_days: '273'
+      complex_lowest_days: '0'
+      complex_median_days: '27'
+      expedited_processing_average_days: '8.6'
+      expedited_processing_highest_days: '41'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '6'
+      simple_average_days: '17.7'
+      simple_highest_days: '523'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2011':
+      complex_average_days: '42.7'
+      complex_highest_days: '491'
+      complex_lowest_days: '1'
+      complex_median_days: '26'
+      expedited_processing_average_days: '14'
+      expedited_processing_highest_days: '47'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '12'
+      simple_average_days: '25.4'
+      simple_highest_days: '230'
+      simple_lowest_days: '0'
+      simple_median_days: '15'
+    '2012':
+      complex_average_days: '53.8'
+      complex_highest_days: '1249'
+      complex_lowest_days: '0'
+      complex_median_days: '24'
+      expedited_processing_average_days: '8.8'
+      expedited_processing_highest_days: '39'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4.5'
+      simple_average_days: '32.6'
+      simple_highest_days: '757'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2013':
+      complex_average_days: '57.3'
+      complex_highest_days: '772'
+      complex_lowest_days: '0'
+      complex_median_days: '26'
+      expedited_processing_average_days: '17.1'
+      expedited_processing_highest_days: '196'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '8'
+      simple_average_days: '31.8'
+      simple_highest_days: '468'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2014':
+      complex_average_days: '72.6'
+      complex_highest_days: '608'
+      complex_lowest_days: '1'
+      complex_median_days: '38'
+      expedited_processing_average_days: '21.1'
+      expedited_processing_highest_days: '201'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '12'
+      simple_average_days: '28.9'
+      simple_highest_days: '332'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+  service_center:
+    phone:
+    - 202-693-1350
+  top_level: false
+  website: http://www.dol.gov/whd/foia/
+- abbreviation: Labor Department
+  address:
+    address_lines:
+    - Cheryl Edwards
+    - FOIA Coordinator
+    - Room S-3305
+    city: Washington
+    state: DC
+    street: 200 Constitution Avenue, NW
+    zip: '20210'
+  description: The Department of Labor's Women's Bureau works to safeguard the interests
+    of working women, advocates for equality, and promotes quality work environments.
+  emails:
+  - foiarequests@dol.gov
+  fax: 202-693-6746
+  name: Women's Bureau
+  phone: 202-693-6735
+  public_liaison:
+    name: Thomas G. Hicks, Sr.
+    phone:
+    - 202-693-5427
+  request_time_stats:
+    '2008':
+      complex_average_days: '29'
+      complex_highest_days: '90'
+      complex_lowest_days: '16'
+      complex_median_days: '20'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '16'
+      simple_highest_days: '27'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
+    '2009':
+      complex_average_days: '23'
+      complex_highest_days: '35'
+      complex_lowest_days: '15'
+      complex_median_days: '21'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '18.8'
+      simple_highest_days: '28'
+      simple_lowest_days: '6'
+      simple_median_days: '20.5'
+    '2010':
+      complex_average_days: '10.3'
+      complex_highest_days: '21'
+      complex_lowest_days: '10'
+      complex_median_days: '13.7'
+      expedited_processing_average_days: '7'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '8'
+      simple_average_days: '5'
+      simple_highest_days: '13'
+      simple_lowest_days: '12'
+      simple_median_days: '6'
+    '2011':
+      complex_average_days: '53.9'
+      complex_highest_days: '124'
+      complex_lowest_days: '5'
+      complex_median_days: '58'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '42.5'
+      simple_highest_days: '83'
+      simple_lowest_days: '2'
+      simple_median_days: '41'
+    '2012':
+      complex_average_days: '468.7'
+      complex_highest_days: '1298'
+      complex_lowest_days: '6'
+      complex_median_days: '102'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '95.4'
+      simple_highest_days: '150'
+      simple_lowest_days: '50'
+      simple_median_days: '88'
+    '2013':
+      complex_average_days: '101'
+      complex_highest_days: '169'
+      complex_lowest_days: '33'
+      complex_median_days: '101'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '92.6'
+      simple_highest_days: '160'
+      simple_lowest_days: '41'
+      simple_median_days: '41'
+    '2014':
+      complex_average_days: '4'
+      complex_highest_days: '4'
+      complex_lowest_days: '4'
+      complex_median_days: '4'
+      simple_average_days: '128.8'
+      simple_highest_days: '208'
+      simple_lowest_days: '24'
+      simple_median_days: '137'
+  service_center:
+    phone:
+    - 202-693-6735
+  top_level: false
+  usa_id: '49748'
+  website: http://www.dol.gov/wb/e-foia.htm
+description: The Department of Labor administers a variety of federal labor laws to
+  guarantee workers' rights to fair, safe, and healthy working conditions, including
+  minimum hourly wage and overtime pay, protection against employment discrimination,
+  and unemployment insurance.
+emails:
+- foiarequests@dol.gov
+fax: 202-693-5389
+keywords:
+- Accountants
+- Accounting
+- Administrative practice and procedure
+- Adult education
+- Advertising
+- Advisory committees
+- Aged
+- Agricultural commodities
+- Agriculture
+- Airports
+- Aliens
+- American Samoa
+- Asbestos
+- Australia
+- Black lung benefits
+- Blind
+- Blood
+- Blood diseases
+- Bonds
+- Broadband
+- Brokers
+- Buildings and facilities
+- Business and industry
+- Cancer
+- Carpools
+- Chemicals
+- Child labor
+- Civil rights
+- Claims
+- Classified information
+- Coal
+- Colleges and universities
+- Communications
+- Communications equipment
+- Community development
+- Confidential business information
+- Construction industry
+- Consumer protection
+- Copyright
+- Courts
+- Credit
+- Cultural exchange programs
+- Disaster assistance
+- Diving
+- Education
+- Education of disadvantaged
+- Education of individuals with disabilities
+- Educational facilities
+- Educational research
+- Educational study programs
+- Electric power
+- Electric power rates
+- Electric utilities
+- Elementary and secondary education
+- Emergency medical services
+- Employee benefit plans
+- Employment
+- Employment and Training Administration
+- Employment taxes
+- Environmental impact statements
+- Environmental protection
+- Equal access to justice
+- Equal educational opportunity
+- Equal employment opportunity
+- Excise taxes
+- Explosives
+- Federal buildings and facilities
+- Federally affected areas
+- Fire prevention
+- Firefighters
+- Foreign officials
+- Forests and forest products
+- Fraud
+- Freedom of information
+- Freight
+- Gases
+- Government contracts
+- Government employees
+- Government procurement
+- Government property management
+- Grant programs
+- Grant programs-Indians
+- Grant programs-business
+- Grant programs-education
+- Grant programs-health
+- Grant programs-labor
+- Grant programs-social programs
+- Guam
+- Hawaiian Natives
+- Hazardous substances
+- Health
+- Health care
+- Health facilities
+- Health insurance
+- Health professions
+- Health records
+- Health statistics
+- Highway safety
+- Highways and roads
+- Home improvement
+- Homeless
+- Hospitals
+- Hostages
+- Housing
+- Housing standards
+- Human research subjects
+- Immigration
+- Income taxes
+- Indemnity payments
+- Indians
+- Indians-education
+- Individuals with disabilities
+- Insurance
+- Insurance companies
+- Intergovernmental relations
+- International organizations
+- Inventions and patents
+- Investigations
+- Investments
+- Iraq
+- Irrigation
+- Kidney diseases
+- Kuwait
+- Labeling
+- Labor
+- Labor management relations
+- Labor unions
+- Laboratories
+- Law enforcement
+- Law enforcement officers
+- Lawyers
+- Lebanon
+- Loan programs
+- Loan programs-agriculture
+- Loan programs-business
+- Loan programs-communications
+- Loan programs-energy
+- Loan programs-health
+- Loan programs-housing and community development
+- Lobbying
+- Longshore and harbor workers
+- Lung diseases
+- Manpower training programs
+- Marine safety
+- Mass transportation
+- Maternal and child health
+- Medicaid
+- Metals
+- Migrant labor
+- Mine safety and health
+- Miners
+- Mines
+- Minimum wages
+- Mortgage insurance
+- Mortgages
+- Motor carriers
+- Motor vehicle safety
+- National parks
+- Noise control
+- Nonprofit organizations
+- Northern Mariana Islands
+- Nursery stock
+- Occupational Safety and Health Administration
+- Occupational safety and health
+- Organization and functions (Government agencies)
+- Pacific Islands Trust Territory
+- Passports and visas
+- Penalties
+- Pipeline safety
+- Pipelines
+- Privacy
+- Private schools
+- Public assistance programs
+- Radiation protection
+- Radio
+- Radioactive materials
+- Railroads
+- Religious discrimination
+- Relocation assistance
+- Reporting and recordkeeping requirements
+- Research
+- Retirement
+- Rural areas
+- Safety
+- Scholarships and fellowships
+- School construction
+- Schools
+- Science and technology
+- Seamen
+- Securities
+- Sex discrimination
+- Signs and symbols
+- Small businesses
+- State and local governments
+- Statistics
+- Student aid
+- Students
+- Sunshine Act
+- Surety bonds
+- Surface mining
+- Teachers
+- Technical assistance
+- Telecommunications
+- Telephone
+- Television
+- Trade adjustment assistance
+- Transportation
+- Trusts and trustees
+- Underground mining
+- Unemployment compensation
+- Uranium
+- Urban areas
+- Vessels
+- Veterans
+- Virgin Islands
+- Vocational education
+- Vocational rehabilitation
+- Wages
+- Waste treatment and disposal
+- Water pollution control
+- Water resources
+- Water supply
+- Watersheds
+- Whistleblowing
+- Women
+- Workers' compensation
+- X-rays
+- Youth
+name: Department of Labor
+phone: 202-693-5391
+public_liaison:
+  name: Thomas G. Hicks, Sr.
+  phone:
+  - 202-693-5427
+reading_rooms:
+- - DOL-Wide FOIA Reading Room
+  - http://www.dol.gov/dol/foia/readroom.htm
+service_center:
+  name: Ramona Branch Oliver
+  phone:
+  - 202-693-5391
+top_level: false
+usa_id: '49028'
+website: http://www.dol.gov/dol/foia/main.htm

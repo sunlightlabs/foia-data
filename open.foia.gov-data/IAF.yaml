@@ -1,0 +1,188 @@
+abbreviation: IAF
+departments:
+- address:
+    address_lines:
+    - Paul Zimmerman
+    - General Counsel
+    - Suite 1200 North
+    city: Washington
+    state: DC
+    street: 1331 Pennsylvania, NW
+    zip: '20004'
+  description: The Inter-American Foundation provides grant support to Latin American
+    and Carribean grass-roots groups and non-governmental organizations with creative
+    self-help ideas.
+  emails:
+  - foia@iaf.gov
+  misc:
+    General Counsel:
+      name: Paul Zimmerman
+      phone:
+      - 202-683-7118
+  name: Inter-American Foundation
+  phone: 202-683-7118
+  public_liaison:
+    name: Lesley Duncan
+    phone:
+    - 202-688-3047
+  reading_rooms:
+  - - FOIA E-reading Room
+    - http://www.iaf.gov/index.aspx?page=2170
+  request_time_stats:
+    '2008':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '12.2'
+      simple_highest_days: '20'
+      simple_lowest_days: '5'
+      simple_median_days: '12'
+    '2009':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '14.4'
+      simple_highest_days: '20'
+      simple_lowest_days: '9'
+      simple_median_days: '14'
+    '2010':
+      simple_average_days: '15.2'
+      simple_highest_days: '10'
+      simple_lowest_days: '11'
+      simple_median_days: '14'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '13.9'
+      simple_highest_days: '33'
+      simple_lowest_days: '4'
+      simple_median_days: '15'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '13.9'
+      simple_highest_days: '57'
+      simple_lowest_days: '2'
+      simple_median_days: '8'
+    '2013':
+      simple_average_days: '16.36'
+      simple_highest_days: '35'
+      simple_lowest_days: '2'
+      simple_median_days: '17'
+    '2014':
+      simple_average_days: '32.88'
+      simple_highest_days: '61'
+      simple_lowest_days: '12'
+      simple_median_days: '31'
+  service_center:
+    name: Paul Zimmerman
+  top_level: false
+  usa_id: '49404'
+  website: http://www.iaf.gov/index.aspx?page=22
+description: The Inter-American Foundation provides grant support to Latin American
+  and Carribean grass-roots groups and non-governmental organizations with creative
+  self-help ideas.
+keywords:
+- Administrative practice and procedure
+- Government employees
+- Grant programs
+- Health facilities
+- Health insurance
+- Health professions
+- Hostages
+- Iraq
+- Kuwait
+- Lebanon
+- Loan programs
+name: Inter-American Foundation
+request_time_stats:
+  '2008':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '12.2'
+    simple_highest_days: '20'
+    simple_lowest_days: '5'
+    simple_median_days: '12'
+  '2009':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '14.4'
+    simple_highest_days: '20'
+    simple_lowest_days: '9'
+    simple_median_days: '14'
+  '2010':
+    simple_average_days: '15.2'
+    simple_highest_days: '10'
+    simple_lowest_days: '11'
+    simple_median_days: '14'
+  '2011':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '13.9'
+    simple_highest_days: '33'
+    simple_lowest_days: '4'
+    simple_median_days: '15'
+  '2012':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '13.9'
+    simple_highest_days: '57'
+    simple_lowest_days: '2'
+    simple_median_days: '8'
+  '2013':
+    simple_average_days: '16.36'
+    simple_highest_days: '35'
+    simple_lowest_days: '2'
+    simple_median_days: '17'
+  '2014':
+    simple_average_days: '32.88'
+    simple_highest_days: '61'
+    simple_lowest_days: '12'
+    simple_median_days: '31'
+usa_id: '49404'

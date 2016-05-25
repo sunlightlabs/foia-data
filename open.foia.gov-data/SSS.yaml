@@ -1,0 +1,196 @@
+abbreviation: SSS
+departments:
+- abbreviation: SSS
+  address:
+    city: Arlington
+    state: VA
+    street: National Headquarters
+    zip: 22209-2425
+  description: The Selective Service System is charged with providing the Department
+    of Defense trained and untrained personnel in the event of a national emergency.
+    Almost all male citizens and immigrants between the agees of 18-25 must register
+    with the Selective Service. The Selective Service also provides alternative service
+    options for concientious objectors.
+  fax: 703-605-4106
+  foia_officer:
+    name: Paula A. Sweeney
+    phone:
+    - 703-605-4100
+  name: Selective Service System
+  phone: 703-605-4100
+  public_liaison:
+    name: Richard Flahavan
+    phone:
+    - 703-605-4100
+  reading_rooms:
+  - - Reading Room
+    - http://www.sss.gov/FOIA/readingrm.htm
+  request_time_stats:
+    '2008':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '4'
+      simple_highest_days: '27'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2009':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '4'
+      simple_highest_days: '23'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '3'
+      simple_highest_days: '12'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '5'
+      simple_highest_days: '35'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '2'
+      simple_highest_days: '4'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2013':
+      simple_average_days: '2'
+      simple_highest_days: '3'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2014':
+      simple_average_days: '4.5'
+      simple_highest_days: '12'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+  service_center:
+    phone:
+    - 703-605-4100
+  top_level: false
+  usa_id: '52658'
+  website: http://www.sss.gov/freedomhome.htm
+description: The Selective Service System is charged with providing the Department
+  of Defense trained and untrained personnel in the event of a national emergency.
+  Almost all male citizens and immigrants between the agees of 18-25 must register
+  with the Selective Service. The Selective Service also provides alternative service
+  options for concientious objectors.
+keywords:
+- Administrative practice and procedure
+- Privacy
+- Selective Service System
+name: Selective Service System
+request_time_stats:
+  '2008':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '4'
+    simple_highest_days: '27'
+    simple_lowest_days: '1'
+    simple_median_days: '8'
+  '2009':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '4'
+    simple_highest_days: '23'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2010':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '3'
+    simple_highest_days: '12'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2011':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '5'
+    simple_highest_days: '35'
+    simple_lowest_days: '1'
+    simple_median_days: '1'
+  '2012':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '2'
+    simple_highest_days: '4'
+    simple_lowest_days: '1'
+    simple_median_days: '2'
+  '2013':
+    simple_average_days: '2'
+    simple_highest_days: '3'
+    simple_lowest_days: '1'
+    simple_median_days: '2'
+  '2014':
+    simple_average_days: '4.5'
+    simple_highest_days: '12'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+usa_id: '52658'

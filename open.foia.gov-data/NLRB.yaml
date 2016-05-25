@@ -1,0 +1,158 @@
+abbreviation: NLRB
+departments:
+- abbreviation: NLRB
+  address:
+    address_lines:
+    - Deirdre MacNeil
+    - FOIA Officer
+    - Room 10600
+    city: Washington
+    state: DC
+    street: 1099 14th Street, NW
+    zip: '20570'
+  description: 'The National Labor Relations Board enforces the National Labor Relations
+    Act by: investigating allegations of wrong-doing brought by workers, unions, or
+    employers; conducting elections; and deciding and resolving cases.'
+  fax: 202-273-3642
+  foia_officer:
+    name: Eric G. Moskowitz
+    phone:
+    - 202-273-2931
+  name: National Labor Relations Board
+  notes: This agency has additional FOIA contact information that can be found by
+    visiting its website.
+  phone: 202-273-3842
+  public_liaison:
+    name: Diane L. Bridge
+    phone:
+    - 202-273-3851
+  reading_rooms:
+  - - E-Reading Room
+    - http://www.nlrb.gov/news-outreach/foia/e-reading-room
+  request_form: http://www.nlrb.gov/e-foia-request-form
+  request_time_stats:
+    '2010':
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '4'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '3'
+      simple_average_days: '5'
+      simple_highest_days: '104'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '29'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4'
+      simple_average_days: '5'
+      simple_highest_days: '146'
+      simple_lowest_days: less than 1
+      simple_median_days: '3'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '2'
+      simple_average_days: '6'
+      simple_highest_days: '157'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2013':
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7'
+      simple_average_days: '6'
+      simple_highest_days: '146'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
+    '2014':
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '9'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '4'
+      simple_average_days: '7'
+      simple_highest_days: '136'
+      simple_lowest_days: less than 1
+      simple_median_days: '5'
+  service_center:
+    phone:
+    - 202-273-1991
+  top_level: false
+  usa_id: '49523'
+  website: http://www.nlrb.gov/FOIA/
+description: 'The National Labor Relations Board enforces the National Labor Relations
+  Act by: investigating allegations of wrong-doing brought by workers, unions, or
+  employers; conducting elections; and deciding and resolving cases.'
+keywords:
+- Administrative practice and procedure
+- Freedom of information
+- Labor management relations
+- Labor unions
+- Privacy
+- Reporting and recordkeeping requirements
+name: National Labor Relations Board
+request_time_stats:
+  '2010':
+    expedited_processing_average_days: '3'
+    expedited_processing_highest_days: '4'
+    expedited_processing_lowest_days: '2'
+    expedited_processing_median_days: '3'
+    simple_average_days: '5'
+    simple_highest_days: '104'
+    simple_lowest_days: less than 1
+    simple_median_days: '3'
+  '2011':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '8'
+    expedited_processing_highest_days: '29'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '4'
+    simple_average_days: '5'
+    simple_highest_days: '146'
+    simple_lowest_days: less than 1
+    simple_median_days: '3'
+  '2012':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '5'
+    expedited_processing_highest_days: '20'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '2'
+    simple_average_days: '6'
+    simple_highest_days: '157'
+    simple_lowest_days: less than 1
+    simple_median_days: '4'
+  '2013':
+    expedited_processing_average_days: '6'
+    expedited_processing_highest_days: '10'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '7'
+    simple_average_days: '6'
+    simple_highest_days: '146'
+    simple_lowest_days: less than 1
+    simple_median_days: '4'
+  '2014':
+    expedited_processing_average_days: '4'
+    expedited_processing_highest_days: '9'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '4'
+    simple_average_days: '7'
+    simple_highest_days: '136'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'
+usa_id: '49523'

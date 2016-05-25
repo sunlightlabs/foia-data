@@ -1,0 +1,144 @@
+abbreviation: STB
+departments:
+- address:
+    address_lines:
+    - Marilyn R. Levitt
+    - FOIA/Privacy Act Officer
+    city: Washington
+    state: DC
+    street: 395 E Street, SW
+    zip: 20423-0001
+  description: The Surface Transportation Board regulates and decides disputes involving
+    railroad rates, railroad mergers or line sales, and certain other transportation
+    matters.
+  emails:
+  - FOIA.Privacy@stb.dot.gov
+  fax: 202-245-0460
+  misc:
+    FOIA/Privacy Act Officer:
+      name: Marilyn R. Levitt
+      phone:
+      - 202-245-0269
+  name: Surface Transportation Board
+  phone: 202-245-0269
+  public_liaison:
+    name: Craig Keats
+    phone:
+    - 202-245-0264
+  request_form: http://199.79.178.189/stb/efilings.nsf/FOIARequest?OpenForm
+  request_time_stats:
+    '2008':
+      simple_average_days: '10.5'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2009':
+      simple_average_days: '6.75'
+      simple_highest_days: '15'
+      simple_lowest_days: '1'
+      simple_median_days: '5.5'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '7.3'
+      simple_highest_days: '14'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '9.1'
+      simple_highest_days: '31'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2012':
+      simple_average_days: '5.9'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2013':
+      simple_average_days: '6'
+      simple_highest_days: '19'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+    '2014':
+      simple_average_days: '5.69'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+  service_center:
+    name: Marilyn R. Levitt
+    phone:
+    - 202-245-0269
+  top_level: false
+  usa_id: '49691'
+  website: http://www.stb.dot.gov/stb/foia.html
+description: The Surface Transportation Board regulates and decides disputes involving
+  railroad rates, railroad mergers or line sales, and certain other transportation
+  matters.
+name: Surface Transportation Board
+request_time_stats:
+  '2008':
+    simple_average_days: '10.5'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '7'
+  '2009':
+    simple_average_days: '6.75'
+    simple_highest_days: '15'
+    simple_lowest_days: '1'
+    simple_median_days: '5.5'
+  '2010':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '7.3'
+    simple_highest_days: '14'
+    simple_lowest_days: '1'
+    simple_median_days: '7'
+  '2011':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '9.1'
+    simple_highest_days: '31'
+    simple_lowest_days: '1'
+    simple_median_days: '8'
+  '2012':
+    simple_average_days: '5.9'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '3'
+  '2013':
+    simple_average_days: '6'
+    simple_highest_days: '19'
+    simple_lowest_days: '1'
+    simple_median_days: '4'
+  '2014':
+    simple_average_days: '5.69'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '5'
+usa_id: '49691'

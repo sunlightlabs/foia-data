@@ -1,0 +1,216 @@
+abbreviation: OSHRC
+departments:
+- address:
+    address_lines:
+    - FOIA Request - OSHRC
+    - FOIA Requester Service Center
+    - 9th Floor
+    city: Washington
+    state: DC
+    street: 1120 20th Street, NW
+    zip: 20036-3457
+  description: The Occupational Safety and Health Review Commission hears trials and
+    appeals, deciding contests of citations or penalties that result from inspections
+    performed by the Occupational Safety and Health Administration.
+  fax: 202-606-5417
+  name: Occupational Safety and Health Review Commission
+  phone: 202-606-5700
+  public_liaison:
+    name: Lyndsey Frushour
+    phone:
+    - 202-606-5700
+  reading_rooms:
+  - - OSHRC e-FOIA Reading Room
+    - http://www.oshrc.gov/foia/foia_reading_room.html
+  request_time_stats:
+    '2008':
+      complex_average_days: '28'
+      complex_highest_days: '28'
+      complex_lowest_days: '28'
+      complex_median_days: '28'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '8.5'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2009':
+      complex_average_days: '28'
+      complex_highest_days: '28'
+      complex_lowest_days: '28'
+      complex_median_days: '28'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '5'
+      simple_average_days: '9'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '8'
+    '2010':
+      complex_average_days: '26'
+      complex_highest_days: '30'
+      complex_lowest_days: '21'
+      complex_median_days: '26.5'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '10.7'
+      simple_highest_days: '20'
+      simple_lowest_days: less than 1
+      simple_median_days: '10.5'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '12'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '11.5'
+    '2012':
+      complex_average_days: '30'
+      complex_highest_days: '30'
+      complex_lowest_days: '30'
+      complex_median_days: '30'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '11.2'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2013':
+      complex_average_days: '55'
+      complex_highest_days: '55'
+      complex_lowest_days: '55'
+      complex_median_days: '55'
+      simple_average_days: '9.8'
+      simple_highest_days: '24'
+      simple_lowest_days: less than 1
+      simple_median_days: '7.5'
+    '2014':
+      complex_average_days: '32'
+      complex_highest_days: '35'
+      complex_lowest_days: '29'
+      complex_median_days: '32'
+      simple_average_days: '10.63'
+      simple_highest_days: '28'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
+  service_center:
+    phone:
+    - 202-606-5700
+  top_level: false
+  usa_id: '49577'
+  website: http://www.oshrc.gov/foia/foia.html
+description: The Occupational Safety and Health Review Commission hears trials and
+  appeals, deciding contests of citations or penalties that result from inspections
+  performed by the Occupational Safety and Health Administration.
+keywords:
+- Administrative practice and procedure
+- Archives and records
+- Civil rights
+- Conflict of interests
+- Equal access to justice
+- Equal employment opportunity
+- Federal buildings and facilities
+- Freedom of information
+- Government employees
+- Individuals with disabilities
+- Privacy
+- Sunshine Act
+name: Occupational Safety and Health Review Commission
+request_time_stats:
+  '2008':
+    complex_average_days: '28'
+    complex_highest_days: '28'
+    complex_lowest_days: '28'
+    complex_median_days: '28'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '8.5'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '7'
+  '2009':
+    complex_average_days: '28'
+    complex_highest_days: '28'
+    complex_lowest_days: '28'
+    complex_median_days: '28'
+    expedited_processing_average_days: '5'
+    expedited_processing_highest_days: '5'
+    expedited_processing_lowest_days: '5'
+    expedited_processing_median_days: '5'
+    simple_average_days: '9'
+    simple_highest_days: '20'
+    simple_lowest_days: less than 1
+    simple_median_days: '8'
+  '2010':
+    complex_average_days: '26'
+    complex_highest_days: '30'
+    complex_lowest_days: '21'
+    complex_median_days: '26.5'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '10.7'
+    simple_highest_days: '20'
+    simple_lowest_days: less than 1
+    simple_median_days: '10.5'
+  '2011':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '12'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '11.5'
+  '2012':
+    complex_average_days: '30'
+    complex_highest_days: '30'
+    complex_lowest_days: '30'
+    complex_median_days: '30'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '11.2'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '10'
+  '2013':
+    complex_average_days: '55'
+    complex_highest_days: '55'
+    complex_lowest_days: '55'
+    complex_median_days: '55'
+    simple_average_days: '9.8'
+    simple_highest_days: '24'
+    simple_lowest_days: less than 1
+    simple_median_days: '7.5'
+  '2014':
+    complex_average_days: '32'
+    complex_highest_days: '35'
+    complex_lowest_days: '29'
+    complex_median_days: '32'
+    simple_average_days: '10.63'
+    simple_highest_days: '28'
+    simple_lowest_days: less than 1
+    simple_median_days: '10'
+usa_id: '49577'

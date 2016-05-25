@@ -1,0 +1,201 @@
+abbreviation: OGE
+departments:
+- address:
+    address_lines:
+    - Diana J. Veilleux
+    - OGE FOIA Officer
+    - Suite 500
+    city: Washington
+    state: DC
+    street: 1201 New York Avenue, NW
+    zip: 20005-3917
+  description: The Office of Government Ethics provides oversight, policy, and guidance
+    to the Executive Branch regarding ethics laws and policies.
+  emails:
+  - usoge@oge.gov
+  fax: 202-482-9237
+  foia_officer:
+    name: Diana J. Veilleux
+    phone:
+    - 202-482-9203
+  name: Office of Government Ethics
+  phone: 202-482-9203
+  public_liaison:
+    phone:
+    - 202-482-9203
+  request_time_stats:
+    '2008':
+      simple_average_days: '11'
+      simple_highest_days: '30'
+      simple_lowest_days: '1'
+      simple_median_days: '12.5'
+    '2009':
+      expedited_processing_average_days: '9'
+      expedited_processing_highest_days: '9'
+      expedited_processing_lowest_days: '9'
+      expedited_processing_median_days: '9'
+      simple_average_days: '12.4'
+      simple_highest_days: '30'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '13.02'
+      simple_highest_days: '173'
+      simple_lowest_days: '1'
+      simple_median_days: '13.5'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '8'
+      simple_average_days: '12.097'
+      simple_highest_days: '54'
+      simple_lowest_days: '1'
+      simple_median_days: '9.5'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '10.959'
+      simple_highest_days: '43'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2013':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '8.6'
+      simple_highest_days: '30'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2014':
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      simple_average_days: '14.7'
+      simple_highest_days: '41'
+      simple_lowest_days: '1'
+      simple_median_days: '16.5'
+  service_center:
+    phone:
+    - 202-482-9267
+  top_level: false
+  usa_id: '52646'
+  website: http://www.usoge.gov/FOIA-and-Privacy-Act/The-Freedom-of-Information-Act-and-the-Privacy-Act/
+description: The Office of Government Ethics provides oversight, policy, and guidance
+  to the Executive Branch regarding ethics laws and policies.
+keywords:
+- Administrative practice and procedure
+- Archives and records
+- Confidential business information
+- Conflict of interests
+- Courts
+- Freedom of information
+- Government employees
+- Government property
+- Organization and functions (Government agencies)
+- Penalties
+- Privacy
+- Reporting and recordkeeping requirements
+- Trusts and trustees
+name: Office of Government Ethics
+request_time_stats:
+  '2008':
+    simple_average_days: '11'
+    simple_highest_days: '30'
+    simple_lowest_days: '1'
+    simple_median_days: '12.5'
+  '2009':
+    expedited_processing_average_days: '9'
+    expedited_processing_highest_days: '9'
+    expedited_processing_lowest_days: '9'
+    expedited_processing_median_days: '9'
+    simple_average_days: '12.4'
+    simple_highest_days: '30'
+    simple_lowest_days: less than 1
+    simple_median_days: '13'
+  '2010':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '13.02'
+    simple_highest_days: '173'
+    simple_lowest_days: '1'
+    simple_median_days: '13.5'
+  '2011':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '8'
+    expedited_processing_highest_days: '8'
+    expedited_processing_lowest_days: '8'
+    expedited_processing_median_days: '8'
+    simple_average_days: '12.097'
+    simple_highest_days: '54'
+    simple_lowest_days: '1'
+    simple_median_days: '9.5'
+  '2012':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '10.959'
+    simple_highest_days: '43'
+    simple_lowest_days: '1'
+    simple_median_days: '9'
+  '2013':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '8.6'
+    simple_highest_days: '30'
+    simple_lowest_days: '1'
+    simple_median_days: '7'
+  '2014':
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    simple_average_days: '14.7'
+    simple_highest_days: '41'
+    simple_lowest_days: '1'
+    simple_median_days: '16.5'
+usa_id: '52646'

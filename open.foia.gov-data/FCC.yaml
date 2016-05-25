@@ -1,0 +1,313 @@
+abbreviation: FCC
+departments:
+- abbreviation: FCC
+  address:
+    address_lines:
+    - Vanessa Lamb
+    - Deputy Associate Managing Director - FOIA Program
+    - Room 1-A834
+    city: Washington
+    state: DC
+    street: 445 12th Street, SW
+    zip: '20554'
+  description: An independent federal agency reporting to Congress, the Federal Communications
+    Commission regulates interstate and international communications through cable,
+    radio, television, satellite and wire. The goal of the Commission is to promote
+    connectivity and ensure a robust and competitive market.
+  emails:
+  - FOIA@fcc.gov
+  fax: 202-418-0521
+  misc:
+    FOIA Contact:
+      name: Vanessa Lamb
+      phone:
+      - 202-418-0440
+  name: Federal Communications Commission
+  phone: 202-418-0440
+  public_liaison:
+    name: Stephanie Kost
+    phone:
+    - 202-418-1379
+  reading_rooms:
+  - - Electronic Reading Room
+    - https://www.fcc.gov/encyclopedia/freedom-information-act-electronic-reading-room
+  request_form: http://transition.fcc.gov/foia/#reqform
+  request_time_stats:
+    '2008':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '22.75'
+      simple_highest_days: '300'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
+    '2009':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '30.76'
+      simple_highest_days: '541'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
+    '2010':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '23.72'
+      simple_highest_days: '744'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
+    '2011':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '23.32'
+      simple_highest_days: '495'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
+    '2012':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '26'
+      simple_highest_days: '1175'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
+    '2013':
+      complex_average_days: '288.16'
+      complex_highest_days: '423'
+      complex_lowest_days: '19'
+      complex_median_days: '346'
+      expedited_processing_average_days: '12'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '12'
+      expedited_processing_median_days: '12'
+      simple_average_days: '33.3'
+      simple_highest_days: '902'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
+    '2014':
+      complex_average_days: '359.17'
+      complex_highest_days: '626'
+      complex_lowest_days: '6'
+      complex_median_days: '543'
+      expedited_processing_average_days: '21.85'
+      expedited_processing_highest_days: '128'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7.5'
+      simple_average_days: '25.04'
+      simple_highest_days: '462'
+      simple_lowest_days: less than 1
+      simple_median_days: '19'
+  service_center:
+    phone:
+    - 202-418-0440
+  top_level: false
+  usa_id: '49041'
+  website: http://www.fcc.gov/foia/
+description: An independent federal agency reporting to Congress, the Federal Communications
+  Commission regulates interstate and international communications through cable,
+  radio, television, satellite and wire. The goal of the Commission is to promote
+  connectivity and ensure a robust and competitive market.
+keywords:
+- Accounting
+- Administrative practice and procedure
+- Advertising
+- Advisory committees
+- Air transportation
+- Airports
+- Alaska
+- Authority delegations (Government agencies)
+- Aviation safety
+- Broadband
+- Business and industry
+- Cable television
+- Civil defense
+- Civil rights
+- Claims
+- Classified information
+- Common carriers
+- Communications
+- Communications common carriers
+- Communications equipment
+- Computer technology
+- Conflict of interests
+- Consumer protection
+- Cuba
+- Defense communications
+- Disaster assistance
+- Drug abuse
+- Education
+- Emergency medical services
+- Environmental impact statements
+- Equal access to justice
+- Equal employment opportunity
+- Federal Communications Commission
+- Federal buildings and facilities
+- Foreign relations
+- Fraud
+- Freedom of information
+- Government employees
+- Government publications
+- Great Lakes
+- Health facilities
+- Household appliances
+- Imports
+- Income taxes
+- Indemnity payments
+- Individuals with disabilities
+- Intergovernmental relations
+- Investigations
+- Labeling
+- Lawyers
+- Libraries
+- Marine safety
+- Medical devices
+- Metric system
+- Mexico
+- Organization and functions (Government agencies)
+- Penalties
+- Political candidates
+- Postal Service
+- Privacy
+- Puerto Rico
+- Radio
+- Recordings
+- Reporting and recordkeeping requirements
+- Research
+- Rural areas
+- Satellites
+- Schools
+- Scientific equipment
+- Securities
+- Security measures
+- Sunshine Act
+- Telecommunications
+- Telegraph
+- Telephone
+- Television
+- Uniform System of Accounts
+- Vessels
+- Volunteers
+- Wages
+- Weather
+- Wiretapping and electronic surveillance
+name: Federal Communications Commission
+request_time_stats:
+  '2008':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '22.75'
+    simple_highest_days: '300'
+    simple_lowest_days: less than 1
+    simple_median_days: '19'
+  '2009':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '30.76'
+    simple_highest_days: '541'
+    simple_lowest_days: '1'
+    simple_median_days: '20'
+  '2010':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '23.72'
+    simple_highest_days: '744'
+    simple_lowest_days: '1'
+    simple_median_days: '15'
+  '2011':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '23.32'
+    simple_highest_days: '495'
+    simple_lowest_days: less than 1
+    simple_median_days: '18'
+  '2012':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '26'
+    simple_highest_days: '1175'
+    simple_lowest_days: less than 1
+    simple_median_days: '18'
+  '2013':
+    complex_average_days: '288.16'
+    complex_highest_days: '423'
+    complex_lowest_days: '19'
+    complex_median_days: '346'
+    expedited_processing_average_days: '12'
+    expedited_processing_highest_days: '12'
+    expedited_processing_lowest_days: '12'
+    expedited_processing_median_days: '12'
+    simple_average_days: '33.3'
+    simple_highest_days: '902'
+    simple_lowest_days: less than 1
+    simple_median_days: '19'
+  '2014':
+    complex_average_days: '359.17'
+    complex_highest_days: '626'
+    complex_lowest_days: '6'
+    complex_median_days: '543'
+    expedited_processing_average_days: '21.85'
+    expedited_processing_highest_days: '128'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '7.5'
+    simple_average_days: '25.04'
+    simple_highest_days: '462'
+    simple_lowest_days: less than 1
+    simple_median_days: '19'
+usa_id: '49041'
