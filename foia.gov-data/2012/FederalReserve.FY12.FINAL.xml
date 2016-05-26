@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iepd:FoiaAnnualReport xmlns:i="http://niem.gov/niem/appinfo/2.0" xmlns:j="http://niem.gov/niem/domains/jxdm/4.1" xmlns:foia="http://leisp.usdoj.gov/niem/FoiaAnnualReport/extension/1.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:nc="http://niem.gov/niem/niem-core/2.0" xmlns:s="http://niem.gov/niem/structures/2.0" xsi:schemaLocation="http://leisp.usdoj.gov/niem/FoiaAnnualReport/exchange/1.03 ../schema/exchange/FoiaAnnualReport.xsd" xmlns:iepd="http://leisp.usdoj.gov/niem/FoiaAnnualReport/exchange/1.03">
+  <nc:DocumentApplicationName>FOIA Annual Report Workbook</nc:DocumentApplicationName>
+  <nc:DocumentCreationDate>
+    <nc:Date>2013-01-23</nc:Date>
+  </nc:DocumentCreationDate>
+  <nc:DocumentDescriptionText>FOIA Annual Report</nc:DocumentDescriptionText>
+  <nc:Organization s:id="ORG0">
+    <nc:OrganizationAbbreviationText>FRB</nc:OrganizationAbbreviationText>
+    <nc:OrganizationName>Federal Reserve Board</nc:OrganizationName>
+  </nc:Organization>
+  <foia:DocumentFiscalYearDate>2012</foia:DocumentFiscalYearDate>
+  <foia:Exemption3StatuteSection>
+    <foia:ReliedUponStatute s:id="ES8">
+      <j:StatuteDescriptionText>31 U.S.C. § 5319 Bank Secrecy Act</j:StatuteDescriptionText>
+      <foia:ReliedUponStatuteInformationWithheldText>Reports pertaining to monetary instruments transactions filed under subchapter II of chapter 53 of title 31 and records of those reports</foia:ReliedUponStatuteInformationWithheldText>
+      <nc:Case>
+        <nc:CaseTitleText>Hulstein vs. DEA, No.10-4112, 2011 U.S. Dist. LEXIS 25788, at *7-8 (N.D. Iowa Mar. 11, 2011); Berger v. IRS, 487 F. Supp. 2d 482, 496 -97 (D. N.J. 2007, aff'd on other grounds, 288 F. App's 829 (3d Cir. 2008), cert. denied, 129 S. Ct. 2789 (U.S. 2009); Sciba v. Bd. Of Governors of the Fed. Reserve Sys., No 04-1011, 2005 WL 3201206, at *6 (D.D.C. Nov. 4, 2005).</nc:CaseTitleText>
+      </nc:Case>
+    </foia:ReliedUponStatute>
+    <foia:ReliedUponStatute s:id="ES10">
+      <j:StatuteDescriptionText>44 U.S.C. § 3501 sec. 512 (Confidential Information Protection and Statistical Efficiency Act of 2002)</j:StatuteDescriptionText>
+      <foia:ReliedUponStatuteInformationWithheldText>Census coding for geographical locations.</foia:ReliedUponStatuteInformationWithheldText>
+      <nc:Case>
+        <nc:CaseTitleText />
+      </nc:Case>
+    </foia:ReliedUponStatute>
+    <foia:ReliedUponStatuteOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="ES8" />
+      <nc:OrganizationReference s:ref="ORG0" />
+      <foia:ReliedUponStatuteQuantity>4</foia:ReliedUponStatuteQuantity>
+    </foia:ReliedUponStatuteOrganizationAssociation>
+    <foia:ReliedUponStatuteOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="ES10" />
+      <nc:OrganizationReference s:ref="ORG0" />
+      <foia:ReliedUponStatuteQuantity>1</foia:ReliedUponStatuteQuantity>
+    </foia:ReliedUponStatuteOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:Exemption3StatuteSection>
+  <foia:ProcessedRequestSection>
+    <foia:ProcessingStatistics s:id="PS1">
+      <foia:ProcessingStatisticsPendingAtStartQuantity>45</foia:ProcessingStatisticsPendingAtStartQuantity>
+      <foia:ProcessingStatisticsReceivedQuantity>899</foia:ProcessingStatisticsReceivedQuantity>
+      <foia:ProcessingStatisticsProcessedQuantity>891</foia:ProcessingStatisticsProcessedQuantity>
+      <foia:ProcessingStatisticsPendingAtEndQuantity>53</foia:ProcessingStatisticsPendingAtEndQuantity>
+    </foia:ProcessingStatistics>
+    <foia:ProcessingStatisticsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="PS1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ProcessingStatisticsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:ProcessedRequestSection>
+  <foia:RequestDispositionSection>
+    <foia:RequestDisposition s:id="RD1">
+      <foia:RequestDispositionFullGrantQuantity>512</foia:RequestDispositionFullGrantQuantity>
+      <foia:RequestDispositionPartialGrantQuantity>96</foia:RequestDispositionPartialGrantQuantity>
+      <foia:RequestDispositionFullExemptionDenialQuantity>57</foia:RequestDispositionFullExemptionDenialQuantity>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>NoRecords</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>83</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>Referred</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>41</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>Withdrawn</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>38</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>FeeRelated</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>18</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>NotDescribed</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>12</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>ImproperRequest</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>3</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>NotAgency</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>Duplicate</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>4</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>Other</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>27</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:RequestDispositionTotalQuantity>891</foia:RequestDispositionTotalQuantity>
+    </foia:RequestDisposition>
+    <foia:RequestDispositionOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="RD1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:RequestDispositionOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:RequestDispositionSection>
+  <foia:RequestDenialOtherReasonSection>
+    <foia:ComponentOtherDenialReason s:id="CODR8">
+      <foia:OtherDenialReason>
+        <foia:OtherDenialReasonDescriptionText>No longer interested</foia:OtherDenialReasonDescriptionText>
+        <foia:OtherDenialReasonQuantity>4</foia:OtherDenialReasonQuantity>
+      </foia:OtherDenialReason>
+      <foia:OtherDenialReason>
+        <foia:OtherDenialReasonDescriptionText>No Response to fee letter</foia:OtherDenialReasonDescriptionText>
+        <foia:OtherDenialReasonQuantity>1</foia:OtherDenialReasonQuantity>
+      </foia:OtherDenialReason>
+      <foia:OtherDenialReason>
+        <foia:OtherDenialReasonDescriptionText>Not likely to have these records</foia:OtherDenialReasonDescriptionText>
+        <foia:OtherDenialReasonQuantity>19</foia:OtherDenialReasonQuantity>
+      </foia:OtherDenialReason>
+      <foia:OtherDenialReason>
+        <foia:OtherDenialReasonDescriptionText>Not required to create records</foia:OtherDenialReasonDescriptionText>
+        <foia:OtherDenialReasonQuantity>3</foia:OtherDenialReasonQuantity>
+      </foia:OtherDenialReason>
+      <foia:ComponentOtherDenialReasonQuantity>27</foia:ComponentOtherDenialReasonQuantity>
+    </foia:ComponentOtherDenialReason>
+    <foia:OtherDenialReasonOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="CODR8" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:OtherDenialReasonOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:RequestDenialOtherReasonSection>
+  <foia:RequestDispositionAppliedExemptionsSection>
+    <foia:ComponentAppliedExemptions s:id="RDE1">
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 1</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 2</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 3</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>5</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 4</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>69</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 5</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>49</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 6</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>77</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(A)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>4</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(B)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>1</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(C)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(D)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>1</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(E)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>2</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(F)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 8</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>64</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 9</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+    </foia:ComponentAppliedExemptions>
+    <foia:ComponentAppliedExemptionsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="RDE1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ComponentAppliedExemptionsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:RequestDispositionAppliedExemptionsSection>
+  <foia:ProcessedAppealSection>
+    <foia:ProcessingStatistics s:id="PA1">
+      <foia:ProcessingStatisticsPendingAtStartQuantity>1</foia:ProcessingStatisticsPendingAtStartQuantity>
+      <foia:ProcessingStatisticsReceivedQuantity>25</foia:ProcessingStatisticsReceivedQuantity>
+      <foia:ProcessingStatisticsProcessedQuantity>18</foia:ProcessingStatisticsProcessedQuantity>
+      <foia:ProcessingStatisticsPendingAtEndQuantity>8</foia:ProcessingStatisticsPendingAtEndQuantity>
+    </foia:ProcessingStatistics>
+    <foia:ProcessingStatisticsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="PA1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ProcessingStatisticsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:ProcessedAppealSection>
+  <foia:AppealDispositionSection>
+    <foia:AppealDisposition s:id="AD1">
+      <foia:AppealDispositionAffirmedQuantity>3</foia:AppealDispositionAffirmedQuantity>
+      <foia:AppealDispositionPartialQuantity>12</foia:AppealDispositionPartialQuantity>
+      <foia:AppealDispositionReversedQuantity>0</foia:AppealDispositionReversedQuantity>
+      <foia:AppealDispositionOtherQuantity>3</foia:AppealDispositionOtherQuantity>
+      <foia:AppealDispositionTotalQuantity>18</foia:AppealDispositionTotalQuantity>
+    </foia:AppealDisposition>
+    <foia:AppealDispositionOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="AD1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:AppealDispositionOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:AppealDispositionSection>
+  <foia:AppealDispositionAppliedExemptionsSection>
+    <foia:ComponentAppliedExemptions s:id="ADE1">
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 1</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 2</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 3</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>1</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 4</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>11</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 5</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>4</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 6</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>6</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(A)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(B)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(C)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(D)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(E)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 7(F)</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 8</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>10</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+      <foia:AppliedExemption>
+        <foia:AppliedExemptionCode>Ex. 9</foia:AppliedExemptionCode>
+        <foia:AppliedExemptionQuantity>0</foia:AppliedExemptionQuantity>
+      </foia:AppliedExemption>
+    </foia:ComponentAppliedExemptions>
+    <foia:ComponentAppliedExemptionsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="ADE1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ComponentAppliedExemptionsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:AppealDispositionAppliedExemptionsSection>
+  <foia:AppealNonExemptionDenialSection>
+    <foia:AppealNonExemptionDenial s:id="ANE1">
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>Duplicate</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>ExpeditedDenial</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>FeeRelated</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>ImproperRequest</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>InLitigation</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>NoRecords</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>NotAgency</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>NotDescribed</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>Other</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>3</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>Referred</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+      <foia:NonExemptionDenial>
+        <foia:NonExemptionDenialReasonCode>Withdrawn</foia:NonExemptionDenialReasonCode>
+        <foia:NonExemptionDenialQuantity>0</foia:NonExemptionDenialQuantity>
+      </foia:NonExemptionDenial>
+    </foia:AppealNonExemptionDenial>
+    <foia:AppealNonExemptionDenialOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="ANE1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:AppealNonExemptionDenialOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:AppealNonExemptionDenialSection>
+  <foia:AppealDenialOtherReasonSection>
+    <foia:ComponentOtherDenialReason s:id="ADOR8">
+      <foia:OtherDenialReason>
+        <foia:OtherDenialReasonDescriptionText>Untimely Appeal</foia:OtherDenialReasonDescriptionText>
+        <foia:OtherDenialReasonQuantity>2</foia:OtherDenialReasonQuantity>
+      </foia:OtherDenialReason>
+      <foia:OtherDenialReason>
+        <foia:OtherDenialReasonDescriptionText>Withdrawn</foia:OtherDenialReasonDescriptionText>
+        <foia:OtherDenialReasonQuantity>1</foia:OtherDenialReasonQuantity>
+      </foia:OtherDenialReason>
+      <foia:ComponentOtherDenialReasonQuantity>3</foia:ComponentOtherDenialReasonQuantity>
+    </foia:ComponentOtherDenialReason>
+    <foia:OtherDenialReasonOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="ADOR8" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:OtherDenialReasonOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:AppealDenialOtherReasonSection>
+  <foia:AppealResponseTimeSection>
+    <foia:ResponseTime s:id="ART0">
+      <foia:ResponseTimeMedianDaysValue>30</foia:ResponseTimeMedianDaysValue>
+      <foia:ResponseTimeAverageDaysValue>44</foia:ResponseTimeAverageDaysValue>
+      <foia:ResponseTimeLowestDaysValue>8</foia:ResponseTimeLowestDaysValue>
+      <foia:ResponseTimeHighestDaysValue>111</foia:ResponseTimeHighestDaysValue>
+    </foia:ResponseTime>
+    <foia:ResponseTimeOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="ART0" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ResponseTimeOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:AppealResponseTimeSection>
+  <foia:OldestPendingAppealSection>
+    <foia:OldestPendingItems s:id="OPA10">
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2011-08-03</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>291</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2012-04-30</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>106</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2012-08-21</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>27</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2012-08-22</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>26</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2012-08-24</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>24</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2012-09-06</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>16</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2012-09-11</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>13</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2012-09-17</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>9</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+    </foia:OldestPendingItems>
+    <foia:OldestPendingItemsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="OPA10" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:OldestPendingItemsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:OldestPendingAppealSection>
+  <foia:ProcessedResponseTimeSection>
+    <foia:ProcessedResponseTime s:id="PRT0">
+      <foia:SimpleResponseTime>
+        <foia:ResponseTimeMedianDaysValue>2</foia:ResponseTimeMedianDaysValue>
+        <foia:ResponseTimeAverageDaysValue>3</foia:ResponseTimeAverageDaysValue>
+        <foia:ResponseTimeLowestDaysValue>1</foia:ResponseTimeLowestDaysValue>
+        <foia:ResponseTimeHighestDaysValue>30</foia:ResponseTimeHighestDaysValue>
+      </foia:SimpleResponseTime>
+      <foia:ComplexResponseTime>
+        <foia:ResponseTimeMedianDaysValue>31</foia:ResponseTimeMedianDaysValue>
+        <foia:ResponseTimeAverageDaysValue>62</foia:ResponseTimeAverageDaysValue>
+        <foia:ResponseTimeLowestDaysValue>1</foia:ResponseTimeLowestDaysValue>
+        <foia:ResponseTimeHighestDaysValue>765</foia:ResponseTimeHighestDaysValue>
+      </foia:ComplexResponseTime>
+      <foia:ExpeditedResponseTime>
+        <foia:ResponseTimeMedianDaysValue>28</foia:ResponseTimeMedianDaysValue>
+        <foia:ResponseTimeAverageDaysValue>28</foia:ResponseTimeAverageDaysValue>
+        <foia:ResponseTimeLowestDaysValue>26</foia:ResponseTimeLowestDaysValue>
+        <foia:ResponseTimeHighestDaysValue>31</foia:ResponseTimeHighestDaysValue>
+      </foia:ExpeditedResponseTime>
+    </foia:ProcessedResponseTime>
+    <foia:ProcessedResponseTimeOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="PRT0" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ProcessedResponseTimeOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:ProcessedResponseTimeSection>
+  <foia:InformationGrantedResponseTimeSection>
+    <foia:ProcessedResponseTime s:id="IGR0">
+      <foia:SimpleResponseTime>
+        <foia:ResponseTimeMedianDaysValue>2</foia:ResponseTimeMedianDaysValue>
+        <foia:ResponseTimeAverageDaysValue>3</foia:ResponseTimeAverageDaysValue>
+        <foia:ResponseTimeLowestDaysValue>1</foia:ResponseTimeLowestDaysValue>
+        <foia:ResponseTimeHighestDaysValue>30</foia:ResponseTimeHighestDaysValue>
+      </foia:SimpleResponseTime>
+      <foia:ComplexResponseTime>
+        <foia:ResponseTimeMedianDaysValue>22</foia:ResponseTimeMedianDaysValue>
+        <foia:ResponseTimeAverageDaysValue>46</foia:ResponseTimeAverageDaysValue>
+        <foia:ResponseTimeLowestDaysValue>1</foia:ResponseTimeLowestDaysValue>
+        <foia:ResponseTimeHighestDaysValue>398</foia:ResponseTimeHighestDaysValue>
+      </foia:ComplexResponseTime>
+      <foia:ExpeditedResponseTime>
+        <foia:ResponseTimeMedianDaysValue>0</foia:ResponseTimeMedianDaysValue>
+        <foia:ResponseTimeAverageDaysValue>0</foia:ResponseTimeAverageDaysValue>
+        <foia:ResponseTimeLowestDaysValue>0</foia:ResponseTimeLowestDaysValue>
+        <foia:ResponseTimeHighestDaysValue>0</foia:ResponseTimeHighestDaysValue>
+      </foia:ExpeditedResponseTime>
+    </foia:ProcessedResponseTime>
+    <foia:ProcessedResponseTimeOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="IGR0" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ProcessedResponseTimeOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:InformationGrantedResponseTimeSection>
+  <foia:SimpleResponseTimeIncrementsSection>
+    <foia:ComponentResponseTimeIncrements s:id="SRT1">
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>1-20</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>355</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>21-40</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>3</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>41-60</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>61-80</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>81-100</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>101-120</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>121-140</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>141-160</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>161-180</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>181-200</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>201-300</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>301-400</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>401+</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrementTotalQuantity>358</foia:TimeIncrementTotalQuantity>
+    </foia:ComponentResponseTimeIncrements>
+    <foia:ResponseTimeIncrementsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="SRT1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ResponseTimeIncrementsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:SimpleResponseTimeIncrementsSection>
+  <foia:ComplexResponseTimeIncrementsSection>
+    <foia:ComponentResponseTimeIncrements s:id="CRT1">
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>1-20</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>198</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>21-40</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>101</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>41-60</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>45</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>61-80</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>48</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>81-100</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>25</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>101-120</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>21</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>121-140</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>10</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>141-160</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>22</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>161-180</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>7</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>181-200</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>18</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>201-300</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>32</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>301-400</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>2</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>401+</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>2</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrementTotalQuantity>531</foia:TimeIncrementTotalQuantity>
+    </foia:ComponentResponseTimeIncrements>
+    <foia:ResponseTimeIncrementsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="CRT1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ResponseTimeIncrementsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:ComplexResponseTimeIncrementsSection>
+  <foia:ExpeditedResponseTimeIncrementsSection>
+    <foia:ComponentResponseTimeIncrements s:id="ERT1">
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>1-20</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>21-40</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>2</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>41-60</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>61-80</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>81-100</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>101-120</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>121-140</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>141-160</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>161-180</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>181-200</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>201-300</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>301-400</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrement>
+        <foia:TimeIncrementCode>401+</foia:TimeIncrementCode>
+        <foia:TimeIncrementProcessedQuantity>0</foia:TimeIncrementProcessedQuantity>
+      </foia:TimeIncrement>
+      <foia:TimeIncrementTotalQuantity>2</foia:TimeIncrementTotalQuantity>
+    </foia:ComponentResponseTimeIncrements>
+    <foia:ResponseTimeIncrementsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="ERT1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ResponseTimeIncrementsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:ExpeditedResponseTimeIncrementsSection>
+  <foia:PendingPerfectedRequestsSection>
+    <foia:PendingPerfectedRequests s:id="PPR0">
+      <foia:SimplePendingRequestStatistics>
+        <foia:PendingRequestQuantity>0</foia:PendingRequestQuantity>
+        <foia:PendingRequestMedianDaysValue>0</foia:PendingRequestMedianDaysValue>
+        <foia:PendingRequestAverageDaysValue>0</foia:PendingRequestAverageDaysValue>
+      </foia:SimplePendingRequestStatistics>
+      <foia:ComplexPendingRequestStatistics>
+        <foia:PendingRequestQuantity>49</foia:PendingRequestQuantity>
+        <foia:PendingRequestMedianDaysValue>57</foia:PendingRequestMedianDaysValue>
+        <foia:PendingRequestAverageDaysValue>124</foia:PendingRequestAverageDaysValue>
+      </foia:ComplexPendingRequestStatistics>
+      <foia:ExpeditedPendingRequestStatistics>
+        <foia:PendingRequestQuantity>4</foia:PendingRequestQuantity>
+        <foia:PendingRequestMedianDaysValue>170</foia:PendingRequestMedianDaysValue>
+        <foia:PendingRequestAverageDaysValue>135</foia:PendingRequestAverageDaysValue>
+      </foia:ExpeditedPendingRequestStatistics>
+    </foia:PendingPerfectedRequests>
+    <foia:PendingPerfectedRequestsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="PPR0" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:PendingPerfectedRequestsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:PendingPerfectedRequestsSection>
+  <foia:OldestPendingRequestSection>
+    <foia:OldestPendingItems s:id="OPR10">
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2009-08-11</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>784</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2009-12-08</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>703</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2010-03-26</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>633</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2011-01-20</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>427</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2011-05-16</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>346</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2011-08-29</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>273</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2011-11-02</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>228</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2011-11-10</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>222</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2011-11-22</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>215</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+      <foia:OldItem>
+        <foia:OldItemReceiptDate>2011-12-15</foia:OldItemReceiptDate>
+        <foia:OldItemPendingDaysQuantity>199</foia:OldItemPendingDaysQuantity>
+      </foia:OldItem>
+    </foia:OldestPendingItems>
+    <foia:OldestPendingItemsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="OPR10" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:OldestPendingItemsOrganizationAssociation>
+    <foia:FootnoteText>*The date was incorrectly reported in the Fiscal Year 2011 Annual Report as 12/5/2009.</foia:FootnoteText>
+  </foia:OldestPendingRequestSection>
+  <foia:ExpeditedProcessingSection>
+    <foia:ExpeditedProcessing s:id="EP0">
+      <foia:RequestGrantedQuantity>6</foia:RequestGrantedQuantity>
+      <foia:RequestDeniedQuantity>7</foia:RequestDeniedQuantity>
+      <foia:AdjudicationMedianDaysValue>10</foia:AdjudicationMedianDaysValue>
+      <foia:AdjudicationAverageDaysValue>15</foia:AdjudicationAverageDaysValue>
+      <foia:AdjudicationWithinTenDaysQuantity>7</foia:AdjudicationWithinTenDaysQuantity>
+    </foia:ExpeditedProcessing>
+    <foia:ExpeditedProcessingOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="EP0" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ExpeditedProcessingOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:ExpeditedProcessingSection>
+  <foia:FeeWaiverSection>
+    <foia:FeeWaiver s:id="FW0">
+      <foia:RequestGrantedQuantity>0</foia:RequestGrantedQuantity>
+      <foia:RequestDeniedQuantity>0</foia:RequestDeniedQuantity>
+      <foia:AdjudicationMedianDaysValue>0</foia:AdjudicationMedianDaysValue>
+      <foia:AdjudicationAverageDaysValue>0</foia:AdjudicationAverageDaysValue>
+    </foia:FeeWaiver>
+    <foia:FeeWaiverOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="FW0" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:FeeWaiverOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:FeeWaiverSection>
+  <foia:PersonnelAndCostSection>
+    <foia:PersonnelAndCost s:id="PC1">
+      <foia:FullTimeEmployeeQuantity>9</foia:FullTimeEmployeeQuantity>
+      <foia:EquivalentFullTimeEmployeeQuantity>12</foia:EquivalentFullTimeEmployeeQuantity>
+      <foia:TotalFullTimeStaffQuantity>21</foia:TotalFullTimeStaffQuantity>
+      <foia:ProcessingCostAmount>1668248</foia:ProcessingCostAmount>
+      <foia:LitigationCostAmount>97344</foia:LitigationCostAmount>
+      <foia:TotalCostAmount>1765592</foia:TotalCostAmount>
+    </foia:PersonnelAndCost>
+    <foia:PersonnelAndCostOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="PC1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:PersonnelAndCostOrganizationAssociation>
+  </foia:PersonnelAndCostSection>
+  <foia:FeesCollectedSection>
+    <foia:FeesCollected s:id="FC1">
+      <foia:FeesCollectedAmount>10307</foia:FeesCollectedAmount>
+      <foia:FeesCollectedCostPercent>0.6200</foia:FeesCollectedCostPercent>
+    </foia:FeesCollected>
+    <foia:FeesCollectedOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="FC1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:FeesCollectedOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:FeesCollectedSection>
+  <foia:BacklogSection>
+    <foia:Backlog s:id="BK1">
+      <foia:BackloggedRequestQuantity>30</foia:BackloggedRequestQuantity>
+      <foia:BackloggedAppealQuantity>5</foia:BackloggedAppealQuantity>
+    </foia:Backlog>
+    <foia:BacklogOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="BK1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:BacklogOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:BacklogSection>
+  <foia:ProcessedConsultationSection>
+    <foia:ProcessingStatistics s:id="PCN1">
+      <foia:ProcessingStatisticsPendingAtStartQuantity>0</foia:ProcessingStatisticsPendingAtStartQuantity>
+      <foia:ProcessingStatisticsReceivedQuantity>0</foia:ProcessingStatisticsReceivedQuantity>
+      <foia:ProcessingStatisticsProcessedQuantity>0</foia:ProcessingStatisticsProcessedQuantity>
+      <foia:ProcessingStatisticsPendingAtEndQuantity>0</foia:ProcessingStatisticsPendingAtEndQuantity>
+    </foia:ProcessingStatistics>
+    <foia:ProcessingStatisticsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="PCN1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ProcessingStatisticsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:ProcessedConsultationSection>
+  <foia:OldestPendingConsultationSection>
+    <foia:OldestPendingItems s:id="OPC10" />
+    <foia:OldestPendingItemsOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="OPC10" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:OldestPendingItemsOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:OldestPendingConsultationSection>
+  <foia:ProcessedRequestComparisonSection>
+    <foia:ProcessingComparison s:id="RPC1">
+      <foia:ItemsReceivedLastYearQuantity>823</foia:ItemsReceivedLastYearQuantity>
+      <foia:ItemsReceivedCurrentYearQuantity>899</foia:ItemsReceivedCurrentYearQuantity>
+      <foia:ItemsProcessedLastYearQuantity>848</foia:ItemsProcessedLastYearQuantity>
+      <foia:ItemsProcessedCurrentYearQuantity>891</foia:ItemsProcessedCurrentYearQuantity>
+    </foia:ProcessingComparison>
+    <foia:ProcessingComparisonOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="RPC1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ProcessingComparisonOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:ProcessedRequestComparisonSection>
+  <foia:BackloggedRequestComparisonSection>
+    <foia:BacklogComparison s:id="RBC1">
+      <foia:BacklogLastYearQuantity>20</foia:BacklogLastYearQuantity>
+      <foia:BacklogCurrentYearQuantity>30</foia:BacklogCurrentYearQuantity>
+    </foia:BacklogComparison>
+    <foia:BacklogComparisonOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="RBC1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:BacklogComparisonOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:BackloggedRequestComparisonSection>
+  <foia:ProcessedAppealComparisonSection>
+    <foia:ProcessingComparison s:id="APC1">
+      <foia:ItemsReceivedLastYearQuantity>16</foia:ItemsReceivedLastYearQuantity>
+      <foia:ItemsReceivedCurrentYearQuantity>25</foia:ItemsReceivedCurrentYearQuantity>
+      <foia:ItemsProcessedLastYearQuantity>17</foia:ItemsProcessedLastYearQuantity>
+      <foia:ItemsProcessedCurrentYearQuantity>18</foia:ItemsProcessedCurrentYearQuantity>
+    </foia:ProcessingComparison>
+    <foia:ProcessingComparisonOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="APC1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:ProcessingComparisonOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:ProcessedAppealComparisonSection>
+  <foia:BackloggedAppealComparisonSection>
+    <foia:BacklogComparison s:id="ABC1">
+      <foia:BacklogLastYearQuantity>1</foia:BacklogLastYearQuantity>
+      <foia:BacklogCurrentYearQuantity>5</foia:BacklogCurrentYearQuantity>
+    </foia:BacklogComparison>
+    <foia:BacklogComparisonOrganizationAssociation>
+      <foia:ComponentDataReference s:ref="ABC1" />
+      <nc:OrganizationReference s:ref="ORG0" />
+    </foia:BacklogComparisonOrganizationAssociation>
+    <foia:FootnoteText />
+  </foia:BackloggedAppealComparisonSection>
+</iepd:FoiaAnnualReport>
