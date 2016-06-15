@@ -2,8 +2,28 @@
 Tracking FOIA data across government agencies and departments  
 
 ## Data in this Repository  
-[foia.gov Data](https://github.com/sunlightlabs/foia-data/tree/master/data/foia.gov)
+[foia.gov Data](https://github.com/sunlightlabs/foia-data/tree/master/data/foia.gov)  
 [18f/foia Repository Data](https://github.com/sunlightlabs/foia-data/tree/master/data/open.foia.gov)  
+
+## [FOIA.gov Data Options Not Offered](https://www.foia.gov/data.html)  
+
+
+### Requests - Expedited Processing  
+Denial  
+Pending  
+
+### Report Category: Fee Waive  
+Requests  
+
+### Advanced Report Categories  
+Denial  
+Exemption 3 Statutes  
+Denials(Reasons)  
+Ten Oldest  
+Comparisons  
+Backlogged  
+Administrative Appeals  
+Appeals Backlogged
 
 ### Data in this Repository References  
 
