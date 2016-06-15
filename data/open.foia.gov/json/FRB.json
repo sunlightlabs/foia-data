@@ -1,0 +1,341 @@
+{
+    "abbreviation": "FRB", 
+    "description": "The Federal Reserve is the central bank of the United States. It formulates and administers credit and monetary policy.", 
+    "name": "Federal Reserve System", 
+    "keywords": [
+        "Accountants", 
+        "Accounting", 
+        "Administrative practice and procedure", 
+        "Advertising", 
+        "Aged", 
+        "Agriculture", 
+        "Antitrust", 
+        "Authority delegations (Government agencies)", 
+        "Bank deposit insurance", 
+        "Banks, banking", 
+        "Brokers", 
+        "Business and industry", 
+        "Civil rights", 
+        "Claims", 
+        "Commodity futures", 
+        "Community development", 
+        "Confidential business information", 
+        "Conflict of interests", 
+        "Consumer protection", 
+        "Credit", 
+        "Credit unions", 
+        "Crime", 
+        "Currency", 
+        "Electronic funds transfers", 
+        "Equal access to justice", 
+        "Equal employment opportunity", 
+        "Ethics", 
+        "Exports", 
+        "Federal Open Market Committee", 
+        "Federal Reserve System", 
+        "Federal buildings and facilities", 
+        "Flood insurance", 
+        "Foreign banking", 
+        "Foreign currencies", 
+        "Foreign relations", 
+        "Foreign trade", 
+        "Freedom of information", 
+        "Gambling", 
+        "Government employees", 
+        "Government property", 
+        "Government securities", 
+        "Holding companies", 
+        "Individuals with disabilities", 
+        "Insurance", 
+        "Insurance companies", 
+        "Intergovernmental relations", 
+        "Investigations", 
+        "Investment companies", 
+        "Investments", 
+        "Law enforcement", 
+        "Lawyers", 
+        "Loan programs-housing and community development", 
+        "Manufactured homes", 
+        "Marital status discrimination", 
+        "Mortgages", 
+        "National banks", 
+        "Nonprofit organizations", 
+        "Organization and functions (Government agencies)", 
+        "Penalties", 
+        "Privacy", 
+        "Religious discrimination", 
+        "Reporting and recordkeeping requirements", 
+        "Rural areas", 
+        "Savings associations", 
+        "Securities", 
+        "Security measures", 
+        "Sex discrimination", 
+        "Sunshine Act", 
+        "Surety bonds", 
+        "Trade practices", 
+        "Trusts and trustees", 
+        "Truth in lending", 
+        "Truth in savings", 
+        "United States investments abroad", 
+        "Wages"
+    ], 
+    "usa_id": "49046", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Reading Rooms", 
+                    "http://www.federalreserve.gov/foia/readingrooms.htm"
+                ], 
+                [
+                    "conventional reading room", 
+                    "http://www.federalreserve.gov/foia/readingrooms.htm#rr3"
+                ], 
+                [
+                    "electronic reading room", 
+                    "http://www.federalreserve.gov/foia/readingrooms.htm#rr1"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-452-3684"
+                ]
+            }, 
+            "fax": "202-872-7565", 
+            "name": "Federal Reserve System", 
+            "request_form": "http://www.federalreserve.gov/forms/efoiaform.aspx", 
+            "usa_id": "49046", 
+            "misc": {
+                "FOIA Manager": {
+                    "phone": [
+                        "202-452-3648"
+                    ], 
+                    "name": "Jeanne McLaughlin"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "290", 
+                    "expedited_processing_highest_days": "523", 
+                    "simple_median_days": "4", 
+                    "complex_median_days": "28", 
+                    "complex_highest_days": "480", 
+                    "simple_highest_days": "213", 
+                    "expedited_processing_median_days": "290", 
+                    "simple_average_days": "9", 
+                    "expedited_processing_lowest_days": "58", 
+                    "complex_average_days": "43"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "136", 
+                    "expedited_processing_highest_days": "138", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "11", 
+                    "complex_highest_days": "138", 
+                    "simple_highest_days": "32", 
+                    "expedited_processing_median_days": "136", 
+                    "simple_average_days": "3", 
+                    "expedited_processing_lowest_days": "134", 
+                    "complex_average_days": "19"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "28", 
+                    "expedited_processing_highest_days": "87", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "29", 
+                    "complex_highest_days": "344", 
+                    "simple_highest_days": "39", 
+                    "expedited_processing_median_days": "30", 
+                    "simple_average_days": "4", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "33"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "21", 
+                    "complex_highest_days": "516", 
+                    "simple_highest_days": "33", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "47"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "12", 
+                    "expedited_processing_highest_days": "24", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "55", 
+                    "complex_highest_days": "487", 
+                    "simple_highest_days": "120", 
+                    "expedited_processing_median_days": "24", 
+                    "simple_average_days": "5", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "105"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "355", 
+                    "expedited_processing_highest_days": "358", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "30", 
+                    "complex_highest_days": "1027", 
+                    "simple_highest_days": "164", 
+                    "expedited_processing_median_days": "358", 
+                    "simple_average_days": "5", 
+                    "expedited_processing_lowest_days": "350", 
+                    "complex_average_days": "60"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "28", 
+                    "expedited_processing_highest_days": "31", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "31", 
+                    "complex_highest_days": "765", 
+                    "simple_highest_days": "30", 
+                    "expedited_processing_median_days": "28", 
+                    "simple_average_days": "3", 
+                    "expedited_processing_lowest_days": "26", 
+                    "complex_average_days": "62"
+                }
+            }, 
+            "website": "http://www.federalreserve.gov/foia/about_foia.htm", 
+            "phone": "202-452-3684", 
+            "public_liaison": {
+                "phone": [
+                    "202-452-2407"
+                ], 
+                "name": "Jeanne McLaughlin"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Jeanne McLaughlin", 
+                    "FOIA Manager"
+                ], 
+                "state": "DC", 
+                "street": "20th & Constitution Avenue, NW", 
+                "zip": "20551", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foirequests@frb.gov"
+            ], 
+            "description": "The Federal Reserve is the central bank of the United States. It formulates and administers credit and monetary policy."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "290", 
+            "expedited_processing_highest_days": "523", 
+            "simple_median_days": "4", 
+            "complex_median_days": "28", 
+            "complex_highest_days": "480", 
+            "simple_highest_days": "213", 
+            "expedited_processing_median_days": "290", 
+            "simple_average_days": "9", 
+            "expedited_processing_lowest_days": "58", 
+            "complex_average_days": "43"
+        }, 
+        "2008": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "136", 
+            "expedited_processing_highest_days": "138", 
+            "simple_median_days": "2", 
+            "complex_median_days": "11", 
+            "complex_highest_days": "138", 
+            "simple_highest_days": "32", 
+            "expedited_processing_median_days": "136", 
+            "simple_average_days": "3", 
+            "expedited_processing_lowest_days": "134", 
+            "complex_average_days": "19"
+        }, 
+        "2009": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "28", 
+            "expedited_processing_highest_days": "87", 
+            "simple_median_days": "2", 
+            "complex_median_days": "29", 
+            "complex_highest_days": "344", 
+            "simple_highest_days": "39", 
+            "expedited_processing_median_days": "30", 
+            "simple_average_days": "4", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "33"
+        }, 
+        "2011": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "1", 
+            "complex_median_days": "21", 
+            "complex_highest_days": "516", 
+            "simple_highest_days": "33", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "3", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "47"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "12", 
+            "expedited_processing_highest_days": "24", 
+            "simple_median_days": "2", 
+            "complex_median_days": "55", 
+            "complex_highest_days": "487", 
+            "simple_highest_days": "120", 
+            "expedited_processing_median_days": "24", 
+            "simple_average_days": "5", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "105"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "355", 
+            "expedited_processing_highest_days": "358", 
+            "simple_median_days": "2", 
+            "complex_median_days": "30", 
+            "complex_highest_days": "1027", 
+            "simple_highest_days": "164", 
+            "expedited_processing_median_days": "358", 
+            "simple_average_days": "5", 
+            "expedited_processing_lowest_days": "350", 
+            "complex_average_days": "60"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "28", 
+            "expedited_processing_highest_days": "31", 
+            "simple_median_days": "2", 
+            "complex_median_days": "31", 
+            "complex_highest_days": "765", 
+            "simple_highest_days": "30", 
+            "expedited_processing_median_days": "28", 
+            "simple_average_days": "3", 
+            "expedited_processing_lowest_days": "26", 
+            "complex_average_days": "62"
+        }
+    }
+}

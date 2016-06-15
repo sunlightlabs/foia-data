@@ -1,0 +1,161 @@
+{
+    "abbreviation": "ONHIR", 
+    "name": "Office of Navajo and Hopi Indian Relocation", 
+    "description": "The Office of Navajo and Hopi Indian Relocation (ONHIR) was established by Congress to implement the settlement of a land conflict between the Navajo and Hopi Indian Tribes.", 
+    "departments": [
+        {
+            "website": "http://onhir.gov/", 
+            "service_center": {
+                "phone": [
+                    "928-779-2727 x145"
+                ]
+            }, 
+            "fax": "978-774-1977", 
+            "name": "Office of Navajo and Hopi Indian Relocation", 
+            "misc": {
+                "Freedom of Information/Privacy Act Officer": {
+                    "phone": [
+                        "928-779-2727 x145"
+                    ], 
+                    "name": "Scott Kuhr"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "2.39", 
+                    "simple_highest_days": "16", 
+                    "simple_median_days": "1"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "16", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "4.43", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "38", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "12", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "expedited_processing_highest_days": "0", 
+                    "simple_average_days": "8.53", 
+                    "simple_highest_days": "37", 
+                    "simple_median_days": "6", 
+                    "simple_lowest_days": "1"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "28", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "5.5", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "phone": "928-779-2727 x145", 
+            "public_liaison": {
+                "phone": [
+                    "928-779-2721"
+                ], 
+                "name": "Lawrence A. Ruzzow"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Scott Kuhr", 
+                    "Freedom of Information/Privacy Act Officer", 
+                    "P.O. Box KK"
+                ], 
+                "state": "AZ", 
+                "street": "201 E. Birch Avenue", 
+                "zip": "86002", 
+                "city": "Flagstaff"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "eligilility@onhir.gov"
+            ]
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "2.39", 
+            "simple_highest_days": "16", 
+            "simple_median_days": "1"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "3", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "16", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "4.43", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "6", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "38", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "12", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "expedited_processing_highest_days": "0", 
+            "simple_average_days": "8.53", 
+            "simple_highest_days": "37", 
+            "simple_median_days": "6", 
+            "simple_lowest_days": "1"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "3", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "28", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "5.5", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }
+    }
+}

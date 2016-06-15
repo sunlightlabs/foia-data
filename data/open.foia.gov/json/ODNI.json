@@ -1,0 +1,180 @@
+{
+    "abbreviation": "DNI", 
+    "description": "The goal of the Office of the Director of National Intelligence is to integrate the intelligence gathering and analysis functions performed across the intelligence community in order to provide the best intelligence in the timeliest manner to decision makers.", 
+    "name": "Office of the Director of National Intelligence", 
+    "usa_id": "49595", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "ODNI's Electronic Reading Room", 
+                    "http://www.dni.gov/index.php/intelligence-community/ic-policies-reports"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "703-874-8500"
+                ]
+            }, 
+            "fax": "703-874-8910", 
+            "name": "Office of the Director of National Intelligence", 
+            "usa_id": "49595", 
+            "misc": {
+                "Director, Information Management Office": {
+                    "phone": [
+                        "703-874-8500"
+                    ], 
+                    "name": "Jennifer Hudson"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "138", 
+                    "complex_highest_days": "1949", 
+                    "simple_highest_days": "232", 
+                    "simple_average_days": "20.52", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "301.85"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "simple_median_days": "4", 
+                    "complex_median_days": "26.5", 
+                    "complex_highest_days": "823", 
+                    "simple_highest_days": "1029", 
+                    "simple_average_days": "41.87", 
+                    "complex_average_days": "94"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "2", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "88", 
+                    "complex_median_days": "122", 
+                    "complex_highest_days": "991", 
+                    "simple_highest_days": "847", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "134.99", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "305.53"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "simple_median_days": "16", 
+                    "complex_median_days": "64.5", 
+                    "complex_highest_days": "1145", 
+                    "simple_highest_days": "1407", 
+                    "simple_average_days": "86.12", 
+                    "complex_average_days": "167.91"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "208", 
+                    "expedited_processing_highest_days": "579", 
+                    "simple_median_days": "4", 
+                    "complex_median_days": "42.5", 
+                    "complex_highest_days": "1163", 
+                    "simple_highest_days": "772", 
+                    "expedited_processing_median_days": "23", 
+                    "simple_average_days": "16.54", 
+                    "expedited_processing_lowest_days": "22", 
+                    "complex_average_days": "190.28"
+                }
+            }, 
+            "website": "http://www.dni.gov/foia.htm", 
+            "phone": "703-874-8500", 
+            "public_liaison": {
+                "phone": [
+                    "703-874-8500"
+                ], 
+                "name": "Jennifer Hudson"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Jennifer L. Hudson", 
+                    "Director, Information Management Division", 
+                    "Office of the Director of National Intelligence"
+                ], 
+                "state": "DC", 
+                "street": "", 
+                "zip": "20511", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "dni-foia@dni.gov"
+            ], 
+            "description": "The goal of the Office of the Director of National Intelligence is to integrate the intelligence gathering and analysis functions performed across the intelligence community in order to provide the best intelligence in the timeliest manner to decision makers."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "9", 
+            "complex_median_days": "138", 
+            "complex_highest_days": "1949", 
+            "simple_highest_days": "232", 
+            "simple_average_days": "20.52", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "301.85"
+        }, 
+        "2011": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "simple_median_days": "4", 
+            "complex_median_days": "26.5", 
+            "complex_highest_days": "823", 
+            "simple_highest_days": "1029", 
+            "simple_average_days": "41.87", 
+            "complex_average_days": "94"
+        }, 
+        "2010": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "2", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "88", 
+            "complex_median_days": "122", 
+            "complex_highest_days": "991", 
+            "simple_highest_days": "847", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "134.99", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "305.53"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "simple_median_days": "16", 
+            "complex_median_days": "64.5", 
+            "complex_highest_days": "1145", 
+            "simple_highest_days": "1407", 
+            "simple_average_days": "86.12", 
+            "complex_average_days": "167.91"
+        }, 
+        "2012": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "208", 
+            "expedited_processing_highest_days": "579", 
+            "simple_median_days": "4", 
+            "complex_median_days": "42.5", 
+            "complex_highest_days": "1163", 
+            "simple_highest_days": "772", 
+            "expedited_processing_median_days": "23", 
+            "simple_average_days": "16.54", 
+            "expedited_processing_lowest_days": "22", 
+            "complex_average_days": "190.28"
+        }
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "abbreviation": "RRB", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Aged", 
+        "Air traffic controllers", 
+        "Alcoholism", 
+        "Alimony", 
+        "Archives and records", 
+        "Blind", 
+        "Cemeteries", 
+        "Child support", 
+        "Claims", 
+        "Courts", 
+        "Crime", 
+        "Disability benefits", 
+        "Drug abuse", 
+        "Firefighters", 
+        "Flags", 
+        "Freedom of information", 
+        "Government contracts", 
+        "Government employees", 
+        "Government property", 
+        "Income taxes", 
+        "Insurance", 
+        "Intergovernmental relations", 
+        "Inventions and patents", 
+        "Investigations", 
+        "Law enforcement officers", 
+        "Medicaid", 
+        "Organization and functions (Government agencies)", 
+        "Parking", 
+        "Penalties", 
+        "Privacy", 
+        "Railroad employees", 
+        "Railroad retirement", 
+        "Railroad unemployment insurance", 
+        "Reporting and recordkeeping requirements", 
+        "Retirement", 
+        "Seals and insignia", 
+        "Security measures", 
+        "Social security", 
+        "Sunshine Act", 
+        "Supplemental Security Income (SSI)", 
+        "Travel and transportation expenses", 
+        "Treaties", 
+        "Veterans", 
+        "Vocational rehabilitation", 
+        "Wages"
+    ], 
+    "description": "The Railroad Retirement Board administers retirement and survivor, unemployment and sickness benefits for U.S. railroad workers and their families.", 
+    "request_form": "https://secure.rrb.gov/efoia/", 
+    "usa_id": "52657", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "RRB Reading Room", 
+                    "http://www.rrb.gov/blaw/foia/foia_guide.asp#reading"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "312-751-4948"
+                ]
+            }, 
+            "fax": "312-751-7102", 
+            "name": "Main Office", 
+            "request_form": "https://secure.rrb.gov/efoia/", 
+            "top_level": false, 
+            "website": "http://www.rrb.gov/blaw/foia/foia.asp", 
+            "phone": "312-751-4936", 
+            "foia_officer": {
+                "phone": [
+                    "312-751-4936"
+                ], 
+                "name": "Eric Wooden"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "312-751-4936"
+                ], 
+                "name": "Marguerite P. Dadabo"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Eric Wooden", 
+                    "FOIA Officer"
+                ], 
+                "state": "IL", 
+                "street": "844 North Rush Street", 
+                "zip": "60611-2092", 
+                "city": "Chicago"
+            }
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "RRB Reading Room", 
+                    "http://www.rrb.gov/blaw/foia/foia_guide.asp#reading"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "312-751-4350"
+                ]
+            }, 
+            "name": "Office of the Inspector General", 
+            "request_form": "https://secure.rrb.gov/efoia/", 
+            "misc": {
+                "Freedom of Information Officer": {
+                    "phone": [
+                        "312-751-4350"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "54", 
+                    "simple_highest_days": "121", 
+                    "simple_median_days": "4"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "3", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "13", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "17", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "11", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "38", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "997", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "306", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "18", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "6.2", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "11.33", 
+                    "simple_highest_days": "26", 
+                    "simple_median_days": "7"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "6", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "19", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "11.6", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "website": "http://www.rrb.gov/blaw/foia/foia.asp", 
+            "phone": "312-751-4350", 
+            "public_liaison": {
+                "phone": [
+                    "312-751-4350"
+                ]
+            }, 
+            "address": {
+                "address_lines": [
+                    "Freedom of Information Officer", 
+                    "Room 450"
+                ], 
+                "state": "IL", 
+                "street": "844 North Rush Street", 
+                "zip": "60611-2092", 
+                "city": "Chicago"
+            }, 
+            "top_level": false
+        }
+    ], 
+    "name": "Railroad Retirement Board"
+}

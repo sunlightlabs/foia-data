@@ -1,0 +1,252 @@
+{
+    "abbreviation": "PRC", 
+    "description": "The Postal Regulatory Commission is responsible for oversight of the U.S. Postal Service, including oversight of rates and services, and ensuring the Postal Service meets all of its legal requirements.", 
+    "name": "Postal Regulatory Commission", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Confidential business information", 
+        "Freedom of information", 
+        "Organization and functions (Government agencies)", 
+        "Postal Service", 
+        "Privacy", 
+        "Reporting and recordkeeping requirements", 
+        "Seals and insignia", 
+        "Sunshine Act", 
+        "Trademarks"
+    ], 
+    "usa_id": "49621", 
+    "departments": [
+        {
+            "website": "http://www.prc.gov/prc-pages/misc/foia/default.aspx?AspxAutoDetectCookieSupport=1", 
+            "service_center": {
+                "phone": [
+                    "202-789-6800"
+                ]
+            }, 
+            "fax": "202-789-6891", 
+            "description": "The Postal Regulatory Commission is responsible for oversight of the U.S. Postal Service, including oversight of rates and services, and ensuring the Postal Service meets all of its legal requirements.", 
+            "request_form": "http://www.prc.gov/prc-pages/misc/foia/onlineform.aspx", 
+            "usa_id": "49621", 
+            "misc": {
+                "Assistant Secretary": {
+                    "phone": [
+                        "202-789-6800"
+                    ], 
+                    "name": "Ruth Ann Abrams"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "0", 
+                    "expedited_processing_average_days": "19", 
+                    "expedited_processing_highest_days": "19", 
+                    "simple_median_days": "12", 
+                    "simple_highest_days": "21", 
+                    "expedited_processing_median_days": "19", 
+                    "simple_average_days": "9", 
+                    "expedited_processing_lowest_days": "19"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "5", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "10", 
+                    "expedited_processing_highest_days": "12", 
+                    "simple_median_days": "15", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "57", 
+                    "expedited_processing_median_days": "10", 
+                    "simple_average_days": "11", 
+                    "expedited_processing_lowest_days": "8", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "29", 
+                    "expedited_processing_average_days": "5", 
+                    "expedited_processing_highest_days": "5", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "29", 
+                    "complex_highest_days": "29", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "5", 
+                    "simple_average_days": "7", 
+                    "expedited_processing_lowest_days": "5", 
+                    "complex_average_days": "29"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "27", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "27", 
+                    "complex_highest_days": "27", 
+                    "simple_highest_days": "15", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "5", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "27"
+                }
+            }, 
+            "phone": "202-789-6800", 
+            "public_liaison": {
+                "phone": [
+                    "202-789-6800"
+                ], 
+                "name": "Jennie Jbara"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Ruth Ann Abrams", 
+                    "Assistant Secretary", 
+                    "Suite 200 West"
+                ], 
+                "state": "DC", 
+                "street": "901 New York Avenue, NW", 
+                "zip": "20268", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "name": "Postal Regulatory Commission"
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "0", 
+            "expedited_processing_average_days": "19", 
+            "expedited_processing_highest_days": "19", 
+            "simple_median_days": "12", 
+            "simple_highest_days": "21", 
+            "expedited_processing_median_days": "19", 
+            "simple_average_days": "9", 
+            "expedited_processing_lowest_days": "19"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "2", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "5", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2009": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "0", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "0", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "0", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "10", 
+            "expedited_processing_highest_days": "12", 
+            "simple_median_days": "15", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "57", 
+            "expedited_processing_median_days": "10", 
+            "simple_average_days": "11", 
+            "expedited_processing_lowest_days": "8", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "3", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "6", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "29", 
+            "expedited_processing_average_days": "5", 
+            "expedited_processing_highest_days": "5", 
+            "simple_median_days": "6", 
+            "complex_median_days": "29", 
+            "complex_highest_days": "29", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "5", 
+            "simple_average_days": "7", 
+            "expedited_processing_lowest_days": "5", 
+            "complex_average_days": "29"
+        }, 
+        "2012": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "27", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "3", 
+            "complex_median_days": "27", 
+            "complex_highest_days": "27", 
+            "simple_highest_days": "15", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "5", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "27"
+        }
+    }
+}

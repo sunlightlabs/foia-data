@@ -1,0 +1,182 @@
+{
+    "abbreviation": "DNFSB", 
+    "description": "The Defense Nuclear Facilities Safety Board reviews the content and implementation of health and safety standards at Department of Energy Defense Nuclear Facilities. The board also makes recommendations to the President and Secretary of Energy regarding health and safety issues at Defense Nuclear Facilities.", 
+    "name": "Defense Nuclear Facilities Safety Board", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Conflict of interests", 
+        "Courts", 
+        "Government employees"
+    ], 
+    "usa_id": "52601", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Reading Room", 
+                    "http://www.dnfsb.gov/foia-reading-room"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-694-7088"
+                ], 
+                "name": "Andrew L. Thibadeau"
+            }, 
+            "name": "Defense Nuclear Facilities Safety Board", 
+            "usa_id": "52601", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "18", 
+                    "expedited_processing_highest_days": "35", 
+                    "simple_median_days": "16", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "256", 
+                    "expedited_processing_median_days": "18", 
+                    "simple_average_days": "30.48", 
+                    "expedited_processing_lowest_days": "3", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "6", 
+                    "expedited_processing_average_days": "7", 
+                    "expedited_processing_highest_days": "8", 
+                    "simple_median_days": "14", 
+                    "simple_highest_days": "39", 
+                    "expedited_processing_median_days": "7", 
+                    "simple_average_days": "14.53", 
+                    "expedited_processing_lowest_days": "6"
+                }
+            }, 
+            "website": "http://www.dnfsb.gov/foia-reading-room", 
+            "phone": "202-694-7088", 
+            "foia_officer": {
+                "phone": [
+                    "202-694-7088"
+                ], 
+                "name": "Andrew L. Thibadeau"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-694-7088"
+                ], 
+                "name": "Andrew L. Thibadeau"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Andrew L. Thibadeau", 
+                    "Information/FOIA Officer", 
+                    "Suite 700"
+                ], 
+                "state": "DC", 
+                "street": "625 Indiana Avenue, NW", 
+                "zip": "20004", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "andrewt@dnfsb.gov"
+            ], 
+            "description": "The Defense Nuclear Facilities Safety Board reviews the content and implementation of health and safety standards at Department of Energy Defense Nuclear Facilities. The board also makes recommendations to the President and Secretary of Energy regarding health and safety issues at Defense Nuclear Facilities."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "18", 
+            "expedited_processing_highest_days": "35", 
+            "simple_median_days": "16", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "256", 
+            "expedited_processing_median_days": "18", 
+            "simple_average_days": "30.48", 
+            "expedited_processing_lowest_days": "3", 
+            "complex_average_days": "0"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "6", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "19", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "6.3", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "2", 
+            "expedited_processing_highest_days": "2", 
+            "simple_median_days": "5.5", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "35", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "9", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "simple_lowest_days": "3", 
+            "complex_lowest_days": "62", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "14", 
+            "complex_median_days": "62", 
+            "complex_highest_days": "62", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "14", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "62"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "47", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "5", 
+            "complex_median_days": "47", 
+            "complex_highest_days": "47", 
+            "simple_highest_days": "29", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "7", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "47"
+        }, 
+        "2013": {
+            "simple_lowest_days": "6", 
+            "expedited_processing_average_days": "7", 
+            "expedited_processing_highest_days": "8", 
+            "simple_median_days": "14", 
+            "simple_highest_days": "39", 
+            "expedited_processing_median_days": "7", 
+            "simple_average_days": "14.53", 
+            "expedited_processing_lowest_days": "6"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "11", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "22", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "11", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }
+    }
+}

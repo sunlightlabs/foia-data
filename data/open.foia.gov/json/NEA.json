@@ -1,0 +1,189 @@
+{
+    "abbreviation": "NEA", 
+    "description": "A grant-making organization, to date the National Endowment for the Arts has awarded more than $4 billion to support artistic excellence, creativity, and innovation for the benefit of individuals and communities.", 
+    "name": "National Endowment for the Arts", 
+    "usa_id": "52634", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Reading Room, Frequently Requested Records", 
+                    "http://arts.gov/foia/reading-room"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-682-5418"
+                ]
+            }, 
+            "fax": "202-682-5572", 
+            "name": "National Endowment for the Arts", 
+            "usa_id": "52634", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "18", 
+                    "simple_median_days": "22", 
+                    "complex_median_days": "35", 
+                    "complex_highest_days": "710", 
+                    "simple_highest_days": "510", 
+                    "simple_average_days": "13", 
+                    "complex_average_days": "192"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "3", 
+                    "expedited_processing_average_days": "19.9", 
+                    "expedited_processing_highest_days": "79", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "36", 
+                    "complex_highest_days": "368", 
+                    "simple_highest_days": "815", 
+                    "expedited_processing_median_days": "10.5", 
+                    "simple_average_days": "30.2", 
+                    "expedited_processing_lowest_days": "6", 
+                    "complex_average_days": "130.4"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "12", 
+                    "expedited_processing_average_days": "2.7", 
+                    "expedited_processing_highest_days": "3", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "24.5", 
+                    "complex_highest_days": "120", 
+                    "simple_highest_days": "655", 
+                    "expedited_processing_median_days": "3", 
+                    "simple_average_days": "18.4", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "34.9"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "17", 
+                    "expedited_processing_average_days": "10", 
+                    "expedited_processing_highest_days": "18", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "253", 
+                    "complex_highest_days": "466", 
+                    "simple_highest_days": "301", 
+                    "expedited_processing_median_days": "11.5", 
+                    "simple_average_days": "27", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "25"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "48", 
+                    "expedited_processing_average_days": "14", 
+                    "expedited_processing_highest_days": "71", 
+                    "simple_median_days": "12", 
+                    "complex_median_days": "68", 
+                    "complex_highest_days": "331", 
+                    "simple_highest_days": "43", 
+                    "expedited_processing_median_days": "9", 
+                    "simple_average_days": "14", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "148"
+                }
+            }, 
+            "website": "http://www.arts.gov/about/FOIA/index.html", 
+            "phone": "202-682-5418", 
+            "foia_officer": {
+                "phone": [
+                    "202-682-5418"
+                ], 
+                "name": "Monica Ashar"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-682-5418"
+                ]
+            }, 
+            "address": {
+                "address_lines": [
+                    "Desiree Flippins", 
+                    "FOIA Officer", 
+                    "2049"
+                ], 
+                "state": "DC", 
+                "street": "400 7th Street, SW", 
+                "zip": "20506", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia@arts.gov"
+            ], 
+            "description": "A grant-making organization, to date the National Endowment for the Arts has awarded more than $4 billion to support artistic excellence, creativity, and innovation for the benefit of individuals and communities."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "2", 
+            "complex_lowest_days": "18", 
+            "simple_median_days": "22", 
+            "complex_median_days": "35", 
+            "complex_highest_days": "710", 
+            "simple_highest_days": "510", 
+            "simple_average_days": "13", 
+            "complex_average_days": "192"
+        }, 
+        "2011": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "3", 
+            "expedited_processing_average_days": "19.9", 
+            "expedited_processing_highest_days": "79", 
+            "simple_median_days": "6", 
+            "complex_median_days": "36", 
+            "complex_highest_days": "368", 
+            "simple_highest_days": "815", 
+            "expedited_processing_median_days": "10.5", 
+            "simple_average_days": "30.2", 
+            "expedited_processing_lowest_days": "6", 
+            "complex_average_days": "130.4"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "12", 
+            "expedited_processing_average_days": "2.7", 
+            "expedited_processing_highest_days": "3", 
+            "simple_median_days": "5", 
+            "complex_median_days": "24.5", 
+            "complex_highest_days": "120", 
+            "simple_highest_days": "655", 
+            "expedited_processing_median_days": "3", 
+            "simple_average_days": "18.4", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "34.9"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "17", 
+            "expedited_processing_average_days": "10", 
+            "expedited_processing_highest_days": "18", 
+            "simple_median_days": "6", 
+            "complex_median_days": "253", 
+            "complex_highest_days": "466", 
+            "simple_highest_days": "301", 
+            "expedited_processing_median_days": "11.5", 
+            "simple_average_days": "27", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "25"
+        }, 
+        "2012": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "48", 
+            "expedited_processing_average_days": "14", 
+            "expedited_processing_highest_days": "71", 
+            "simple_median_days": "12", 
+            "complex_median_days": "68", 
+            "complex_highest_days": "331", 
+            "simple_highest_days": "43", 
+            "expedited_processing_median_days": "9", 
+            "simple_average_days": "14", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "148"
+        }
+    }
+}

@@ -1,0 +1,262 @@
+{
+    "abbreviation": "CPSC", 
+    "description": "The CPSC protects the public from unreasonable risks of serious injury or death from thousands of types of consumer products under its jurisdiction, including products that pose a fire, electrical, chemical, or mechanical hazard or can injure children.", 
+    "name": "Consumer Product Safety Commission", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Business and industry", 
+        "Clothing", 
+        "Consumer protection", 
+        "Drugs", 
+        "Fire prevention", 
+        "Flammable materials", 
+        "Gasoline", 
+        "Hazardous substances", 
+        "Household appliances", 
+        "Human research subjects", 
+        "Imports", 
+        "Investigations", 
+        "Labeling", 
+        "Law enforcement", 
+        "Lead poisoning", 
+        "Mattresses and mattress pads", 
+        "Organization and functions (Government agencies)", 
+        "Packaging and containers", 
+        "Poison prevention", 
+        "Reporting and recordkeeping requirements", 
+        "Research", 
+        "Safety", 
+        "Textiles", 
+        "Toys", 
+        "Voluntary standards", 
+        "Youth"
+    ], 
+    "usa_id": "49013", 
+    "departments": [
+        {
+            "website": "http://www.cpsc.gov/en/Newsroom/FOIA/", 
+            "service_center": {
+                "phone": [
+                    "301-504-7923"
+                ]
+            }, 
+            "fax": "301-504-0127", 
+            "description": "The CPSC protects the public from unreasonable risks of serious injury or death from thousands of types of consumer products under its jurisdiction, including products that pose a fire, electrical, chemical, or mechanical hazard or can injure children.", 
+            "usa_id": "49013", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "18", 
+                    "complex_median_days": "50", 
+                    "complex_highest_days": "729", 
+                    "simple_highest_days": "481", 
+                    "simple_average_days": "32", 
+                    "complex_average_days": "81"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "5", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "60", 
+                    "complex_highest_days": "780", 
+                    "simple_highest_days": "50", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "12", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "85"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "17", 
+                    "complex_median_days": "68", 
+                    "complex_highest_days": "368", 
+                    "simple_highest_days": "332", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "33", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "68"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "64", 
+                    "complex_highest_days": "632", 
+                    "simple_highest_days": "580", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "51", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "97"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "19", 
+                    "complex_median_days": "65", 
+                    "complex_highest_days": "617", 
+                    "simple_highest_days": "350", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "40", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "87"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "11", 
+                    "complex_median_days": "53", 
+                    "complex_highest_days": "1159", 
+                    "simple_highest_days": "402", 
+                    "simple_average_days": "27", 
+                    "complex_average_days": "96"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "99", 
+                    "expedited_processing_highest_days": "99", 
+                    "simple_median_days": "8", 
+                    "complex_median_days": "77", 
+                    "complex_highest_days": "644", 
+                    "simple_highest_days": "615", 
+                    "expedited_processing_median_days": "99", 
+                    "simple_average_days": "35", 
+                    "expedited_processing_lowest_days": "99", 
+                    "complex_average_days": "102"
+                }
+            }, 
+            "abbreviation": "CPSC", 
+            "phone": "301-504-7923", 
+            "foia_officer": {
+                "phone": [
+                    "301-504-7923"
+                ], 
+                "name": "Alberta E. Mills"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "301-504-6821"
+                ], 
+                "name": "Deborah Acosta"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Alberta E. Mills", 
+                    "FOIA Officer", 
+                    "U.S. Consumer Product Safety Commission"
+                ], 
+                "state": "MD", 
+                "street": "4330 East West Highway", 
+                "zip": "20814-4408", 
+                "city": "Bethesda"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "cpsc-foia@cpsc.gov"
+            ], 
+            "name": "Consumer Product Safety Commission"
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "simple_median_days": "18", 
+            "complex_median_days": "50", 
+            "complex_highest_days": "729", 
+            "simple_highest_days": "481", 
+            "simple_average_days": "32", 
+            "complex_average_days": "81"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "5", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "10", 
+            "complex_median_days": "60", 
+            "complex_highest_days": "780", 
+            "simple_highest_days": "50", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "12", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "85"
+        }, 
+        "2009": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "17", 
+            "complex_median_days": "68", 
+            "complex_highest_days": "368", 
+            "simple_highest_days": "332", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "33", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "68"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "9", 
+            "complex_median_days": "64", 
+            "complex_highest_days": "632", 
+            "simple_highest_days": "580", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "51", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "97"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "19", 
+            "complex_median_days": "65", 
+            "complex_highest_days": "617", 
+            "simple_highest_days": "350", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "40", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "87"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "simple_median_days": "11", 
+            "complex_median_days": "53", 
+            "complex_highest_days": "1159", 
+            "simple_highest_days": "402", 
+            "simple_average_days": "27", 
+            "complex_average_days": "96"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "99", 
+            "expedited_processing_highest_days": "99", 
+            "simple_median_days": "8", 
+            "complex_median_days": "77", 
+            "complex_highest_days": "644", 
+            "simple_highest_days": "615", 
+            "expedited_processing_median_days": "99", 
+            "simple_average_days": "35", 
+            "expedited_processing_lowest_days": "99", 
+            "complex_average_days": "102"
+        }
+    }
+}

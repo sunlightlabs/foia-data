@@ -1,0 +1,168 @@
+{
+    "abbreviation": "BBG", 
+    "description": "The Broadcasting Board of Governors broadcasts news and information about the United States and the world to audiences abroad.", 
+    "name": "Broadcasting Board of Governors", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Foreign relations", 
+        "Freedom of information", 
+        "News media", 
+        "Privacy", 
+        "Radio", 
+        "Recordings", 
+        "Sunshine Act", 
+        "Television"
+    ], 
+    "usa_id": "49109", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.bbg.gov/about-the-agency/research-reports/foia/electronic-reading-room/"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-203-4550"
+                ]
+            }, 
+            "fax": "202-203-4585", 
+            "description": "The Broadcasting Board of Governors broadcasts news and information about the United States and the world to audiences abroad.", 
+            "usa_id": "49109", 
+            "misc": {
+                "FOIA/Privacy Act Officer, BBG/FOIA/PA Unit": {
+                    "phone": [
+                        "202-203-4550"
+                    ], 
+                    "name": "Andrew T. Krog"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "complex_highest_days": "354", 
+                    "complex_lowest_days": "3", 
+                    "complex_average_days": "35", 
+                    "complex_median_days": "8"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "52", 
+                    "expedited_processing_highest_days": "52", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "28", 
+                    "complex_highest_days": "117", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "52", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "52", 
+                    "complex_average_days": "31"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "17", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "19", 
+                    "complex_median_days": "70", 
+                    "complex_highest_days": "223", 
+                    "simple_highest_days": "69", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "22", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "79"
+                }, 
+                "2013": {
+                    "complex_highest_days": "99", 
+                    "complex_lowest_days": "6", 
+                    "complex_average_days": "44", 
+                    "complex_median_days": "38"
+                }, 
+                "2012": {
+                    "complex_lowest_days": "3", 
+                    "expedited_processing_average_days": "36", 
+                    "expedited_processing_highest_days": "49", 
+                    "complex_median_days": "26", 
+                    "complex_highest_days": "118", 
+                    "expedited_processing_median_days": "30", 
+                    "expedited_processing_lowest_days": "37", 
+                    "complex_average_days": "32"
+                }
+            }, 
+            "website": "http://www.bbg.gov/reports/foia/", 
+            "phone": "202-203-4550", 
+            "public_liaison": {
+                "phone": [
+                    "202-203-4550"
+                ], 
+                "name": "Andrew T. Krog"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Andrew T. Krog", 
+                    "FOIA/Privacy Act Officer, BBG/FOIA/PA Unit", 
+                    "Room 3349"
+                ], 
+                "state": "DC", 
+                "street": "330 Independence Avenue, SW", 
+                "zip": "20237", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "name": "Broadcasting Board of Governors"
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "complex_highest_days": "354", 
+            "complex_lowest_days": "3", 
+            "complex_average_days": "35", 
+            "complex_median_days": "8"
+        }, 
+        "2011": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "52", 
+            "expedited_processing_highest_days": "52", 
+            "simple_median_days": "0", 
+            "complex_median_days": "28", 
+            "complex_highest_days": "117", 
+            "simple_highest_days": "0", 
+            "expedited_processing_median_days": "52", 
+            "simple_average_days": "0", 
+            "expedited_processing_lowest_days": "52", 
+            "complex_average_days": "31"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "17", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "19", 
+            "complex_median_days": "70", 
+            "complex_highest_days": "223", 
+            "simple_highest_days": "69", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "22", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "79"
+        }, 
+        "2013": {
+            "complex_highest_days": "99", 
+            "complex_lowest_days": "6", 
+            "complex_average_days": "44", 
+            "complex_median_days": "38"
+        }, 
+        "2012": {
+            "complex_lowest_days": "3", 
+            "expedited_processing_average_days": "36", 
+            "expedited_processing_highest_days": "49", 
+            "complex_median_days": "26", 
+            "complex_highest_days": "118", 
+            "expedited_processing_median_days": "30", 
+            "expedited_processing_lowest_days": "37", 
+            "complex_average_days": "32"
+        }
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "abbreviation": "OSHRC", 
+    "description": "The Occupational Safety and Health Review Commission hears trials and appeals, deciding contests of citations or penalties that result from inspections performed by the Occupational Safety and Health Administration.", 
+    "name": "Occupational Safety and Health Review Commission", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Archives and records", 
+        "Civil rights", 
+        "Conflict of interests", 
+        "Equal access to justice", 
+        "Equal employment opportunity", 
+        "Federal buildings and facilities", 
+        "Freedom of information", 
+        "Government employees", 
+        "Individuals with disabilities", 
+        "Privacy", 
+        "Sunshine Act"
+    ], 
+    "usa_id": "49577", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "OSHRC e-FOIA Reading Room", 
+                    "http://www.oshrc.gov/foia/foia_reading_room.html"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-606-5700"
+                ]
+            }, 
+            "fax": "202-606-5417", 
+            "description": "The Occupational Safety and Health Review Commission hears trials and appeals, deciding contests of citations or penalties that result from inspections performed by the Occupational Safety and Health Administration.", 
+            "usa_id": "49577", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "29", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "32", 
+                    "complex_highest_days": "35", 
+                    "simple_highest_days": "28", 
+                    "simple_average_days": "10.63", 
+                    "complex_average_days": "32"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "28", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "7", 
+                    "complex_median_days": "28", 
+                    "complex_highest_days": "28", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "8.5", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "28"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "28", 
+                    "expedited_processing_average_days": "5", 
+                    "expedited_processing_highest_days": "5", 
+                    "simple_median_days": "8", 
+                    "complex_median_days": "28", 
+                    "complex_highest_days": "28", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "5", 
+                    "simple_average_days": "9", 
+                    "expedited_processing_lowest_days": "5", 
+                    "complex_average_days": "28"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "11.5", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "12", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "21", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "10.5", 
+                    "complex_median_days": "26.5", 
+                    "complex_highest_days": "30", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "10.7", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "26"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "55", 
+                    "simple_median_days": "7.5", 
+                    "complex_median_days": "55", 
+                    "complex_highest_days": "55", 
+                    "simple_highest_days": "24", 
+                    "simple_average_days": "9.8", 
+                    "complex_average_days": "55"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "30", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "30", 
+                    "complex_highest_days": "30", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "11.2", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "30"
+                }
+            }, 
+            "website": "http://www.oshrc.gov/foia/foia.html", 
+            "phone": "202-606-5700", 
+            "public_liaison": {
+                "phone": [
+                    "202-606-5700"
+                ], 
+                "name": "Lyndsey Frushour"
+            }, 
+            "address": {
+                "address_lines": [
+                    "FOIA Request - OSHRC", 
+                    "FOIA Requester Service Center", 
+                    "9th Floor"
+                ], 
+                "state": "DC", 
+                "street": "1120 20th Street, NW", 
+                "zip": "20036-3457", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "name": "Occupational Safety and Health Review Commission"
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "29", 
+            "simple_median_days": "10", 
+            "complex_median_days": "32", 
+            "complex_highest_days": "35", 
+            "simple_highest_days": "28", 
+            "simple_average_days": "10.63", 
+            "complex_average_days": "32"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "28", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "7", 
+            "complex_median_days": "28", 
+            "complex_highest_days": "28", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "8.5", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "28"
+        }, 
+        "2009": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "28", 
+            "expedited_processing_average_days": "5", 
+            "expedited_processing_highest_days": "5", 
+            "simple_median_days": "8", 
+            "complex_median_days": "28", 
+            "complex_highest_days": "28", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "5", 
+            "simple_average_days": "9", 
+            "expedited_processing_lowest_days": "5", 
+            "complex_average_days": "28"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "11.5", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "12", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "21", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "10.5", 
+            "complex_median_days": "26.5", 
+            "complex_highest_days": "30", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "10.7", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "26"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "55", 
+            "simple_median_days": "7.5", 
+            "complex_median_days": "55", 
+            "complex_highest_days": "55", 
+            "simple_highest_days": "24", 
+            "simple_average_days": "9.8", 
+            "complex_average_days": "55"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "30", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "10", 
+            "complex_median_days": "30", 
+            "complex_highest_days": "30", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "11.2", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "30"
+        }
+    }
+}

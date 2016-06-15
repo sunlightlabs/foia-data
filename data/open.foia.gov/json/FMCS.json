@@ -1,0 +1,257 @@
+{
+    "abbreviation": "FMCS", 
+    "description": "The Federal Mediation and Conciliation Service is an independent agency that provides mediation and other conflict resolution services for managing and enhancing labor-management relationships.", 
+    "name": "Federal Mediation and Conciliation Service", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Freedom of information", 
+        "Government employees", 
+        "Grant programs", 
+        "Health facilities", 
+        "Health insurance", 
+        "Health professions", 
+        "Hostages", 
+        "Iraq", 
+        "Kuwait", 
+        "Labor management relations", 
+        "Lebanon", 
+        "Loan programs"
+    ], 
+    "usa_id": "49312", 
+    "departments": [
+        {
+            "website": "http://www.fmcs.gov/internet/itemDetailNoNav.asp?categoryID=90&itemID=16303", 
+            "service_center": {
+                "phone": [
+                    "202-606-5444"
+                ]
+            }, 
+            "fax": "202-606-5345", 
+            "name": "Federal Mediation and Conciliation Service", 
+            "request_form": "https://www.fmcs.gov/secure/foia/foiarequestForm.asp?categoryID=436", 
+            "usa_id": "49312", 
+            "misc": {
+                "Deputy General Counsel": {
+                    "phone": [
+                        "202-606-3737"
+                    ], 
+                    "name": "Michael J. Bartlett"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "2", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "32", 
+                    "complex_highest_days": "135", 
+                    "simple_highest_days": "59", 
+                    "simple_average_days": "7.3", 
+                    "complex_average_days": "42.9"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "2", 
+                    "simple_median_days": "8", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "8", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "2", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "3", 
+                    "expedited_processing_average_days": "1.7", 
+                    "expedited_processing_highest_days": "6", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "11", 
+                    "complex_highest_days": "42", 
+                    "simple_highest_days": "21", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "7", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "13.5"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "2", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "21", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "8.3", 
+                    "expedited_processing_highest_days": "22", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "13", 
+                    "complex_highest_days": "22", 
+                    "simple_highest_days": "16", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "3.5", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "13.9"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "2", 
+                    "expedited_processing_average_days": "2.1", 
+                    "expedited_processing_highest_days": "5", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "8", 
+                    "complex_highest_days": "20", 
+                    "simple_highest_days": "26", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "7.5", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "8.9"
+                }
+            }, 
+            "phone": "202-606-3737", 
+            "public_liaison": {
+                "phone": [
+                    "202-606-3737"
+                ], 
+                "name": "Michael J. Bartlett"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Michael J. Bartlett", 
+                    "Chief FOIA Officer"
+                ], 
+                "state": "DC", 
+                "street": "2100 K Street, NW", 
+                "zip": "20427", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia@fmcs.gov"
+            ], 
+            "description": "The Federal Mediation and Conciliation Service is an independent agency that provides mediation and other conflict resolution services for managing and enhancing labor-management relationships."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "2", 
+            "simple_median_days": "2", 
+            "complex_median_days": "32", 
+            "complex_highest_days": "135", 
+            "simple_highest_days": "59", 
+            "simple_average_days": "7.3", 
+            "complex_average_days": "42.9"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "2", 
+            "expedited_processing_highest_days": "2", 
+            "simple_median_days": "8", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "8", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "0"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "2", 
+            "expedited_processing_highest_days": "2", 
+            "simple_median_days": "6", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "6", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "3", 
+            "expedited_processing_average_days": "1.7", 
+            "expedited_processing_highest_days": "6", 
+            "simple_median_days": "6", 
+            "complex_median_days": "11", 
+            "complex_highest_days": "42", 
+            "simple_highest_days": "21", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "7", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "13.5"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "2", 
+            "expedited_processing_highest_days": "2", 
+            "simple_median_days": "6", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "21", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "6", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "8.3", 
+            "expedited_processing_highest_days": "22", 
+            "simple_median_days": "2", 
+            "complex_median_days": "13", 
+            "complex_highest_days": "22", 
+            "simple_highest_days": "16", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "3.5", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "13.9"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "2", 
+            "expedited_processing_average_days": "2.1", 
+            "expedited_processing_highest_days": "5", 
+            "simple_median_days": "6", 
+            "complex_median_days": "8", 
+            "complex_highest_days": "20", 
+            "simple_highest_days": "26", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "7.5", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "8.9"
+        }
+    }
+}

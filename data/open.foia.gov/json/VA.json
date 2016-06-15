@@ -1,0 +1,2732 @@
+{
+    "website": "http://www.foia.va.gov/", 
+    "service_center": {
+        "phone": [
+            "202-632-7600"
+        ]
+    }, 
+    "fax": "202-632-7581", 
+    "description": "For information about VA medical care or benefits, write, call or visit your nearest VA facility.", 
+    "usa_id": "48027", 
+    "departments": [
+        {
+            "website": "http://oprm.va.gov/foia/", 
+            "service_center": {
+                "phone": [
+                    "202-632-7465"
+                ]
+            }, 
+            "fax": "202-632-7581", 
+            "name": "Central Office FOIA/Privacy Act Office", 
+            "misc": {
+                "FOIA Team Lead": {
+                    "phone": [
+                        "202-632-7465"
+                    ], 
+                    "name": "Laurie Karnay"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "202-632-7465", 
+            "public_liaison": {
+                "phone": [
+                    "202-632-7465"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Laurie Karnay", 
+                    "FOIA Team Lead", 
+                    "(005R1C) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "emails": [
+                "vacofoiaservice@va.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-6214"
+                ]
+            }, 
+            "fax": "202-632-7572", 
+            "name": "National Cemetery Administration", 
+            "usa_id": "48074", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-632-7728"
+                    ], 
+                    "name": "James Killens III"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "15", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "16.5", 
+                    "complex_median_days": "22", 
+                    "complex_highest_days": "87", 
+                    "simple_highest_days": "21", 
+                    "simple_average_days": "17.5", 
+                    "complex_average_days": "27"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "2", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "13.5", 
+                    "complex_highest_days": "43", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "14"
+                }, 
+                "2009": {
+                    "complex_highest_days": "90", 
+                    "complex_lowest_days": "0", 
+                    "complex_average_days": "16", 
+                    "complex_median_days": "10.5"
+                }, 
+                "2011": {
+                    "complex_highest_days": "193", 
+                    "complex_lowest_days": "1", 
+                    "complex_average_days": "30.57", 
+                    "complex_median_days": "26"
+                }, 
+                "2010": {
+                    "complex_highest_days": "318", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "21.2", 
+                    "complex_median_days": "15"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "7", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "31", 
+                    "complex_highest_days": "324", 
+                    "simple_highest_days": "46", 
+                    "simple_average_days": "23.75", 
+                    "complex_average_days": "38.19"
+                }, 
+                "2012": {
+                    "complex_highest_days": "120", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "15.68", 
+                    "complex_median_days": "12"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-632-7728", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-6214"
+                ], 
+                "name": "James Killens III"
+            }, 
+            "address": {
+                "address_lines": [
+                    "James Killens III", 
+                    "FOIA Contact", 
+                    "(43D) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "nca.foia@va.gov"
+            ], 
+            "description": "Contact the National Cemetery Administration for information about burials, headstones or markers, the State Cemetery Grants Program, and presidential memorial certificates for veterans."
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-491-9439"
+                ]
+            }, 
+            "fax": "202-275-5947", 
+            "name": "Veterans Benefits Administration", 
+            "usa_id": "48156", 
+            "notes": "This office has additional FOIA contact information that can be found by visiting its website.", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-491-9439"
+                    ], 
+                    "name": "Sean Burns"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "3.5", 
+                    "expedited_processing_highest_days": "7", 
+                    "simple_median_days": "63", 
+                    "complex_median_days": "34", 
+                    "complex_highest_days": "804", 
+                    "simple_highest_days": "632", 
+                    "expedited_processing_median_days": "3.5", 
+                    "simple_average_days": "119.91", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "86.43"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "1", 
+                    "expedited_processing_highest_days": "72", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "10.5", 
+                    "complex_highest_days": "2104", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "1", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "29"
+                }, 
+                "2009": {
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "5", 
+                    "expedited_processing_highest_days": "18", 
+                    "complex_median_days": "397", 
+                    "complex_highest_days": "793", 
+                    "expedited_processing_median_days": "5", 
+                    "expedited_processing_lowest_days": "3", 
+                    "complex_average_days": "30"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "less than 1", 
+                    "expedited_processing_highest_days": "less than 1", 
+                    "simple_median_days": "less than 1", 
+                    "complex_median_days": "7", 
+                    "complex_highest_days": "1748", 
+                    "simple_highest_days": "less than 1", 
+                    "expedited_processing_median_days": "less than 1", 
+                    "simple_average_days": "less than 1", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "25.86"
+                }, 
+                "2010": {
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "36.88", 
+                    "expedited_processing_highest_days": "121", 
+                    "complex_median_days": "7", 
+                    "complex_highest_days": "397", 
+                    "expedited_processing_median_days": "13.5", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "19.96"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "17.5", 
+                    "expedited_processing_highest_days": "52", 
+                    "simple_median_days": "22", 
+                    "complex_median_days": "33", 
+                    "complex_highest_days": "778", 
+                    "simple_highest_days": "254", 
+                    "expedited_processing_median_days": "8.5", 
+                    "simple_average_days": "46.56", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "58.77"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "246.33", 
+                    "expedited_processing_highest_days": "393", 
+                    "simple_median_days": "29", 
+                    "complex_median_days": "26", 
+                    "complex_highest_days": "486", 
+                    "simple_highest_days": "115", 
+                    "expedited_processing_median_days": "345", 
+                    "simple_average_days": "34.71", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "41.32"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-491-9439", 
+            "public_liaison": {
+                "phone": [
+                    "202-491-9439"
+                ], 
+                "name": "Gwendolyn Smith"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Gwendolyn Smith", 
+                    "FOIA Contact", 
+                    "(20M33) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia.vbaco@va.gov"
+            ], 
+            "description": "The VBA helps veterans receive benefits, such as educational and financial resources."
+        }, 
+        {
+            "website": "http://oprm.va.gov/foia/", 
+            "service_center": {
+                "phone": [
+                    "215-823-4146"
+                ]
+            }, 
+            "fax": "202-273-9387", 
+            "description": "VHA serves the needs of Americas veterans by providing primary care, specialized care, and related medical and social support services.", 
+            "usa_id": "48159", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "215-823-4146"
+                    ], 
+                    "name": "Timothy Graham"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "34.83", 
+                    "expedited_processing_highest_days": "181", 
+                    "simple_median_days": "4", 
+                    "complex_median_days": "11", 
+                    "complex_highest_days": "998", 
+                    "simple_highest_days": "752", 
+                    "expedited_processing_median_days": "23.5", 
+                    "simple_average_days": "13.06", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "18.04"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "1", 
+                    "expedited_processing_highest_days": "107", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "2", 
+                    "complex_highest_days": "1073", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "1", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "10"
+                }, 
+                "2009": {
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "1", 
+                    "expedited_processing_highest_days": "136", 
+                    "complex_median_days": "2", 
+                    "complex_highest_days": "360", 
+                    "expedited_processing_median_days": "1", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "10"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "4.11", 
+                    "expedited_processing_highest_days": "53", 
+                    "simple_median_days": "0.5", 
+                    "complex_median_days": "4", 
+                    "complex_highest_days": "682", 
+                    "simple_highest_days": "8", 
+                    "expedited_processing_median_days": "1", 
+                    "simple_average_days": "1.49", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "11.6"
+                }, 
+                "2010": {
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "7.5", 
+                    "expedited_processing_highest_days": "72", 
+                    "complex_median_days": "2", 
+                    "complex_highest_days": "379", 
+                    "expedited_processing_median_days": "1.5", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "10.12"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "36.39", 
+                    "expedited_processing_highest_days": "176", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "12", 
+                    "complex_highest_days": "1438", 
+                    "simple_highest_days": "449", 
+                    "expedited_processing_median_days": "12", 
+                    "simple_average_days": "15.88", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "25.96"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "7.17", 
+                    "expedited_processing_highest_days": "49", 
+                    "simple_median_days": "4", 
+                    "complex_median_days": "8", 
+                    "complex_highest_days": "733", 
+                    "simple_highest_days": "444", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "10.16", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "21.36"
+                }
+            }, 
+            "abbreviation": "VHA", 
+            "phone": "215-823-4146", 
+            "public_liaison": {
+                "phone": [
+                    "215-823-4146"
+                ], 
+                "name": "Timothy Graham"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Timothy Graham", 
+                    "FOIA Contact"
+                ], 
+                "state": "DC", 
+                "street": "(19F2) VACO", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "emails": [
+                "vhafoia2@va.gov"
+            ], 
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "name": "Veterans Health Administration", 
+            "notes": "This office has additional FOIA contact information that can be found by visiting its website.", 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://www.oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-4857"
+                ]
+            }, 
+            "fax": "202-273-4880", 
+            "name": "Office of the Executive Secretary", 
+            "top_level": false, 
+            "website": "http://www.foia.va.gov/", 
+            "phone": "202-461-4857", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-4857"
+                ]
+            }, 
+            "address": {
+                "address_lines": [
+                    "Lisa Matuszczak", 
+                    "FOIA Contact", 
+                    "002B VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "emails": [
+                "OSVAFOIA@va.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://www.oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-7442"
+                ]
+            }, 
+            "fax": "202-273-7635", 
+            "name": "Office of Assistant Secretary for Public and Intergovernmental Affairs", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "26", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "13", 
+                    "expedited_processing_highest_days": "13", 
+                    "simple_median_days": "87", 
+                    "complex_median_days": "23.5", 
+                    "complex_highest_days": "144", 
+                    "simple_highest_days": "350", 
+                    "expedited_processing_median_days": "13", 
+                    "simple_average_days": "154.33", 
+                    "expedited_processing_lowest_days": "13", 
+                    "complex_average_days": "47.75"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "complex_highest_days": "56", 
+                    "complex_lowest_days": "56", 
+                    "complex_average_days": "56", 
+                    "complex_median_days": "56"
+                }, 
+                "2010": {
+                    "complex_highest_days": "58", 
+                    "complex_lowest_days": "58", 
+                    "complex_average_days": "58", 
+                    "complex_median_days": "58"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "16", 
+                    "simple_average_days": "16", 
+                    "simple_highest_days": "16", 
+                    "simple_median_days": "16"
+                }, 
+                "2012": {
+                    "complex_highest_days": "20", 
+                    "complex_lowest_days": "20", 
+                    "complex_average_days": "20", 
+                    "complex_median_days": "20"
+                }
+            }, 
+            "website": "http://www.foia.va.gov/", 
+            "phone": "202-461-7442", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-7442"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Lyndon Johnson", 
+                    "FOIA Contact", 
+                    "(002B) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-7430"
+                ]
+            }, 
+            "fax": "202-273-6705", 
+            "name": "Office of Deputy Assistant Secretary for Public Affairs", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-7430"
+                    ], 
+                    "name": "Gary Tallman"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "complex_highest_days": "783", 
+                    "complex_lowest_days": "31", 
+                    "complex_average_days": "428.5", 
+                    "complex_median_days": "450"
+                }, 
+                "2009": {
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "complex_highest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "less than 1", 
+                    "complex_median_days": "less than 1"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-7430", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-7430"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Gary Tallman", 
+                    "FOIA Contact", 
+                    "(80A) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-7379"
+                ]
+            }, 
+            "fax": "202-273-5716", 
+            "name": "Office of the Deputy Assistant Secretary for Intergovernmental Affairs", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-7379"
+                    ], 
+                    "name": "Susan McCrea"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "170", 
+                    "simple_average_days": "297.86", 
+                    "simple_highest_days": "745", 
+                    "simple_median_days": "297"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "complex_highest_days": "35", 
+                    "complex_lowest_days": "8", 
+                    "complex_average_days": "21.5", 
+                    "complex_median_days": "21.5"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-7379", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-7379"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Jason Cain", 
+                    "FOIA Contact", 
+                    "(075C) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-6677"
+                ]
+            }, 
+            "fax": "202-273-6892", 
+            "name": "Office of Assistant Secretary for Management", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-6677"
+                    ], 
+                    "name": "Miriam Smith"
+                }
+            }, 
+            "top_level": false, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-7305", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-6677"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "James Chung", 
+                    "FOIA Contact", 
+                    "(004) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-590-8793"
+                ]
+            }, 
+            "fax": "202-632-7146", 
+            "name": "Office of Asset Enterprise Management", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-590-8793"
+                    ], 
+                    "name": "Kelli Emery"
+                }
+            }, 
+            "top_level": false, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-590-8793", 
+            "public_liaison": {
+                "phone": [
+                    "202-590-8793"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Kelli Emery", 
+                    "FOIA Contact", 
+                    "(044) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-5170"
+                ]
+            }, 
+            "fax": "202-273-6628", 
+            "name": "Office of Deputy Assistant Secretary for Budget", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-5170"
+                    ], 
+                    "name": "Cynthia Manurs"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "7", 
+                    "simple_average_days": "310.67", 
+                    "simple_highest_days": "473", 
+                    "simple_median_days": "452"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "complex_highest_days": "19", 
+                    "complex_lowest_days": "5", 
+                    "complex_average_days": "12", 
+                    "complex_median_days": "12"
+                }, 
+                "2012": {
+                    "complex_highest_days": "63", 
+                    "complex_lowest_days": "63", 
+                    "complex_average_days": "63", 
+                    "complex_median_days": "63"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-5170", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-5170"
+                ]
+            }, 
+            "address": {
+                "address_lines": [
+                    "Sarah Kalis", 
+                    "FOIA Contact", 
+                    "(041C/D) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-6432"
+                ]
+            }, 
+            "fax": "202-273-6574", 
+            "name": "Office of Deputy Assistant Secretary for Finance", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-6432"
+                    ], 
+                    "name": "Karen Barber"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "4", 
+                    "complex_lowest_days": "less than 1", 
+                    "simple_median_days": "27", 
+                    "complex_median_days": "20", 
+                    "complex_highest_days": "154", 
+                    "simple_highest_days": "208", 
+                    "simple_average_days": "71.4", 
+                    "complex_average_days": "28.87"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "4", 
+                    "complex_highest_days": "101", 
+                    "simple_highest_days": "0", 
+                    "simple_average_days": "0", 
+                    "complex_average_days": "31.2"
+                }, 
+                "2009": {
+                    "complex_highest_days": "43", 
+                    "complex_lowest_days": "19", 
+                    "complex_average_days": "25.5", 
+                    "complex_median_days": "31"
+                }, 
+                "2011": {
+                    "complex_highest_days": "273", 
+                    "complex_lowest_days": "1", 
+                    "complex_average_days": "27.08", 
+                    "complex_median_days": "15"
+                }, 
+                "2010": {
+                    "complex_highest_days": "105", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "18.28", 
+                    "complex_median_days": "9"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "8", 
+                    "complex_lowest_days": "5", 
+                    "simple_median_days": "35", 
+                    "complex_median_days": "18", 
+                    "complex_highest_days": "98", 
+                    "simple_highest_days": "254", 
+                    "simple_average_days": "99", 
+                    "complex_average_days": "24.18"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "66", 
+                    "complex_lowest_days": "less than 1", 
+                    "simple_median_days": "66", 
+                    "complex_median_days": "20.5", 
+                    "complex_highest_days": "112", 
+                    "simple_highest_days": "66", 
+                    "simple_average_days": "66", 
+                    "complex_average_days": "31.45"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-6432", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-6432"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Carol Watson", 
+                    "FOIA Contact", 
+                    "(047GC1) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://www.oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "215-842-2000 x4503"
+                ]
+            }, 
+            "fax": "215-381-3527", 
+            "name": "Enterprise Operations", 
+            "top_level": false, 
+            "website": "http://www.foia.va.gov/", 
+            "phone": "215-842-2000 x4503", 
+            "public_liaison": {
+                "phone": [
+                    "215-842-2000 x4503"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Thomas Barnasevitch", 
+                    "FOIA Contact", 
+                    "Philadelphia Information Technology Center"
+                ], 
+                "state": "PA", 
+                "street": "5000 Wissahickon Avenue (284)", 
+                "zip": "19144", 
+                "city": "Philadelphia"
+            }, 
+            "emails": [
+                "cdcofoia@va.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "877-750-3642"
+                ]
+            }, 
+            "fax": "202-632-7581", 
+            "name": "Office of Assistant Secretary for Information and Technology", 
+            "misc": {
+                "FOIA Team Lead": {
+                    "phone": [
+                        "202-632-7465"
+                    ], 
+                    "name": "Laurie Karnay"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "59", 
+                    "expedited_processing_highest_days": "59", 
+                    "simple_median_days": "12", 
+                    "complex_median_days": "11", 
+                    "complex_highest_days": "485", 
+                    "simple_highest_days": "195", 
+                    "expedited_processing_median_days": "59", 
+                    "simple_average_days": "27.71", 
+                    "expedited_processing_lowest_days": "59", 
+                    "complex_average_days": "35.87"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "5", 
+                    "expedited_processing_highest_days": "5", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "2", 
+                    "complex_highest_days": "240", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "5", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "5", 
+                    "complex_average_days": "16"
+                }, 
+                "2011": {
+                    "complex_highest_days": "328", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "20.66", 
+                    "complex_median_days": "5"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "104.5", 
+                    "expedited_processing_highest_days": "115", 
+                    "simple_median_days": "12.5", 
+                    "complex_median_days": "6", 
+                    "complex_highest_days": "281", 
+                    "simple_highest_days": "80", 
+                    "expedited_processing_median_days": "104.5", 
+                    "simple_average_days": "16.13", 
+                    "expedited_processing_lowest_days": "94", 
+                    "complex_average_days": "23.9"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "less than 1", 
+                    "simple_median_days": "11", 
+                    "complex_median_days": "9", 
+                    "complex_highest_days": "421", 
+                    "simple_highest_days": "18", 
+                    "simple_average_days": "9.73", 
+                    "complex_average_days": "31.88"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-632-7465", 
+            "public_liaison": {
+                "phone": [
+                    "877-750-3642"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Laurie Karnay", 
+                    "FOIA Team Lead", 
+                    "(005R1C) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "vacofoiaservice@va.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-632-7310"
+                ]
+            }, 
+            "fax": "202-273-4914", 
+            "name": "Office of Assistant Secretary for Human Resources and Administration", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-632-7310"
+                    ], 
+                    "name": "Yolanda Johnson"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "41", 
+                    "complex_lowest_days": "42", 
+                    "simple_median_days": "48", 
+                    "complex_median_days": "42", 
+                    "complex_highest_days": "42", 
+                    "simple_highest_days": "88", 
+                    "simple_average_days": "56.25", 
+                    "complex_average_days": "42"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "complex_highest_days": "19", 
+                    "complex_lowest_days": "4", 
+                    "complex_average_days": "11.29", 
+                    "complex_median_days": "10"
+                }, 
+                "2010": {
+                    "complex_highest_days": "20", 
+                    "complex_lowest_days": "10", 
+                    "complex_average_days": "15.67", 
+                    "complex_median_days": "17"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "61", 
+                    "complex_lowest_days": "288", 
+                    "simple_median_days": "61", 
+                    "complex_median_days": "288", 
+                    "complex_highest_days": "288", 
+                    "simple_highest_days": "61", 
+                    "simple_average_days": "61", 
+                    "complex_average_days": "288"
+                }, 
+                "2012": {
+                    "complex_highest_days": "377", 
+                    "complex_lowest_days": "4", 
+                    "complex_average_days": "252.67", 
+                    "complex_median_days": "377"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-7754", 
+            "public_liaison": {
+                "phone": [
+                    "202-632-7310"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Teresa Days", 
+                    "FOIA Contact", 
+                    "(006) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-7863"
+                ]
+            }, 
+            "fax": "202-273-7871", 
+            "name": "Office of Deputy Assistant Secretary for Human Resources Management", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-7863"
+                    ], 
+                    "name": "Jean Hayes"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "5", 
+                    "complex_lowest_days": "39", 
+                    "expedited_processing_average_days": "287", 
+                    "expedited_processing_highest_days": "287", 
+                    "simple_median_days": "265", 
+                    "complex_median_days": "326", 
+                    "complex_highest_days": "471", 
+                    "simple_highest_days": "402", 
+                    "expedited_processing_median_days": "287", 
+                    "simple_average_days": "230.4", 
+                    "expedited_processing_lowest_days": "287", 
+                    "complex_average_days": "243.53"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "2", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "2", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "3", 
+                    "complex_highest_days": "5", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "3"
+                }, 
+                "2009": {
+                    "complex_highest_days": "5", 
+                    "complex_lowest_days": "1", 
+                    "complex_average_days": "3", 
+                    "complex_median_days": "3"
+                }, 
+                "2011": {
+                    "complex_highest_days": "442", 
+                    "complex_lowest_days": "15", 
+                    "complex_average_days": "230.53", 
+                    "complex_median_days": "218"
+                }, 
+                "2010": {
+                    "complex_highest_days": "251", 
+                    "complex_lowest_days": "26", 
+                    "complex_average_days": "138.5", 
+                    "complex_median_days": "138.5"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "279", 
+                    "complex_lowest_days": "85", 
+                    "simple_median_days": "279", 
+                    "complex_median_days": "87", 
+                    "complex_highest_days": "470", 
+                    "simple_highest_days": "279", 
+                    "simple_average_days": "279", 
+                    "complex_average_days": "214"
+                }, 
+                "2012": {
+                    "complex_highest_days": "470", 
+                    "complex_lowest_days": "5", 
+                    "complex_average_days": "213", 
+                    "complex_median_days": "187"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-7863", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-7863"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Jean Hayes", 
+                    "FOIA Contact", 
+                    "(054A) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-4010"
+                ]
+            }, 
+            "fax": "202-501-2145", 
+            "name": "Office of Deputy Assistant Secretary for Diversity and Inclusion", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-4010"
+                    ], 
+                    "name": "Betty Cook"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "30", 
+                    "simple_average_days": "30", 
+                    "simple_highest_days": "30", 
+                    "simple_median_days": "30"
+                }, 
+                "2009": {
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "complex_highest_days": "7", 
+                    "complex_lowest_days": "7", 
+                    "complex_average_days": "7", 
+                    "complex_median_days": "7"
+                }, 
+                "2013": {
+                    "complex_highest_days": "28", 
+                    "complex_lowest_days": "28", 
+                    "complex_average_days": "28", 
+                    "complex_median_days": "28"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-4237", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-4010"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Angela Dunn", 
+                    "FOIA Contact", 
+                    "(06) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-501-2827"
+                ]
+            }, 
+            "fax": "202-501-2811", 
+            "name": "Office of Resolution Management", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-501-2827"
+                    ], 
+                    "name": "Nigel Collie"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "13", 
+                    "complex_highest_days": "75", 
+                    "simple_highest_days": "467", 
+                    "simple_average_days": "62.11", 
+                    "complex_average_days": "17.86"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "2", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "4", 
+                    "complex_highest_days": "6", 
+                    "simple_highest_days": "0", 
+                    "simple_average_days": "0", 
+                    "complex_average_days": "5"
+                }, 
+                "2009": {
+                    "complex_highest_days": "49", 
+                    "complex_lowest_days": "18", 
+                    "complex_average_days": "17.25", 
+                    "complex_median_days": "17"
+                }, 
+                "2011": {
+                    "complex_highest_days": "38", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "13.53", 
+                    "complex_median_days": "13"
+                }, 
+                "2010": {
+                    "complex_highest_days": "77", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "19.75", 
+                    "complex_median_days": "14"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "14", 
+                    "complex_median_days": "16", 
+                    "complex_highest_days": "37", 
+                    "simple_highest_days": "40", 
+                    "simple_average_days": "19.11", 
+                    "complex_average_days": "17.5"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "10", 
+                    "complex_lowest_days": "less than 1", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "9", 
+                    "complex_highest_days": "22", 
+                    "simple_highest_days": "10", 
+                    "simple_average_days": "10", 
+                    "complex_average_days": "10.18"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-0227", 
+            "public_liaison": {
+                "phone": [
+                    "202-501-2827"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Nigel Collie", 
+                    "FOIA Contact", 
+                    "(08) (I Street) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-5046"
+                ]
+            }, 
+            "fax": "202-273-7091", 
+            "name": "Office of Deputy Assistant Secretary for Administration", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-5046"
+                    ], 
+                    "name": "Shelia Gaskins"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "4", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "18", 
+                    "complex_median_days": "37.5", 
+                    "complex_highest_days": "437", 
+                    "simple_highest_days": "140", 
+                    "simple_average_days": "33.7", 
+                    "complex_average_days": "55.5"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "6", 
+                    "expedited_processing_highest_days": "6", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "23", 
+                    "complex_highest_days": "160", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "6", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "6", 
+                    "complex_average_days": "30"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "27", 
+                    "expedited_processing_highest_days": "37", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "23", 
+                    "complex_highest_days": "162", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "20", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "30.4"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "23", 
+                    "complex_median_days": "35", 
+                    "complex_highest_days": "324", 
+                    "simple_highest_days": "195", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "21.7", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "50"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "92", 
+                    "expedited_processing_highest_days": "92", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "20", 
+                    "complex_highest_days": "301", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "92", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "92", 
+                    "complex_average_days": "32"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "7.5", 
+                    "complex_median_days": "29", 
+                    "complex_highest_days": "925", 
+                    "simple_highest_days": "93", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "18.8", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "51.8"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "35.5", 
+                    "expedited_processing_highest_days": "49", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "26.5", 
+                    "complex_highest_days": "257", 
+                    "simple_highest_days": "109", 
+                    "expedited_processing_median_days": "35.5", 
+                    "simple_average_days": "19", 
+                    "expedited_processing_lowest_days": "22", 
+                    "complex_average_days": "35.2"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-5041", 
+            "public_liaison": {
+                "name": "james Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Jacques Larochelle", 
+                    "FOIA Contact", 
+                    "(032A) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-6587"
+                ]
+            }, 
+            "fax": "202-461-0963", 
+            "name": "Office of the Assistant Secretary for Operations, Security, and Preparedness", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-6587"
+                    ], 
+                    "name": "Tanya Al-Khateeb"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "complex_highest_days": "73", 
+                    "complex_lowest_days": "3", 
+                    "complex_average_days": "40.6", 
+                    "complex_median_days": "44"
+                }, 
+                "2009": {
+                    "complex_highest_days": "25", 
+                    "complex_lowest_days": "1", 
+                    "complex_average_days": "12", 
+                    "complex_median_days": "12.5"
+                }, 
+                "2011": {
+                    "complex_highest_days": "46", 
+                    "complex_lowest_days": "10", 
+                    "complex_average_days": "21.62", 
+                    "complex_median_days": "16"
+                }, 
+                "2010": {
+                    "complex_highest_days": "24", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "13.71", 
+                    "complex_median_days": "13"
+                }, 
+                "2013": {
+                    "complex_highest_days": "39", 
+                    "complex_lowest_days": "3", 
+                    "complex_average_days": "16.14", 
+                    "complex_median_days": "4"
+                }, 
+                "2012": {
+                    "complex_highest_days": "32", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "12.07", 
+                    "complex_median_days": "14"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-6587", 
+            "public_liaison": {
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Tanya Al-Khateeb", 
+                    "FOIA Contact", 
+                    "(007) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-5198"
+                ]
+            }, 
+            "fax": "202-273-5993", 
+            "name": "Office of Policy and Planning", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-5918"
+                    ], 
+                    "name": "Stephanie Way"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "complex_highest_days": "45", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "22.5", 
+                    "complex_median_days": "22.5"
+                }, 
+                "2009": {
+                    "complex_highest_days": "20", 
+                    "complex_lowest_days": "20", 
+                    "complex_average_days": "20", 
+                    "complex_median_days": "20"
+                }, 
+                "2011": {
+                    "complex_highest_days": "8", 
+                    "complex_lowest_days": "8", 
+                    "complex_average_days": "8", 
+                    "complex_median_days": "8"
+                }, 
+                "2010": {
+                    "complex_highest_days": "180", 
+                    "complex_lowest_days": "125", 
+                    "complex_average_days": "160", 
+                    "complex_median_days": "175"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "13", 
+                    "complex_lowest_days": "74", 
+                    "expedited_processing_average_days": "5", 
+                    "expedited_processing_highest_days": "5", 
+                    "simple_median_days": "13", 
+                    "complex_median_days": "74", 
+                    "complex_highest_days": "74", 
+                    "simple_highest_days": "13", 
+                    "expedited_processing_median_days": "5", 
+                    "simple_average_days": "13", 
+                    "expedited_processing_lowest_days": "5", 
+                    "complex_average_days": "74"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "30", 
+                    "complex_lowest_days": "13", 
+                    "simple_median_days": "82.5", 
+                    "complex_median_days": "77.5", 
+                    "complex_highest_days": "142", 
+                    "simple_highest_days": "135", 
+                    "simple_average_days": "82.5", 
+                    "complex_average_days": "77.5"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-5853", 
+            "public_liaison": {
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Jon Abboud", 
+                    "FOIA Contact", 
+                    "(008) VACO, Room 314"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-6619"
+                ]
+            }, 
+            "fax": "202-273-6791", 
+            "name": "Office of Assistant Secretary for Congressional and Legislative Affairs", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-6619"
+                    ], 
+                    "name": "Pamela Balsley"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "10", 
+                    "complex_lowest_days": "11", 
+                    "expedited_processing_average_days": "19", 
+                    "expedited_processing_highest_days": "19", 
+                    "simple_median_days": "22", 
+                    "complex_median_days": "29", 
+                    "complex_highest_days": "116", 
+                    "simple_highest_days": "33", 
+                    "expedited_processing_median_days": "19", 
+                    "simple_average_days": "21.75", 
+                    "expedited_processing_lowest_days": "19", 
+                    "complex_average_days": "31.5"
+                }, 
+                "2009": {
+                    "complex_highest_days": "53", 
+                    "complex_lowest_days": "39", 
+                    "complex_average_days": "46", 
+                    "complex_median_days": "46"
+                }, 
+                "2011": {
+                    "complex_highest_days": "56", 
+                    "complex_lowest_days": "5", 
+                    "complex_average_days": "23.47", 
+                    "complex_median_days": "24"
+                }, 
+                "2010": {
+                    "complex_highest_days": "175", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "55", 
+                    "complex_median_days": "20"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "less than 1", 
+                    "simple_median_days": "11", 
+                    "complex_median_days": "18", 
+                    "complex_highest_days": "41", 
+                    "simple_highest_days": "33", 
+                    "simple_average_days": "14.2", 
+                    "complex_average_days": "17.94"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "22", 
+                    "complex_lowest_days": "2", 
+                    "simple_median_days": "30", 
+                    "complex_median_days": "24", 
+                    "complex_highest_days": "71", 
+                    "simple_highest_days": "48", 
+                    "simple_average_days": "33.33", 
+                    "complex_average_days": "27.4"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-6459", 
+            "public_liaison": {
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Regina Mack-Abney", 
+                    "FOIA Contact", 
+                    "(009) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-8212"
+                ]
+            }, 
+            "fax": "202-495-5538", 
+            "name": "Office of Construction & Facilities Management", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-8212"
+                    ], 
+                    "name": "Lynn Buell"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "17", 
+                    "complex_lowest_days": "less than 1", 
+                    "simple_median_days": "334", 
+                    "complex_median_days": "212", 
+                    "complex_highest_days": "768", 
+                    "simple_highest_days": "509", 
+                    "simple_average_days": "310.31", 
+                    "complex_average_days": "209.76"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "9", 
+                    "complex_highest_days": "90", 
+                    "simple_highest_days": "0", 
+                    "simple_average_days": "0", 
+                    "complex_average_days": "14.4"
+                }, 
+                "2009": {
+                    "complex_highest_days": "142", 
+                    "complex_lowest_days": "1", 
+                    "complex_average_days": "27", 
+                    "complex_median_days": "16.5"
+                }, 
+                "2011": {
+                    "complex_highest_days": "218", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "62.72", 
+                    "complex_median_days": "66"
+                }, 
+                "2010": {
+                    "complex_highest_days": "306", 
+                    "complex_lowest_days": "2", 
+                    "complex_average_days": "47.52", 
+                    "complex_median_days": "31"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "189.5", 
+                    "complex_median_days": "102", 
+                    "complex_highest_days": "564", 
+                    "simple_highest_days": "397", 
+                    "simple_average_days": "188.38", 
+                    "complex_average_days": "132.36"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "103", 
+                    "complex_median_days": "77", 
+                    "complex_highest_days": "226", 
+                    "simple_highest_days": "217", 
+                    "simple_average_days": "93.02", 
+                    "complex_average_days": "98.67"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-8212", 
+            "public_liaison": {
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Lynn Buell", 
+                    "FOIA Contact", 
+                    "(OOCM2) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "CFM.FOIA@va.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://www.oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-632-5286"
+                ]
+            }, 
+            "fax": "202-343-1434", 
+            "name": "Office of Procurement Policy Services", 
+            "top_level": false, 
+            "website": "http://www.foia.va.gov/", 
+            "phone": "202-632-5286", 
+            "public_liaison": {
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Richard Ha", 
+                    "FOIA Officer, Office of Procurement Policy Services (OALC-PPS)", 
+                    "Room 3E.405"
+                ], 
+                "state": "DC", 
+                "street": "425 I Street, NW", 
+                "zip": "20001", 
+                "city": "Washington"
+            }, 
+            "keywords": [
+                "Accounting", 
+                "Government procurement"
+            ], 
+            "emails": [
+                "VA_OAL_FOIA@va.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-8111"
+                ]
+            }, 
+            "fax": "202-565-9733", 
+            "name": "Board of Veterans Appeals", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-8111"
+                    ], 
+                    "name": "Margaret L. Peak"
+                }
+            }, 
+            "request_time_stats": {
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "8.5", 
+                    "complex_highest_days": "24", 
+                    "simple_highest_days": "0", 
+                    "simple_average_days": "0", 
+                    "complex_average_days": "10"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-8111", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-8111"
+                ], 
+                "name": "Margaret L. Peak"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Margaret L. Peak", 
+                    "FOIA Contact", 
+                    "(01C1) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-7717"
+                ]
+            }, 
+            "fax": "202-273-9299", 
+            "name": "Office of the General Counsel", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-7717"
+                    ], 
+                    "name": "J. Thomas Burch, Jr."
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "37.5", 
+                    "expedited_processing_highest_days": "39", 
+                    "simple_median_days": "37", 
+                    "complex_median_days": "43", 
+                    "complex_highest_days": "226", 
+                    "simple_highest_days": "102", 
+                    "expedited_processing_median_days": "37.5", 
+                    "simple_average_days": "35.2", 
+                    "expedited_processing_lowest_days": "36", 
+                    "complex_average_days": "59.3"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "44", 
+                    "complex_highest_days": "87", 
+                    "simple_highest_days": "0", 
+                    "simple_average_days": "0", 
+                    "complex_average_days": "10"
+                }, 
+                "2009": {
+                    "complex_highest_days": "83", 
+                    "complex_lowest_days": "1", 
+                    "complex_average_days": "26.5", 
+                    "complex_median_days": "30.5"
+                }, 
+                "2011": {
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "7", 
+                    "expedited_processing_highest_days": "7", 
+                    "complex_median_days": "51", 
+                    "complex_highest_days": "146", 
+                    "expedited_processing_median_days": "7", 
+                    "expedited_processing_lowest_days": "7", 
+                    "complex_average_days": "50.16"
+                }, 
+                "2010": {
+                    "complex_highest_days": "285", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "68.44", 
+                    "complex_median_days": "55"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "62", 
+                    "complex_lowest_days": "2", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "2", 
+                    "simple_median_days": "62", 
+                    "complex_median_days": "39.5", 
+                    "complex_highest_days": "168", 
+                    "simple_highest_days": "62", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "62", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "50.43"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "56", 
+                    "complex_lowest_days": "less than 1", 
+                    "simple_median_days": "56", 
+                    "complex_median_days": "19", 
+                    "complex_highest_days": "118", 
+                    "simple_highest_days": "56", 
+                    "simple_average_days": "56", 
+                    "complex_average_days": "24.8"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-7717", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-7717"
+                ], 
+                "name": "J. Thomas Burch, Jr."
+            }, 
+            "address": {
+                "address_lines": [
+                    "J. Thomas Burch, Jr.", 
+                    "FOIA Contact", 
+                    "(026H) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "ogcfoiarequests@va.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-461-4591"
+                ]
+            }, 
+            "fax": "202-565-8667", 
+            "name": "Office of Inspector General", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-461-4591"
+                    ], 
+                    "name": "Darryl Joe"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "13", 
+                    "expedited_processing_highest_days": "13", 
+                    "simple_median_days": "17", 
+                    "complex_median_days": "20", 
+                    "complex_highest_days": "122", 
+                    "simple_highest_days": "81", 
+                    "expedited_processing_median_days": "13", 
+                    "simple_average_days": "15.74", 
+                    "expedited_processing_lowest_days": "13", 
+                    "complex_average_days": "22.12"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "6", 
+                    "complex_highest_days": "20", 
+                    "simple_highest_days": "0", 
+                    "simple_average_days": "0", 
+                    "complex_average_days": "7"
+                }, 
+                "2009": {
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "5", 
+                    "expedited_processing_highest_days": "5", 
+                    "complex_median_days": "5.5", 
+                    "complex_highest_days": "20", 
+                    "expedited_processing_median_days": "5", 
+                    "expedited_processing_lowest_days": "5", 
+                    "complex_average_days": "7"
+                }, 
+                "2011": {
+                    "complex_highest_days": "168", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "15.23", 
+                    "complex_median_days": "15"
+                }, 
+                "2010": {
+                    "complex_highest_days": "24", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "13.18", 
+                    "complex_median_days": "15"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "less than 1", 
+                    "simple_highest_days": "less than 1", 
+                    "simple_median_days": "less than 1"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "4", 
+                    "expedited_processing_highest_days": "4", 
+                    "simple_median_days": "19", 
+                    "complex_median_days": "20", 
+                    "complex_highest_days": "123", 
+                    "simple_highest_days": "43", 
+                    "expedited_processing_median_days": "4", 
+                    "simple_average_days": "14.36", 
+                    "expedited_processing_lowest_days": "4", 
+                    "complex_average_days": "20.28"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-461-4591", 
+            "public_liaison": {
+                "phone": [
+                    "202-461-4591"
+                ], 
+                "name": "Darryl Joe"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Darryl Joe", 
+                    "FOIA Contact", 
+                    "(50CI) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "vaoigfoia-pa@va.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "http://oprm.va.gov/foia/foia_library.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-303-3260 x5429"
+                ]
+            }, 
+            "fax": "202-303-3313", 
+            "name": "Office of Small and Disadvantaged Business Utilization", 
+            "misc": {
+                "FOIA Contact ": {
+                    "phone": [
+                        "202-303-3260 x5429"
+                    ], 
+                    "name": "Karen Zhussanbay"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "complex_highest_days": "406", 
+                    "complex_lowest_days": "less than 1", 
+                    "complex_average_days": "34.39", 
+                    "complex_median_days": "5.5"
+                }, 
+                "2009": {
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "complex_highest_days": "299", 
+                    "complex_lowest_days": "3", 
+                    "complex_average_days": "86.54", 
+                    "complex_median_days": "49"
+                }, 
+                "2010": {
+                    "complex_highest_days": "36", 
+                    "complex_lowest_days": "36", 
+                    "complex_average_days": "36", 
+                    "complex_median_days": "36"
+                }, 
+                "2013": {
+                    "complex_highest_days": "109", 
+                    "complex_lowest_days": "3", 
+                    "complex_average_days": "28.73", 
+                    "complex_median_days": "17"
+                }, 
+                "2012": {
+                    "complex_highest_days": "309", 
+                    "complex_lowest_days": "17", 
+                    "complex_average_days": "152.12", 
+                    "complex_median_days": "149"
+                }
+            }, 
+            "website": "http://oprm.va.gov/foia/", 
+            "phone": "202-303-3260 x5429", 
+            "public_liaison": {
+                "phone": [
+                    "202-303-3260 x5429"
+                ], 
+                "name": "James Horan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Karen Zhussanbay", 
+                    "FOIA Contact", 
+                    "(00SB) VACO"
+                ], 
+                "state": "DC", 
+                "street": "810 Vermont Avenue, NW", 
+                "zip": "20420", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "osbdufoia@va.gov"
+            ]
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "36", 
+            "expedited_processing_highest_days": "287", 
+            "simple_median_days": "5", 
+            "complex_median_days": "15", 
+            "complex_highest_days": "998", 
+            "simple_highest_days": "822", 
+            "expedited_processing_median_days": "19.5", 
+            "simple_average_days": "15.36", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "36.23"
+        }, 
+        "2008": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_highest_days": "107", 
+            "simple_median_days": "0", 
+            "complex_highest_days": "2104", 
+            "simple_highest_days": "0", 
+            "simple_average_days": "0", 
+            "expedited_processing_lowest_days": "1"
+        }, 
+        "2009": {
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "3.5", 
+            "expedited_processing_highest_days": "136", 
+            "complex_median_days": "55", 
+            "complex_highest_days": "1583", 
+            "expedited_processing_median_days": "1", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "36"
+        }, 
+        "2011": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "4.07", 
+            "expedited_processing_highest_days": "53", 
+            "simple_median_days": "less than 1", 
+            "complex_median_days": "5", 
+            "complex_highest_days": "1748", 
+            "simple_highest_days": "8", 
+            "expedited_processing_median_days": "1", 
+            "simple_average_days": "1.48", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "16.29"
+        }, 
+        "2010": {
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "15.52", 
+            "expedited_processing_highest_days": "121", 
+            "complex_median_days": "4", 
+            "complex_highest_days": "571", 
+            "expedited_processing_median_days": "3", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "14.23"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "37.96", 
+            "expedited_processing_highest_days": "176", 
+            "simple_median_days": "5", 
+            "complex_median_days": "16", 
+            "complex_highest_days": "1438", 
+            "simple_highest_days": "699", 
+            "expedited_processing_median_days": "14", 
+            "simple_average_days": "16.71", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "35.53"
+        }, 
+        "2012": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "34.77", 
+            "expedited_processing_highest_days": "393", 
+            "simple_median_days": "4", 
+            "complex_median_days": "12", 
+            "complex_highest_days": "733", 
+            "simple_highest_days": "444", 
+            "expedited_processing_median_days": "2.5", 
+            "simple_average_days": "10.61", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "28.1"
+        }
+    }, 
+    "abbreviation": "VA", 
+    "phone": "202-632-7465", 
+    "public_liaison": {
+        "phone": [
+            "202-632-7600"
+        ]
+    }, 
+    "address": {
+        "address_lines": [
+            "Laurie Karnay", 
+            "FOIA Team Lead", 
+            "(005R1C) VACO"
+        ], 
+        "state": "DC", 
+        "street": "810 Vermont Avenue, NW", 
+        "zip": "20420", 
+        "city": "Washington"
+    }, 
+    "keywords": [
+        "Accounting", 
+        "Administrative practice and procedure", 
+        "Adult education", 
+        "Aged", 
+        "Agriculture", 
+        "Air traffic controllers", 
+        "Airports", 
+        "Alcohol abuse", 
+        "Alcoholism", 
+        "Alimony", 
+        "American Samoa", 
+        "Antitrust", 
+        "Archives and records", 
+        "Armed forces", 
+        "Asbestos", 
+        "Authority delegations (Government agencies)", 
+        "Blind", 
+        "Broadband", 
+        "Buildings and facilities", 
+        "Business and industry", 
+        "Cemeteries", 
+        "Child support", 
+        "Civil rights", 
+        "Claims", 
+        "Colleges and universities", 
+        "Communications", 
+        "Community development", 
+        "Condominiums", 
+        "Conflict of interests", 
+        "Copyright", 
+        "Courts", 
+        "Credit", 
+        "Crime", 
+        "Cultural exchange programs", 
+        "Day care", 
+        "Defense Department", 
+        "Dental health", 
+        "Disability benefits", 
+        "Drug abuse", 
+        "Education", 
+        "Education of disadvantaged", 
+        "Education of individuals with disabilities", 
+        "Educational facilities", 
+        "Educational research", 
+        "Educational study programs", 
+        "Electric power", 
+        "Electric power rates", 
+        "Electric utilities", 
+        "Elementary and secondary education", 
+        "Employment", 
+        "Equal educational opportunity", 
+        "Equal employment opportunity", 
+        "Estates", 
+        "Federal buildings and facilities", 
+        "Federally affected areas", 
+        "Firefighters", 
+        "Flags", 
+        "Flood insurance", 
+        "Foreign currencies", 
+        "Foreign relations", 
+        "Foreign trade", 
+        "Freedom of information", 
+        "Frozen foods", 
+        "Government contracts", 
+        "Government employees", 
+        "Government procurement", 
+        "Government property", 
+        "Government property management", 
+        "Grant programs", 
+        "Grant programs-education", 
+        "Grant programs-health", 
+        "Grant programs-social programs", 
+        "Grant programs-transportation", 
+        "Grant programs-veterans", 
+        "Guam", 
+        "Health care", 
+        "Health facilities", 
+        "Health insurance", 
+        "Health professions", 
+        "Health records", 
+        "Highways and roads", 
+        "Home improvement", 
+        "Homeless", 
+        "Hospitals", 
+        "Hostages", 
+        "Housing", 
+        "Human research subjects", 
+        "Income taxes", 
+        "Indians", 
+        "Indians-education", 
+        "Indians-lands", 
+        "Individuals with disabilities", 
+        "Insurance", 
+        "Intergovernmental relations", 
+        "International organizations", 
+        "Inventions and patents", 
+        "Investigations", 
+        "Iraq", 
+        "Kuwait", 
+        "Labor", 
+        "Law enforcement officers", 
+        "Lawyers", 
+        "Lebanon", 
+        "Legal services", 
+        "Life insurance", 
+        "Loan programs", 
+        "Loan programs-Indians", 
+        "Loan programs-agriculture", 
+        "Loan programs-communications", 
+        "Loan programs-education", 
+        "Loan programs-energy", 
+        "Loan programs-housing and community development", 
+        "Loan programs-social programs", 
+        "Loan programs-veterans", 
+        "Low and moderate income housing", 
+        "Manpower training programs", 
+        "Manufactured homes", 
+        "Mass transportation", 
+        "Medicaid", 
+        "Medical and dental schools", 
+        "Medical devices", 
+        "Medical research", 
+        "Medicare", 
+        "Mental health programs", 
+        "Migrant labor", 
+        "Military personnel", 
+        "Mortgage insurance", 
+        "Mortgages", 
+        "Nonprofit organizations", 
+        "Northern Mariana Islands", 
+        "Nursing homes", 
+        "Organization and functions (Government agencies)", 
+        "Pacific Islands Trust Territory", 
+        "Parking", 
+        "Penalties", 
+        "Philippines", 
+        "Postal Service", 
+        "Privacy", 
+        "Private schools", 
+        "Public assistance programs", 
+        "Public housing", 
+        "Radioactive materials", 
+        "Railroad retirement", 
+        "Railroad unemployment insurance", 
+        "Railroads", 
+        "Religious discrimination", 
+        "Relocation assistance", 
+        "Rent subsidies", 
+        "Reporting and recordkeeping requirements", 
+        "Research", 
+        "Retirement", 
+        "Rural areas", 
+        "Scholarships and fellowships", 
+        "School construction", 
+        "Schools", 
+        "Science and technology", 
+        "Seals and insignia", 
+        "Securities", 
+        "Security measures", 
+        "Sex discrimination", 
+        "Small businesses", 
+        "Social security", 
+        "State and local governments", 
+        "Student aid", 
+        "Supplemental Security Income (SSI)", 
+        "Surety bonds", 
+        "Taxes", 
+        "Teachers", 
+        "Telecommunications", 
+        "Telephone", 
+        "Transportation", 
+        "Travel", 
+        "Travel and transportation expenses", 
+        "Treaties", 
+        "Trusts and trustees", 
+        "Unemployment compensation", 
+        "Urban areas", 
+        "Utilities", 
+        "Veterans", 
+        "Veterans Affairs Department", 
+        "Vietnam", 
+        "Virgin Islands", 
+        "Vocational education", 
+        "Vocational rehabilitation", 
+        "Wages", 
+        "Waste treatment and disposal", 
+        "Water pollution control", 
+        "Water resources", 
+        "Water supply", 
+        "Watersheds", 
+        "Women"
+    ], 
+    "top_level": false, 
+    "name": "Department of Veterans Affairs"
+}

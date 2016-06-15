@@ -1,0 +1,218 @@
+{
+    "abbreviation": "IAF", 
+    "description": "The Inter-American Foundation provides grant support to Latin American and Carribean grass-roots groups and non-governmental organizations with creative self-help ideas.", 
+    "name": "Inter-American Foundation", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Government employees", 
+        "Grant programs", 
+        "Health facilities", 
+        "Health insurance", 
+        "Health professions", 
+        "Hostages", 
+        "Iraq", 
+        "Kuwait", 
+        "Lebanon", 
+        "Loan programs"
+    ], 
+    "usa_id": "49404", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "FOIA E-reading Room", 
+                    "http://www.iaf.gov/index.aspx?page=2170"
+                ]
+            ], 
+            "service_center": {
+                "name": "Paul Zimmerman"
+            }, 
+            "name": "Inter-American Foundation", 
+            "usa_id": "49404", 
+            "misc": {
+                "General Counsel": {
+                    "phone": [
+                        "202-683-7118"
+                    ], 
+                    "name": "Paul Zimmerman"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "12", 
+                    "simple_average_days": "32.88", 
+                    "simple_highest_days": "61", 
+                    "simple_median_days": "31"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "5", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "12", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "12.2", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "9", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "14", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "14.4", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "4", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "15", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "33", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "13.9", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "11", 
+                    "simple_average_days": "15.2", 
+                    "simple_highest_days": "10", 
+                    "simple_median_days": "14"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "2", 
+                    "simple_average_days": "16.36", 
+                    "simple_highest_days": "35", 
+                    "simple_median_days": "17"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "8", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "57", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "13.9", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "website": "http://www.iaf.gov/index.aspx?page=22", 
+            "phone": "202-683-7118", 
+            "public_liaison": {
+                "phone": [
+                    "202-688-3047"
+                ], 
+                "name": "Lesley Duncan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Paul Zimmerman", 
+                    "General Counsel", 
+                    "Suite 1200 North"
+                ], 
+                "state": "DC", 
+                "street": "1331 Pennsylvania, NW", 
+                "zip": "20004", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia@iaf.gov"
+            ], 
+            "description": "The Inter-American Foundation provides grant support to Latin American and Carribean grass-roots groups and non-governmental organizations with creative self-help ideas."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "12", 
+            "simple_average_days": "32.88", 
+            "simple_highest_days": "61", 
+            "simple_median_days": "31"
+        }, 
+        "2008": {
+            "simple_lowest_days": "5", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "12", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "12.2", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2009": {
+            "simple_lowest_days": "9", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "14", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "14.4", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "simple_lowest_days": "4", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "15", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "33", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "13.9", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "11", 
+            "simple_average_days": "15.2", 
+            "simple_highest_days": "10", 
+            "simple_median_days": "14"
+        }, 
+        "2013": {
+            "simple_lowest_days": "2", 
+            "simple_average_days": "16.36", 
+            "simple_highest_days": "35", 
+            "simple_median_days": "17"
+        }, 
+        "2012": {
+            "simple_lowest_days": "2", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "8", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "57", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "13.9", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }
+    }
+}

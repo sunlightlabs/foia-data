@@ -1,0 +1,159 @@
+{
+    "abbreviation": "LSC", 
+    "description": "The Legal Services Corporation is an independent corporation founded by Congress that provides grant funds, training, and technical assistance to civil legal aid programs. The goal of the corporation is to ensure low income individuals and families have access to quality legal aid in civil matters.", 
+    "name": "Legal Services Corporation", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Aliens", 
+        "Civil rights", 
+        "Crime", 
+        "Fraud", 
+        "Freedom of information", 
+        "Grant programs-law", 
+        "Individuals with disabilities", 
+        "Lawyers", 
+        "Legal services", 
+        "Migrant labor", 
+        "Reporting and recordkeeping requirements"
+    ], 
+    "usa_id": "49442", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Electronic Public Reading Room", 
+                    "http://www.lsc.gov/about/foia/electronic-public-reading-room"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-295-1500"
+                ]
+            }, 
+            "fax": "202-337-6519", 
+            "name": "Legal Services Corporation", 
+            "request_form": "http://www.lsc.gov/about/foia/overview/foia-electronic-submission", 
+            "usa_id": "49442", 
+            "misc": {
+                "FOIA Analyst": {
+                    "phone": [
+                        "202-295-1500"
+                    ], 
+                    "name": "Cheryl DuHart"
+                }
+            }, 
+            "request_time_stats": {
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "31", 
+                    "expedited_processing_highest_days": "31", 
+                    "simple_median_days": "195", 
+                    "complex_median_days": "222", 
+                    "complex_highest_days": "881", 
+                    "simple_highest_days": "728", 
+                    "simple_average_days": "223", 
+                    "expedited_processing_lowest_days": "31", 
+                    "complex_average_days": "256"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "21", 
+                    "complex_lowest_days": "28", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "41", 
+                    "simple_median_days": "77", 
+                    "complex_median_days": "77", 
+                    "complex_highest_days": "222", 
+                    "simple_highest_days": "482", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "156", 
+                    "expedited_processing_lowest_days": "41", 
+                    "complex_average_days": "101"
+                }
+            }, 
+            "website": "http://www.lsc.gov/foia2/", 
+            "phone": "202-295-1500", 
+            "public_liaison": {
+                "phone": [
+                    "202-295-1500"
+                ], 
+                "name": "Cheryl DuHart"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Cheryl DuHart", 
+                    "FOIA Analyst", 
+                    "3rd Floor"
+                ], 
+                "state": "DC", 
+                "street": "3333 K Street, NW", 
+                "zip": "20007", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "FOIA@lsc.gov"
+            ], 
+            "description": "The Legal Services Corporation is an independent corporation founded by Congress that provides grant funds, training, and technical assistance to civil legal aid programs. The goal of the corporation is to ensure low income individuals and families have access to quality legal aid in civil matters."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "expedited_processing_average_days": "15.7", 
+            "expedited_processing_highest_days": "24", 
+            "simple_median_days": "15", 
+            "simple_highest_days": "34", 
+            "expedited_processing_median_days": "12", 
+            "simple_average_days": "14.5", 
+            "expedited_processing_lowest_days": "11"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "31", 
+            "expedited_processing_highest_days": "31", 
+            "simple_median_days": "195", 
+            "complex_median_days": "222", 
+            "complex_highest_days": "881", 
+            "simple_highest_days": "728", 
+            "simple_average_days": "223", 
+            "expedited_processing_lowest_days": "31", 
+            "complex_average_days": "256"
+        }, 
+        "2010": {
+            "simple_lowest_days": "21", 
+            "complex_lowest_days": "28", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "41", 
+            "simple_median_days": "77", 
+            "complex_median_days": "77", 
+            "complex_highest_days": "222", 
+            "simple_highest_days": "482", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "156", 
+            "expedited_processing_lowest_days": "41", 
+            "complex_average_days": "101"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "9.94", 
+            "simple_highest_days": "53", 
+            "simple_median_days": "7"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "17", 
+            "expedited_processing_average_days": "9", 
+            "expedited_processing_highest_days": "19", 
+            "simple_median_days": "6", 
+            "complex_median_days": "21", 
+            "complex_highest_days": "29", 
+            "simple_highest_days": "30", 
+            "expedited_processing_median_days": "6", 
+            "simple_average_days": "8.11", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "22"
+        }
+    }
+}

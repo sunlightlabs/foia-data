@@ -1,0 +1,256 @@
+{
+    "abbreviation": "USITC", 
+    "description": "The International Trade Commission is a quasi-judicial body that investigates whether or not, and to what extent, an unfair trade practice harms U.S. businesses. When unfair trade practices are found to harm U.S. businesses, the Commission may implement corrective measures. The Commission also provides the President and Congress impartial information on international trade to inform trade policy.", 
+    "name": "United States International Trade Commission", 
+    "usa_id": "49712", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.usitc.gov/secretary/foia/foia_ereadingroom.htm"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-205-2595"
+                ], 
+                "name": "N/A"
+            }, 
+            "fax": "202-205-2104", 
+            "name": "United States International Trade Commission", 
+            "request_form": "http://pubapps.usitc.gov/applications/foia/request.asp", 
+            "usa_id": "49712", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "11", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "21", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "12", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "10.5", 
+                    "expedited_processing_highest_days": "20", 
+                    "simple_median_days": "16", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "60", 
+                    "expedited_processing_median_days": "10.5", 
+                    "simple_average_days": "16", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "18", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "49", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "19", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "6", 
+                    "expedited_processing_highest_days": "6", 
+                    "simple_median_days": "15", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "34", 
+                    "expedited_processing_median_days": "6", 
+                    "simple_average_days": "16", 
+                    "expedited_processing_lowest_days": "6", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "4", 
+                    "expedited_processing_highest_days": "4", 
+                    "simple_median_days": "17", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "37", 
+                    "expedited_processing_median_days": "4", 
+                    "simple_average_days": "1", 
+                    "expedited_processing_lowest_days": "4", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "30", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "8", 
+                    "complex_median_days": "30", 
+                    "complex_highest_days": "30", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "10", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "30"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "3", 
+                    "expedited_processing_highest_days": "30", 
+                    "simple_median_days": "11", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "33", 
+                    "expedited_processing_median_days": "14", 
+                    "simple_average_days": "12", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "website": "http://www.usitc.gov/secretary/foia/index.htm", 
+            "phone": "202-205-2595", 
+            "foia_officer": {
+                "phone": [
+                    "202-205-2000"
+                ], 
+                "name": "Lisa R. Barton"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-205-1816"
+                ], 
+                "name": "Jacqueline N. Gross"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Lisa R. Barton", 
+                    "Chief FOIA Officer", 
+                    "112-AA"
+                ], 
+                "state": "DC", 
+                "street": "500 E Street, SW", 
+                "zip": "20436", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "lisa.barton@usitc.gov"
+            ], 
+            "description": "The International Trade Commission is a quasi-judicial body that investigates whether or not, and to what extent, an unfair trade practice harms U.S. businesses. When unfair trade practices are found to harm U.S. businesses, the Commission may implement corrective measures. The Commission also provides the President and Congress impartial information on international trade to inform trade policy."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "11", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "21", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "12", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "10.5", 
+            "expedited_processing_highest_days": "20", 
+            "simple_median_days": "16", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "60", 
+            "expedited_processing_median_days": "10.5", 
+            "simple_average_days": "16", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "0"
+        }, 
+        "2009": {
+            "simple_lowest_days": "2", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "18", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "49", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "19", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "6", 
+            "expedited_processing_highest_days": "6", 
+            "simple_median_days": "15", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "34", 
+            "expedited_processing_median_days": "6", 
+            "simple_average_days": "16", 
+            "expedited_processing_lowest_days": "6", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "4", 
+            "expedited_processing_highest_days": "4", 
+            "simple_median_days": "17", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "37", 
+            "expedited_processing_median_days": "4", 
+            "simple_average_days": "1", 
+            "expedited_processing_lowest_days": "4", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "30", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "8", 
+            "complex_median_days": "30", 
+            "complex_highest_days": "30", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "10", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "30"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "3", 
+            "expedited_processing_highest_days": "30", 
+            "simple_median_days": "11", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "33", 
+            "expedited_processing_median_days": "14", 
+            "simple_average_days": "12", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "0"
+        }
+    }
+}

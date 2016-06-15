@@ -1,0 +1,158 @@
+{
+    "abbreviation": "NCPC", 
+    "description": "The National Capital Planning Commission crafts long-range plans and policies for the National Capital Region. The Commission provides building and zoning advice to Washington DC and the surrounding area, and approves various federal construction plans.", 
+    "name": "National Capital Planning Commission", 
+    "keywords": [
+        "Freedom of information"
+    ], 
+    "usa_id": "52633", 
+    "departments": [
+        {
+            "website": "http://www.ncpc.gov/ncpc/FooterPages/PrivacyFOIADisclosure.html", 
+            "service_center": {
+                "phone": [
+                    "202-482-7227"
+                ], 
+                "name": "Marcella Brown"
+            }, 
+            "fax": "202-482-7272", 
+            "name": "National Capital Planning Commission", 
+            "usa_id": "52633", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-482-7228"
+                    ], 
+                    "name": "Deborah Young"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "9", 
+                    "simple_median_days": "4", 
+                    "complex_median_days": "9", 
+                    "complex_highest_days": "9", 
+                    "simple_highest_days": "8", 
+                    "simple_average_days": "3.71", 
+                    "complex_average_days": "9"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "7", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "10", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "3.5", 
+                    "simple_highest_days": "7", 
+                    "simple_median_days": "4"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "3.67", 
+                    "simple_highest_days": "16", 
+                    "simple_median_days": "2"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "6", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "phone": "202-482-7223", 
+            "public_liaison": {
+                "phone": [
+                    "202-482-7228"
+                ], 
+                "name": "Deborah B. Young"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Anne R. Schuyler", 
+                    "Chief FOIA Officer", 
+                    "North Lobby, Suite 500"
+                ], 
+                "state": "DC", 
+                "street": "401 9th Street, NW", 
+                "zip": "20004", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "anne.schuyler@ncpc.gov"
+            ], 
+            "description": "The National Capital Planning Commission crafts long-range plans and policies for the National Capital Region. The Commission provides building and zoning advice to Washington DC and the surrounding area, and approves various federal construction plans."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "9", 
+            "simple_median_days": "4", 
+            "complex_median_days": "9", 
+            "complex_highest_days": "9", 
+            "simple_highest_days": "8", 
+            "simple_average_days": "3.71", 
+            "complex_average_days": "9"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "7", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "10", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "6", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "3.5", 
+            "simple_highest_days": "7", 
+            "simple_median_days": "4"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "simple_average_days": "3.67", 
+            "simple_highest_days": "16", 
+            "simple_median_days": "2"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "3", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "6", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "3", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }
+    }
+}

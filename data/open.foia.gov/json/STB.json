@@ -1,0 +1,171 @@
+{
+    "abbreviation": "STB", 
+    "description": "The Surface Transportation Board regulates and decides disputes involving railroad rates, railroad mergers or line sales, and certain other transportation matters.", 
+    "name": "Surface Transportation Board", 
+    "usa_id": "49691", 
+    "departments": [
+        {
+            "website": "http://www.stb.dot.gov/stb/foia.html", 
+            "service_center": {
+                "phone": [
+                    "202-245-0269"
+                ], 
+                "name": "Marilyn R. Levitt"
+            }, 
+            "fax": "202-245-0460", 
+            "name": "Surface Transportation Board", 
+            "request_form": "http://199.79.178.189/stb/efilings.nsf/FOIARequest?OpenForm", 
+            "usa_id": "49691", 
+            "misc": {
+                "FOIA/Privacy Act Officer": {
+                    "phone": [
+                        "202-245-0269"
+                    ], 
+                    "name": "Marilyn R. Levitt"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "5.69", 
+                    "simple_highest_days": "20", 
+                    "simple_median_days": "5"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "10.5", 
+                    "simple_highest_days": "20", 
+                    "simple_median_days": "7"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "6.75", 
+                    "simple_highest_days": "15", 
+                    "simple_median_days": "5.5"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "8", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "31", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "9.1", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "7", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "14", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "7.3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "6", 
+                    "simple_highest_days": "19", 
+                    "simple_median_days": "4"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "5.9", 
+                    "simple_highest_days": "20", 
+                    "simple_median_days": "3"
+                }
+            }, 
+            "phone": "202-245-0269", 
+            "public_liaison": {
+                "phone": [
+                    "202-245-0264"
+                ], 
+                "name": "Craig Keats"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Marilyn R. Levitt", 
+                    "FOIA/Privacy Act Officer"
+                ], 
+                "state": "DC", 
+                "street": "395 E Street, SW", 
+                "zip": "20423-0001", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "FOIA.Privacy@stb.dot.gov"
+            ], 
+            "description": "The Surface Transportation Board regulates and decides disputes involving railroad rates, railroad mergers or line sales, and certain other transportation matters."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "5.69", 
+            "simple_highest_days": "20", 
+            "simple_median_days": "5"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "10.5", 
+            "simple_highest_days": "20", 
+            "simple_median_days": "7"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "6.75", 
+            "simple_highest_days": "15", 
+            "simple_median_days": "5.5"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "8", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "31", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "9.1", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "7", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "14", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "7.3", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "6", 
+            "simple_highest_days": "19", 
+            "simple_median_days": "4"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "5.9", 
+            "simple_highest_days": "20", 
+            "simple_median_days": "3"
+        }
+    }
+}

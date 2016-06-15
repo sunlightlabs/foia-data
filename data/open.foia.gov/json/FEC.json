@@ -1,0 +1,265 @@
+{
+    "abbreviation": "FEC", 
+    "description": "The Federal Election Commission enforces federal campaign finance laws, including monitoring donation prohibitions and limits and overseeing public funding for presidential campaigns.", 
+    "name": "Federal Election Commission", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Archives and records", 
+        "Business and industry", 
+        "Campaign funds", 
+        "Conflict of interests", 
+        "Credit", 
+        "Elections", 
+        "Freedom of information", 
+        "Government contracts", 
+        "Government employees", 
+        "Labor", 
+        "Law enforcement", 
+        "Nonprofit organizations", 
+        "Penalties", 
+        "Political activities (Government employees)", 
+        "Political candidates", 
+        "Political committees and parties", 
+        "Privacy", 
+        "Reporting and recordkeeping requirements", 
+        "Sunshine Act"
+    ], 
+    "usa_id": "52607", 
+    "departments": [
+        {
+            "website": "http://www.fec.gov/press/foia.shtml", 
+            "service_center": {
+                "phone": [
+                    "202-694-1650"
+                ], 
+                "name": "Candace Salley"
+            }, 
+            "fax": "202-219-1043", 
+            "name": "Federal Election Commission", 
+            "usa_id": "52607", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "23", 
+                    "expedited_processing_average_days": "11.6", 
+                    "expedited_processing_highest_days": "14", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "29", 
+                    "complex_highest_days": "511", 
+                    "simple_highest_days": "125", 
+                    "expedited_processing_median_days": "11", 
+                    "simple_average_days": "23.5", 
+                    "expedited_processing_lowest_days": "10", 
+                    "complex_average_days": "162.6"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "3", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "188.2", 
+                    "expedited_processing_highest_days": "403", 
+                    "simple_median_days": "41", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "399", 
+                    "expedited_processing_median_days": "212", 
+                    "simple_average_days": "62.1", 
+                    "expedited_processing_lowest_days": "25", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "3", 
+                    "complex_lowest_days": "35", 
+                    "expedited_processing_average_days": "9", 
+                    "expedited_processing_highest_days": "16", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "54", 
+                    "complex_highest_days": "150", 
+                    "simple_highest_days": "389", 
+                    "expedited_processing_median_days": "9", 
+                    "simple_average_days": "47.2", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "68.1"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "115", 
+                    "expedited_processing_average_days": "14", 
+                    "expedited_processing_highest_days": "17", 
+                    "simple_median_days": "27", 
+                    "complex_median_days": "144", 
+                    "complex_highest_days": "931", 
+                    "simple_highest_days": "330", 
+                    "expedited_processing_median_days": "17", 
+                    "simple_average_days": "44.4", 
+                    "expedited_processing_lowest_days": "8", 
+                    "complex_average_days": "309"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "65", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "2", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "65", 
+                    "complex_highest_days": "65", 
+                    "simple_highest_days": "688", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "52.6", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "65"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "17", 
+                    "complex_median_days": "20.5", 
+                    "complex_highest_days": "88", 
+                    "simple_highest_days": "35", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "16.3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "28.1"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "16", 
+                    "expedited_processing_average_days": "12.5", 
+                    "expedited_processing_highest_days": "15", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "81.5", 
+                    "complex_highest_days": "354", 
+                    "simple_highest_days": "326", 
+                    "expedited_processing_median_days": "12.5", 
+                    "simple_average_days": "49", 
+                    "expedited_processing_lowest_days": "10", 
+                    "complex_average_days": "132.6"
+                }
+            }, 
+            "phone": "202-694-1650", 
+            "public_liaison": {
+                "phone": [
+                    "202-694-1650"
+                ], 
+                "name": "Kate Higginbothom"
+            }, 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "FOIA Requester Service Center", 
+                    "Room 408"
+                ], 
+                "state": "DC", 
+                "street": "999 E Street, NW", 
+                "zip": "20463", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "FOIA@fec.gov"
+            ], 
+            "description": "The Federal Election Commission enforces federal campaign finance laws, including monitoring donation prohibitions and limits and overseeing public funding for presidential campaigns."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "2", 
+            "complex_lowest_days": "23", 
+            "expedited_processing_average_days": "11.6", 
+            "expedited_processing_highest_days": "14", 
+            "simple_median_days": "20", 
+            "complex_median_days": "29", 
+            "complex_highest_days": "511", 
+            "simple_highest_days": "125", 
+            "expedited_processing_median_days": "11", 
+            "simple_average_days": "23.5", 
+            "expedited_processing_lowest_days": "10", 
+            "complex_average_days": "162.6"
+        }, 
+        "2008": {
+            "simple_lowest_days": "3", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "188.2", 
+            "expedited_processing_highest_days": "403", 
+            "simple_median_days": "41", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "399", 
+            "expedited_processing_median_days": "212", 
+            "simple_average_days": "62.1", 
+            "expedited_processing_lowest_days": "25", 
+            "complex_average_days": "0"
+        }, 
+        "2009": {
+            "simple_lowest_days": "3", 
+            "complex_lowest_days": "35", 
+            "expedited_processing_average_days": "9", 
+            "expedited_processing_highest_days": "16", 
+            "simple_median_days": "20", 
+            "complex_median_days": "54", 
+            "complex_highest_days": "150", 
+            "simple_highest_days": "389", 
+            "expedited_processing_median_days": "9", 
+            "simple_average_days": "47.2", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "68.1"
+        }, 
+        "2011": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "115", 
+            "expedited_processing_average_days": "14", 
+            "expedited_processing_highest_days": "17", 
+            "simple_median_days": "27", 
+            "complex_median_days": "144", 
+            "complex_highest_days": "931", 
+            "simple_highest_days": "330", 
+            "expedited_processing_median_days": "17", 
+            "simple_average_days": "44.4", 
+            "expedited_processing_lowest_days": "8", 
+            "complex_average_days": "309"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "65", 
+            "expedited_processing_average_days": "2", 
+            "expedited_processing_highest_days": "2", 
+            "simple_median_days": "20", 
+            "complex_median_days": "65", 
+            "complex_highest_days": "65", 
+            "simple_highest_days": "688", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "52.6", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "65"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "17", 
+            "complex_median_days": "20.5", 
+            "complex_highest_days": "88", 
+            "simple_highest_days": "35", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "16.3", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "28.1"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "16", 
+            "expedited_processing_average_days": "12.5", 
+            "expedited_processing_highest_days": "15", 
+            "simple_median_days": "20", 
+            "complex_median_days": "81.5", 
+            "complex_highest_days": "354", 
+            "simple_highest_days": "326", 
+            "expedited_processing_median_days": "12.5", 
+            "simple_average_days": "49", 
+            "expedited_processing_lowest_days": "10", 
+            "complex_average_days": "132.6"
+        }
+    }
+}

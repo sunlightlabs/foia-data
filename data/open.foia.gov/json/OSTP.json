@@ -1,0 +1,259 @@
+{
+    "common_requests": [
+        "Records on OSTP's scientific advice and correspondance."
+    ], 
+    "description": "The Office of Science and Technology Policy advises the president on the effects of science and technology on domestic and international affairs. It also develops, coordinates, and implements science and technology policies and budgets.", 
+    "usa_id": "49590", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Library", 
+                    "https://www.whitehouse.gov/administration/eop/ostp/library/foia/readingroom"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-456-4444"
+                ], 
+                "name": "Jennifer Lee"
+            }, 
+            "fax": "202-395-1224", 
+            "name": "Office of Science and Technology Policy", 
+            "usa_id": "49590", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "2", 
+                    "expedited_processing_average_days": "162", 
+                    "expedited_processing_highest_days": "162", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "34", 
+                    "complex_highest_days": "162", 
+                    "simple_highest_days": "85", 
+                    "expedited_processing_median_days": "162", 
+                    "simple_average_days": "14.4", 
+                    "expedited_processing_lowest_days": "162", 
+                    "complex_average_days": "71.8"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "30", 
+                    "expedited_processing_average_days": "25", 
+                    "expedited_processing_highest_days": "21", 
+                    "simple_median_days": "18", 
+                    "complex_median_days": "81.5", 
+                    "complex_highest_days": "1243", 
+                    "simple_highest_days": "296", 
+                    "expedited_processing_median_days": "25.5", 
+                    "simple_average_days": "51", 
+                    "expedited_processing_lowest_days": "30", 
+                    "complex_average_days": "359"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "6", 
+                    "expedited_processing_average_days": "230.5", 
+                    "expedited_processing_highest_days": "367", 
+                    "simple_median_days": "2.5", 
+                    "complex_median_days": "76", 
+                    "complex_highest_days": "885", 
+                    "simple_highest_days": "597", 
+                    "expedited_processing_median_days": "230.5", 
+                    "simple_average_days": "44.8", 
+                    "expedited_processing_lowest_days": "94", 
+                    "complex_average_days": "173.6"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "7", 
+                    "expedited_processing_average_days": "11.8", 
+                    "expedited_processing_highest_days": "29", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "52", 
+                    "complex_highest_days": "303", 
+                    "simple_highest_days": "173", 
+                    "expedited_processing_median_days": "6", 
+                    "simple_average_days": "14.74", 
+                    "expedited_processing_lowest_days": "3", 
+                    "complex_average_days": "107.5"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "7", 
+                    "expedited_processing_average_days": "37", 
+                    "expedited_processing_highest_days": "123", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "20", 
+                    "complex_highest_days": "52", 
+                    "simple_highest_days": "123", 
+                    "expedited_processing_median_days": "20", 
+                    "simple_average_days": "11.26", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "21.3"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "2", 
+                    "simple_median_days": "8", 
+                    "complex_median_days": "9.5", 
+                    "complex_highest_days": "234", 
+                    "simple_highest_days": "40", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "10.8", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "38.6"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "4", 
+                    "expedited_processing_average_days": "31.14", 
+                    "expedited_processing_highest_days": "87", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "30", 
+                    "complex_highest_days": "92", 
+                    "simple_highest_days": "51", 
+                    "expedited_processing_median_days": "21", 
+                    "simple_average_days": "12.3", 
+                    "expedited_processing_lowest_days": "5", 
+                    "complex_average_days": "42.71"
+                }
+            }, 
+            "website": "http://www.whitehouse.gov/administration/eop/ostp/library/foia", 
+            "phone": "202-456-4444", 
+            "public_liaison": {
+                "phone": [
+                    "202-456-4444"
+                ], 
+                "name": "Jennifer Lee"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Rachael Leonard", 
+                    "General Counsel"
+                ], 
+                "state": "DC", 
+                "street": "1650 Pennsylvania Avenue, NW", 
+                "zip": "20502", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "ostpfoia@ostp.eop.gov"
+            ], 
+            "description": "The Office of Science and Technology Policy advises the president on the effects of science and technology on domestic and international affairs. It also develops, coordinates, and implements science and technology policies and budgets."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "2", 
+            "expedited_processing_average_days": "162", 
+            "expedited_processing_highest_days": "162", 
+            "simple_median_days": "0", 
+            "complex_median_days": "34", 
+            "complex_highest_days": "162", 
+            "simple_highest_days": "85", 
+            "expedited_processing_median_days": "162", 
+            "simple_average_days": "14.4", 
+            "expedited_processing_lowest_days": "162", 
+            "complex_average_days": "71.8"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "30", 
+            "expedited_processing_average_days": "25", 
+            "expedited_processing_highest_days": "21", 
+            "simple_median_days": "18", 
+            "complex_median_days": "81.5", 
+            "complex_highest_days": "1243", 
+            "simple_highest_days": "296", 
+            "expedited_processing_median_days": "25.5", 
+            "simple_average_days": "51", 
+            "expedited_processing_lowest_days": "30", 
+            "complex_average_days": "359"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "6", 
+            "expedited_processing_average_days": "230.5", 
+            "expedited_processing_highest_days": "367", 
+            "simple_median_days": "2.5", 
+            "complex_median_days": "76", 
+            "complex_highest_days": "885", 
+            "simple_highest_days": "597", 
+            "expedited_processing_median_days": "230.5", 
+            "simple_average_days": "44.8", 
+            "expedited_processing_lowest_days": "94", 
+            "complex_average_days": "173.6"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "7", 
+            "expedited_processing_average_days": "11.8", 
+            "expedited_processing_highest_days": "29", 
+            "simple_median_days": "9", 
+            "complex_median_days": "52", 
+            "complex_highest_days": "303", 
+            "simple_highest_days": "173", 
+            "expedited_processing_median_days": "6", 
+            "simple_average_days": "14.74", 
+            "expedited_processing_lowest_days": "3", 
+            "complex_average_days": "107.5"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "7", 
+            "expedited_processing_average_days": "37", 
+            "expedited_processing_highest_days": "123", 
+            "simple_median_days": "2", 
+            "complex_median_days": "20", 
+            "complex_highest_days": "52", 
+            "simple_highest_days": "123", 
+            "expedited_processing_median_days": "20", 
+            "simple_average_days": "11.26", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "21.3"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "2", 
+            "expedited_processing_highest_days": "2", 
+            "simple_median_days": "8", 
+            "complex_median_days": "9.5", 
+            "complex_highest_days": "234", 
+            "simple_highest_days": "40", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "10.8", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "38.6"
+        }, 
+        "2012": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "4", 
+            "expedited_processing_average_days": "31.14", 
+            "expedited_processing_highest_days": "87", 
+            "simple_median_days": "9", 
+            "complex_median_days": "30", 
+            "complex_highest_days": "92", 
+            "simple_highest_days": "51", 
+            "expedited_processing_median_days": "21", 
+            "simple_average_days": "12.3", 
+            "expedited_processing_lowest_days": "5", 
+            "complex_average_days": "42.71"
+        }
+    }, 
+    "abbreviation": "OSTP", 
+    "keywords": [
+        "Classified information", 
+        "cto", 
+        "white house"
+    ], 
+    "no_records_about": [
+        "General White House correspondance or documents."
+    ], 
+    "name": "Office of Science and Technology Policy"
+}

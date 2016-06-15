@@ -1,0 +1,205 @@
+{
+    "abbreviation": "FHFA", 
+    "description": "The Federal Housing Finance Agency provides supervision, regulation, and housing mission oversight of Fannie Mae, Freddie Mac and the Federal Home Loan Banks.", 
+    "name": "Federal Housing Finance Agency", 
+    "keywords": [
+        "Accounting", 
+        "Administrative practice and procedure", 
+        "Advertising", 
+        "Agriculture", 
+        "Archives and records", 
+        "Banks, banking", 
+        "Claims", 
+        "Community development", 
+        "Confidential business information", 
+        "Conflict of interests", 
+        "Consumer protection", 
+        "Courts", 
+        "Credit", 
+        "Credit unions", 
+        "Crime", 
+        "Currency", 
+        "Elections", 
+        "Equal access to justice", 
+        "Equal employment opportunity", 
+        "Ethics", 
+        "Federal Reserve System", 
+        "Federal home loan banks", 
+        "Flood insurance", 
+        "Foreign banking", 
+        "Freedom of information", 
+        "Government contracts", 
+        "Government employees", 
+        "Government securities", 
+        "Holding companies", 
+        "Housing", 
+        "Insurance", 
+        "Intergovernmental relations", 
+        "Investments", 
+        "Minority businesses", 
+        "Mortgages", 
+        "National banks", 
+        "Nonprofit organizations", 
+        "Organization and functions (Government agencies)", 
+        "Penalties", 
+        "Privacy", 
+        "Reporting and recordkeeping requirements", 
+        "Savings associations", 
+        "Seals and insignia", 
+        "Securities", 
+        "Sunshine Act", 
+        "Trade practices", 
+        "Truth in lending", 
+        "Wages"
+    ], 
+    "usa_id": "52611", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Reading Room", 
+                    "http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/Reading-Room.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-649-3803"
+                ]
+            }, 
+            "fax": "202-649-1073", 
+            "name": "Federal Housing Finance Agency", 
+            "request_form": "https://www.publicaccesslink.fhfa.gov/palMain.aspx", 
+            "usa_id": "52611", 
+            "request_time_stats": {
+                "2009": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "8", 
+                    "expedited_processing_average_days": "31", 
+                    "expedited_processing_highest_days": "52", 
+                    "simple_median_days": "33", 
+                    "complex_median_days": "34", 
+                    "complex_highest_days": "139", 
+                    "simple_highest_days": "48", 
+                    "expedited_processing_median_days": "33", 
+                    "simple_average_days": "14", 
+                    "expedited_processing_lowest_days": "4", 
+                    "complex_average_days": "40"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "33", 
+                    "expedited_processing_highest_days": "2", 
+                    "simple_median_days": "29", 
+                    "complex_median_days": "170", 
+                    "complex_highest_days": "356", 
+                    "simple_highest_days": "178", 
+                    "simple_average_days": "48", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "174"
+                }
+            }, 
+            "website": "http://www.fhfa.gov/AboutUs/FOIAPrivacy/Pages/FOIA.aspx", 
+            "phone": "202-649-3803", 
+            "foia_officer": {
+                "phone": [
+                    "202-649-3803"
+                ], 
+                "name": "Stacy J. Easter"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-649-3803"
+                ], 
+                "name": "Stacy J. Easter"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Stacy J. Easter", 
+                    "FOIA Officer", 
+                    "Constitution Center"
+                ], 
+                "state": "DC", 
+                "street": "400 7th Street, SW", 
+                "zip": "20024", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "FOIA@fhfa.gov"
+            ], 
+            "description": "The Federal Housing Finance Agency provides supervision, regulation, and housing mission oversight of Fannie Mae, Freddie Mac and the Federal Home Loan Banks."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "simple_median_days": "10", 
+            "complex_median_days": "45", 
+            "complex_highest_days": "208", 
+            "simple_highest_days": "215", 
+            "simple_average_days": "18.62", 
+            "complex_average_days": "58.41"
+        }, 
+        "2009": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "8", 
+            "expedited_processing_average_days": "31", 
+            "expedited_processing_highest_days": "52", 
+            "simple_median_days": "33", 
+            "complex_median_days": "34", 
+            "complex_highest_days": "139", 
+            "simple_highest_days": "48", 
+            "expedited_processing_median_days": "33", 
+            "simple_average_days": "14", 
+            "expedited_processing_lowest_days": "4", 
+            "complex_average_days": "40"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "10", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "7", 
+            "complex_median_days": "52.5", 
+            "complex_highest_days": "228", 
+            "simple_highest_days": "63", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "10.57", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "81"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "33", 
+            "expedited_processing_highest_days": "2", 
+            "simple_median_days": "29", 
+            "complex_median_days": "170", 
+            "complex_highest_days": "356", 
+            "simple_highest_days": "178", 
+            "simple_average_days": "48", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "174"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "simple_median_days": "10", 
+            "complex_median_days": "33", 
+            "complex_highest_days": "158", 
+            "simple_highest_days": "109", 
+            "simple_average_days": "15.4", 
+            "complex_average_days": "45.84"
+        }, 
+        "2012": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "simple_median_days": "6", 
+            "complex_median_days": "21", 
+            "complex_highest_days": "271", 
+            "simple_highest_days": "165", 
+            "simple_average_days": "11.03", 
+            "complex_average_days": "39.25"
+        }
+    }
+}

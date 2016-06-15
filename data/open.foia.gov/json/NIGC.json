@@ -1,0 +1,252 @@
+{
+    "abbreviation": "NIGC", 
+    "description": "The National Indian Gaming Commission is a regulatory body that oversees some aspects of gaming on Indian lands, often complementing the work of Indian regulators.", 
+    "name": "National Indian Gaming Commission", 
+    "keywords": [
+        "Accounting", 
+        "Administrative practice and procedure", 
+        "Claims", 
+        "Freedom of information", 
+        "Gambling", 
+        "Government employees", 
+        "Income taxes", 
+        "Indians", 
+        "Indians-business and finance", 
+        "Indians-lands", 
+        "Indians-tribal government", 
+        "Privacy", 
+        "Reporting and recordkeeping requirements", 
+        "Wages"
+    ], 
+    "usa_id": "49512", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act/The_Freedom_of_Information_Act/Electronic_Reading_Room.aspx"
+                ], 
+                [
+                    "Reading Room", 
+                    "http://www.nigc.gov/Reading_Room.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-632-7003"
+                ]
+            }, 
+            "fax": "202-632-7066", 
+            "name": "National Indian Gaming Commission", 
+            "usa_id": "49512", 
+            "misc": {
+                "FOIA/PA and  Records Management Assistant": {
+                    "phone": [
+                        "202-632-7003"
+                    ], 
+                    "name": "AnDrea Choate"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "56", 
+                    "simple_median_days": "45", 
+                    "complex_median_days": "211.5", 
+                    "complex_highest_days": "836", 
+                    "simple_highest_days": "730", 
+                    "simple_average_days": "119", 
+                    "complex_average_days": "302"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "5", 
+                    "expedited_processing_average_days": "12", 
+                    "expedited_processing_highest_days": "29", 
+                    "simple_median_days": "15.7", 
+                    "complex_median_days": "28.2", 
+                    "complex_highest_days": "63", 
+                    "simple_highest_days": "80", 
+                    "expedited_processing_median_days": "9", 
+                    "simple_average_days": "10", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "26"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "14", 
+                    "expedited_processing_average_days": "6", 
+                    "expedited_processing_highest_days": "7", 
+                    "simple_median_days": "12", 
+                    "complex_median_days": "43.5", 
+                    "complex_highest_days": "110", 
+                    "simple_highest_days": "49", 
+                    "expedited_processing_median_days": "6", 
+                    "simple_average_days": "15.1", 
+                    "expedited_processing_lowest_days": "5", 
+                    "complex_average_days": "48.7"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "15", 
+                    "expedited_processing_average_days": "25", 
+                    "expedited_processing_highest_days": "25", 
+                    "simple_median_days": "156", 
+                    "complex_median_days": "128", 
+                    "complex_highest_days": "270", 
+                    "simple_highest_days": "121", 
+                    "expedited_processing_median_days": "25", 
+                    "simple_average_days": "30.15", 
+                    "expedited_processing_lowest_days": "25", 
+                    "complex_average_days": "64"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "2", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "3", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "102", 
+                    "complex_highest_days": "166", 
+                    "simple_highest_days": "188", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "25.3", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "87"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "5", 
+                    "complex_lowest_days": "336", 
+                    "simple_median_days": "68.5", 
+                    "complex_median_days": "588", 
+                    "complex_highest_days": "588", 
+                    "simple_highest_days": "478", 
+                    "simple_average_days": "109", 
+                    "complex_average_days": "504"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "94", 
+                    "simple_median_days": "31", 
+                    "complex_median_days": "97", 
+                    "complex_highest_days": "238", 
+                    "simple_highest_days": "226", 
+                    "simple_average_days": "53.95", 
+                    "complex_average_days": "143"
+                }
+            }, 
+            "website": "http://www.nigc.gov/Reading_Room/Freedom_of_Information_Act.aspx", 
+            "phone": "202-632-7003", 
+            "public_liaison": {
+                "phone": [
+                    "202-632-7003"
+                ], 
+                "name": "AnDrea Choate"
+            }, 
+            "address": {
+                "address_lines": [
+                    "AnDrea Choate'", 
+                    "FOIA/PA and  Records Management Assistant", 
+                    "Suite 9100"
+                ], 
+                "state": "DC", 
+                "street": "1441 L Street, NW", 
+                "zip": "20005", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "Andrea_Choate@nigc.gov"
+            ], 
+            "description": "The National Indian Gaming Commission is a regulatory body that oversees some aspects of gaming on Indian lands, often complementing the work of Indian regulators."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "56", 
+            "simple_median_days": "45", 
+            "complex_median_days": "211.5", 
+            "complex_highest_days": "836", 
+            "simple_highest_days": "730", 
+            "simple_average_days": "119", 
+            "complex_average_days": "302"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "5", 
+            "expedited_processing_average_days": "12", 
+            "expedited_processing_highest_days": "29", 
+            "simple_median_days": "15.7", 
+            "complex_median_days": "28.2", 
+            "complex_highest_days": "63", 
+            "simple_highest_days": "80", 
+            "expedited_processing_median_days": "9", 
+            "simple_average_days": "10", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "26"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "14", 
+            "expedited_processing_average_days": "6", 
+            "expedited_processing_highest_days": "7", 
+            "simple_median_days": "12", 
+            "complex_median_days": "43.5", 
+            "complex_highest_days": "110", 
+            "simple_highest_days": "49", 
+            "expedited_processing_median_days": "6", 
+            "simple_average_days": "15.1", 
+            "expedited_processing_lowest_days": "5", 
+            "complex_average_days": "48.7"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "15", 
+            "expedited_processing_average_days": "25", 
+            "expedited_processing_highest_days": "25", 
+            "simple_median_days": "156", 
+            "complex_median_days": "128", 
+            "complex_highest_days": "270", 
+            "simple_highest_days": "121", 
+            "expedited_processing_median_days": "25", 
+            "simple_average_days": "30.15", 
+            "expedited_processing_lowest_days": "25", 
+            "complex_average_days": "64"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "2", 
+            "expedited_processing_average_days": "2", 
+            "expedited_processing_highest_days": "3", 
+            "simple_median_days": "10", 
+            "complex_median_days": "102", 
+            "complex_highest_days": "166", 
+            "simple_highest_days": "188", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "25.3", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "87"
+        }, 
+        "2013": {
+            "simple_lowest_days": "5", 
+            "complex_lowest_days": "336", 
+            "simple_median_days": "68.5", 
+            "complex_median_days": "588", 
+            "complex_highest_days": "588", 
+            "simple_highest_days": "478", 
+            "simple_average_days": "109", 
+            "complex_average_days": "504"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "94", 
+            "simple_median_days": "31", 
+            "complex_median_days": "97", 
+            "complex_highest_days": "238", 
+            "simple_highest_days": "226", 
+            "simple_average_days": "53.95", 
+            "complex_average_days": "143"
+        }
+    }
+}

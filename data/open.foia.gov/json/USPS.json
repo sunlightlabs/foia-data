@@ -1,0 +1,402 @@
+{
+    "abbreviation": "USPS", 
+    "description": "The Postal Service provides mail processing and delivery services to individuals and businesses in the U.S.", 
+    "name": "United States Postal Service", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Advertising", 
+        "Air carriers", 
+        "Archives and records", 
+        "Authority delegations (Government agencies)", 
+        "Banks, banking", 
+        "Buildings and facilities", 
+        "Civil rights", 
+        "Claims", 
+        "Classified information", 
+        "Computer technology", 
+        "Conflict of interests", 
+        "Courts", 
+        "Credit", 
+        "Crime", 
+        "Environmental impact statements", 
+        "Equal access to justice", 
+        "Federal buildings and facilities", 
+        "Foreign relations", 
+        "Fraud", 
+        "Freedom of information", 
+        "Government contracts", 
+        "Government employees", 
+        "Government procurement", 
+        "Government property", 
+        "Individuals with disabilities", 
+        "Intergovernmental relations", 
+        "Law enforcement", 
+        "Law enforcement officers", 
+        "Lotteries", 
+        "Maritime carriers", 
+        "Organization and functions (Government agencies)", 
+        "Penalties", 
+        "Postal Service", 
+        "Privacy", 
+        "Security measures", 
+        "Seizures and forfeitures", 
+        "State and local governments", 
+        "Wages"
+    ], 
+    "usa_id": "49061", 
+    "departments": [
+        {
+            "website": "http://about.usps.com/who-we-are/foia/welcome.htm", 
+            "service_center": {
+                "phone": [
+                    "202-268-2608"
+                ]
+            }, 
+            "fax": "202-268-5353", 
+            "name": "USPS Headquarters Office", 
+            "request_form": "https://pfoiapal.usps.com/palMain.aspx", 
+            "misc": {
+                "Manager, Records Office": {
+                    "phone": [
+                        "202-268-2608"
+                    ], 
+                    "name": "FOIA Contact"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "202-268-2608", 
+            "public_liaison": {
+                "phone": [
+                    "202-268-2608"
+                ], 
+                "name": "Jane Eyre"
+            }, 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "Deputy Chief FOIA Officer", 
+                    "Room 9431"
+                ], 
+                "state": "DC", 
+                "street": "475 L'Enfant Plaza, SW", 
+                "zip": "20260-1101", 
+                "city": "Washington"
+            }
+        }, 
+        {
+            "website": "http://about.usps.com/who-we-are/foia/welcome.htm", 
+            "service_center": {
+                "phone": [
+                    "314-345-5894"
+                ]
+            }, 
+            "fax": "650-578-4956", 
+            "name": "USPS Field Office", 
+            "request_form": "https://pfoiapal.usps.com/palMain.aspx", 
+            "top_level": false, 
+            "phone": "314-345-5894", 
+            "public_liaison": {
+                "phone": [
+                    "314-345-5894"
+                ], 
+                "name": "Brittany Lindsay"
+            }, 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "St. Louis General Law Service Center", 
+                    "Room 2400"
+                ], 
+                "state": "MO", 
+                "street": "1720 Market Street", 
+                "zip": "63155-9948", 
+                "city": "St. Louis"
+            }
+        }, 
+        {
+            "website": "http://about.usps.com/who-we-are/foia/welcome.htm", 
+            "service_center": {
+                "phone": [
+                    "202-268-7004"
+                ]
+            }, 
+            "fax": "202-268-4538", 
+            "description": "The mission of the U.S. Postal Inspection Service is to support and protect the U.S. Postal Service and its employees, infrastructure, and customers; enforce the laws that defend the nation\u2019s mail system from illegal or dangerous use; and ensure public trust in the mail.", 
+            "request_form": "https://pfoiapal.usps.com/palMain.aspx", 
+            "usa_id": "48154", 
+            "misc": {
+                "Office of Counsel": {
+                    "phone": [
+                        "202-268-7004"
+                    ], 
+                    "name": "FOIA Contact"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "60", 
+                    "complex_highest_days": "82", 
+                    "simple_highest_days": "215", 
+                    "simple_average_days": "15.84", 
+                    "complex_average_days": "43.5"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "10", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "7", 
+                    "complex_median_days": "23.5", 
+                    "complex_highest_days": "37", 
+                    "simple_highest_days": "888", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "11.67", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "23.5"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "19", 
+                    "simple_median_days": "7", 
+                    "complex_median_days": "82", 
+                    "complex_highest_days": "87", 
+                    "simple_highest_days": "126", 
+                    "simple_average_days": "9", 
+                    "complex_average_days": "69"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "less than 1", 
+                    "expedited_processing_highest_days": "less than 1", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "30", 
+                    "complex_highest_days": "218", 
+                    "simple_highest_days": "115", 
+                    "expedited_processing_median_days": "less than 1", 
+                    "simple_average_days": "7.88", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "59"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "30", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "30", 
+                    "complex_highest_days": "30", 
+                    "simple_highest_days": "106", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "7.75", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "30"
+                }
+            }, 
+            "phone": "202-268-7004", 
+            "public_liaison": {
+                "phone": [
+                    "202-268-7004"
+                ], 
+                "name": "Tammy Warner"
+            }, 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "Office of Counsel", 
+                    "Room 3301"
+                ], 
+                "state": "DC", 
+                "street": "475 L\u00b4Enfant Plaza, SW", 
+                "zip": "20260", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "name": "Postal Inspection Service"
+        }, 
+        {
+            "website": "https://uspsoig.gov/general/foia", 
+            "service_center": {
+                "phone": [
+                    "703-248-2100"
+                ]
+            }, 
+            "fax": "703-248-4626", 
+            "name": "Office of the Inspector General", 
+            "request_form": "https://pfoiapal.usps.com/palMain.aspx", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "703-248-2100"
+                    ], 
+                    "name": "FOIA Contact"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "16.5", 
+                    "complex_highest_days": "338", 
+                    "simple_highest_days": "127", 
+                    "simple_average_days": "7.41", 
+                    "complex_average_days": "39.78"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "3", 
+                    "expedited_processing_average_days": "1", 
+                    "expedited_processing_highest_days": "1", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "14", 
+                    "complex_highest_days": "20", 
+                    "simple_highest_days": "28", 
+                    "expedited_processing_median_days": "1", 
+                    "simple_average_days": "6.11", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "12.75"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "6.25", 
+                    "expedited_processing_highest_days": "8", 
+                    "simple_median_days": "8", 
+                    "complex_median_days": "20", 
+                    "complex_highest_days": "61", 
+                    "simple_highest_days": "74", 
+                    "expedited_processing_median_days": "6.5", 
+                    "simple_average_days": "8", 
+                    "expedited_processing_lowest_days": "4", 
+                    "complex_average_days": "31"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "4", 
+                    "expedited_processing_highest_days": "7", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "32", 
+                    "complex_highest_days": "128", 
+                    "simple_highest_days": "59", 
+                    "expedited_processing_median_days": "4", 
+                    "simple_average_days": "7.57", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "44.39"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "2", 
+                    "expedited_processing_average_days": "1", 
+                    "expedited_processing_highest_days": "1", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "21", 
+                    "complex_highest_days": "74", 
+                    "simple_highest_days": "30", 
+                    "expedited_processing_median_days": "1", 
+                    "simple_average_days": "6.74", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "30.7"
+                }
+            }, 
+            "phone": "703-248-2100", 
+            "public_liaison": {
+                "phone": [
+                    "703-248-2100"
+                ], 
+                "name": "Betsy Cuthbertson"
+            }, 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "FOIA Contact", 
+                    "Suite 10000"
+                ], 
+                "state": "VA", 
+                "street": "1735 North Lynn Street", 
+                "zip": "22209-2020", 
+                "city": "Arlington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "FOIA@uspsoig.gov"
+            ]
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "7.6", 
+            "expedited_processing_highest_days": "33", 
+            "simple_median_days": "7", 
+            "complex_median_days": "20", 
+            "complex_highest_days": "673", 
+            "simple_highest_days": "544", 
+            "expedited_processing_median_days": "1", 
+            "simple_average_days": "15.05", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "39.02"
+        }, 
+        "2011": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "14.33", 
+            "expedited_processing_highest_days": "34", 
+            "simple_median_days": "5", 
+            "complex_median_days": "21", 
+            "complex_highest_days": "573", 
+            "simple_highest_days": "888", 
+            "expedited_processing_median_days": "9.5", 
+            "simple_average_days": "11.44", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "43.13"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "6.25", 
+            "expedited_processing_highest_days": "8", 
+            "simple_median_days": "7", 
+            "complex_median_days": "25", 
+            "complex_highest_days": "495", 
+            "simple_highest_days": "524", 
+            "expedited_processing_median_days": "6.5", 
+            "simple_average_days": "17", 
+            "expedited_processing_lowest_days": "4", 
+            "complex_average_days": "46"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "8", 
+            "expedited_processing_highest_days": "24", 
+            "simple_median_days": "6", 
+            "complex_median_days": "23", 
+            "complex_highest_days": "1059", 
+            "simple_highest_days": "504", 
+            "expedited_processing_median_days": "4", 
+            "simple_average_days": "13.63", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "49.62"
+        }, 
+        "2012": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "1", 
+            "expedited_processing_highest_days": "1", 
+            "simple_median_days": "7", 
+            "complex_median_days": "23.5", 
+            "complex_highest_days": "476", 
+            "simple_highest_days": "335", 
+            "expedited_processing_median_days": "1", 
+            "simple_average_days": "15.06", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "44.06"
+        }
+    }
+}

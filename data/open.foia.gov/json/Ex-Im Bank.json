@@ -1,0 +1,166 @@
+{
+    "abbreviation": "EXIM", 
+    "description": "An independent federal agency, the Export-Import Bank assists American businesses export their goods by providing financial assistance in the form of loans, loan guarantees and insurance. The focus of the Export-Import Bank is on assisting small businesses.", 
+    "name": "Export-Import Bank of the U.S.", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Classified information", 
+        "Conflict of interests", 
+        "Exports", 
+        "Government contracts", 
+        "Government employees", 
+        "Government publications", 
+        "Grant programs", 
+        "Health facilities", 
+        "Health insurance", 
+        "Health professions", 
+        "Loan programs", 
+        "Reporting and recordkeeping requirements", 
+        "Sunshine Act"
+    ], 
+    "usa_id": "52603", 
+    "departments": [
+        {
+            "website": "http://www.exim.gov/about/disclosure/foia.cfm", 
+            "service_center": {
+                "phone": [
+                    "202-565-3290"
+                ]
+            }, 
+            "fax": "202-565-3294", 
+            "name": "Export-Import Bank of the U.S.", 
+            "request_form": "http://www.exim.gov/about/library/foia/foia-request-form.cfm", 
+            "usa_id": "52603", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-565-3248"
+                    ], 
+                    "name": "Dawn R. Kral"
+                }
+            }, 
+            "request_time_stats": {
+                "2008": {
+                    "simple_lowest_days": "4", 
+                    "complex_lowest_days": "31", 
+                    "expedited_processing_average_days": "45", 
+                    "expedited_processing_highest_days": "125", 
+                    "simple_median_days": "15", 
+                    "complex_median_days": "72", 
+                    "complex_highest_days": "574", 
+                    "simple_highest_days": "30", 
+                    "expedited_processing_median_days": "7", 
+                    "simple_average_days": "16", 
+                    "expedited_processing_lowest_days": "3", 
+                    "complex_average_days": "118"
+                }
+            }, 
+            "phone": "202-565-3290", 
+            "public_liaison": {
+                "phone": [
+                    "202-565-3290"
+                ], 
+                "name": "Lennell C. Jackson"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Lennell C. Jackson", 
+                    "FOIA Contact"
+                ], 
+                "state": "DC", 
+                "street": "811 Vermont Avenue, NW", 
+                "zip": "20571", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia@exim.gov"
+            ], 
+            "description": "An independent federal agency, the Export-Import Bank assists American businesses export their goods by providing financial assistance in the form of loans, loan guarantees and insurance. The focus of the Export-Import Bank is on assisting small businesses."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "2", 
+            "complex_lowest_days": "8", 
+            "simple_median_days": "54", 
+            "complex_median_days": "59", 
+            "complex_highest_days": "789", 
+            "simple_highest_days": "339", 
+            "simple_average_days": "84.33", 
+            "complex_average_days": "169.85"
+        }, 
+        "2008": {
+            "simple_lowest_days": "4", 
+            "complex_lowest_days": "31", 
+            "expedited_processing_average_days": "45", 
+            "expedited_processing_highest_days": "125", 
+            "simple_median_days": "15", 
+            "complex_median_days": "72", 
+            "complex_highest_days": "574", 
+            "simple_highest_days": "30", 
+            "expedited_processing_median_days": "7", 
+            "simple_average_days": "16", 
+            "expedited_processing_lowest_days": "3", 
+            "complex_average_days": "118"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "45", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "38", 
+            "complex_median_days": "157", 
+            "complex_highest_days": "829", 
+            "simple_highest_days": "203", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "45", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "250"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "5", 
+            "expedited_processing_average_days": "12", 
+            "expedited_processing_highest_days": "12", 
+            "simple_median_days": "22", 
+            "complex_median_days": "69", 
+            "complex_highest_days": "360", 
+            "simple_highest_days": "173", 
+            "expedited_processing_median_days": "12", 
+            "simple_average_days": "32.26", 
+            "expedited_processing_lowest_days": "12", 
+            "complex_average_days": "104.42"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "1", 
+            "simple_median_days": "28", 
+            "complex_median_days": "85", 
+            "complex_highest_days": "333", 
+            "simple_highest_days": "68", 
+            "simple_average_days": "31.98", 
+            "complex_average_days": "115.1"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "44", 
+            "simple_median_days": "59", 
+            "complex_median_days": "277", 
+            "complex_highest_days": "786", 
+            "simple_highest_days": "257", 
+            "simple_average_days": "82.2", 
+            "complex_average_days": "318.19"
+        }, 
+        "2012": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "28", 
+            "simple_median_days": "22", 
+            "complex_median_days": "241", 
+            "complex_highest_days": "427", 
+            "simple_highest_days": "235", 
+            "simple_average_days": "49.68", 
+            "complex_average_days": "223.58"
+        }
+    }
+}

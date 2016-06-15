@@ -1,0 +1,186 @@
+{
+    "abbreviation": "USADF", 
+    "description": "The African Development Foundation provides grants to community groups and small enterprises that benefit under-served and marginalized groups in Africa.", 
+    "name": "United States African Development Foundation", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Government employees", 
+        "Grant programs", 
+        "Health facilities", 
+        "Health insurance", 
+        "Health professions", 
+        "Hostages", 
+        "Iraq", 
+        "Kuwait", 
+        "Lebanon", 
+        "Loan programs"
+    ], 
+    "usa_id": "52581", 
+    "departments": [
+        {
+            "website": "http://www.adf.gov/OpenGovernment.html", 
+            "service_center": {
+                "phone": [
+                    "202-673-3916"
+                ]
+            }, 
+            "fax": "202-673-3810", 
+            "description": "The African Development Foundation provides grants to community groups and small enterprises that benefit under-served and marginalized groups in Africa.", 
+            "usa_id": "52581", 
+            "misc": {
+                "FOIA Contact, Associate General Counsel": {
+                    "phone": [
+                        "202-673-3916"
+                    ], 
+                    "name": "June B. Brown"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "2", 
+                    "simple_average_days": "11", 
+                    "simple_highest_days": "15", 
+                    "simple_median_days": "14"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "7", 
+                    "expedited_processing_highest_days": "7", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "9", 
+                    "expedited_processing_median_days": "7", 
+                    "simple_average_days": "4", 
+                    "expedited_processing_lowest_days": "7", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "6", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "8", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "14", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "9", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "4", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "6.5", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "11", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "7", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "7", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "3", 
+                    "expedited_processing_highest_days": "3", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "13", 
+                    "expedited_processing_median_days": "3", 
+                    "simple_average_days": "10", 
+                    "expedited_processing_lowest_days": "3", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "phone": "202-673-3916", 
+            "public_liaison": {
+                "phone": [
+                    "202-673-3916"
+                ]
+            }, 
+            "address": {
+                "address_lines": [
+                    "June B. Brown", 
+                    "FOIA Contact, Associate General Counsel"
+                ], 
+                "state": "DC", 
+                "street": "1400 Eye Street, NW", 
+                "zip": "20005-2248", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "name": "United States African Development Foundation"
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "2", 
+            "simple_average_days": "11", 
+            "simple_highest_days": "15", 
+            "simple_median_days": "14"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "7", 
+            "expedited_processing_highest_days": "7", 
+            "simple_median_days": "3", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "9", 
+            "expedited_processing_median_days": "7", 
+            "simple_average_days": "4", 
+            "expedited_processing_lowest_days": "7", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "6", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "8", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "14", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "9", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "4", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "6.5", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "11", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "7", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2012": {
+            "simple_lowest_days": "7", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "3", 
+            "expedited_processing_highest_days": "3", 
+            "simple_median_days": "10", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "13", 
+            "expedited_processing_median_days": "3", 
+            "simple_average_days": "10", 
+            "expedited_processing_lowest_days": "3", 
+            "complex_average_days": "0"
+        }
+    }
+}

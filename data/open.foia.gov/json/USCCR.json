@@ -1,0 +1,161 @@
+{
+    "abbreviation": "USCCR", 
+    "description": "The U.S. Commission on Civil Rights is an independent, bipartisan agency charged with monitoring federal civil rights enforcement.", 
+    "name": "Commission on Civil Rights", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Advisory committees", 
+        "Civil rights", 
+        "Claims", 
+        "Conflict of interests", 
+        "Equal employment opportunity", 
+        "Federal buildings and facilities", 
+        "Freedom of information", 
+        "Government employees", 
+        "Individuals with disabilities", 
+        "Organization and functions (Government agencies)", 
+        "Privacy", 
+        "Sunshine Act"
+    ], 
+    "usa_id": "48018", 
+    "departments": [
+        {
+            "website": "http://www.usccr.gov/foia/index.php", 
+            "service_center": {
+                "phone": [
+                    "202-376-8351"
+                ]
+            }, 
+            "fax": "202-376-1163", 
+            "name": "Commission on Civil Rights", 
+            "usa_id": "48018", 
+            "misc": {
+                "Attorney-Advisor": {
+                    "phone": [
+                        "202-376-8351"
+                    ], 
+                    "name": "Jennifer Cron Hepler"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "6", 
+                    "complex_highest_days": "20", 
+                    "simple_highest_days": "20", 
+                    "simple_average_days": "5", 
+                    "complex_average_days": "10"
+                }, 
+                "2011": {
+                    "complex_highest_days": "742", 
+                    "complex_lowest_days": "0", 
+                    "complex_average_days": "40", 
+                    "complex_median_days": "14"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "15", 
+                    "simple_highest_days": "161", 
+                    "simple_median_days": "7.5"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "14", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "14", 
+                    "complex_highest_days": "14", 
+                    "simple_highest_days": "21", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "14"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "3", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "10", 
+                    "complex_highest_days": "63", 
+                    "simple_highest_days": "6", 
+                    "simple_average_days": "7", 
+                    "complex_average_days": "22"
+                }
+            }, 
+            "phone": "202-376-8351", 
+            "public_liaison": {
+                "phone": [
+                    "202-376-8591"
+                ], 
+                "name": "Lenore Ostrowsky"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Jennifer Cron Hepler", 
+                    "Attorney-Advisor", 
+                    "Suite 1150"
+                ], 
+                "state": "DC", 
+                "street": "1331 Pennsylvania Ave, NW", 
+                "zip": "20425", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia@usccr.gov"
+            ], 
+            "description": "The U.S. Commission on Civil Rights is an independent, bipartisan agency charged with monitoring federal civil rights enforcement."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "simple_median_days": "5", 
+            "complex_median_days": "6", 
+            "complex_highest_days": "20", 
+            "simple_highest_days": "20", 
+            "simple_average_days": "5", 
+            "complex_average_days": "10"
+        }, 
+        "2011": {
+            "complex_highest_days": "742", 
+            "complex_lowest_days": "0", 
+            "complex_average_days": "40", 
+            "complex_median_days": "14"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "15", 
+            "simple_highest_days": "161", 
+            "simple_median_days": "7.5"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "14", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "1", 
+            "complex_median_days": "14", 
+            "complex_highest_days": "14", 
+            "simple_highest_days": "21", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "3", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "14"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "3", 
+            "simple_median_days": "1", 
+            "complex_median_days": "10", 
+            "complex_highest_days": "63", 
+            "simple_highest_days": "6", 
+            "simple_average_days": "7", 
+            "complex_average_days": "22"
+        }
+    }
+}

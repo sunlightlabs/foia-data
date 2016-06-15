@@ -1,0 +1,189 @@
+{
+    "abbreviation": "FCSIC", 
+    "description": "The Farm Credit System Insurance Corporation ensures timely payment of interest and principal on Systemwide and consolidated bonds and other obligations issued by Farm Credit System banks.", 
+    "name": "Farm Credit System Insurance Corporation", 
+    "keywords": [
+        "Banks, banking", 
+        "Insurance", 
+        "Penalties", 
+        "Reporting and recordkeeping requirements"
+    ], 
+    "usa_id": "72913", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Reading Room", 
+                    "http://www.fcsic.gov/FCSIC%20FOIA%20Reading%20Room.html"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "703-883-4020"
+                ]
+            }, 
+            "fax": "703-790-0052", 
+            "name": "Farm Credit System Insurance Corporation", 
+            "usa_id": "72913", 
+            "misc": {
+                "Freedom of Information Officer": {
+                    "phone": [
+                        "703-883-4431"
+                    ], 
+                    "name": "Jeffrey C. Pienta"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "5", 
+                    "expedited_processing_average_days": "8", 
+                    "expedited_processing_highest_days": "13", 
+                    "simple_median_days": "8", 
+                    "simple_highest_days": "16", 
+                    "expedited_processing_median_days": "6.5", 
+                    "simple_average_days": "10.14", 
+                    "expedited_processing_lowest_days": "6"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "6", 
+                    "simple_average_days": "10", 
+                    "simple_highest_days": "18", 
+                    "simple_median_days": "8"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "5", 
+                    "simple_average_days": "13", 
+                    "simple_highest_days": "18", 
+                    "simple_median_days": "15"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "9", 
+                    "simple_average_days": "14.6", 
+                    "simple_highest_days": "20", 
+                    "simple_median_days": "14.5"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "5", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "13", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "12.625", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "4", 
+                    "simple_average_days": "13.25", 
+                    "simple_highest_days": "20", 
+                    "simple_median_days": "14"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "10", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "9.33", 
+                    "expedited_processing_highest_days": "20", 
+                    "simple_median_days": "13", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "17", 
+                    "expedited_processing_median_days": "7", 
+                    "simple_average_days": "13.8", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "website": "http://www.fcsic.gov/FCSIC%20FOIA.html", 
+            "phone": "703-883-4431", 
+            "public_liaison": {
+                "phone": [
+                    "703-883-4020"
+                ], 
+                "name": "Christine D. Quinn"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Jeffrey C. Pienta", 
+                    "Freedom of Information Officer"
+                ], 
+                "state": "VA", 
+                "street": "1501 Farm Credit Drive", 
+                "zip": "22102-5090", 
+                "city": "McLean"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "FCSICFOIAOfficer@fcsic.gov"
+            ], 
+            "description": "The Farm Credit System Insurance Corporation ensures timely payment of interest and principal on Systemwide and consolidated bonds and other obligations issued by Farm Credit System banks."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "5", 
+            "expedited_processing_average_days": "8", 
+            "expedited_processing_highest_days": "13", 
+            "simple_median_days": "8", 
+            "simple_highest_days": "16", 
+            "expedited_processing_median_days": "6.5", 
+            "simple_average_days": "10.14", 
+            "expedited_processing_lowest_days": "6"
+        }, 
+        "2008": {
+            "simple_lowest_days": "6", 
+            "simple_average_days": "10", 
+            "simple_highest_days": "18", 
+            "simple_median_days": "8"
+        }, 
+        "2009": {
+            "simple_lowest_days": "5", 
+            "simple_average_days": "13", 
+            "simple_highest_days": "18", 
+            "simple_median_days": "15"
+        }, 
+        "2011": {
+            "simple_lowest_days": "9", 
+            "simple_average_days": "14.6", 
+            "simple_highest_days": "20", 
+            "simple_median_days": "14.5"
+        }, 
+        "2010": {
+            "simple_lowest_days": "5", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "13", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "12.625", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "4", 
+            "simple_average_days": "13.25", 
+            "simple_highest_days": "20", 
+            "simple_median_days": "14"
+        }, 
+        "2012": {
+            "simple_lowest_days": "10", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "9.33", 
+            "expedited_processing_highest_days": "20", 
+            "simple_median_days": "13", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "17", 
+            "expedited_processing_median_days": "7", 
+            "simple_average_days": "13.8", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "0"
+        }
+    }
+}

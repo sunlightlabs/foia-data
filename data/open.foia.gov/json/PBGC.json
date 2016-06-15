@@ -1,0 +1,186 @@
+{
+    "abbreviation": "PBGC", 
+    "description": "Funded by the insurance premiums it collects and other investments, the Pension Benefit Guaranty Corporation insures and guarantees private sector workers' pensions. The contact information below is primarily for workers or retirees. If you are a plan sponsor or administrator, use the contact link below to find the appropriate information.", 
+    "name": "Pension Benefit Guaranty Corporation", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Business and industry", 
+        "Civil rights", 
+        "Claims", 
+        "Conflict of interests", 
+        "Employee benefit plans", 
+        "Equal employment opportunity", 
+        "Federal buildings and facilities", 
+        "Freedom of information", 
+        "Government employees", 
+        "Income taxes", 
+        "Individuals with disabilities", 
+        "Organization and functions (Government agencies)", 
+        "Penalties", 
+        "Pension insurance", 
+        "Political activities (Government employees)", 
+        "Privacy", 
+        "Reporting and recordkeeping requirements", 
+        "Small businesses"
+    ], 
+    "usa_id": "49052", 
+    "departments": [
+        {
+            "website": "http://www.pbgc.gov/about/foia.html", 
+            "service_center": {
+                "phone": [
+                    "202-326-4040"
+                ]
+            }, 
+            "fax": "202-326-4042", 
+            "description": "Funded by the insurance premiums it collects and other investments, the Pension Benefit Guaranty Corporation insures and guarantees private sector workers' pensions. The contact information below is primarily for workers or retirees. If you are a plan sponsor or administrator, use the contact link below to find the appropriate information.", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "usa_id": "49052", 
+            "misc": {
+                "Disclosure Officer": {
+                    "phone": [
+                        "202-326-4040"
+                    ], 
+                    "name": "D. Camilla Perry"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "13", 
+                    "complex_highest_days": "230", 
+                    "simple_highest_days": "38", 
+                    "simple_average_days": "7.75", 
+                    "complex_average_days": "16.75"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "176", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "10", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "6", 
+                    "expedited_processing_highest_days": "12", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "43", 
+                    "expedited_processing_median_days": "6", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "9", 
+                    "complex_highest_days": "198", 
+                    "simple_highest_days": "0", 
+                    "simple_average_days": "0", 
+                    "complex_average_days": "10"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "7", 
+                    "simple_highest_days": "57", 
+                    "simple_median_days": "7"
+                }
+            }, 
+            "abbreviation": "PBGC", 
+            "phone": "202-326-4040", 
+            "public_liaison": {
+                "phone": [
+                    "202-326-4040"
+                ], 
+                "name": "Michelle Y. Chase"
+            }, 
+            "address": {
+                "address_lines": [
+                    "D. Camilla Perry", 
+                    "Disclosure Officer", 
+                    "Suite 11101"
+                ], 
+                "state": "DC", 
+                "street": "1200 K Street, NW", 
+                "zip": "20005", 
+                "city": "Washington"
+            }, 
+            "emails": [
+                "Chase.Michelle@pbgc.gov"
+            ], 
+            "reading_rooms": [], 
+            "name": "Pension Benefit Guaranty Corporation", 
+            "top_level": false
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "simple_median_days": "6", 
+            "complex_median_days": "13", 
+            "complex_highest_days": "230", 
+            "simple_highest_days": "38", 
+            "simple_average_days": "7.75", 
+            "complex_average_days": "16.75"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "9", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "176", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "10", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "6", 
+            "expedited_processing_highest_days": "12", 
+            "simple_median_days": "6", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "43", 
+            "expedited_processing_median_days": "6", 
+            "simple_average_days": "6", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "1", 
+            "simple_median_days": "0", 
+            "complex_median_days": "9", 
+            "complex_highest_days": "198", 
+            "simple_highest_days": "0", 
+            "simple_average_days": "0", 
+            "complex_average_days": "10"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "7", 
+            "simple_highest_days": "57", 
+            "simple_median_days": "7"
+        }
+    }
+}

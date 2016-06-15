@@ -1,0 +1,165 @@
+{
+    "abbreviation": "USTDA", 
+    "description": "The United States Trade and Development Agency links U.S. businesses to export opportunities by funding project planning activities, pilot projects, and reverse trade missions.", 
+    "name": "United States Trade and Development Agency", 
+    "usa_id": "49721", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "USTDA FOIA Electronic Reading Room", 
+                    "http://www.ustda.gov/foia/foiareadingroom.asp"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "703-875-5578"
+                ]
+            }, 
+            "fax": "703-875-4009", 
+            "description": "The United States Trade and Development Agency links U.S. businesses to export opportunities by funding project planning activities, pilot projects, and reverse trade missions.", 
+            "usa_id": "49721", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "703-875-4357"
+                    ], 
+                    "name": "Anna Kastelas"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "complex_highest_days": "342", 
+                    "complex_lowest_days": "11", 
+                    "complex_average_days": "45", 
+                    "complex_median_days": "32"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "62.5", 
+                    "expedited_processing_highest_days": "109", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "48", 
+                    "complex_highest_days": "539", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "62.5", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "16", 
+                    "complex_average_days": "155.3"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "2", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "60", 
+                    "complex_highest_days": "303", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "105"
+                }, 
+                "2013": {
+                    "complex_highest_days": "44", 
+                    "complex_lowest_days": "5", 
+                    "complex_average_days": "15.75", 
+                    "complex_median_days": "10"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "7", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "0", 
+                    "complex_median_days": "13", 
+                    "complex_highest_days": "84", 
+                    "simple_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "20.6"
+                }
+            }, 
+            "website": "http://www.ustda.gov/pubs/foia/", 
+            "phone": "703-875-4357", 
+            "public_liaison": {
+                "phone": [
+                    "703-875-4357"
+                ], 
+                "name": "Ziyang Fan"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Ziyang Fan", 
+                    "FOIA Contact", 
+                    "Suite 1600"
+                ], 
+                "state": "VA", 
+                "street": "1000 Wilson Boulevard", 
+                "zip": "22209-3901", 
+                "city": "Arlington"
+            }, 
+            "top_level": false, 
+            "name": "United States Trade and Development Agency"
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "complex_highest_days": "342", 
+            "complex_lowest_days": "11", 
+            "complex_average_days": "45", 
+            "complex_median_days": "32"
+        }, 
+        "2011": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "62.5", 
+            "expedited_processing_highest_days": "109", 
+            "simple_median_days": "0", 
+            "complex_median_days": "48", 
+            "complex_highest_days": "539", 
+            "simple_highest_days": "0", 
+            "expedited_processing_median_days": "62.5", 
+            "simple_average_days": "0", 
+            "expedited_processing_lowest_days": "16", 
+            "complex_average_days": "155.3"
+        }, 
+        "2010": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "2", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "0", 
+            "complex_median_days": "60", 
+            "complex_highest_days": "303", 
+            "simple_highest_days": "0", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "0", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "105"
+        }, 
+        "2013": {
+            "complex_highest_days": "44", 
+            "complex_lowest_days": "5", 
+            "complex_average_days": "15.75", 
+            "complex_median_days": "10"
+        }, 
+        "2012": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "7", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "0", 
+            "complex_median_days": "13", 
+            "complex_highest_days": "84", 
+            "simple_highest_days": "0", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "0", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "20.6"
+        }
+    }
+}

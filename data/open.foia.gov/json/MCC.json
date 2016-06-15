@@ -1,0 +1,165 @@
+{
+    "abbreviation": "MCC", 
+    "description": "The Millenium Challenge Corporation is an independent foreign aid agency that provides funds in an effort to alleviate global poverty. Countries are selected on a competitive basis, and projects funded by the corporation are chosen and managed by the recipient country.", 
+    "name": "Millennium Challenge Corporation", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Courts", 
+        "Government employees", 
+        "Organization and functions (Government agencies)"
+    ], 
+    "usa_id": "49460", 
+    "departments": [
+        {
+            "website": "http://www.mcc.gov/pages/foia", 
+            "service_center": {
+                "phone": [
+                    "202-521-7235"
+                ], 
+                "name": "John Mantini"
+            }, 
+            "name": "Millennium Challenge Corporation", 
+            "usa_id": "49460", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "22.8", 
+                    "simple_highest_days": "117", 
+                    "simple_median_days": "19"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "16", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "21", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "14", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "259", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "17", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "17", 
+                    "simple_highest_days": "55", 
+                    "simple_median_days": "18"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "3", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "17", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "21", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "15", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "phone": "202-521-7235", 
+            "foia_officer": {
+                "phone": [
+                    "202-521-3863"
+                ], 
+                "name": "John Mantini"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-521-7235"
+                ], 
+                "name": "John Mantini"
+            }, 
+            "address": {
+                "address_lines": [
+                    "John Mantini", 
+                    "Acting Chief FOIA Officer"
+                ], 
+                "state": "DC", 
+                "street": "875 15th Street, NW", 
+                "zip": "20005", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia@mcc.gov"
+            ], 
+            "description": "The Millenium Challenge Corporation is an independent foreign aid agency that provides funds in an effort to alleviate global poverty. Countries are selected on a competitive basis, and projects funded by the corporation are chosen and managed by the recipient country."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "simple_average_days": "22.8", 
+            "simple_highest_days": "117", 
+            "simple_median_days": "19"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "16", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "21", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "14", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "6", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "259", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "17", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "simple_average_days": "17", 
+            "simple_highest_days": "55", 
+            "simple_median_days": "18"
+        }, 
+        "2012": {
+            "simple_lowest_days": "3", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "17", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "21", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "15", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }
+    }
+}

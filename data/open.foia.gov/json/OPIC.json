@@ -1,0 +1,230 @@
+{
+    "abbreviation": "OPIC", 
+    "description": "The Overseas Private Investment Corporation works with the U.S. private sector to help solve critical world challenges.", 
+    "name": "Overseas Private Investment Corporation", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Confidential business information", 
+        "Courts", 
+        "Freedom of information", 
+        "Government employees", 
+        "Privacy"
+    ], 
+    "usa_id": "52651", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Reading Room", 
+                    "https://www.opic.gov/content/foia-reading-room"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-336-8400"
+                ]
+            }, 
+            "name": "Overseas Private Investment Corporation", 
+            "usa_id": "52651", 
+            "misc": {
+                "FOIA Director": {
+                    "phone": [
+                        "202-336-8400"
+                    ], 
+                    "name": "Nichole Cadiente"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "184", 
+                    "expedited_processing_highest_days": "184", 
+                    "simple_median_days": "6", 
+                    "simple_highest_days": "191", 
+                    "expedited_processing_median_days": "184", 
+                    "simple_average_days": "14", 
+                    "expedited_processing_lowest_days": "184"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "89", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "177", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "26", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "27.5", 
+                    "expedited_processing_highest_days": "94", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "36", 
+                    "expedited_processing_median_days": "7.5", 
+                    "simple_average_days": "12", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "13.5", 
+                    "expedited_processing_highest_days": "21", 
+                    "complex_median_days": "12", 
+                    "complex_highest_days": "114", 
+                    "expedited_processing_median_days": "13.5", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "18.82"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "92", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "17.95", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "10", 
+                    "expedited_processing_highest_days": "10", 
+                    "simple_median_days": "5", 
+                    "simple_highest_days": "322", 
+                    "expedited_processing_median_days": "10", 
+                    "simple_average_days": "21.68", 
+                    "expedited_processing_lowest_days": "10"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "10", 
+                    "simple_highest_days": "125", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "18.37", 
+                    "expedited_processing_lowest_days": "0"
+                }
+            }, 
+            "website": "http://www.opic.gov/publications/foia", 
+            "phone": "202-336-8400", 
+            "public_liaison": {
+                "phone": [
+                    "202-336-8400"
+                ], 
+                "name": "Nichole Cadiente"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Nichole Cadiente", 
+                    "FOIA Director"
+                ], 
+                "state": "DC", 
+                "street": "1100 New York Avenue, NW", 
+                "zip": "20527", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "FOIA@opic.gov"
+            ], 
+            "description": "The Overseas Private Investment Corporation works with the U.S. private sector to help solve critical world challenges."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "184", 
+            "expedited_processing_highest_days": "184", 
+            "simple_median_days": "6", 
+            "simple_highest_days": "191", 
+            "expedited_processing_median_days": "184", 
+            "simple_average_days": "14", 
+            "expedited_processing_lowest_days": "184"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "89", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "177", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "26", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2009": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "27.5", 
+            "expedited_processing_highest_days": "94", 
+            "simple_median_days": "10", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "36", 
+            "expedited_processing_median_days": "7.5", 
+            "simple_average_days": "12", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "13.5", 
+            "expedited_processing_highest_days": "21", 
+            "complex_median_days": "12", 
+            "complex_highest_days": "114", 
+            "expedited_processing_median_days": "13.5", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "18.82"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "9", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "92", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "17.95", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "10", 
+            "expedited_processing_highest_days": "10", 
+            "simple_median_days": "5", 
+            "simple_highest_days": "322", 
+            "expedited_processing_median_days": "10", 
+            "simple_average_days": "21.68", 
+            "expedited_processing_lowest_days": "10"
+        }, 
+        "2012": {
+            "simple_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "10", 
+            "simple_highest_days": "125", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "18.37", 
+            "expedited_processing_lowest_days": "0"
+        }
+    }
+}

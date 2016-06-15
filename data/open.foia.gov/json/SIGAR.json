@@ -1,0 +1,135 @@
+{
+    "abbreviation": "SIGAR", 
+    "description": "The Office of the Special Inspector General for Afghanistan Reconstruction is to provide independent and objective oversight of funds allocated for Afghanistan Reconstruction. SIGAR conducts audits and investigations to both promote efficiency and effectiveness of reconstruction programs, and to detect and prevent waste, fraud, and abuse of taxpayer dollars.", 
+    "name": "Special Inspector General for Afghanistan Reconstruction", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Conflict of interests", 
+        "Freedom of information", 
+        "Government employees", 
+        "Privacy"
+    ], 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Electronic Reading Room", 
+                    "https://www.sigar.mil/contact/foia/foia.aspx?SSR=9&SubSSR=38&Sub2SSR=24&WP=Reading%20Room"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "703-545-5993"
+                ]
+            }, 
+            "fax": "703-601-3804", 
+            "name": "Special Inspector General for Afghanistan Reconstruction", 
+            "request_form": "http://www.sigar.mil/contact/foia/privacy-request.aspx", 
+            "misc": {
+                "Office of Privacy, Records and Disclosure": {
+                    "phone": [
+                        "703-545-5993"
+                    ], 
+                    "name": "FOIA Contact"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "30", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "65", 
+                    "complex_highest_days": "161", 
+                    "simple_highest_days": "30", 
+                    "simple_average_days": "20", 
+                    "complex_average_days": "38"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "5", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "5", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "5", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "2", 
+                    "simple_average_days": "20", 
+                    "simple_highest_days": "53", 
+                    "simple_median_days": "20"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "61", 
+                    "simple_highest_days": "381", 
+                    "simple_median_days": "13"
+                }
+            }, 
+            "website": "http://www.sigar.mil/contact/foia/index.aspx?SSR=9&SubSSR=38&WP=FOIA", 
+            "phone": "703-545-5993", 
+            "public_liaison": {
+                "phone": [
+                    "703-545-5993"
+                ]
+            }, 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "Office of Privacy, Records and Disclosure"
+                ], 
+                "state": "VA", 
+                "street": "2530 Crystal Drive", 
+                "zip": "22202", 
+                "city": "Arlington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "sigar.pentagon.gen-coun.mbx.foia@mail.mil"
+            ]
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "30", 
+            "simple_median_days": "20", 
+            "complex_median_days": "65", 
+            "complex_highest_days": "161", 
+            "simple_highest_days": "30", 
+            "simple_average_days": "20", 
+            "complex_average_days": "38"
+        }, 
+        "2011": {
+            "simple_lowest_days": "5", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "5", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "5", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "5", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "2", 
+            "simple_average_days": "20", 
+            "simple_highest_days": "53", 
+            "simple_median_days": "20"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "61", 
+            "simple_highest_days": "381", 
+            "simple_median_days": "13"
+        }
+    }
+}

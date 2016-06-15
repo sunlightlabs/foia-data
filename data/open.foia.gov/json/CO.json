@@ -1,0 +1,214 @@
+{
+    "abbreviation": "CO", 
+    "description": "The Copyright Office administers the national copyright system and provides advice on copyright law to congress, federal agencies, the courts and the public.", 
+    "name": "United States Copyright Office", 
+    "usa_id": "49176", 
+    "departments": [
+        {
+            "website": "http://www.copyright.gov/foia/", 
+            "service_center": {
+                "phone": [
+                    "202-707-6800"
+                ]
+            }, 
+            "fax": "202-707-6859", 
+            "description": "The Copyright Office administers the national copyright system and provides advice on copyright law to congress, federal agencies, the courts and the public.", 
+            "usa_id": "49176", 
+            "misc": {
+                "Supervisory Copyright Information Specialist, GC/I&R": {
+                    "phone": [
+                        "202-707-6800"
+                    ], 
+                    "name": "Denise Garrett"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "34.8", 
+                    "simple_highest_days": "542", 
+                    "simple_median_days": "15"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "4", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "194", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "14", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "19", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "376", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "106", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "50", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "19.8", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "14", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "243", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "30.3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "13.4", 
+                    "simple_highest_days": "94", 
+                    "simple_median_days": "10"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "7.5", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "153", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "18.6", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "phone": "202-707-6800", 
+            "public_liaison": {
+                "phone": [
+                    "202-707-6800"
+                ], 
+                "name": "Denise Garrett"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Denise Garrett", 
+                    "Supervisory Copyright Information Specialist, GC/I&R;"
+                ], 
+                "state": "DC", 
+                "street": "P.O. Box 70400, SW", 
+                "zip": "20024", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "name": "United States Copyright Office"
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "34.8", 
+            "simple_highest_days": "542", 
+            "simple_median_days": "15"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "4", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "194", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "14", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2009": {
+            "simple_lowest_days": "2", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "19", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "376", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "106", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "20", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "50", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "19.8", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "14", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "243", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "30.3", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "13.4", 
+            "simple_highest_days": "94", 
+            "simple_median_days": "10"
+        }, 
+        "2012": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "7.5", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "153", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "18.6", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }
+    }
+}

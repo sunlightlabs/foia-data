@@ -1,0 +1,483 @@
+{
+    "name": "Merit Systems Protection Board", 
+    "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+    "usa_id": "52630", 
+    "departments": [
+        {
+            "website": "http://www.mspb.gov/FOIA/foia.htm", 
+            "service_center": {
+                "phone": [
+                    "202-254-4475"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "fax": "202-653-7130", 
+            "name": "Headquarters", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "top_level": false, 
+            "phone": "202-254-4475", 
+            "public_liaison": {
+                "phone": [
+                    "202-254-4474"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Darryl Aaron", 
+                    "FOIA Public Liaison, Office of the Clerk"
+                ], 
+                "state": "DC", 
+                "street": "1615 M Street, NW", 
+                "zip": "20419", 
+                "city": "Washington"
+            }, 
+            "emails": [
+                "FOIAHQ@mspb.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.mspb.gov/contact/contact.htm#FOIA", 
+            "service_center": {
+                "phone": [
+                    "202-254-4475"
+                ], 
+                "name": "Yvonnie Ellis"
+            }, 
+            "fax": "404-730-2767", 
+            "name": "Atlanta Regional Office", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "misc": {
+                "FOIA Liaison": {
+                    "phone": [
+                        "404-730-2755 x8019"
+                    ], 
+                    "name": "Yvonnie Ellis"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "404-730-2755 x8019", 
+            "public_liaison": {
+                "phone": [
+                    "202-254-4474"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Yvonnie Ellis", 
+                    "FOIA Liaison", 
+                    "10th Floor"
+                ], 
+                "state": "GA", 
+                "street": "401 W. Peachtree Street, NW", 
+                "zip": "20208-3519", 
+                "city": "Atlanta"
+            }, 
+            "emails": [
+                "FOIAAT@mspb.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.mspb.gov/contact/contact.htm#FOIA", 
+            "service_center": {
+                "phone": [
+                    "202-254-4475"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "fax": "313-886-4231", 
+            "name": "Central Regional Office", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "misc": {
+                "FOIA Liaison": {
+                    "phone": [
+                        "312-353-2924 x3113"
+                    ], 
+                    "name": "Betty Capis"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "312-353-2924 x3113", 
+            "public_liaison": {
+                "phone": [
+                    "312-353-2924 x3113"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Darryl Aaron", 
+                    "FOIA Liaison", 
+                    "31st Floor"
+                ], 
+                "state": "IL", 
+                "street": "230 South Dearborn Street", 
+                "zip": "60604-1669", 
+                "city": "Chicago"
+            }, 
+            "emails": [
+                "FOIACH@mspb.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.mspb.gov/contact/contact.htm#FOIA", 
+            "service_center": {
+                "phone": [
+                    "202-254-4475"
+                ], 
+                "name": "Marie Sumner"
+            }, 
+            "fax": "703-756-7112", 
+            "name": "Washington DC Regional Office", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "misc": {
+                "FOIA Liaison": {
+                    "phone": [
+                        "703-756-7104 x4109"
+                    ], 
+                    "name": "Marie Sumner"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "703-756-7104 x4109", 
+            "public_liaison": {
+                "phone": [
+                    "202-254-4474"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Marie Sumner", 
+                    "FOIA Liaison", 
+                    "Suite 205"
+                ], 
+                "state": "VA", 
+                "street": "1800 Diagonal Road", 
+                "zip": "22314-2480", 
+                "city": "Alexandria"
+            }, 
+            "emails": [
+                "FOIADC@mspb.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.mspb.gov/contact/contact.htm#FOIA", 
+            "service_center": {
+                "phone": [
+                    "202-254-4475"
+                ], 
+                "name": "Dennis Matthews"
+            }, 
+            "fax": "215-597-3456", 
+            "name": "Northeastern Regional Office", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "misc": {
+                "FOIA Liaison": {
+                    "phone": [
+                        "215-597-9960 x7108"
+                    ], 
+                    "name": "Dennis Matthews"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "215-597-9960 x7108", 
+            "public_liaison": {
+                "phone": [
+                    "202-254-4474"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Dennis Matthews", 
+                    "FOIA Liaison", 
+                    "Suite 1700"
+                ], 
+                "state": "PA", 
+                "street": "1601 Market Street", 
+                "zip": "19103", 
+                "city": "Philadelphia"
+            }, 
+            "emails": [
+                "FOIAPH@mspb.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.mspb.gov/contact/contact.htm#FOIA", 
+            "service_center": {
+                "phone": [
+                    "202-254-4475"
+                ], 
+                "name": "Ann Fluellen"
+            }, 
+            "fax": "214-767-0102", 
+            "name": "Dallas Regional Office", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "misc": {
+                "FOIA Liaison": {
+                    "phone": [
+                        "214-767-0810 x5100"
+                    ], 
+                    "name": "Bobbie Williams"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "214-767-0810 x5100", 
+            "public_liaison": {
+                "phone": [
+                    "214-767-0810 x5100"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Ann Fluellen", 
+                    "FOIA Liaison", 
+                    "Room 620"
+                ], 
+                "state": "TX", 
+                "street": "1100 Commerce Street", 
+                "zip": "75242-9979", 
+                "city": "Dallas"
+            }, 
+            "emails": [
+                "FOIADA@mspb.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.mspb.gov/contact/contact.htm#FOIA", 
+            "service_center": {
+                "phone": [
+                    "202-254-4475"
+                ], 
+                "name": "Nancy Bui"
+            }, 
+            "fax": "415-904-0580", 
+            "name": "Western Regional Office", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "misc": {
+                "FOIA Liaison": {
+                    "phone": [
+                        "415-904-6772 x2101"
+                    ], 
+                    "name": "Joyce Thomas"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "415-904-6772 x2101", 
+            "public_liaison": {
+                "phone": [
+                    "202-254-4474"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Nancy Bui", 
+                    "FOIA Liaison", 
+                    "Suite 2130"
+                ], 
+                "state": "CA", 
+                "street": "201 Mission Street", 
+                "zip": "94105-1831", 
+                "city": "San Francisco"
+            }, 
+            "emails": [
+                "FOIASF@mspb.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.mspb.gov/contact/contact.htm#FOIA", 
+            "service_center": {
+                "phone": [
+                    "202-254-4475"
+                ], 
+                "name": "Gwendolyn Gatling"
+            }, 
+            "fax": "212-264-1417", 
+            "name": "New York Field Office", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "misc": {
+                "FOIA Liaison": {
+                    "phone": [
+                        "212-264-6183 x7504"
+                    ], 
+                    "name": "Gwendolyn Gatling"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "212-264-6183 x7504", 
+            "public_liaison": {
+                "phone": [
+                    "202-254-4474"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Gwendolyn Gatling", 
+                    "FOIA Liaison", 
+                    "Room 3137-A"
+                ], 
+                "state": "NY", 
+                "street": "26 Federal Plaza", 
+                "zip": "10278-0022", 
+                "city": "New York"
+            }, 
+            "emails": [
+                "FOIANY@mspb.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.mspb.gov/contact/contact.htm#FOIA", 
+            "service_center": {
+                "phone": [
+                    "202-254-4475"
+                ], 
+                "name": "Nicole Remmich"
+            }, 
+            "fax": "303-969-5109", 
+            "name": "Denver Field Office", 
+            "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+            "misc": {
+                "FOIA Liaison": {
+                    "phone": [
+                        "303-969-5101 x6104"
+                    ], 
+                    "name": "Nicole Remmich"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "303-969-5101 x6104", 
+            "public_liaison": {
+                "phone": [
+                    "202-254-4474"
+                ], 
+                "name": "Darryl Aaron"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Nicole Remmich", 
+                    "FOIA Liaison", 
+                    "Suite 318"
+                ], 
+                "state": "CO", 
+                "street": "165 South Union Boulevard", 
+                "zip": "80228-2211", 
+                "city": "Lakewood"
+            }, 
+            "emails": []
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "17", 
+            "expedited_processing_average_days": "14", 
+            "expedited_processing_highest_days": "14", 
+            "simple_median_days": "8", 
+            "complex_median_days": "39", 
+            "complex_highest_days": "94", 
+            "simple_highest_days": "51", 
+            "expedited_processing_median_days": "14", 
+            "simple_average_days": "10.6", 
+            "expedited_processing_lowest_days": "14", 
+            "complex_average_days": "40.63"
+        }, 
+        "2008": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "30", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "11", 
+            "complex_median_days": "40", 
+            "complex_highest_days": "180", 
+            "simple_highest_days": "25", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "9.2", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "47.5"
+        }, 
+        "2009": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "7", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "93", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "15", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "4", 
+            "simple_median_days": "17", 
+            "complex_median_days": "42", 
+            "complex_highest_days": "81", 
+            "simple_highest_days": "35", 
+            "simple_average_days": "9", 
+            "complex_average_days": "42"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "8", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "85", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "17", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "31", 
+            "simple_median_days": "13", 
+            "complex_median_days": "55", 
+            "complex_highest_days": "150", 
+            "simple_highest_days": "440", 
+            "simple_average_days": "22.3", 
+            "complex_average_days": "67.92"
+        }, 
+        "2012": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "8", 
+            "expedited_processing_highest_days": "8", 
+            "simple_median_days": "18", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "38", 
+            "expedited_processing_median_days": "8", 
+            "simple_average_days": "10", 
+            "expedited_processing_lowest_days": "8", 
+            "complex_average_days": "0"
+        }
+    }, 
+    "abbreviation": "MSPB", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Civil rights", 
+        "Confidential business information", 
+        "Conflict of interests", 
+        "Freedom of information", 
+        "Government employees", 
+        "Lawyers", 
+        "Privacy", 
+        "Veterans", 
+        "Whistleblowing"
+    ], 
+    "emails": [
+        "foiahq@mspb.gov"
+    ], 
+    "description": "The Merit Systems Protection Board is a quasi-judicial agency within the executive branch that hears appeals from federal employees and studies federal merit systems in an effort to protect the rights of federal employees. "
+}

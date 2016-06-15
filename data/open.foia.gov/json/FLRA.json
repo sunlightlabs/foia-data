@@ -1,0 +1,1178 @@
+{
+    "website": "http://www.flra.gov/FOIA", 
+    "service_center": {
+        "phone": [
+            "202-218-7770"
+        ]
+    }, 
+    "fax": "202-343-1007", 
+    "description": "The Federal Labor Relations Authority is a quasi-judicial body that manages relations between federal agencies and employees. ", 
+    "request_form": "https://foiaonline.regulations.gov/foia/action/public/home", 
+    "usa_id": "52613", 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "7", 
+            "expedited_processing_highest_days": "11", 
+            "simple_median_days": "6", 
+            "simple_highest_days": "34", 
+            "expedited_processing_median_days": "6.5", 
+            "simple_average_days": "8.4", 
+            "expedited_processing_lowest_days": "4"
+        }, 
+        "2008": {
+            "simple_lowest_days": "0", 
+            "simple_average_days": "28", 
+            "simple_highest_days": "325", 
+            "simple_median_days": "9"
+        }, 
+        "2009": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "10", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "1061", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "80", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "12", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "69", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "11", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "9", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "250", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "15", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "18", 
+            "simple_median_days": "9", 
+            "complex_median_days": "38", 
+            "complex_highest_days": "56", 
+            "simple_highest_days": "51", 
+            "simple_average_days": "10.71", 
+            "complex_average_days": "37.33"
+        }, 
+        "2012": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "21", 
+            "simple_median_days": "8", 
+            "complex_median_days": "21", 
+            "complex_highest_days": "156", 
+            "simple_highest_days": "28", 
+            "simple_average_days": "11", 
+            "complex_average_days": "66"
+        }
+    }, 
+    "abbreviation": "FLRA", 
+    "phone": "202-218-7770", 
+    "public_liaison": {
+        "phone": [
+            "202-218-7776"
+        ], 
+        "name": "Gina Grippando"
+    }, 
+    "address": {
+        "address_lines": [
+            "Fred B. Jacob", 
+            "Solicitor, Office of the Solicitor"
+        ], 
+        "state": "DC", 
+        "street": "1400 K Street, NW", 
+        "zip": "20424", 
+        "city": "Washington"
+    }, 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Conflict of interests", 
+        "Equal access to justice", 
+        "Government employees", 
+        "Labor management relations"
+    ], 
+    "emails": [
+        "solmail@flra.gov"
+    ], 
+    "reading_rooms": [
+        [
+            "Electronic Reading Room", 
+            "http://www.flra.gov/elibrary"
+        ]
+    ], 
+    "name": "Federal Labor Relations Authority", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.flra.gov/elibrary"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-218-7770"
+                ]
+            }, 
+            "fax": "202-343-1007", 
+            "name": "The Authority", 
+            "misc": {
+                "Solicitor, Office of the Solicitor": {
+                    "phone": [
+                        "202-218-7770"
+                    ], 
+                    "name": "Rosa M. Koppel"
+                }
+            }, 
+            "top_level": false, 
+            "website": "http://www.flra.gov/FOIA", 
+            "phone": "202-218-7770", 
+            "address": {
+                "address_lines": [
+                    "Fred B. Jacob", 
+                    "Solicitor, Office of the Solicitor"
+                ], 
+                "state": "DC", 
+                "street": "1400 K Street, NW", 
+                "zip": "20424", 
+                "city": "Washington"
+            }, 
+            "emails": [
+                "solmail@flra.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.flra.gov/elibrary"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-218-7910"
+                ]
+            }, 
+            "fax": "202-482-6608", 
+            "name": "Office of the General Counsel", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-218-7910"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "13", 
+                    "simple_average_days": "13", 
+                    "simple_highest_days": "13", 
+                    "simple_median_days": "13"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "13", 
+                    "simple_highest_days": "39", 
+                    "simple_median_days": "9"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "3", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "69", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "13", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "8", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "22", 
+                    "simple_highest_days": "51", 
+                    "simple_median_days": "18"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "8", 
+                    "simple_average_days": "8", 
+                    "simple_highest_days": "8", 
+                    "simple_median_days": "8"
+                }
+            }, 
+            "website": "http://www.flra.gov/FOIA", 
+            "phone": "202-218-7910", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact"
+                ], 
+                "state": "DC", 
+                "street": "1400 K Street, NW", 
+                "zip": "20424", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "ogcmail@flra.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.flra.gov/elibrary"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "404-331-5300"
+                ]
+            }, 
+            "fax": "404-331-5280", 
+            "name": "Atlanta Regional Office", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "404-331-5300"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "4", 
+                    "simple_average_days": "4", 
+                    "simple_highest_days": "4", 
+                    "simple_median_days": "4"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "5", 
+                    "simple_average_days": "10", 
+                    "simple_highest_days": "19", 
+                    "simple_median_days": "8"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "6", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "7", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "10", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "8", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "4", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "14", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "16", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "11", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "13", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "4", 
+                    "simple_average_days": "12", 
+                    "simple_highest_days": "20", 
+                    "simple_median_days": "10"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "2", 
+                    "simple_average_days": "8", 
+                    "simple_highest_days": "12", 
+                    "simple_median_days": "10"
+                }
+            }, 
+            "website": "http://www.flra.gov/FOIA", 
+            "phone": "404-331-5300", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "Suite 701"
+                ], 
+                "state": "GA", 
+                "street": "285 Peachtree Center Avenue", 
+                "zip": "30303-1270", 
+                "city": "Atlanta"
+            }, 
+            "top_level": false, 
+            "emails": []
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.flra.gov/elibrary"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "617-565-5100"
+                ]
+            }, 
+            "fax": "617-565-6262", 
+            "name": "Boston Regional Office", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "617-565-5100"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "2", 
+                    "simple_average_days": "15", 
+                    "simple_highest_days": "34", 
+                    "simple_median_days": "12"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "2", 
+                    "simple_average_days": "8", 
+                    "simple_highest_days": "9", 
+                    "simple_median_days": "9"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "19", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "7", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "4", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "11", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "17", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "11", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "4", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "18", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "12", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "3", 
+                    "simple_average_days": "3", 
+                    "simple_highest_days": "3", 
+                    "simple_median_days": "3"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "2", 
+                    "simple_highest_days": "3", 
+                    "simple_median_days": "2"
+                }
+            }, 
+            "website": "http://www.flra.gov/FOIA", 
+            "phone": "617-565-5100", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "Suite 472"
+                ], 
+                "state": "MA", 
+                "street": "10 Causeway Street", 
+                "zip": "02222", 
+                "city": "Boston"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "bromail@flra.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.flra.gov/elibrary"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "312-886-3465"
+                ]
+            }, 
+            "fax": "312-886-5977", 
+            "name": "Chicago Regional Office", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "312-886-3465"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "4", 
+                    "simple_highest_days": "9", 
+                    "simple_median_days": "3"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "1", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "1", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "3", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "3", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "3", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "4", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "39", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "13", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "9", 
+                    "simple_average_days": "9.5", 
+                    "simple_highest_days": "10", 
+                    "simple_median_days": "9.5"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "2", 
+                    "simple_average_days": "4", 
+                    "simple_highest_days": "7", 
+                    "simple_median_days": "3"
+                }
+            }, 
+            "website": "http://www.flra.gov/FOIA", 
+            "phone": "312-886-3465", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "Suite 1150"
+                ], 
+                "state": "IL", 
+                "street": "55 West Monroe Street", 
+                "zip": "60603-9729", 
+                "city": "Chicago"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "cromail@flra.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.flra.gov/elibrary"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "214-767-6266"
+                ]
+            }, 
+            "fax": "214-767-0156", 
+            "name": "Dallas Regional Office", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "214-767-6266"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2008": {
+                    "simple_lowest_days": "7", 
+                    "simple_average_days": "7", 
+                    "simple_highest_days": "7", 
+                    "simple_median_days": "7"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "6", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "6", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "18", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "18", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "18", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "18", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "15", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "13", 
+                    "simple_average_days": "15", 
+                    "simple_highest_days": "18", 
+                    "simple_median_days": "14"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "12", 
+                    "simple_average_days": "14", 
+                    "simple_highest_days": "17", 
+                    "simple_median_days": "14"
+                }
+            }, 
+            "website": "http://www.flra.gov/FOIA", 
+            "phone": "214-767-6266", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "Suite 926, LB 107"
+                ], 
+                "state": "TX", 
+                "street": "525 Griffin Street", 
+                "zip": "75202-1906", 
+                "city": "Dallas"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "daromail@flra.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.flra.gov/elibrary"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "303-844-5226"
+                ]
+            }, 
+            "fax": "303-844-2774", 
+            "name": "Denver Regional Office", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "303-844-5226"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "30", 
+                    "simple_average_days": "30", 
+                    "simple_highest_days": "30", 
+                    "simple_median_days": "30"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "4", 
+                    "simple_average_days": "9", 
+                    "simple_highest_days": "13", 
+                    "simple_median_days": "9"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "9", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "9", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "9", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "expedited_processing_median_days": "0", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "9", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "19", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "12", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "1", 
+                    "simple_highest_days": "less than 1", 
+                    "simple_median_days": "1"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "0", 
+                    "simple_average_days": "0", 
+                    "simple_highest_days": "0", 
+                    "simple_median_days": "0"
+                }
+            }, 
+            "website": "http://www.flra.gov/FOIA", 
+            "phone": "303-844-5226", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "Suite 100"
+                ], 
+                "state": "CO", 
+                "street": "1244 Speer Boulevard", 
+                "zip": "80204-3581", 
+                "city": "Denver"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "deromail@flra.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.flra.gov/foia_contact", 
+            "service_center": {
+                "phone": [
+                    "415-356-5000"
+                ]
+            }, 
+            "fax": "415-356-5017", 
+            "name": "San Francisco Regional Office", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "415-356-5000"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "3.2", 
+                    "simple_highest_days": "8", 
+                    "simple_median_days": "2"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "7", 
+                    "simple_average_days": "7", 
+                    "simple_highest_days": "7", 
+                    "simple_median_days": "7"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "3", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "11", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "20", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "20", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "9", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "17", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "14", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "4.17", 
+                    "simple_highest_days": "8", 
+                    "simple_median_days": "3.5"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "15", 
+                    "simple_average_days": "18", 
+                    "simple_highest_days": "20", 
+                    "simple_median_days": "18"
+                }
+            }, 
+            "phone": "415-356-5000", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "Suite 220"
+                ], 
+                "state": "CA", 
+                "street": "901 Market Street", 
+                "zip": "94103-1791", 
+                "city": "San Francisco"
+            }, 
+            "top_level": false, 
+            "emails": []
+        }, 
+        {
+            "website": "http://www.flra.gov/foia_contact", 
+            "service_center": {
+                "phone": [
+                    "202-482-6700"
+                ]
+            }, 
+            "fax": "202-482-6724", 
+            "name": "Washington Regional Office", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-482-6700"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "18", 
+                    "simple_average_days": "23.5", 
+                    "simple_highest_days": "29", 
+                    "simple_median_days": "23.5"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "2", 
+                    "simple_average_days": "8", 
+                    "simple_highest_days": "13", 
+                    "simple_median_days": "8"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "1", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "1", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "1", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "1", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "14", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "1", 
+                    "simple_highest_days": "2", 
+                    "simple_median_days": "1"
+                }
+            }, 
+            "phone": "202-482-6700", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact", 
+                    "2nd Floor"
+                ], 
+                "state": "DC", 
+                "street": "1400 K Street, NW", 
+                "zip": "25424-0001", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "wromail@flra.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.flra.gov/foia_contact", 
+            "service_center": {
+                "phone": [
+                    "202-218-7790"
+                ]
+            }, 
+            "fax": "202-482-6674", 
+            "name": "The Federal Service Impasses Panel", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-218-7790"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "4.1", 
+                    "simple_highest_days": "14", 
+                    "simple_median_days": "1.5"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "0", 
+                    "simple_average_days": "1", 
+                    "simple_highest_days": "2", 
+                    "simple_median_days": "1"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "29", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "5", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "1", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "0", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "7", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "2", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "9.31", 
+                    "simple_highest_days": "45", 
+                    "simple_median_days": "3"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "less than 1", 
+                    "simple_average_days": "4", 
+                    "simple_highest_days": "20", 
+                    "simple_median_days": "1"
+                }
+            }, 
+            "phone": "202-218-7790", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact"
+                ], 
+                "state": "DC", 
+                "street": "1400 K Street, NW", 
+                "zip": "20424", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "fsipmail@flra.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.flra.gov/foia_contact", 
+            "service_center": {
+                "phone": [
+                    "202-218-7770 x7744", 
+                    "202-218-7970"
+                ]
+            }, 
+            "fax": "202-482-0573", 
+            "name": "Office of the Inspector General", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-218-7770 x7744", 
+                        "202-218-7970"
+                    ]
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "17", 
+                    "simple_average_days": "17", 
+                    "simple_highest_days": "17", 
+                    "simple_median_days": "17"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "3", 
+                    "simple_average_days": "3", 
+                    "simple_highest_days": "3", 
+                    "simple_median_days": "3"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "2", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "10", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "5", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "12", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "15", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "10", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "3", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "13", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "15", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "10", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "2", 
+                    "simple_average_days": "16.75", 
+                    "simple_highest_days": "33", 
+                    "simple_median_days": "16"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "2", 
+                    "simple_highest_days": "3", 
+                    "simple_median_days": "3"
+                }
+            }, 
+            "phone": "202-218-7770 x7744", 
+            "address": {
+                "address_lines": [
+                    "FOIA Contact"
+                ], 
+                "state": "DC", 
+                "street": "1400 K Street, NW", 
+                "zip": "20424", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "oigmail@flra.gov"
+            ]
+        }
+    ], 
+    "top_level": false
+}

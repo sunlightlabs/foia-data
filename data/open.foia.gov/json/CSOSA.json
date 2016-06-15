@@ -1,0 +1,161 @@
+{
+    "abbreviation": "CSOSA", 
+    "description": "The Court Services and Offender Supervision Agency provides supervision of adults on parole, probation, and supervised release in the District of Columbia.", 
+    "name": "Court Services and Offender Supervision Agency", 
+    "usa_id": "49191", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "FOIA Electronic Reading Room", 
+                    "http://www.csosa.gov/about/foia/reading-room.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-220-5300"
+                ]
+            }, 
+            "fax": "202-220-5350", 
+            "name": "Court Services and Offender Supervision Agency", 
+            "request_form": "http://www.csosa.gov/about/foia/foia-request-form.aspx", 
+            "usa_id": "49191", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "30.3", 
+                    "simple_highest_days": "401", 
+                    "simple_median_days": "15"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "27", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "269", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "29.92", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "expedited_processing_average_days": "1", 
+                    "expedited_processing_highest_days": "1", 
+                    "simple_median_days": "10", 
+                    "simple_highest_days": "207", 
+                    "expedited_processing_median_days": "1", 
+                    "simple_average_days": "14.56", 
+                    "expedited_processing_lowest_days": "1"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "17", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "475", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "37", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "website": "http://www.csosa.gov/about/foia/overview.aspx", 
+            "phone": "202-220-5300", 
+            "foia_officer": {
+                "phone": [
+                    "202-220-5300"
+                ], 
+                "name": "Renee Barley"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-220-5300"
+                ], 
+                "name": "Renee Barley"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Renee Barley", 
+                    "FOIA Officer, Office of the General Counsel", 
+                    "Room 1220"
+                ], 
+                "state": "DC", 
+                "street": "633 Indiana Avenue, NW", 
+                "zip": "20004-2902", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "Renee.Barley@csosa.gov"
+            ], 
+            "description": "The Court Services and Offender Supervision Agency provides supervision of adults on parole, probation, and supervised release in the District of Columbia."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "30.3", 
+            "simple_highest_days": "401", 
+            "simple_median_days": "15"
+        }, 
+        "2011": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "27", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "269", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "29.92", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "2", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "23", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "62", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "42.1", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "expedited_processing_average_days": "1", 
+            "expedited_processing_highest_days": "1", 
+            "simple_median_days": "10", 
+            "simple_highest_days": "207", 
+            "expedited_processing_median_days": "1", 
+            "simple_average_days": "14.56", 
+            "expedited_processing_lowest_days": "1"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "17", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "475", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "37", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }
+    }
+}

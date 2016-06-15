@@ -1,0 +1,230 @@
+{
+    "abbreviation": "OGE", 
+    "description": "The Office of Government Ethics provides oversight, policy, and guidance to the Executive Branch regarding ethics laws and policies.", 
+    "name": "Office of Government Ethics", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Archives and records", 
+        "Confidential business information", 
+        "Conflict of interests", 
+        "Courts", 
+        "Freedom of information", 
+        "Government employees", 
+        "Government property", 
+        "Organization and functions (Government agencies)", 
+        "Penalties", 
+        "Privacy", 
+        "Reporting and recordkeeping requirements", 
+        "Trusts and trustees"
+    ], 
+    "usa_id": "52646", 
+    "departments": [
+        {
+            "website": "http://www.usoge.gov/FOIA-and-Privacy-Act/The-Freedom-of-Information-Act-and-the-Privacy-Act/", 
+            "service_center": {
+                "phone": [
+                    "202-482-9267"
+                ]
+            }, 
+            "fax": "202-482-9237", 
+            "name": "Office of Government Ethics", 
+            "usa_id": "52646", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "16.5", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "41", 
+                    "simple_average_days": "14.7", 
+                    "expedited_processing_lowest_days": "0"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "11", 
+                    "simple_highest_days": "30", 
+                    "simple_median_days": "12.5"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "9", 
+                    "expedited_processing_highest_days": "9", 
+                    "simple_median_days": "13", 
+                    "simple_highest_days": "30", 
+                    "expedited_processing_median_days": "9", 
+                    "simple_average_days": "12.4", 
+                    "expedited_processing_lowest_days": "9"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "8", 
+                    "expedited_processing_highest_days": "8", 
+                    "simple_median_days": "9.5", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "54", 
+                    "expedited_processing_median_days": "8", 
+                    "simple_average_days": "12.097", 
+                    "expedited_processing_lowest_days": "8", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "13.5", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "173", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "13.02", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "7", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "30", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "8.6", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "43", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "10.959", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "phone": "202-482-9203", 
+            "foia_officer": {
+                "phone": [
+                    "202-482-9203"
+                ], 
+                "name": "Diana J. Veilleux"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-482-9203"
+                ]
+            }, 
+            "address": {
+                "address_lines": [
+                    "Diana J. Veilleux", 
+                    "OGE FOIA Officer", 
+                    "Suite 500"
+                ], 
+                "state": "DC", 
+                "street": "1201 New York Avenue, NW", 
+                "zip": "20005-3917", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "usoge@oge.gov"
+            ], 
+            "description": "The Office of Government Ethics provides oversight, policy, and guidance to the Executive Branch regarding ethics laws and policies."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "16.5", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "41", 
+            "simple_average_days": "14.7", 
+            "expedited_processing_lowest_days": "0"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "11", 
+            "simple_highest_days": "30", 
+            "simple_median_days": "12.5"
+        }, 
+        "2009": {
+            "simple_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "9", 
+            "expedited_processing_highest_days": "9", 
+            "simple_median_days": "13", 
+            "simple_highest_days": "30", 
+            "expedited_processing_median_days": "9", 
+            "simple_average_days": "12.4", 
+            "expedited_processing_lowest_days": "9"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "8", 
+            "expedited_processing_highest_days": "8", 
+            "simple_median_days": "9.5", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "54", 
+            "expedited_processing_median_days": "8", 
+            "simple_average_days": "12.097", 
+            "expedited_processing_lowest_days": "8", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "13.5", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "173", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "13.02", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "7", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "30", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "8.6", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "9", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "43", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "10.959", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }
+    }
+}

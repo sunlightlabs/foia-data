@@ -1,0 +1,989 @@
+{
+    "abbreviation": "Treasury", 
+    "description": "The Department of the Treasury manages Federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws.", 
+    "keywords": [
+        "Accountants", 
+        "Accounting", 
+        "Administrative practice and procedure", 
+        "Adult education", 
+        "Advertising", 
+        "Advisory committees", 
+        "Afghanistan", 
+        "Aged", 
+        "Agricultural commodities", 
+        "Agriculture", 
+        "Air carriers", 
+        "Air pollution control", 
+        "Air traffic controllers", 
+        "Air transportation", 
+        "Aircraft", 
+        "Airports", 
+        "Alcohol and alcoholic beverages", 
+        "Alcoholism", 
+        "Aliens", 
+        "Alimony", 
+        "American Samoa", 
+        "Animals", 
+        "Antidumping", 
+        "Antitrust", 
+        "Archives and records", 
+        "Armed forces", 
+        "Arms and munitions", 
+        "Arson", 
+        "Authority delegations (Government agencies)", 
+        "Bank deposit insurance", 
+        "Bankruptcy", 
+        "Banks, banking", 
+        "Beer", 
+        "Biologics", 
+        "Black lung benefits", 
+        "Blind", 
+        "Blocking of assets", 
+        "Bonds", 
+        "Broadband", 
+        "Brokers", 
+        "Buildings and facilities", 
+        "Burma", 
+        "Business and industry", 
+        "Cambodia", 
+        "Campaign funds", 
+        "Canada", 
+        "Cargo vessels", 
+        "Caribbean Basin initiative", 
+        "Cemeteries", 
+        "Chemicals", 
+        "Child support", 
+        "Child welfare", 
+        "Cigars and cigarettes", 
+        "Civil rights", 
+        "Claims", 
+        "Classified information", 
+        "Coastal zone", 
+        "Colleges and universities", 
+        "Commodity futures", 
+        "Common carriers", 
+        "Communications", 
+        "Community development", 
+        "Computer technology", 
+        "Confidential business information", 
+        "Conflict of interests", 
+        "Consumer protection", 
+        "Continental shelf", 
+        "Copyright", 
+        "Cosmetics", 
+        "Countervailing duties", 
+        "Courts", 
+        "Credit", 
+        "Credit unions", 
+        "Crime", 
+        "Cuba", 
+        "Cultural exchange programs", 
+        "Currency", 
+        "Customs duties and inspection", 
+        "Diamonds", 
+        "Disability benefits", 
+        "Disaster assistance", 
+        "Domestic violence", 
+        "Drug abuse", 
+        "Drug traffic control", 
+        "Drugs", 
+        "Education", 
+        "Education of disadvantaged", 
+        "Education of individuals with disabilities", 
+        "Educational facilities", 
+        "Educational research", 
+        "Educational study programs", 
+        "Electric power", 
+        "Electric power rates", 
+        "Electric utilities", 
+        "Electronic funds transfers", 
+        "Electronic products", 
+        "Elementary and secondary education", 
+        "Employee benefit plans", 
+        "Employment", 
+        "Employment taxes", 
+        "Equal access to justice", 
+        "Equal educational opportunity", 
+        "Equal employment opportunity", 
+        "Estate taxes", 
+        "Estates", 
+        "Ethics", 
+        "Excise taxes", 
+        "Explosives", 
+        "Exports", 
+        "Fair housing", 
+        "Federal Reserve System", 
+        "Federal home loan banks", 
+        "Federally affected areas", 
+        "Firefighters", 
+        "Fisheries", 
+        "Fishing vessels", 
+        "Flags", 
+        "Flood insurance", 
+        "Food additives", 
+        "Foods", 
+        "Foreign banking", 
+        "Foreign claims", 
+        "Foreign currencies", 
+        "Foreign investments in United States", 
+        "Foreign relations", 
+        "Foreign trade", 
+        "Foreign trade zones", 
+        "Forgery", 
+        "Foundations", 
+        "Fraud", 
+        "Freedom of information", 
+        "Freight", 
+        "Freight forwarders", 
+        "Fruit juices", 
+        "Fruits", 
+        "Furs", 
+        "Gambling", 
+        "Gasohol", 
+        "Gasoline", 
+        "Gift taxes", 
+        "Government contracts", 
+        "Government employees", 
+        "Government procurement", 
+        "Government property", 
+        "Government securities", 
+        "Grant programs", 
+        "Grant programs-education", 
+        "Grant programs-health", 
+        "Grant programs-housing and community development", 
+        "Grant programs-social programs", 
+        "Guam", 
+        "Harbors", 
+        "Hazardous substances", 
+        "Health", 
+        "Health care", 
+        "Health facilities", 
+        "Health insurance", 
+        "Health professions", 
+        "Health records", 
+        "Holding companies", 
+        "Home improvement", 
+        "Homeless", 
+        "Hospitals", 
+        "Housing", 
+        "Human research subjects", 
+        "Humanitarian aid", 
+        "Immigration", 
+        "Imports", 
+        "Income taxes", 
+        "Indians", 
+        "Indians-education", 
+        "Individuals with disabilities", 
+        "Insurance", 
+        "Insurance companies", 
+        "Intergovernmental relations", 
+        "International organizations", 
+        "Inventions and patents", 
+        "Investigations", 
+        "Investment companies", 
+        "Investments", 
+        "Iran", 
+        "Iraq", 
+        "Labeling", 
+        "Laboratories", 
+        "Law enforcement", 
+        "Law enforcement officers", 
+        "Lawyers", 
+        "Lebanon", 
+        "Liberia", 
+        "Libya", 
+        "Liquors", 
+        "Loan programs", 
+        "Loan programs-agriculture", 
+        "Loan programs-communications", 
+        "Loan programs-energy", 
+        "Loan programs-health", 
+        "Loan programs-housing and community development", 
+        "Lobbying", 
+        "Low and moderate income housing", 
+        "Manpower training programs", 
+        "Manufactured homes", 
+        "Marine resources", 
+        "Marital status discrimination", 
+        "Maritime carriers", 
+        "Medicaid", 
+        "Medical devices", 
+        "Mexico", 
+        "Midway Islands", 
+        "Migrant labor", 
+        "Military personnel", 
+        "Minority businesses", 
+        "Mortgage insurance", 
+        "Mortgages", 
+        "Motor carriers", 
+        "Motor vehicles", 
+        "National banks", 
+        "National defense", 
+        "Natural resources", 
+        "New Investment", 
+        "Nonprofit organizations", 
+        "Northern Mariana Islands", 
+        "Nuclear materials", 
+        "Oil imports", 
+        "Oil pollution", 
+        "Organization and functions (Government agencies)", 
+        "Pacific Islands Trust Territory", 
+        "Packaging and containers", 
+        "Parking", 
+        "Passenger vessels", 
+        "Penalties", 
+        "Petroleum", 
+        "Privacy", 
+        "Private schools", 
+        "Public assistance programs", 
+        "Puerto Rico", 
+        "Railroad retirement", 
+        "Railroad unemployment insurance", 
+        "Railroads", 
+        "Religious discrimination", 
+        "Reporting and recordkeeping requirements", 
+        "Research", 
+        "Retirement", 
+        "Rural areas", 
+        "Russian Federation", 
+        "Safety", 
+        "Savings associations", 
+        "Scholarships and fellowships", 
+        "School construction", 
+        "Schools", 
+        "Science and technology", 
+        "Scientific equipment", 
+        "Seals and insignia", 
+        "Securities", 
+        "Security measures", 
+        "Seizures and forfeitures", 
+        "Services", 
+        "Sex discrimination", 
+        "Signs and symbols", 
+        "Small businesses", 
+        "Social security", 
+        "Specially Designated Nationals", 
+        "Spices and flavorings", 
+        "State and local governments", 
+        "Statistics", 
+        "Stills", 
+        "Student aid", 
+        "Sudan", 
+        "Sunshine Act", 
+        "Supplemental Security Income (SSI)", 
+        "Surety bonds", 
+        "Taxes", 
+        "Teachers", 
+        "Technical assistance", 
+        "Telecommunications", 
+        "Telephone", 
+        "Terrorism", 
+        "Tobacco", 
+        "Trade agreements", 
+        "Trade practices", 
+        "Trademarks", 
+        "Transportation", 
+        "Travel and transportation expenses", 
+        "Travel restrictions", 
+        "Treaties", 
+        "Trusts and trustees", 
+        "Truth in lending", 
+        "Unemployment compensation", 
+        "United States investments abroad", 
+        "Uranium", 
+        "Urban areas", 
+        "Vessels", 
+        "Veterans", 
+        "Vietnam", 
+        "Vinegar", 
+        "Virgin Islands", 
+        "Vocational education", 
+        "Vocational rehabilitation", 
+        "Wages", 
+        "Wake Island", 
+        "Warehouses", 
+        "Waste treatment and disposal", 
+        "Water pollution control", 
+        "Water resources", 
+        "Water supply", 
+        "Watersheds", 
+        "Western Balkans", 
+        "Wildlife", 
+        "Wine", 
+        "Women", 
+        "Youth", 
+        "Yugoslavia"
+    ], 
+    "usa_id": "49034", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.treasury.gov/FOIA/Pages/reading_room.aspx"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-622-0930"
+                ]
+            }, 
+            "fax": "202-622-3895", 
+            "name": "Departmental Offices", 
+            "request_form": "Treas FOIA On Line Request Form", 
+            "misc": {
+                "Director, Disclosure Services": {
+                    "phone": [
+                        "202-622-0930"
+                    ], 
+                    "name": "Ryan Law"
+                }
+            }, 
+            "top_level": false, 
+            "website": "http://www.treasury.gov/foia", 
+            "phone": "202-622-0930", 
+            "public_liaison": {
+                "phone": [
+                    "202-622-0930"
+                ], 
+                "name": "Ryan Law"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Ryan Law", 
+                    "Director, FOIA and Transparency"
+                ], 
+                "state": "DC", 
+                "street": "1500 Pennsylvania Avenue, NW", 
+                "zip": "20220", 
+                "city": "Washington"
+            }, 
+            "keywords": [
+                "Courts", 
+                "Freedom of information", 
+                "Government employees", 
+                "Privacy"
+            ], 
+            "emails": [
+                "TreasFOIA@Treasury.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.ttb.gov/foia/index.shtml", 
+            "service_center": {
+                "phone": [
+                    "202-927-1024"
+                ]
+            }, 
+            "fax": "202-453-2331", 
+            "description": "The Alcohol and Tobacco Tax and Trade Bureau collects taxes and enforces regulations on alcohol, tobacco, firearms, and ammunition.", 
+            "request_form": "https://www.treasury.gov/foia/pages/gofoia.aspx", 
+            "usa_id": "49082", 
+            "misc": {
+                "FOIA Contact, Disclosure Services": {
+                    "phone": [
+                        "202-882-9904"
+                    ], 
+                    "name": "Quinton Mason"
+                }
+            }, 
+            "top_level": true, 
+            "abbreviation": "TTB", 
+            "phone": "202-882-9904", 
+            "public_liaison": {
+                "phone": [
+                    "202-622-0930"
+                ], 
+                "name": "Ryan Law"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Quinton Mason", 
+                    "FOIA Contact, Disclosure Services", 
+                    "Box 12"
+                ], 
+                "state": "DC", 
+                "street": "1310 G Street, NW", 
+                "zip": "20220", 
+                "city": "Washington"
+            }, 
+            "keywords": [
+                "Administrative practice and procedure", 
+                "Advertising", 
+                "Aircraft", 
+                "Alcohol and alcoholic beverages", 
+                "Armed forces", 
+                "Arms and munitions", 
+                "Authority delegations (Government agencies)", 
+                "Beer", 
+                "Caribbean Basin initiative", 
+                "Chemicals", 
+                "Cigars and cigarettes", 
+                "Claims", 
+                "Consumer protection", 
+                "Cosmetics", 
+                "Credit", 
+                "Customs duties and inspection", 
+                "Domestic violence", 
+                "Drugs", 
+                "Electronic funds transfers", 
+                "Excise taxes", 
+                "Explosives", 
+                "Exports", 
+                "Food additives", 
+                "Foreign trade zones", 
+                "Freedom of information", 
+                "Fruit juices", 
+                "Fruits", 
+                "Gasohol", 
+                "Health", 
+                "Imports", 
+                "Labeling", 
+                "Law enforcement", 
+                "Liquors", 
+                "Military personnel", 
+                "Packaging and containers", 
+                "Penalties", 
+                "Puerto Rico", 
+                "Reporting and recordkeeping requirements", 
+                "Research", 
+                "Safety", 
+                "Scientific equipment", 
+                "Security measures", 
+                "Seizures and forfeitures", 
+                "Spices and flavorings", 
+                "Stills", 
+                "Surety bonds", 
+                "Tobacco", 
+                "Trade practices", 
+                "Transportation", 
+                "Vessels", 
+                "Vinegar", 
+                "Virgin Islands", 
+                "Warehouses", 
+                "Wine"
+            ], 
+            "emails": [
+                "ttbfoia@ttb.gov"
+            ], 
+            "name": "Alcohol and Tobacco Tax and Trade Bureau"
+        }, 
+        {
+            "website": "http://www.moneyfactory.gov/foia.html", 
+            "service_center": {
+                "phone": [
+                    "202-874-2058"
+                ]
+            }, 
+            "fax": "202-874-2951", 
+            "description": "The Bureau of Engraving and Printing produces United States currency notes, operates as the nation's central bank, and serves to ensure that adequate amounts of currency and coin are in circulation.", 
+            "request_form": "BEP FOIA On Line Request Form", 
+            "usa_id": "91587", 
+            "misc": {
+                "FOIA Contact, FOIA Office": {
+                    "phone": [
+                        "202-874-2500"
+                    ], 
+                    "name": "Disclosure Officer"
+                }
+            }, 
+            "top_level": true, 
+            "abbreviation": "BEP", 
+            "phone": "202-874-2500", 
+            "public_liaison": {
+                "phone": [
+                    "202-622-0930"
+                ], 
+                "name": "Ryan Law"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Disclosure Officer", 
+                    "FOIA Contact, FOIA Office", 
+                    "419 A"
+                ], 
+                "state": "DC", 
+                "street": "Office of the Chief Counsel FOIA & Transparency 14th & C Street, SW", 
+                "zip": "20228", 
+                "city": "Washington"
+            }, 
+            "keywords": [
+                "Currency"
+            ], 
+            "name": "Bureau of Engraving and Printing"
+        }, 
+        {
+            "website": "http://www.occ.gov/about/foia/index-foia.html", 
+            "service_center": {
+                "phone": [
+                    "202-874-4700"
+                ]
+            }, 
+            "name": "Office of the Comptroller of the Currency", 
+            "usa_id": "48126", 
+            "top_level": false, 
+            "abbreviation": "OCC", 
+            "phone": "202-649-6758", 
+            "public_liaison": {
+                "phone": [
+                    "202-622-0930"
+                ], 
+                "name": "Ryan Law"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Frank Vance", 
+                    "Disclosure Manager", 
+                    "Communications Division", 
+                    "Suite 3-E218Mail Stop 6W-11"
+                ], 
+                "state": "DC", 
+                "street": "400 7th Street, SW", 
+                "zip": "20219", 
+                "city": "Washington"
+            }, 
+            "keywords": [
+                "Accountants", 
+                "Accounting", 
+                "Administrative practice and procedure", 
+                "Advertising", 
+                "Aged", 
+                "Agriculture", 
+                "Antitrust", 
+                "Authority delegations (Government agencies)", 
+                "Bank deposit insurance", 
+                "Banks, banking", 
+                "Brokers", 
+                "Business and industry", 
+                "Civil rights", 
+                "Claims", 
+                "Community development", 
+                "Computer technology", 
+                "Confidential business information", 
+                "Conflict of interests", 
+                "Consumer protection", 
+                "Credit", 
+                "Credit unions", 
+                "Crime", 
+                "Currency", 
+                "Electronic funds transfers", 
+                "Equal access to justice", 
+                "Equal employment opportunity", 
+                "Estates", 
+                "Ethics", 
+                "Exports", 
+                "Fair housing", 
+                "Federal Reserve System", 
+                "Flood insurance", 
+                "Foreign banking", 
+                "Foreign currencies", 
+                "Foreign trade", 
+                "Freedom of information", 
+                "Gambling", 
+                "Government securities", 
+                "Holding companies", 
+                "Individuals with disabilities", 
+                "Insurance", 
+                "Insurance companies", 
+                "Investigations", 
+                "Investment companies", 
+                "Investments", 
+                "Law enforcement", 
+                "Lawyers", 
+                "Loan programs-housing and community development", 
+                "Low and moderate income housing", 
+                "Manufactured homes", 
+                "Marital status discrimination", 
+                "Minority businesses", 
+                "Mortgages", 
+                "National banks", 
+                "Nonprofit organizations", 
+                "Organization and functions (Government agencies)", 
+                "Penalties", 
+                "Privacy", 
+                "Religious discrimination", 
+                "Reporting and recordkeeping requirements", 
+                "Rural areas", 
+                "Savings associations", 
+                "Securities", 
+                "Security measures", 
+                "Sex discrimination", 
+                "Signs and symbols", 
+                "Small businesses", 
+                "Surety bonds", 
+                "Trade practices", 
+                "Trusts and trustees", 
+                "Truth in lending", 
+                "United States investments abroad", 
+                "Women"
+            ], 
+            "emails": [
+                "foia-pa@occ.treas.gov"
+            ], 
+            "description": "The Office of the Comptroller of the Currency charters, regulates, and supervises all national banks. It also supervises the Federal branches and agencies of foreign banks."
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "Reading Room Records", 
+                    "http://www.fincen.gov/foia/foia_readingroom.html"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "703-905-5034"
+                ]
+            }, 
+            "fax": "703-905-5126", 
+            "description": "FinCEN\u2019s mission is to safeguard the financial system from illicit use and combat money laundering and promote national security through the collection, analysis, and dissemination of financial intelligence and strategic use of financial authorities.", 
+            "request_form": "https://www.treasury.gov/foia/pages/gofoia.aspx", 
+            "misc": {
+                "Disclosure (FOIA) Office": {
+                    "phone": [
+                        "703-905-3537"
+                    ], 
+                    "name": "Amanda Michanczyk"
+                }
+            }, 
+            "top_level": true, 
+            "website": "http://www.fincen.gov/foia/", 
+            "phone": "703-905-3537", 
+            "public_liaison": {
+                "phone": [
+                    "202-622-0930"
+                ], 
+                "name": "Ryan Law"
+            }, 
+            "abbreviation": "FINCEN", 
+            "address": {
+                "address_lines": [
+                    "Amanda Michanczyk", 
+                    "Disclosure (FOIA) Office"
+                ], 
+                "state": "VA", 
+                "street": "P.O. Box 39", 
+                "zip": "22183", 
+                "city": "Vienna"
+            }, 
+            "keywords": [
+                "Administrative practice and procedure", 
+                "Authority delegations (Government agencies)", 
+                "Banks, banking", 
+                "Brokers", 
+                "Currency", 
+                "Federal home loan banks", 
+                "Foreign banking", 
+                "Foreign currencies", 
+                "Gambling", 
+                "Investigations", 
+                "Law enforcement", 
+                "Mortgages", 
+                "Penalties", 
+                "Reporting and recordkeeping requirements", 
+                "Securities", 
+                "Terrorism"
+            ], 
+            "name": "Financial Crimes Enforcement Network"
+        }, 
+        {
+            "website": "http://www.fiscal.treasury.gov/", 
+            "service_center": {
+                "phone": [
+                    "202-874-5602"
+                ]
+            }, 
+            "fax": "202-874-2391", 
+            "description": "The Bureau of the Fiscal Service manages all federal payments and collections, and provides government-wide accounting and reporting services. You can contact them to buy bonds or to check on the maturity of bonds you own.", 
+            "request_form": "Fiscal Service FOIA On Line Request Form", 
+            "usa_id": "88999", 
+            "top_level": false, 
+            "phone": "202-874-5602", 
+            "public_liaison": {
+                "phone": [
+                    "202-622-0930"
+                ], 
+                "name": "Ryan Law"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Cynthia Sydnor/Denise Nelson", 
+                    "Disclosure Officer", 
+                    "Room 508C"
+                ], 
+                "state": "DC", 
+                "street": "401 14th Street, SW", 
+                "zip": "20227", 
+                "city": "Washington"
+            }, 
+            "keywords": [
+                "Accounting", 
+                "Administrative practice and procedure", 
+                "Aged", 
+                "Air traffic controllers", 
+                "Alcoholism", 
+                "Alimony", 
+                "Archives and records", 
+                "Banks, banking", 
+                "Black lung benefits", 
+                "Blind", 
+                "Bonds", 
+                "Cemeteries", 
+                "Child support", 
+                "Child welfare", 
+                "Claims", 
+                "Courts", 
+                "Credit", 
+                "Crime", 
+                "Disability benefits", 
+                "Drug abuse", 
+                "Electronic funds transfers", 
+                "Federal Reserve System", 
+                "Firefighters", 
+                "Flags", 
+                "Foreign banking", 
+                "Forgery", 
+                "Fraud", 
+                "Freedom of information", 
+                "Government contracts", 
+                "Government employees", 
+                "Government property", 
+                "Government securities", 
+                "Grant programs", 
+                "Housing", 
+                "Income taxes", 
+                "Insurance", 
+                "Insurance companies", 
+                "Intergovernmental relations", 
+                "Inventions and patents", 
+                "Investigations", 
+                "Law enforcement officers", 
+                "Loan programs", 
+                "Medicaid", 
+                "Parking", 
+                "Penalties", 
+                "Privacy", 
+                "Railroad retirement", 
+                "Railroad unemployment insurance", 
+                "Reporting and recordkeeping requirements", 
+                "Retirement", 
+                "Seals and insignia", 
+                "Securities", 
+                "Security measures", 
+                "Social security", 
+                "Supplemental Security Income (SSI)", 
+                "Surety bonds", 
+                "Taxes", 
+                "Travel and transportation expenses", 
+                "Treaties", 
+                "Unemployment compensation", 
+                "Veterans", 
+                "Vocational rehabilitation", 
+                "Wages"
+            ], 
+            "name": "Bureau of the Fiscal Service"
+        }, 
+        {
+            "website": "http://www.irs.gov/foia", 
+            "service_center": {
+                "phone": [
+                    "860-756-4673"
+                ]
+            }, 
+            "fax": "877-807-9215", 
+            "description": "The Internal Revenue Service (IRS) administers and enforces U.S. federal tax laws.", 
+            "request_form": "IRS FOIA Fax Request", 
+            "usa_id": "48068", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-317-3475"
+                    ], 
+                    "name": "Disclosure Manager"
+                }
+            }, 
+            "abbreviation": "IRS", 
+            "phone": "860-756-4673", 
+            "public_liaison": {
+                "phone": [
+                    "860-756-4673"
+                ], 
+                "name": "Rhonda O'Reilly"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Rhonda O'Reilly", 
+                    "FOIA Contact", 
+                    "HQ FOIA Stop 211"
+                ], 
+                "state": "GA", 
+                "street": "PO Box 621506", 
+                "zip": "30362-3006", 
+                "city": "Atlanta"
+            }, 
+            "keywords": [
+                "Accounting", 
+                "Administrative practice and procedure", 
+                "Advertising", 
+                "Advisory committees", 
+                "Alimony", 
+                "Bankruptcy", 
+                "Biologics", 
+                "Bonds", 
+                "Brokers", 
+                "Campaign funds", 
+                "Child support", 
+                "Consumer protection", 
+                "Continental shelf", 
+                "Courts", 
+                "Crime", 
+                "Drugs", 
+                "Employee benefit plans", 
+                "Employment taxes", 
+                "Estate taxes", 
+                "Excise taxes", 
+                "Fishing vessels", 
+                "Foreign relations", 
+                "Foundations", 
+                "Freedom of information", 
+                "Gambling", 
+                "Gasoline", 
+                "Gift taxes", 
+                "Government employees", 
+                "Grant programs-health", 
+                "Health care", 
+                "Health insurance", 
+                "Health records", 
+                "Hospitals", 
+                "Income taxes", 
+                "Individuals with disabilities", 
+                "Insurance", 
+                "Investigations", 
+                "Investments", 
+                "Law enforcement", 
+                "Loan programs-health", 
+                "Lobbying", 
+                "Medicaid", 
+                "Motor vehicles", 
+                "Nonprofit organizations", 
+                "Oil pollution", 
+                "Organization and functions (Government agencies)", 
+                "Penalties", 
+                "Privacy", 
+                "Public assistance programs", 
+                "Railroad retirement", 
+                "Reporting and recordkeeping requirements", 
+                "Seals and insignia", 
+                "Securities", 
+                "Social security", 
+                "State and local governments", 
+                "Statistics", 
+                "Sunshine Act", 
+                "Taxes", 
+                "Technical assistance", 
+                "Telephone", 
+                "Transportation", 
+                "Trusts and trustees", 
+                "Unemployment compensation", 
+                "Women", 
+                "Youth"
+            ], 
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "http://www.irs.gov/uac/Electronic-Reading-Room"
+                ]
+            ], 
+            "name": "Internal Revenue Service - Headquarters Office", 
+            "notes": "This office has additional FOIA contact information that can be found by visiting its website.", 
+            "top_level": true
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "The Electronic Reading Room", 
+                    "http://www.usmint.gov/FOIA/?action=room"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-354-6788"
+                ]
+            }, 
+            "fax": "202-756-6153", 
+            "description": "The Mint produces the the coins that circulate throughout the US. They also produce special edition coinage that can be purchased for coin collections.", 
+            "request_form": "US Mint FOIA On Line Request Form", 
+            "usa_id": "48150", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-354-4600"
+                    ], 
+                    "name": "Kathleen Saunders-Mitchell"
+                }
+            }, 
+            "top_level": true, 
+            "website": "http://www.usmint.gov/FOIA", 
+            "phone": "202-354-4600", 
+            "public_liaison": {
+                "phone": [
+                    "202-622-0930"
+                ], 
+                "name": "Ryan Law"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Kathleen Saunders-Mitchell", 
+                    "FOIA Contact", 
+                    "8th Floor"
+                ], 
+                "state": "DC", 
+                "street": "801 9th Street, NW", 
+                "zip": "20220", 
+                "city": "Washington"
+            }, 
+            "name": "United States Mint"
+        }, 
+        {
+            "website": "http://www.treasury.gov/tigta/important_foia", 
+            "service_center": {
+                "phone": [
+                    "202-622-4068"
+                ]
+            }, 
+            "fax": "202-622-3339", 
+            "name": "Treasury Inspector General for Tax Administration", 
+            "request_form": "TIGTA FOIA On Line Request Form", 
+            "misc": {
+                "FOIA Contact, Office of the Chief Counsel, Disclosure Branch": {
+                    "phone": [
+                        "202-622-4068"
+                    ], 
+                    "name": "Amy P. Jones"
+                }
+            }, 
+            "top_level": false, 
+            "phone": "202-622-4068", 
+            "public_liaison": {
+                "phone": [
+                    "202-622-4068"
+                ], 
+                "name": "Amy P. Jones"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Amy P. Jones", 
+                    "FOIA Contact, Office of the Chief Counsel, Disclosure Branch", 
+                    "Suite 469"
+                ], 
+                "state": "DC", 
+                "street": "ATTN: FOIA Request TIGTA Chief Counsel 1401 H Street, NW", 
+                "zip": "20005", 
+                "city": "Washington"
+            }, 
+            "emails": [
+                "FOIA.Reading.Room@tigta.treas.gov"
+            ]
+        }
+    ], 
+    "name": "Department of the Treasury"
+}

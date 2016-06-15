@@ -1,0 +1,248 @@
+{
+    "abbreviation": "AMTRAK", 
+    "description": "Amtrak, the National Railroad Passenger Corporation, provides intercity rail passenger service.", 
+    "name": "AMTRAK", 
+    "usa_id": "49084", 
+    "departments": [
+        {
+            "website": "http://www.amtrak.com/servlet/ContentServer/Page/1241267362261/1241267362261", 
+            "service_center": {
+                "phone": [
+                    "202-906-3740"
+                ]
+            }, 
+            "fax": "202-906-2004", 
+            "description": "Amtrak, the National Railroad Passenger Corporation, provides intercity rail passenger service.", 
+            "usa_id": "49084", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "41.5", 
+                    "expedited_processing_highest_days": "46", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "19.5", 
+                    "complex_highest_days": "465", 
+                    "simple_highest_days": "62", 
+                    "expedited_processing_median_days": "41.5", 
+                    "simple_average_days": "7.69", 
+                    "expedited_processing_lowest_days": "37", 
+                    "complex_average_days": "42.15"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "10", 
+                    "expedited_processing_highest_days": "17", 
+                    "simple_median_days": "4", 
+                    "complex_median_days": "14", 
+                    "complex_highest_days": "228", 
+                    "simple_highest_days": "26", 
+                    "expedited_processing_median_days": "10", 
+                    "simple_average_days": "10", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "27"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "15", 
+                    "expedited_processing_average_days": "10", 
+                    "expedited_processing_highest_days": "20", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "30", 
+                    "complex_highest_days": "311", 
+                    "simple_highest_days": "59", 
+                    "expedited_processing_median_days": "10", 
+                    "simple_average_days": "23", 
+                    "expedited_processing_lowest_days": "5", 
+                    "complex_average_days": "69"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "127", 
+                    "expedited_processing_highest_days": "217", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "28", 
+                    "complex_highest_days": "725", 
+                    "simple_highest_days": "270", 
+                    "expedited_processing_median_days": "127", 
+                    "simple_average_days": "30", 
+                    "expedited_processing_lowest_days": "37", 
+                    "complex_average_days": "90"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "10", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "6", 
+                    "complex_highest_days": "609", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "10", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "35"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "60.33", 
+                    "expedited_processing_highest_days": "74", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "13.5", 
+                    "complex_highest_days": "539", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "55", 
+                    "simple_average_days": "4.17", 
+                    "expedited_processing_lowest_days": "52", 
+                    "complex_average_days": "49.23"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "9.5", 
+                    "expedited_processing_highest_days": "19", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "31", 
+                    "complex_highest_days": "1408", 
+                    "simple_highest_days": "50", 
+                    "expedited_processing_median_days": "9.5", 
+                    "simple_average_days": "7.87", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "104.08"
+                }
+            }, 
+            "abbreviation": "AMTRAK", 
+            "phone": "202-906-3741", 
+            "foia_officer": {
+                "phone": [
+                    "202-906-3741"
+                ], 
+                "name": "Sharron H. Hawkins"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-906-3740"
+                ], 
+                "name": "Sharron H. Hawkins"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Sharron H. Hawkins", 
+                    "Lead FOIA Specialist"
+                ], 
+                "state": "DC", 
+                "street": "60 Massachusetts Avenue, NE", 
+                "zip": "20002", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foiarequests@amtrak.com"
+            ], 
+            "name": "AMTRAK (National Railroad Passenger Corporation)"
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "41.5", 
+            "expedited_processing_highest_days": "46", 
+            "simple_median_days": "3", 
+            "complex_median_days": "19.5", 
+            "complex_highest_days": "465", 
+            "simple_highest_days": "62", 
+            "expedited_processing_median_days": "41.5", 
+            "simple_average_days": "7.69", 
+            "expedited_processing_lowest_days": "37", 
+            "complex_average_days": "42.15"
+        }, 
+        "2008": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "10", 
+            "expedited_processing_highest_days": "17", 
+            "simple_median_days": "4", 
+            "complex_median_days": "14", 
+            "complex_highest_days": "228", 
+            "simple_highest_days": "26", 
+            "expedited_processing_median_days": "10", 
+            "simple_average_days": "10", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "27"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "15", 
+            "expedited_processing_average_days": "10", 
+            "expedited_processing_highest_days": "20", 
+            "simple_median_days": "10", 
+            "complex_median_days": "30", 
+            "complex_highest_days": "311", 
+            "simple_highest_days": "59", 
+            "expedited_processing_median_days": "10", 
+            "simple_average_days": "23", 
+            "expedited_processing_lowest_days": "5", 
+            "complex_average_days": "69"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "127", 
+            "expedited_processing_highest_days": "217", 
+            "simple_median_days": "6", 
+            "complex_median_days": "28", 
+            "complex_highest_days": "725", 
+            "simple_highest_days": "270", 
+            "expedited_processing_median_days": "127", 
+            "simple_average_days": "30", 
+            "expedited_processing_lowest_days": "37", 
+            "complex_average_days": "90"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "10", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "1", 
+            "complex_median_days": "6", 
+            "complex_highest_days": "609", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "10", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "35"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "60.33", 
+            "expedited_processing_highest_days": "74", 
+            "simple_median_days": "1", 
+            "complex_median_days": "13.5", 
+            "complex_highest_days": "539", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "55", 
+            "simple_average_days": "4.17", 
+            "expedited_processing_lowest_days": "52", 
+            "complex_average_days": "49.23"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "9.5", 
+            "expedited_processing_highest_days": "19", 
+            "simple_median_days": "6", 
+            "complex_median_days": "31", 
+            "complex_highest_days": "1408", 
+            "simple_highest_days": "50", 
+            "expedited_processing_median_days": "9.5", 
+            "simple_average_days": "7.87", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "104.08"
+        }
+    }
+}

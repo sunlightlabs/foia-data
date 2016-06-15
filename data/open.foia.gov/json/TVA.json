@@ -1,0 +1,272 @@
+{
+    "abbreviation": "TVA", 
+    "description": "The Tennessee Valley Authority, a government owned corporation, provides low-cost electricity in seven southeatern states and provides flood control, navigation, and land management for the Tennessee River system.", 
+    "name": "Tennessee Valley Authority", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Aged", 
+        "Airports", 
+        "Buildings and facilities", 
+        "Civil rights", 
+        "Colleges and universities", 
+        "Education", 
+        "Education of individuals with disabilities", 
+        "Educational facilities", 
+        "Educational research", 
+        "Educational study programs", 
+        "Equal educational opportunity", 
+        "Equal employment opportunity", 
+        "Federal buildings and facilities", 
+        "Freedom of information", 
+        "Government property", 
+        "Government property management", 
+        "Grant programs", 
+        "Grant programs-education", 
+        "Grant programs-social programs", 
+        "Highways and roads", 
+        "Hunting", 
+        "Individuals with disabilities", 
+        "Investigations", 
+        "Mass transportation", 
+        "Natural resources", 
+        "Navigation (water)", 
+        "Penalties", 
+        "Privacy", 
+        "Railroads", 
+        "Religious discrimination", 
+        "Reporting and recordkeeping requirements", 
+        "Rivers", 
+        "Sex discrimination", 
+        "Small businesses", 
+        "Student aid", 
+        "Traffic regulations", 
+        "Veterans", 
+        "Water pollution control", 
+        "Women"
+    ], 
+    "usa_id": "52660", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Reading Room", 
+                    "http://www.tva.gov/foia/foia_reading.htm"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "865-632-6945"
+                ]
+            }, 
+            "fax": "865-632-6901", 
+            "name": "Tennessee Valley Authority", 
+            "usa_id": "52660", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "32", 
+                    "expedited_processing_average_days": "28", 
+                    "expedited_processing_highest_days": "30", 
+                    "simple_median_days": "15", 
+                    "complex_median_days": "57", 
+                    "complex_highest_days": "516", 
+                    "simple_highest_days": "30", 
+                    "expedited_processing_median_days": "29", 
+                    "simple_average_days": "15", 
+                    "expedited_processing_lowest_days": "26", 
+                    "complex_average_days": "103"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "20", 
+                    "simple_median_days": "7", 
+                    "complex_median_days": "33", 
+                    "complex_highest_days": "125", 
+                    "simple_highest_days": "19", 
+                    "simple_average_days": "8", 
+                    "complex_average_days": "39"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "21", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "40", 
+                    "complex_highest_days": "225", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "7", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "63"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "22", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "43", 
+                    "complex_highest_days": "103", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "6.5", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "50"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "21", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "35", 
+                    "complex_highest_days": "235", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "7.8", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "48.8"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "21", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "36", 
+                    "complex_highest_days": "627", 
+                    "simple_highest_days": "20", 
+                    "simple_average_days": "9.48", 
+                    "complex_average_days": "77.92"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "21", 
+                    "simple_median_days": "7", 
+                    "complex_median_days": "34", 
+                    "complex_highest_days": "86", 
+                    "simple_highest_days": "20", 
+                    "simple_average_days": "7.7", 
+                    "complex_average_days": "36.4"
+                }
+            }, 
+            "website": "http://www.tva.gov/foia/", 
+            "phone": "865-632-6945", 
+            "foia_officer": {
+                "phone": [
+                    "865-632-6945"
+                ], 
+                "name": "Denise Smith"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "865-632-8133"
+                ], 
+                "name": "Wilson Taylor, III"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Denise Smith", 
+                    "TVA FOIA Officer", 
+                    "WT 7D"
+                ], 
+                "state": "TN", 
+                "street": "400 West Summit Hill Drive WT 7C", 
+                "zip": "37902-1499", 
+                "city": "Knoxville"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia@tva.gov"
+            ], 
+            "description": "The Tennessee Valley Authority, a government owned corporation, provides low-cost electricity in seven southeatern states and provides flood control, navigation, and land management for the Tennessee River system."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "32", 
+            "expedited_processing_average_days": "28", 
+            "expedited_processing_highest_days": "30", 
+            "simple_median_days": "15", 
+            "complex_median_days": "57", 
+            "complex_highest_days": "516", 
+            "simple_highest_days": "30", 
+            "expedited_processing_median_days": "29", 
+            "simple_average_days": "15", 
+            "expedited_processing_lowest_days": "26", 
+            "complex_average_days": "103"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "20", 
+            "simple_median_days": "7", 
+            "complex_median_days": "33", 
+            "complex_highest_days": "125", 
+            "simple_highest_days": "19", 
+            "simple_average_days": "8", 
+            "complex_average_days": "39"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "21", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "5", 
+            "complex_median_days": "40", 
+            "complex_highest_days": "225", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "7", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "63"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "22", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "5", 
+            "complex_median_days": "43", 
+            "complex_highest_days": "103", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "6.5", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "50"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "21", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "6", 
+            "complex_median_days": "35", 
+            "complex_highest_days": "235", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "7.8", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "48.8"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "21", 
+            "simple_median_days": "9", 
+            "complex_median_days": "36", 
+            "complex_highest_days": "627", 
+            "simple_highest_days": "20", 
+            "simple_average_days": "9.48", 
+            "complex_average_days": "77.92"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "21", 
+            "simple_median_days": "7", 
+            "complex_median_days": "34", 
+            "complex_highest_days": "86", 
+            "simple_highest_days": "20", 
+            "simple_average_days": "7.7", 
+            "complex_average_days": "36.4"
+        }
+    }
+}

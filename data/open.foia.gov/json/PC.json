@@ -1,0 +1,293 @@
+{
+    "abbreviation": "PC", 
+    "description": "Peace Corps volunteers travel to developing countries all over the world to assist with many ongoing efforts including AIDS education, business training, and information infrastructure development.", 
+    "name": "Peace Corps", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Claims", 
+        "Freedom of information", 
+        "Government contracts", 
+        "Government employees", 
+        "Grant programs", 
+        "Health facilities", 
+        "Health insurance", 
+        "Health professions", 
+        "Hostages", 
+        "Iraq", 
+        "Kuwait", 
+        "Lebanon", 
+        "Loan programs", 
+        "Reporting and recordkeeping requirements", 
+        "Technical assistance"
+    ], 
+    "usa_id": "52652", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Reading Room", 
+                    "http://www.peacecorps.gov/about/policies/foia/readingroom/"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-692-1236"
+                ]
+            }, 
+            "fax": "202-692-1385", 
+            "name": "Main Office", 
+            "request_form": "https://cwppc.secureprtportal.com/", 
+            "misc": {
+                "FOIA/Privacy Act Officer, Office of Management": {
+                    "phone": [
+                        "202-692-1236"
+                    ], 
+                    "name": "Denora Miller"
+                }
+            }, 
+            "top_level": false, 
+            "website": "http://www.peacecorps.gov/index.cfm?shell=about.policies.foia", 
+            "phone": "202-692-1236", 
+            "public_liaison": {
+                "phone": [
+                    "202-692-1236"
+                ], 
+                "name": "Denora Miller"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Denora Miller", 
+                    "FOIA/Privacy Act Officer, Office of Management"
+                ], 
+                "state": "DC", 
+                "street": "1111 20th Street, NW", 
+                "zip": "20536-0001", 
+                "city": "Washington"
+            }, 
+            "emails": [
+                "foia@peacecorps.gov"
+            ]
+        }, 
+        {
+            "reading_rooms": [
+                [
+                    "Reading Room", 
+                    "http://www.peacecorps.gov/about/policies/foia/readingroom/"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-692-2922"
+                ]
+            }, 
+            "name": "Office of the Inspector General", 
+            "request_form": "https://cwppc.secureprtportal.com/", 
+            "misc": {
+                "FOIA Contact": {
+                    "phone": [
+                        "202-692-2922"
+                    ], 
+                    "name": "Jeffrey Reichert"
+                }
+            }, 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "5", 
+                    "simple_average_days": "17", 
+                    "simple_highest_days": "43", 
+                    "simple_median_days": "19"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "less than 1", 
+                    "expedited_processing_highest_days": "less than 1", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "less than 1", 
+                    "complex_highest_days": "less than 1", 
+                    "simple_highest_days": "18", 
+                    "expedited_processing_median_days": "less than 1", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "less than 1"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "less than 1", 
+                    "expedited_processing_highest_days": "less than 1", 
+                    "simple_median_days": "6", 
+                    "complex_median_days": "less than 1", 
+                    "complex_highest_days": "less than 1", 
+                    "simple_highest_days": "22", 
+                    "expedited_processing_median_days": "less than 1", 
+                    "simple_average_days": "5", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "less than 1"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "19", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "78", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "24", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "45", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "19", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "3", 
+                    "simple_average_days": "19", 
+                    "simple_highest_days": "43", 
+                    "simple_median_days": "20"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "13", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "50", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "15", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "website": "http://www.peacecorps.gov/index.cfm?shell=about.policies.foia", 
+            "phone": "202-692-2922", 
+            "public_liaison": {
+                "phone": [
+                    "202-692-2922"
+                ], 
+                "name": "Jeffrey Reichert"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Jeffrey Reichert", 
+                    "FOIA Contact"
+                ], 
+                "state": "DC", 
+                "street": "1111 20th Street, NW", 
+                "zip": "20536-0001", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia@peacecorps.gov"
+            ]
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "5", 
+            "simple_median_days": "38", 
+            "complex_median_days": "51", 
+            "complex_highest_days": "552", 
+            "simple_highest_days": "409", 
+            "simple_average_days": "82", 
+            "complex_average_days": "113"
+        }, 
+        "2008": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "3", 
+            "expedited_processing_highest_days": "3", 
+            "simple_median_days": "12", 
+            "complex_median_days": "less than 1", 
+            "complex_highest_days": "less than 1", 
+            "simple_highest_days": "129", 
+            "expedited_processing_median_days": "3", 
+            "simple_average_days": "14", 
+            "expedited_processing_lowest_days": "3", 
+            "complex_average_days": "less than 1"
+        }, 
+        "2009": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "less than 1", 
+            "expedited_processing_highest_days": "less than 1", 
+            "simple_median_days": "10", 
+            "complex_median_days": "less than 1", 
+            "complex_highest_days": "less than 1", 
+            "simple_highest_days": "58", 
+            "expedited_processing_median_days": "less than 1", 
+            "simple_average_days": "8", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "less than 1"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "47", 
+            "expedited_processing_average_days": "11", 
+            "expedited_processing_highest_days": "11", 
+            "simple_median_days": "23", 
+            "complex_median_days": "93", 
+            "complex_highest_days": "150", 
+            "simple_highest_days": "161", 
+            "expedited_processing_median_days": "11", 
+            "simple_average_days": "31", 
+            "expedited_processing_lowest_days": "11", 
+            "complex_average_days": "101"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "22", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "20", 
+            "complex_median_days": "52", 
+            "complex_highest_days": "146", 
+            "simple_highest_days": "69", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "22", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "80"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "85", 
+            "simple_median_days": "26", 
+            "complex_median_days": "152", 
+            "complex_highest_days": "518", 
+            "simple_highest_days": "105", 
+            "simple_average_days": "32", 
+            "complex_average_days": "183"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "37", 
+            "expedited_processing_average_days": "27", 
+            "expedited_processing_highest_days": "51", 
+            "simple_median_days": "17", 
+            "complex_median_days": "185", 
+            "complex_highest_days": "354", 
+            "simple_highest_days": "201", 
+            "expedited_processing_median_days": "24", 
+            "simple_average_days": "25", 
+            "expedited_processing_lowest_days": "10", 
+            "complex_average_days": "184"
+        }
+    }
+}

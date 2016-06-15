@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>User_Name</th>
+        <th>score</th>
+        <th>team</th>
+        <th>Keywords</th>
+      </tr>
+  </table>
+
+
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script>
+    $(document).ready(function () {
+    	// $.getJSON( "external-data.json", function (json) {
+    	$.getJSON( "BBG-test.json", function (json) {
+        var tr;
+        // var arrayLists = "</li></ul>";
+        for (var i = 0; i < json.length; i++) {
+            tr = $('<tr/>');
+            tr.append("<td>" + json[i].abbreviation + "</td>");
+            tr.append("<td>" + json[i].description + "</td>");
+            tr.append("<td>" + json[i].name + "</td>");
+            tr.append("<td><ul class='xoxo'><li>" + json[i].keywords + "</li></ul></td>");
+            $('table').append(tr);
+        }
+    });
+});
+
+</script>
+
+
+  </body>
+</html>

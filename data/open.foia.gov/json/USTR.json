@@ -1,0 +1,191 @@
+{
+    "abbreviation": "USTR", 
+    "description": "Under the Executive Office of the President, the U.S. Trade Representative negotiates with foreign governments to craft trade agreements and resolve disputes.", 
+    "name": "Office of the United States Trade Representative", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Confidential business information", 
+        "Foreign trade", 
+        "Imports"
+    ], 
+    "usa_id": "49724", 
+    "departments": [
+        {
+            "reading_rooms": [
+                [
+                    "Electronic Reading Room", 
+                    "https://ustr.gov/about-us/reading-room/electronic-reading-room"
+                ], 
+                [
+                    "Electronic Reading Room", 
+                    "https://ustr.gov/about-us/reading-room/freedom-information-act-foia/electronic-reading-room"
+                ], 
+                [
+                    "Reading Room", 
+                    "https://ustr.gov/about-us/reading-room"
+                ]
+            ], 
+            "service_center": {
+                "phone": [
+                    "202-395-3419"
+                ], 
+                "name": "Jacqueline B. Caldwell"
+            }, 
+            "fax": "202-395-9458", 
+            "name": "Office of the United States Trade Representative", 
+            "usa_id": "49724", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "17", 
+                    "simple_median_days": "33", 
+                    "complex_median_days": "277", 
+                    "complex_highest_days": "814", 
+                    "simple_highest_days": "98", 
+                    "simple_average_days": "31", 
+                    "complex_average_days": "225"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "3", 
+                    "expedited_processing_average_days": "10", 
+                    "expedited_processing_highest_days": "40", 
+                    "simple_median_days": "9", 
+                    "complex_median_days": "374", 
+                    "complex_highest_days": "805", 
+                    "simple_highest_days": "46", 
+                    "expedited_processing_median_days": "7", 
+                    "simple_average_days": "17", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "305"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "30", 
+                    "complex_lowest_days": "47", 
+                    "expedited_processing_average_days": "13", 
+                    "expedited_processing_highest_days": "32", 
+                    "simple_median_days": "45", 
+                    "complex_median_days": "186", 
+                    "complex_highest_days": "1213", 
+                    "simple_highest_days": "85", 
+                    "expedited_processing_median_days": "11", 
+                    "simple_average_days": "46", 
+                    "expedited_processing_lowest_days": "3", 
+                    "complex_average_days": "269"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "7", 
+                    "simple_median_days": "16", 
+                    "complex_median_days": "39", 
+                    "complex_highest_days": "789", 
+                    "simple_highest_days": "41", 
+                    "simple_average_days": "19", 
+                    "complex_average_days": "141"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "3", 
+                    "complex_lowest_days": "1", 
+                    "expedited_processing_average_days": "38", 
+                    "expedited_processing_highest_days": "51", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "31", 
+                    "complex_highest_days": "905", 
+                    "simple_highest_days": "88", 
+                    "expedited_processing_median_days": "51", 
+                    "simple_average_days": "22", 
+                    "expedited_processing_lowest_days": "2", 
+                    "complex_average_days": "151"
+                }
+            }, 
+            "website": "http://www.ustr.gov/about-us/reading-room/freedom-information-act-foia", 
+            "phone": "202-395-3419", 
+            "public_liaison": {
+                "phone": [
+                    "202-395-3419"
+                ], 
+                "name": "Jacqueline B. Caldwell"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Melissa J. Keppel", 
+                    "FOIA Officer", 
+                    "513"
+                ], 
+                "state": "DC", 
+                "street": "1724 F Street NW", 
+                "zip": "20508", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foia@ustr.eop.gov"
+            ], 
+            "description": "Under the Executive Office of the President, the U.S. Trade Representative negotiates with foreign governments to craft trade agreements and resolve disputes."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "17", 
+            "simple_median_days": "33", 
+            "complex_median_days": "277", 
+            "complex_highest_days": "814", 
+            "simple_highest_days": "98", 
+            "simple_average_days": "31", 
+            "complex_average_days": "225"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "3", 
+            "expedited_processing_average_days": "10", 
+            "expedited_processing_highest_days": "40", 
+            "simple_median_days": "9", 
+            "complex_median_days": "374", 
+            "complex_highest_days": "805", 
+            "simple_highest_days": "46", 
+            "expedited_processing_median_days": "7", 
+            "simple_average_days": "17", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "305"
+        }, 
+        "2010": {
+            "simple_lowest_days": "30", 
+            "complex_lowest_days": "47", 
+            "expedited_processing_average_days": "13", 
+            "expedited_processing_highest_days": "32", 
+            "simple_median_days": "45", 
+            "complex_median_days": "186", 
+            "complex_highest_days": "1213", 
+            "simple_highest_days": "85", 
+            "expedited_processing_median_days": "11", 
+            "simple_average_days": "46", 
+            "expedited_processing_lowest_days": "3", 
+            "complex_average_days": "269"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "7", 
+            "simple_median_days": "16", 
+            "complex_median_days": "39", 
+            "complex_highest_days": "789", 
+            "simple_highest_days": "41", 
+            "simple_average_days": "19", 
+            "complex_average_days": "141"
+        }, 
+        "2012": {
+            "simple_lowest_days": "3", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "38", 
+            "expedited_processing_highest_days": "51", 
+            "simple_median_days": "10", 
+            "complex_median_days": "31", 
+            "complex_highest_days": "905", 
+            "simple_highest_days": "88", 
+            "expedited_processing_median_days": "51", 
+            "simple_average_days": "22", 
+            "expedited_processing_lowest_days": "2", 
+            "complex_average_days": "151"
+        }
+    }
+}

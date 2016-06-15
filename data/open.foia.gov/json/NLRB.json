@@ -1,0 +1,182 @@
+{
+    "abbreviation": "NLRB", 
+    "description": "The National Labor Relations Board enforces the National Labor Relations Act by: investigating allegations of wrong-doing brought by workers, unions, or employers; conducting elections; and deciding and resolving cases.", 
+    "name": "National Labor Relations Board", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Freedom of information", 
+        "Labor management relations", 
+        "Labor unions", 
+        "Privacy", 
+        "Reporting and recordkeeping requirements"
+    ], 
+    "usa_id": "49523", 
+    "departments": [
+        {
+            "website": "http://www.nlrb.gov/FOIA/", 
+            "service_center": {
+                "phone": [
+                    "202-273-1991"
+                ]
+            }, 
+            "fax": "202-273-3642", 
+            "description": "The National Labor Relations Board enforces the National Labor Relations Act by: investigating allegations of wrong-doing brought by workers, unions, or employers; conducting elections; and deciding and resolving cases.", 
+            "request_form": "http://www.nlrb.gov/e-foia-request-form", 
+            "usa_id": "49523", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "4", 
+                    "expedited_processing_highest_days": "9", 
+                    "simple_median_days": "5", 
+                    "simple_highest_days": "136", 
+                    "expedited_processing_median_days": "4", 
+                    "simple_average_days": "7", 
+                    "expedited_processing_lowest_days": "less than 1"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "8", 
+                    "expedited_processing_highest_days": "29", 
+                    "simple_median_days": "3", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "146", 
+                    "expedited_processing_median_days": "4", 
+                    "simple_average_days": "5", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "3", 
+                    "expedited_processing_highest_days": "4", 
+                    "simple_median_days": "3", 
+                    "simple_highest_days": "104", 
+                    "expedited_processing_median_days": "3", 
+                    "simple_average_days": "5", 
+                    "expedited_processing_lowest_days": "2"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "expedited_processing_average_days": "6", 
+                    "expedited_processing_highest_days": "10", 
+                    "simple_median_days": "4", 
+                    "simple_highest_days": "146", 
+                    "expedited_processing_median_days": "7", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "1"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "5", 
+                    "expedited_processing_highest_days": "20", 
+                    "simple_median_days": "4", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "157", 
+                    "expedited_processing_median_days": "2", 
+                    "simple_average_days": "6", 
+                    "expedited_processing_lowest_days": "less than 1", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "abbreviation": "NLRB", 
+            "phone": "202-273-3842", 
+            "public_liaison": {
+                "phone": [
+                    "202-273-3851"
+                ], 
+                "name": "Diane L. Bridge"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Deirdre MacNeil", 
+                    "FOIA Officer", 
+                    "Room 10600"
+                ], 
+                "state": "DC", 
+                "street": "1099 14th Street, NW", 
+                "zip": "20570", 
+                "city": "Washington"
+            }, 
+            "reading_rooms": [
+                [
+                    "E-Reading Room", 
+                    "http://www.nlrb.gov/news-outreach/foia/e-reading-room"
+                ]
+            ], 
+            "name": "National Labor Relations Board", 
+            "notes": "This agency has additional FOIA contact information that can be found by visiting its website.", 
+            "top_level": false, 
+            "foia_officer": {
+                "phone": [
+                    "202-273-2931"
+                ], 
+                "name": "Eric G. Moskowitz"
+            }
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "4", 
+            "expedited_processing_highest_days": "9", 
+            "simple_median_days": "5", 
+            "simple_highest_days": "136", 
+            "expedited_processing_median_days": "4", 
+            "simple_average_days": "7", 
+            "expedited_processing_lowest_days": "less than 1"
+        }, 
+        "2011": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "8", 
+            "expedited_processing_highest_days": "29", 
+            "simple_median_days": "3", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "146", 
+            "expedited_processing_median_days": "4", 
+            "simple_average_days": "5", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "3", 
+            "expedited_processing_highest_days": "4", 
+            "simple_median_days": "3", 
+            "simple_highest_days": "104", 
+            "expedited_processing_median_days": "3", 
+            "simple_average_days": "5", 
+            "expedited_processing_lowest_days": "2"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "6", 
+            "expedited_processing_highest_days": "10", 
+            "simple_median_days": "4", 
+            "simple_highest_days": "146", 
+            "expedited_processing_median_days": "7", 
+            "simple_average_days": "6", 
+            "expedited_processing_lowest_days": "1"
+        }, 
+        "2012": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "5", 
+            "expedited_processing_highest_days": "20", 
+            "simple_median_days": "4", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "157", 
+            "expedited_processing_median_days": "2", 
+            "simple_average_days": "6", 
+            "expedited_processing_lowest_days": "less than 1", 
+            "complex_average_days": "0"
+        }
+    }
+}

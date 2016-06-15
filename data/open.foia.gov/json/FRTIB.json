@@ -1,0 +1,180 @@
+{
+    "abbreviation": "FRTIB", 
+    "description": "The Federal Retirement Thrift Investment Board administers the Thrift Savings Plan, a tax-deferred retirement account similar to a 401(k).", 
+    "name": "Federal Retirement Thrift Investment Board", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Alimony", 
+        "Child support", 
+        "Claims", 
+        "Courts", 
+        "Credit", 
+        "District of Columbia", 
+        "Employee benefit plans", 
+        "Freedom of information", 
+        "Government employees", 
+        "Income taxes", 
+        "Military personnel", 
+        "Privacy", 
+        "Reporting and recordkeeping requirements", 
+        "Retirement", 
+        "Sunshine Act", 
+        "Taxes", 
+        "Wages"
+    ], 
+    "usa_id": "49320", 
+    "departments": [
+        {
+            "website": "http://frtib.gov/ReadingRoom/FOIA/e-read_guide.pdf", 
+            "service_center": {
+                "phone": [
+                    "202-942-1660"
+                ]
+            }, 
+            "fax": "202-942-1676", 
+            "name": "Federal Retirement Thrift Investment Board", 
+            "usa_id": "49320", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "26.7", 
+                    "simple_highest_days": "183", 
+                    "simple_median_days": "19.5"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "3", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "23", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "16", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "6", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "17", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "38", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "16.5", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "11", 
+                    "simple_average_days": "27", 
+                    "simple_highest_days": "112", 
+                    "simple_median_days": "22"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "57", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "27", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }
+            }, 
+            "phone": "202-942-1660", 
+            "foia_officer": {
+                "phone": [
+                    "202-942-1660"
+                ], 
+                "name": "Amanda Haas"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-942-1660"
+                ], 
+                "name": "Amanda Haas"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Amanda Haas", 
+                    "Chief FOIA Officer", 
+                    "10th Floor"
+                ], 
+                "state": "DC", 
+                "street": "77 K Street, NE", 
+                "zip": "20002", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [
+                "foiarequest@tsp.gov"
+            ], 
+            "description": "The Federal Retirement Thrift Investment Board administers the Thrift Savings Plan, a tax-deferred retirement account similar to a 401(k)."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "26.7", 
+            "simple_highest_days": "183", 
+            "simple_median_days": "19.5"
+        }, 
+        "2011": {
+            "simple_lowest_days": "3", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "20", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "23", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "16", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "6", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "17", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "38", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "16.5", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "11", 
+            "simple_average_days": "27", 
+            "simple_highest_days": "112", 
+            "simple_median_days": "22"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "20", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "57", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "27", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }
+    }
+}

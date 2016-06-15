@@ -1,0 +1,253 @@
+{
+    "abbreviation": "NCUA", 
+    "description": "NCUA is the federal agency that charters and supervises federal credit unions and insures savings in federal and most state-chartered credit unions across the country through the National Credit Union Share Insurance Fund.", 
+    "name": "National Credit Union Administration", 
+    "keywords": [
+        "Accounting", 
+        "Administrative practice and procedure", 
+        "Advertising", 
+        "Aged", 
+        "Agriculture", 
+        "Antitrust", 
+        "Archives and records", 
+        "Authority delegations (Government agencies)", 
+        "Bank deposit insurance", 
+        "Banks, banking", 
+        "Bonds", 
+        "Brokers", 
+        "Civil rights", 
+        "Claims", 
+        "Community development", 
+        "Confidential business information", 
+        "Conflict of interests", 
+        "Consumer protection", 
+        "Credit", 
+        "Credit unions", 
+        "Crime", 
+        "Currency", 
+        "Equal access to justice", 
+        "Exports", 
+        "Fair housing", 
+        "Federal Reserve System", 
+        "Flood insurance", 
+        "Foreign banking", 
+        "Foreign currencies", 
+        "Foreign trade", 
+        "Freedom of information", 
+        "Gambling", 
+        "Government employees", 
+        "Holding companies", 
+        "Indemnity payments", 
+        "Individuals with disabilities", 
+        "Insurance", 
+        "Intergovernmental relations", 
+        "Investigations", 
+        "Investment companies", 
+        "Investments", 
+        "Law enforcement", 
+        "Lawyers", 
+        "Loan programs-business", 
+        "Loan programs-housing and community development", 
+        "Marital status discrimination", 
+        "Mortgages", 
+        "National banks", 
+        "Organization and functions (Government agencies)", 
+        "Penalties", 
+        "Privacy", 
+        "Religious discrimination", 
+        "Reporting and recordkeeping requirements", 
+        "Rural areas", 
+        "Savings associations", 
+        "Securities", 
+        "Security measures", 
+        "Sex discrimination", 
+        "Signs and symbols", 
+        "Sunshine Act", 
+        "Surety bonds", 
+        "Technical assistance", 
+        "Trade practices", 
+        "Travel and transportation expenses", 
+        "Travel restrictions", 
+        "Trusts and trustees", 
+        "Truth in lending", 
+        "Truth in savings", 
+        "Wages"
+    ], 
+    "usa_id": "49050", 
+    "departments": [
+        {
+            "website": "http://www.ncua.gov/Resources/FOIA/Pages/default.aspx", 
+            "service_center": {
+                "phone": [
+                    "703-518-6540"
+                ], 
+                "name": "Charles Smith"
+            }, 
+            "fax": "703-518-6569", 
+            "name": "Main Office", 
+            "top_level": false, 
+            "phone": "703-518-6540", 
+            "foia_officer": {
+                "phone": [
+                    "703-518-6540"
+                ], 
+                "name": "Lara Rodriguez"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "703-518-6540"
+                ], 
+                "name": "Linda Dent"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Regina Metz", 
+                    "FOIA Officer / Staff Attorney"
+                ], 
+                "state": "VA", 
+                "street": "1775 Duke Street", 
+                "zip": "22314", 
+                "city": "Alexandria"
+            }, 
+            "emails": [
+                "FOIA@ncua.gov"
+            ]
+        }, 
+        {
+            "website": "http://www.ncua.gov/Resources/FOIA/Pages/default.aspx", 
+            "service_center": {
+                "phone": [
+                    "703-518-6350"
+                ]
+            }, 
+            "fax": "703-518-6349", 
+            "name": "Office of the Inspector General", 
+            "top_level": false, 
+            "phone": "703-518-6350", 
+            "foia_officer": {
+                "phone": [
+                    "703-518-6540"
+                ], 
+                "name": "Sharon Separ"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "703-518-6350"
+                ]
+            }, 
+            "address": {
+                "address_lines": [
+                    "Sharon Separ", 
+                    "Counsel to the Inspector General / Assistant IG for Investigations"
+                ], 
+                "state": "VA", 
+                "street": "1775 Duke Street", 
+                "zip": "22314", 
+                "city": "Alexandria"
+            }, 
+            "emails": [
+                "oigmail@ncua.gov"
+            ]
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "3", 
+            "expedited_processing_average_days": "25", 
+            "expedited_processing_highest_days": "30", 
+            "simple_median_days": "3", 
+            "complex_median_days": "23", 
+            "complex_highest_days": "128", 
+            "simple_highest_days": "34", 
+            "expedited_processing_median_days": "25", 
+            "simple_average_days": "6.75", 
+            "expedited_processing_lowest_days": "20", 
+            "complex_average_days": "35.63"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "1", 
+            "expedited_processing_average_days": "19", 
+            "expedited_processing_highest_days": "24", 
+            "simple_median_days": "9.5", 
+            "complex_median_days": "20", 
+            "complex_highest_days": "135", 
+            "simple_highest_days": "54", 
+            "expedited_processing_median_days": "19", 
+            "simple_average_days": "12", 
+            "expedited_processing_lowest_days": "14", 
+            "complex_average_days": "30.5"
+        }, 
+        "2009": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "42", 
+            "expedited_processing_highest_days": "62", 
+            "simple_median_days": "9", 
+            "complex_median_days": "22", 
+            "complex_highest_days": "76", 
+            "simple_highest_days": "47", 
+            "expedited_processing_median_days": "42", 
+            "simple_average_days": "11.1", 
+            "expedited_processing_lowest_days": "22", 
+            "complex_average_days": "27"
+        }, 
+        "2011": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "2", 
+            "expedited_processing_average_days": "48", 
+            "expedited_processing_highest_days": "91", 
+            "simple_median_days": "11", 
+            "complex_median_days": "34", 
+            "complex_highest_days": "127", 
+            "simple_highest_days": "88", 
+            "expedited_processing_median_days": "50", 
+            "simple_average_days": "13.56", 
+            "expedited_processing_lowest_days": "3", 
+            "complex_average_days": "39.65"
+        }, 
+        "2010": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "13", 
+            "expedited_processing_average_days": "32", 
+            "expedited_processing_highest_days": "74", 
+            "simple_median_days": "14", 
+            "complex_median_days": "39", 
+            "complex_highest_days": "123", 
+            "simple_highest_days": "134", 
+            "expedited_processing_median_days": "12", 
+            "simple_average_days": "15", 
+            "expedited_processing_lowest_days": "10", 
+            "complex_average_days": "43"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "less than 1", 
+            "expedited_processing_average_days": "163", 
+            "expedited_processing_highest_days": "163", 
+            "simple_median_days": "8", 
+            "complex_median_days": "35.5", 
+            "complex_highest_days": "346", 
+            "simple_highest_days": "61", 
+            "expedited_processing_median_days": "163", 
+            "simple_average_days": "11.08", 
+            "expedited_processing_lowest_days": "163", 
+            "complex_average_days": "59.55"
+        }, 
+        "2012": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "13", 
+            "expedited_processing_average_days": "11", 
+            "expedited_processing_highest_days": "11", 
+            "simple_median_days": "13", 
+            "complex_median_days": "150", 
+            "complex_highest_days": "345", 
+            "simple_highest_days": "129", 
+            "expedited_processing_median_days": "11", 
+            "simple_average_days": "18.52", 
+            "expedited_processing_lowest_days": "11", 
+            "complex_average_days": "159.54"
+        }
+    }
+}

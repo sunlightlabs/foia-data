@@ -1,0 +1,242 @@
+{
+    "abbreviation": "ONDCP", 
+    "description": "The Office of National Drug Control Policy coordinates drug-control efforts and funding, and advises the president on drug-control issues.", 
+    "name": "Office of National Drug Control Policy", 
+    "keywords": [
+        "Accounting", 
+        "Administrative practice and procedure", 
+        "Adult education", 
+        "Aged", 
+        "Agriculture", 
+        "American Samoa", 
+        "Blind", 
+        "Broadband", 
+        "Business and industry", 
+        "Civil rights", 
+        "Colleges and universities", 
+        "Communications", 
+        "Community development", 
+        "Copyright", 
+        "Credit", 
+        "Cultural exchange programs", 
+        "Education", 
+        "Education of disadvantaged", 
+        "Education of individuals with disabilities", 
+        "Educational facilities", 
+        "Educational research", 
+        "Educational study programs", 
+        "Electric power", 
+        "Electric power rates", 
+        "Electric utilities", 
+        "Elementary and secondary education", 
+        "Employment", 
+        "Equal educational opportunity", 
+        "Federally affected areas", 
+        "Government contracts", 
+        "Government employees", 
+        "Grant programs", 
+        "Grant programs-education", 
+        "Grant programs-health", 
+        "Grant programs-social programs", 
+        "Guam", 
+        "Health facilities", 
+        "Health insurance", 
+        "Health professions", 
+        "Home improvement", 
+        "Homeless", 
+        "Hospitals", 
+        "Hostages", 
+        "Human research subjects", 
+        "Indians", 
+        "Indians-education", 
+        "Insurance", 
+        "Intergovernmental relations", 
+        "International organizations", 
+        "Inventions and patents", 
+        "Iraq", 
+        "Kuwait", 
+        "Lebanon", 
+        "Loan programs", 
+        "Loan programs-agriculture", 
+        "Loan programs-communications", 
+        "Loan programs-energy", 
+        "Loan programs-housing and community development", 
+        "Manpower training programs", 
+        "Migrant labor", 
+        "Mortgage insurance", 
+        "Mortgages", 
+        "Nonprofit organizations", 
+        "Northern Mariana Islands", 
+        "Pacific Islands Trust Territory", 
+        "Privacy", 
+        "Private schools", 
+        "Reporting and recordkeeping requirements", 
+        "Rural areas", 
+        "Scholarships and fellowships", 
+        "School construction", 
+        "Schools", 
+        "Science and technology", 
+        "Securities", 
+        "State and local governments", 
+        "Student aid", 
+        "Teachers", 
+        "Telecommunications", 
+        "Telephone", 
+        "Urban areas", 
+        "Veterans", 
+        "Virgin Islands", 
+        "Vocational education", 
+        "Vocational rehabilitation", 
+        "Waste treatment and disposal", 
+        "Water pollution control", 
+        "Water resources", 
+        "Water supply", 
+        "Watersheds", 
+        "Women"
+    ], 
+    "usa_id": "49586", 
+    "departments": [
+        {
+            "website": "http://www.whitehouse.gov/ondcp/freedom-of-information-act-requests", 
+            "service_center": {
+                "phone": [
+                    "202-395-6622"
+                ], 
+                "name": "Sandy Slater"
+            }, 
+            "fax": "202-395-5543", 
+            "description": "The Office of National Drug Control Policy coordinates drug-control efforts and funding, and advises the president on drug-control issues.", 
+            "usa_id": "49586", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "39", 
+                    "simple_highest_days": "182", 
+                    "simple_median_days": "33"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "0", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "10", 
+                    "complex_median_days": "0", 
+                    "complex_highest_days": "0", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "11", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "0"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "49", 
+                    "simple_highest_days": "148", 
+                    "simple_median_days": "42"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "1", 
+                    "simple_average_days": "15", 
+                    "simple_highest_days": "42", 
+                    "simple_median_days": "16"
+                }
+            }, 
+            "abbreviation": "ONDCP", 
+            "phone": "202-395-6622", 
+            "public_liaison": {
+                "phone": [
+                    "202-395-6622"
+                ], 
+                "name": "Michael Passante"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Michael Passante", 
+                    "Chief FOIA Officer"
+                ], 
+                "state": "DC", 
+                "street": "750 17th Street NW", 
+                "zip": "20503", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "name": "Office of National Drug Control Policy"
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "39", 
+            "simple_highest_days": "182", 
+            "simple_median_days": "33"
+        }, 
+        "2008": {
+            "simple_lowest_days": "0", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "0", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "0", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "0", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "10", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "11", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2011": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "10", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "11", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2010": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "0", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "10", 
+            "complex_median_days": "0", 
+            "complex_highest_days": "0", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "11", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "0"
+        }, 
+        "2013": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "49", 
+            "simple_highest_days": "148", 
+            "simple_median_days": "42"
+        }, 
+        "2012": {
+            "simple_lowest_days": "1", 
+            "simple_average_days": "15", 
+            "simple_highest_days": "42", 
+            "simple_median_days": "16"
+        }
+    }
+}

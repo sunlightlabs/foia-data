@@ -1,0 +1,251 @@
+{
+    "abbreviation": "CSB", 
+    "description": "The Chemical Safety and Hazard Investigation Board investigates industrial chemical accidents.", 
+    "name": "Chemical Safety and Hazard Investigation Board", 
+    "keywords": [
+        "Administrative practice and procedure", 
+        "Archives and records", 
+        "Claims", 
+        "Freedom of information", 
+        "Government employees", 
+        "Investigations", 
+        "Organization and functions (Government agencies)", 
+        "Privacy", 
+        "Reporting and recordkeeping requirements", 
+        "Sunshine Act"
+    ], 
+    "usa_id": "52591", 
+    "departments": [
+        {
+            "website": "http://www.csb.gov/disclaimers/legal-affairs-foia/", 
+            "service_center": {
+                "phone": [
+                    "202-261-7619"
+                ], 
+                "name": "Michele Bouziane"
+            }, 
+            "fax": "202-974-7623", 
+            "name": "Chemical Safety and Hazard Investigation Board", 
+            "usa_id": "52591", 
+            "request_time_stats": {
+                "2014": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "9", 
+                    "expedited_processing_average_days": "2", 
+                    "expedited_processing_highest_days": "9", 
+                    "simple_median_days": "1", 
+                    "complex_median_days": "12", 
+                    "complex_highest_days": "30", 
+                    "simple_highest_days": "6", 
+                    "expedited_processing_median_days": "1", 
+                    "simple_average_days": "2", 
+                    "expedited_processing_lowest_days": "1", 
+                    "complex_average_days": "16"
+                }, 
+                "2008": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "59", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "459", 
+                    "complex_highest_days": "721", 
+                    "simple_highest_days": "33", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "18", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "437"
+                }, 
+                "2009": {
+                    "simple_lowest_days": "1", 
+                    "complex_lowest_days": "8", 
+                    "expedited_processing_average_days": "0", 
+                    "expedited_processing_highest_days": "0", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "268", 
+                    "complex_highest_days": "1053", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "0", 
+                    "simple_average_days": "19", 
+                    "expedited_processing_lowest_days": "0", 
+                    "complex_average_days": "360"
+                }, 
+                "2011": {
+                    "simple_lowest_days": "9", 
+                    "complex_lowest_days": "35", 
+                    "expedited_processing_average_days": "107", 
+                    "expedited_processing_highest_days": "296", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "283", 
+                    "complex_highest_days": "1530", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "20", 
+                    "simple_average_days": "18", 
+                    "expedited_processing_lowest_days": "5", 
+                    "complex_average_days": "429"
+                }, 
+                "2010": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "283", 
+                    "expedited_processing_average_days": "27", 
+                    "expedited_processing_highest_days": "27", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "725", 
+                    "complex_highest_days": "917", 
+                    "simple_highest_days": "20", 
+                    "expedited_processing_median_days": "27", 
+                    "simple_average_days": "16", 
+                    "expedited_processing_lowest_days": "27", 
+                    "complex_average_days": "669"
+                }, 
+                "2013": {
+                    "simple_lowest_days": "less than 1", 
+                    "complex_lowest_days": "38", 
+                    "simple_median_days": "5", 
+                    "complex_median_days": "685", 
+                    "complex_highest_days": "1192", 
+                    "simple_highest_days": "14", 
+                    "simple_average_days": "4", 
+                    "complex_average_days": "664"
+                }, 
+                "2012": {
+                    "simple_lowest_days": "2", 
+                    "complex_lowest_days": "30", 
+                    "expedited_processing_average_days": "188", 
+                    "expedited_processing_highest_days": "880", 
+                    "simple_median_days": "20", 
+                    "complex_median_days": "382", 
+                    "complex_highest_days": "977", 
+                    "simple_highest_days": "41", 
+                    "expedited_processing_median_days": "35", 
+                    "simple_average_days": "17", 
+                    "expedited_processing_lowest_days": "8", 
+                    "complex_average_days": "413"
+                }
+            }, 
+            "phone": "202-261-7623", 
+            "foia_officer": {
+                "phone": [
+                    "202-261-7619"
+                ], 
+                "name": "Chris Warner"
+            }, 
+            "public_liaison": {
+                "phone": [
+                    "202-261-7619"
+                ], 
+                "name": "Richard C. Loeb"
+            }, 
+            "address": {
+                "address_lines": [
+                    "Richard C. Loeb", 
+                    "CSB Chief FOIA Officer", 
+                    "Suite 400"
+                ], 
+                "state": "DC", 
+                "street": "2175 K Street, NW", 
+                "zip": "20037", 
+                "city": "Washington"
+            }, 
+            "top_level": false, 
+            "emails": [], 
+            "description": "The Chemical Safety and Hazard Investigation Board investigates industrial chemical accidents."
+        }
+    ], 
+    "request_time_stats": {
+        "2014": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "9", 
+            "expedited_processing_average_days": "2", 
+            "expedited_processing_highest_days": "9", 
+            "simple_median_days": "1", 
+            "complex_median_days": "12", 
+            "complex_highest_days": "30", 
+            "simple_highest_days": "6", 
+            "expedited_processing_median_days": "1", 
+            "simple_average_days": "2", 
+            "expedited_processing_lowest_days": "1", 
+            "complex_average_days": "16"
+        }, 
+        "2008": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "59", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "20", 
+            "complex_median_days": "459", 
+            "complex_highest_days": "721", 
+            "simple_highest_days": "33", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "18", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "437"
+        }, 
+        "2009": {
+            "simple_lowest_days": "1", 
+            "complex_lowest_days": "8", 
+            "expedited_processing_average_days": "0", 
+            "expedited_processing_highest_days": "0", 
+            "simple_median_days": "20", 
+            "complex_median_days": "268", 
+            "complex_highest_days": "1053", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "0", 
+            "simple_average_days": "19", 
+            "expedited_processing_lowest_days": "0", 
+            "complex_average_days": "360"
+        }, 
+        "2011": {
+            "simple_lowest_days": "9", 
+            "complex_lowest_days": "35", 
+            "expedited_processing_average_days": "107", 
+            "expedited_processing_highest_days": "296", 
+            "simple_median_days": "20", 
+            "complex_median_days": "283", 
+            "complex_highest_days": "1530", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "20", 
+            "simple_average_days": "18", 
+            "expedited_processing_lowest_days": "5", 
+            "complex_average_days": "429"
+        }, 
+        "2010": {
+            "simple_lowest_days": "2", 
+            "complex_lowest_days": "283", 
+            "expedited_processing_average_days": "27", 
+            "expedited_processing_highest_days": "27", 
+            "simple_median_days": "20", 
+            "complex_median_days": "725", 
+            "complex_highest_days": "917", 
+            "simple_highest_days": "20", 
+            "expedited_processing_median_days": "27", 
+            "simple_average_days": "16", 
+            "expedited_processing_lowest_days": "27", 
+            "complex_average_days": "669"
+        }, 
+        "2013": {
+            "simple_lowest_days": "less than 1", 
+            "complex_lowest_days": "38", 
+            "simple_median_days": "5", 
+            "complex_median_days": "685", 
+            "complex_highest_days": "1192", 
+            "simple_highest_days": "14", 
+            "simple_average_days": "4", 
+            "complex_average_days": "664"
+        }, 
+        "2012": {
+            "simple_lowest_days": "2", 
+            "complex_lowest_days": "30", 
+            "expedited_processing_average_days": "188", 
+            "expedited_processing_highest_days": "880", 
+            "simple_median_days": "20", 
+            "complex_median_days": "382", 
+            "complex_highest_days": "977", 
+            "simple_highest_days": "41", 
+            "expedited_processing_median_days": "35", 
+            "simple_average_days": "17", 
+            "expedited_processing_lowest_days": "8", 
+            "complex_average_days": "413"
+        }
+    }
+}
