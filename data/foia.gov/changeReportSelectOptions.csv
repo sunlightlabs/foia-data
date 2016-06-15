@@ -1,0 +1,31 @@
+Change Report Variable, Change Report Variable Value
+reportRequests, Requests
+requestDisposition, Disposition
+reportFeeWaiver, Expedited Processing
+requestDenial, Denial
+reportExemptions, Exemptions
+Exemption3Statutes, Exemption 3 Statutes
+reportAppeals, Appeals
+appealDisposition, Disposition (Dis.)
+appealDenialEx, Dis. Use of Exemptions
+appealDenialOther, Dis. Other Than Exemptions
+appealDenialReason, Denials(Reasons)
+appealResponseTime, Response Time
+appeal10Pending, Ten Oldest Pending
+reportProcessingTime, Processing Time
+processingGranted, Requests Granted
+processingSimple, Simple Requests
+processingComplex, Complex Requests
+processingExpedited, Expedited Requests
+processingPending, Pending Requests
+processing10Request, Ten Oldest Requests
+feewaiverWaiver, Fee Waiver
+reportPersonnel, Administration
+personnelCost, FOIA Costs
+reportBacklog, Backlog
+reportConsultations, Consultations
+consultation10Oldest, Ten Oldest
+requestCompare, Comparisons
+requestBacklog, Backlogged
+appealCompare, Administrative Appeals
+appealBacklog, Appeals Backlogged
