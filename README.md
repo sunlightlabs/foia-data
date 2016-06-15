@@ -2,8 +2,10 @@
 Tracking FOIA data across government agencies and departments  
 
 ## Data in this Repository  
-[18f/foia repository data](https://github.com/sunlightlabs/foia-data/tree/master/data/open.foia.gov)  
+[foia.gov Data](https://github.com/sunlightlabs/foia-data/tree/master/data/foia.gov)
+[18f/foia Repository Data](https://github.com/sunlightlabs/foia-data/tree/master/data/open.foia.gov)  
 
+### Data in this Repository References  
 
 [18f/foia-hub - openFOIA - A starting place for FOIA in the US Government](https://github.com/18F/foia-hub)  
 [18f/foia repository for 18f's FOIA modernization team](https://github.com/18F/foia)  
