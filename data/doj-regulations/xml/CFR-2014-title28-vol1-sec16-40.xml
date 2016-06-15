@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>General provisions.</TITLE>
+    <GRANULENUM>16.40</GRANULENUM>
+    <HEADING>Section 16.40</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="3">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="2">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="1">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+      <PARENT HEADING="Subpart D" SEQ="0">Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 16.40</SECTNO>
+    <SUBJECT>General provisions.</SUBJECT>
+    <P>(a) <E T="03">Purpose and scope.</E> This subpart contains the rules that the Department of Justice follows under the Privacy Act of 1974, 5 U.S.C. 552a. These rules should be read together with the Privacy Act, which provides additional information about records maintained on individuals. The rules in this subpart apply to all records in systems of records maintained by the Department that are retrieved by an individual's name or personal identifier. They describe the procedures by which individuals may request access to records about themselves, request amendment or correction of those records, and request an accounting of disclosures of those by the Department. In addition, the Department processes all Privacy Act requests for access to records under the Freedom of Information Act (FOIA), 5 U.S.C. 552, following the rules contained in subpart A of this part, which gives requests the benefit of both statutes.</P>
+    <P>(b) <E T="03">Definitions.</E> As used in this subpart:</P>
+    <P>(1) <E T="03">Component</E> means each separate bureau, office, board, division, commission, service, or administration of the Department of Justice.</P>
+    <P>(2) <E T="03">Request for access</E> to a record means a request made under Privacy Act subsection (d)(1).</P>
+    <P>(3) <E T="03">Request for amendment or correction</E> of a record means a request made under Privacy Act subsection (d)(2).</P>
+    <P>(4) <E T="03">Request for an accounting</E> means a request made under Privacy Act subsection (c)(3).</P>
+    <P>(5) <E T="03">Requester</E> means an individual who makes a request for access, a request for amendment or correction, or a request for an accounting under the Privacy Act.</P>
+    <P>(c) <E T="03">Authority to request records for a law enforcement purpose.</E> The head of a component or a United States Attorney, or either's designee, is authorized to make written requests under subsection (b)(7) of the Privacy Act for records maintained by other agencies that are necessary to carry out an authorized law enforcement activity.</P>
+    <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 51401, Sept. 25, 1998]</CITA>
+  </SECTION>
+</CFRGRANULE>

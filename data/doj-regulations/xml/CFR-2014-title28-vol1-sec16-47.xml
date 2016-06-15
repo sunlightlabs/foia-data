@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Requests for an accounting of record disclosures.</TITLE>
+    <GRANULENUM>16.47</GRANULENUM>
+    <HEADING>Section 16.47</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="3">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="2">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="1">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+      <PARENT HEADING="Subpart D" SEQ="0">Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 16.47</SECTNO>
+    <SUBJECT>Requests for an accounting of record disclosures.</SUBJECT>
+    <P>(a) <E T="03">How made and addressed.</E> Except where accountings of disclosures are not required to be kept (as stated in paragraph (b) of this section), you may make a request for an accounting of any disclosure that has been made by the Department to another person, organization, or agency of any record about you. This accounting contains the date, nature, and purpose of each disclosure, as well as the name and address of the person, organization, or agency to which the disclosure was made. Your request for an accounting should identify each particular record in question and should be made by writing directly to the Department component that maintains the record, following the procedures in § 16.41.</P>
+    <P>(b) <E T="03">Where accountings are not required.</E> Components are not required to provide accountings to you where they relate to:</P>
+    <P>(1) Disclosures for which accountings are not required to be kept—in other words, disclosures that are made to employees within the agency and disclosures that are made under the FOIA;</P>
+    <P>(2) Disclosures made to law enforcement agencies for authorized law enforcement activities in response to written requests from those law enforcement agencies specifying the law enforcement activities for which the disclosures are sought; or</P>
+    <P>(3) Disclosures made from law enforcement systems of records that have been exempted from accounting requirements.</P>
+    <P>(c) <E T="03">Appeals.</E> You may appeal a denial of a request for an accounting to the Office of Information and Privacy in the same manner as a denial of a request for access to records (see § 16.45) and the same procedures will be followed.</P>
+  </SECTION>
+</CFRGRANULE>

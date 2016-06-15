@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Requests for amendment or correction of records.</TITLE>
+    <GRANULENUM>16.46</GRANULENUM>
+    <HEADING>Section 16.46</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="3">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="2">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="1">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+      <PARENT HEADING="Subpart D" SEQ="0">Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 16.46</SECTNO>
+    <SUBJECT>Requests for amendment or correction of records.</SUBJECT>
+    <P>(a) <E T="03">How made and addressed.</E> Unless the record is not subject to amendment or correction as stated in paragraph (f) of this section, you may make a request for amendment or correction of a Department of Justice record about yourself by writing directly to the Department component that maintains the record, following the procedures in § 16.41. Your request should identify each particular record in question, state the amendment or correction that you want, and state why you believe that the record is not accurate, relevant, timely, or complete. You may submit any documentation that you think would be helpful. If you believe that the same record is in more than one system of records, you should state that and address your request to each component that maintains a system of records containing the record.</P>
+    <P>(b) <E T="03">Component responses.</E> Within ten working days of receiving your request for amendment or correction of records, a component shall send you a written acknowledgment of its receipt of your request, and it shall promptly notify you whether your request is granted or denied. If the component grants your request in whole or in part, it shall describe the amendment or correction made and shall advise you of your right to obtain a copy of the corrected or amended record, in disclosable form. If the component denies your request in whole or in part, it shall send you a letter signed by the head of the component, or the component head's designee, that shall state:</P>
+    <P>(1) The reason(s) for the denial; and</P>
+    <P>(2) The procedure for appeal of the denial under paragraph (c) of this section, including the name and business address of the official who will act on your appeal.</P>
+    <P>(c) <E T="03">Appeals.</E> You may appeal a denial of a request for amendment or correction to the Office of Information and Privacy in the same manner as a denial of a request for access to records (see § 16.45) and the same procedures shall be followed. If your appeal is denied, you shall be advised of your right to file a Statement of Disagreement as described in paragraph (d) of this section and of your right under the Privacy Act for court review of the decision.</P>
+    <P>(d) <E T="03">Statements of Disagreement.</E> If your appeal under this section is denied in whole or in part, you have the right to file a Statement of Disagreement that states your reason(s) for disagreeing with the Department's denial of your request for amendment or correction. Statements of Disagreement must be concise, must clearly identify each part of any record that is disputed, and should be no longer than one typed page for each fact disputed. Your Statement of Disagreement must be sent to the component involved, which shall place it in the system of records in which the disputed record is maintained and shall mark the disputed record to indicate that a Statement of Disagreement has been filed and where in the system of records it may be found.</P>
+    <P>(e) <E T="03">Notification of amendment/correction or disagreement.</E> Within 30 working days of the amendment or correction of a record, the component that maintains the record shall notify all persons, organizations, or agencies to which it previously disclosed the record, if an <PRTPAGE P="300"/>accounting of that disclosure was made, that the record has been amended or corrected. If an individual has filed a Statement of Disagreement, the component shall append a copy of it to the disputed record whenever the record is disclosed and may also append a concise statement of its reason(s) for denying the request to amend or correct the record.</P>
+    <P>(f) <E T="03">Records not subject to amendment or correction.</E> The following records are not subject to amendment or correction:</P>
+    <P>(1) Transcripts of testimony given under oath or written statements made under oath;</P>
+    <P>(2) Transcripts of grand jury proceedings, judicial proceedings, or quasi-judicial proceedings, which are the official record of those proceedings;</P>
+    <P>(3) Presentence records that originated with the courts; and</P>
+
+    <P>(4) Records in systems of records that have been exempted from amendment and correction under Privacy Act, 5 U.S.C. 552a(j) or (k) by notice published in the <E T="04">Federal Register.</E>
+    </P>
+  </SECTION>
+</CFRGRANULE>

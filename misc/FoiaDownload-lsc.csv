@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="PRAGMA" content="NO-CACHE" />
+<meta name="dc.title" content="FOIA.gov (Freedom of Information Act) Home Page" />
+<meta name="dc.description" content="The Freedom of Information Act (FOIA) is a law that gives you the right to access information from the federal government. It is often described as the law that keeps citizens in the know about their government." />
+<meta name="dc.creator" content="Freedom of Information Act (FOIA)" />
+<meta name="dc.language" scheme="ISO639" content="en-us" />
+<meta name="dc.date.created" content="2011-03-14" />
+<link rel="stylesheet" type="text/css" href="/foia-style.css" />
+<style>
+/*Change class to Indicate Current Active Page*/
+#tabnav li a.home {background: url(/images/tab-home_on.png) 0 0 no-repeat; width: 104px; color: #121b26; }
+</style>
+<script type="text/javascript" src="/qtip/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/qtip/jquery.qtip-1.0.0-rc3.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+<script type="text/javascript" src="/foiareport.js"></script>
+<script type="text/javascript" src="/FusionCharts.js"></script>
+<script type="text/javascript" src="/foiaAjax.js"></script>
+<script type="text/javascript" src="/tablehover.js"></script>
+<script type="text/javascript">
+function tabSwitch(new_tab, new_content) {
+
+	document.getElementById('tab-featured').style.display = 'none';
+	document.getElementById('tab-recent').style.display = 'none';
+	document.getElementById('tab-popular').style.display = 'none';
+	document.getElementById('tab-glance').style.display = 'none';
+	document.getElementById(new_content).style.display = 'block';
+
+	document.getElementById('tab01').className = '';
+	document.getElementById('tab02').className = '';
+	document.getElementById('tab03').className = '';
+	document.getElementById('tab04').className = '';
+	document.getElementById(new_tab).className = 'active';
+
+}
+function tabSwitch_2(active, number, tab_prefix, content_prefix) {
+
+	for (var i=1; i < number+1; i++) {
+	  document.getElementById(content_prefix+i).style.display = 'none';
+	  document.getElementById(tab_prefix+i).className = '';
+	}
+	document.getElementById(content_prefix+active).style.display = 'block';
+	document.getElementById(tab_prefix+active).className = 'active';
+
+}
+</script>
+
+<title>FOIA.gov - Freedom of Information Act</title>
+</head>
+<body>
+
+<!-- Start FOIA Template -->
+<div id="background">
+<div id="container">
+<!-- Start Header -->
+<div id="header">
+  <div class="skip"><a href="#mainContent">Skip to Main Content</a>|<a href="#footerLinks">Skip to Footer</a></div>
+  <div id="doj"><img src="/images/doj-top-logo.jpg" alt="United States Department of Justice" width="360" height="35" class="headerDOJ" /></div>
+  <div id="headNav">
+    <div><a href="/index.html"><img src="/images/foia-title-final.jpg" alt="Foia.gov" width="330" height="80" class="foiaTitle" /></a></div>
+    <div class="right">
+      <ul>
+        <li><a href="/news.html">News</a></li>
+		<li><a href="/glossary.html">Glossary</a></li>
+		<li><a href="/faq.html">FAQs</a></li>
+		<li><a href="/index-es.html">en Espa&ntilde;ol</a></li>
+        <li><a href="/feedback.html">Feedback</a></li>
+		<li><a href="/report-makerequest.html">FOIA Contacts</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="clear"></div>
+  <div id="tabs">
+    <div id="tabnav">
+      <ul>
+       <li><a href="/index.html" class="home"><p>Home</p></a></li>
+       <li><a href="/data.html" class="data"><p>Data</p></a></li>
+       <li><a href="/reports.html" class="reports"><p>Reports</p></a></li>
+	   <li><a href="http://search.usa.gov/search?affiliate=foia.gov" class="find"><p>Find</p></a></li>
+       <li><a href="/about.html" class="about"><p>Learn</p></a></li>
+      </ul>
+    </div>
+    <!--<div id="requestbutton"><a href="/make-request.html"><span>How to Make a FOIA Request</span></a></div>-->
+	<a href="mainContent" id="mainContent"></a>
+  </div>
+</div>
+<!-- End Header -->
+
+<!-- Start Main Page -->
+<div id="main">
+  <div class="error" style="height:200px; padding:50px 50px;">
+    <p>We are sorry, but we are unable to locate the page you requested on FOIA.gov.</p>
+    <p> Please try the following:</p>
+    <ul class="bullets">
+      <li> Use the <a href="http://search.usa.gov/search?affiliate=foia.gov"><strong> Search</strong></a> function to search for words or phrases. </li>
+      <li> Use the <a href="/sitemap.html"><strong> Site Map</strong></a> to understand the organization of the site.</li>
+      <li> If you typed the URL rather than copying and pasting it, make sure that it is correct, including upper and lower case. </li>
+    </ul>
+    <p align="center"> To return to the previous page, use the back button on your browser. </p>
+	</div>
+</div>
+<!-- End Main Page -->
+
+<!-- Start Footer -->
+<div id="footer"><a href="footerLinks" id="footerLinks"></a> <a href="/index.html"><img src="/images/foia-footer.gif" alt="Foia.gov" /><span>Foia.gov</span></a>
+  <div id="footerNav">
+  <ul>
+    <li><a href="sitemap.html">Site Map</a></li>
+	<li><a href="accessibility.html">Accessibility</a></li>
+	<li><a href="foia-info.html">FOIA</a></li>
+	<li><a href="privacy.html">Privacy Policy</a></li>
+	<li><a href="legal.html">Policies &amp; Disclaimers</a></li>
+	<li><a href="quality.html">Information Quality</a></li>
+	<li><a href="developer.html">Developer Resources</a></li>
+	<li><a href="http://www.justice.gov">Justice.gov</a></li>
+	<li><a href="http://www.usa.gov">USA.gov</a></li>
+  </ul>
+  </div>
+  <div class="clear">&nbsp;</div>
+  <div align="center">
+    <a href="http://www.data.gov/"><img src="/images/datagov-footer.gif" alt="Data.gov" /><span>Data.gov</span></a>
+	<a href="http://www.whitehouse.gov/open"><img src="/images/opengov-footer.gif" alt="Open.gov" /><span>Whitehouse.gov/open</span></a>
+	<a href="http://www.usaspending.gov/"><img src="/images/usaspending-footer.gif" alt="USASpending.gov" /><span>USASpending.gov</span></a>
+    <a href="http://www.recovery.gov/"><img src="/images/recoverygov-footer.gif" alt="Recovery.gov" /><span>Recovery.gov</span></a>
+  </div>
+</div>
+<!-- End Footer -->
+</div>
+</div>
+<!-- End FOIA Template -->
+<script type="text/javascript">
+
+var jumpLocation="";
+
+function startRequest(){
+var requestString="/foia/Statistics?Type=ShortRecent";
+
+	divAjaxData="tab-recent-text";
+	IEAjaxRequest(requestString);
+}
+
+startRequest();
+
+$('a.chartHelp').qtip({
+	content: 'The charts here are a sample of the Annual FOIA Report data collected each year from federal agencies by the Department of Justice, and now available on FOIA.gov. FOIA data beginning with fiscal year 2008 is available to view, compare, and download in various formats. Please note that not all agency data is available on FOIA.gov for FY 2008 and FY 2009; however, all agency Annual FOIA Reports can be accessed on the website of the <a href="http://www.justice.gov/oip/reports.html" style="color:#fff; font-style: italic;">Office of Information Policy</a> at the Department of Justice.<br /><br /> You can create your own comparisons and view much more FOIA data on the <a href="data.html" style="color:#fff; font-style: italic;">Data page</a> here on FOIA.gov.',
+	hide: {
+            fixed: true,
+            delay: 240
+         },
+	style: { width: 500, padding: 5, color: '#ffffff', background: '#577493', border:{width:7, radius: 5, color: '#577493'}, tip: 'topRight'},
+	position: {
+      corner: {
+         target: 'bottomLeft',
+         tooltip: 'topRight'
+      }
+   }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Responses to requests for access to records.</TITLE>
+    <GRANULENUM>16.43</GRANULENUM>
+    <HEADING>Section 16.43</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="3">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="2">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="1">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+      <PARENT HEADING="Subpart D" SEQ="0">Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 16.43</SECTNO>
+    <SUBJECT>Responses to requests for access to records.</SUBJECT>
+    <P>(a) <E T="03">Acknowledgements of requests.</E> On receipt of a request, a component ordinarily shall send an acknowledgement letter to the requester which shall confirm the requester's agreement to pay fees under § 16.41(c) and provide an assigned request number for further reference.</P>
+    <P>(b) <E T="03">Grants of requests for access.</E> Once a component makes a determination to grant a request for access in whole or in part, it shall notify the requester in writing. The component shall inform the requester in the notice of any fee charged under § 16.49 and shall disclose records to the requester promptly on payment of any applicable fee. If a request is made in person, the component may disclose records to the requester directly, in a manner not unreasonably disruptive of its operations, on payment of any applicable fee and with a written record made of the grant of the request. If a requester is accompanied by another person, the requester shall be required to authorize in writing any discussion of the records in the presence of the other person.</P>
+    <P>(c) <E T="03">Adverse determinations of requests for access.</E> A component making an adverse determination denying a request for access in any respect shall notify the requester of that determination in writing. Adverse determinations, or denials of requests, consist of: A determination to withhold any requested record in whole or in part; a determination that a requested record does not exist or cannot be located; a determination that what has been requested is not a record subject to the Privacy Act; a determination on any disputed fee matter; and a denial of a request for expedited treatment. The notification letter shall be signed by the head of the component, or the component head's designee, and shall include:</P>
+    <P>(1) The name and title or position of the person responsible for the denial;</P>
+    <P>(2) A brief statement of the reason(s) for the denial, including any Privacy Act exemption(s) applied by the component in denying the request; and</P>
+    <P>(3) A statement that the denial may be appealed under § 16.45(a) and a description of the requirements of § 16.45(a).</P>
+  </SECTION>
+</CFRGRANULE>

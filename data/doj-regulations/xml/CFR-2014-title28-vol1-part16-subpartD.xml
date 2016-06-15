@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</TITLE>
+    <GRANULENUM>D</GRANULENUM>
+    <HEADING>Subpart D</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="2">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="1">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="0">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SUBPART>
+    <HD SOURCE="HED">Subpart D—Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</HD>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>Order No. 2156-98, 63 FR 29600, June 1, 1998, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 16.40</SECTNO>
+      <SUBJECT>General provisions.</SUBJECT>
+      <P>(a) <E T="03">Purpose and scope.</E> This subpart contains the rules that the Department of Justice follows under the Privacy Act of 1974, 5 U.S.C. 552a. These rules should be read together with the Privacy Act, which provides additional information about records maintained on individuals. The rules in this subpart apply to all records in systems of records maintained by the Department that are retrieved by an individual's name or personal identifier. They describe the procedures by which individuals may request access to records about themselves, request amendment or correction of those records, and request an accounting of disclosures of those by the Department. In addition, the Department processes all Privacy Act requests for access to records under the Freedom of Information Act (FOIA), 5 U.S.C. 552, following the rules contained in subpart A of this part, which gives requests the benefit of both statutes.</P>
+      <P>(b) <E T="03">Definitions.</E> As used in this subpart:</P>
+      <P>(1) <E T="03">Component</E> means each separate bureau, office, board, division, commission, service, or administration of the Department of Justice.</P>
+      <P>(2) <E T="03">Request for access</E> to a record means a request made under Privacy Act subsection (d)(1).</P>
+      <P>(3) <E T="03">Request for amendment or correction</E> of a record means a request made under Privacy Act subsection (d)(2).</P>
+      <P>(4) <E T="03">Request for an accounting</E> means a request made under Privacy Act subsection (c)(3).</P>
+      <P>(5) <E T="03">Requester</E> means an individual who makes a request for access, a request for amendment or correction, or a request for an accounting under the Privacy Act.</P>
+      <P>(c) <E T="03">Authority to request records for a law enforcement purpose.</E> The head of a component or a United States Attorney, or either's designee, is authorized to make written requests under subsection (b)(7) of the Privacy Act for records maintained by other agencies that are necessary to carry out an authorized law enforcement activity.</P>
+      <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 51401, Sept. 25, 1998]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.41</SECTNO>
+      <SUBJECT>Requests for access to records.</SUBJECT>
+      <P>(a) <E T="03">How made and addressed.</E> You may make a request for access to a Department of Justice record about yourself by appearing in person or by writing directly to the Department component that maintains the record. Your request should be sent or delivered to the component's Privacy Act office at the address listed in appendix I to this <PRTPAGE P="296"/>part. In most cases, a component's central Privacy Act office is the place to send a Privacy Act request. For records held by a field office of the Federal Bureau of Investigation (FBI) or the Immigration and Naturalization Service (INS), however, you must write directly to that FBI or INS field office address, which can be found in most telephone books or by calling the component's central Privacy Act office. (The functions of each component are summarized in Part 0 of this title and in the description of the Department and its components in the “United States Government Manual,” which is issued annually and is available in most libraries, as well as for sale from the Government Printing Office's Superintendent of Documents. This manual also can be accessed electronically at the Government Printing Office's World Wide Web site (which can be found at <E T="03">http://www.access.gpo.gov/su_docs</E>). If you cannot determine where within the Department to send your request, you may send it to the FOIA/PA Mail Referral Unit, Justice Management Division, U.S. Department of Justice, 950 Pennsylvania Avenue, NW., Washington, DC 20530-0001, and that office will forward it to the component(s) it believes most likely to have the records that you seek. For the quickest possible handling, you should mark both your request letter and the envelope “Privacy Act Request.”</P>
+      <P>(b) <E T="03">Description of records sought.</E> You must describe the records that you want in enough detail to enable Department personnel to locate the system of records containing them with a reasonable amount of effort. Whenever possible, your request should describe the records sought, the time periods in which you believe they were compiled, and the name or identifying number of each system of records in which you believe they are kept. The Department publishes notices in the <E T="04">Federal Register</E> that describe its components' systems of records. A description of the Department's systems of records also may be found as part of the “Privacy Act Compilation” published by the National Archives and Records Administration's Office of the Federal Register. This compilation is available in most large reference and university libraries. This compilation also can be accessed electronically at the Government Printing Office's World Wide Web site (which can be found at <E T="03">http://www.access.gpo.gov/su_docs</E>).</P>
+      <P>(c) <E T="03">Agreement to pay fees.</E> If you make a Privacy Act request for access to records, it shall be considered an agreement by you to pay all applicable fees charged under § 16.49, up to $25.00. The component responsible for responding to your request ordinarily shall confirm this agreement in an acknowledgement letter. When making a request, you may specify a willingness to pay a greater or lesser amount.</P>
+      <P>(d) <E T="03">Verification of identity.</E> When you make a request for access to records about yourself, you must verify your identity. You must state your full name, current address, and date and place of birth. You must sign your request and your signature must either be notarized or submitted by you under 28 U.S.C. 1746, a law that permits statements to be made under penalty of perjury as a substitute for notarization. While no specific form is required, you may obtain forms for this purpose from the FOIA/PA Mail Referral Unit, Justice Management Division, U.S. Department of Justice, 950 Pennsylvania Avenue, NW., Washington, DC 20530-0001. In order to help the identification and location of requested records, you may also, at your option, include your social security number.</P>
+      <P>(e) <E T="03">Verification of guardianship.</E> When making a request as the parent or guardian of a minor or as the guardian of someone determined by a court to be incompetent, for access to records about that individual, you must establish:</P>
+      <P>(1) The identity of the individual who is the subject of the record, by stating the name, current address, date and place of birth, and, at your option, the social security number of the individual;</P>
+      <P>(2) Your own identity, as required in paragraph (d) of this section;</P>
+
+      <P>(3) That you are the parent or guardian of that individual, which you may prove by providing a copy of the individual's birth certificate showing your parentage or by providing a court order establishing your guardianship; and<PRTPAGE P="297"/>
+      </P>
+      <P>(4) That you are acting on behalf of that individual in making the request.</P>
+      <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 34965, June 26, 1998; 63 FR 51401, Sept. 25, 1998]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.42</SECTNO>
+      <SUBJECT>Responsibility for responding to requests for access to records.</SUBJECT>
+      <P>(a) <E T="03">In general.</E> Except as stated in paragraphs (c), (d), and (e) of this section, the component that first receives a request for access to a record, and has possession of that record, is the component responsible for responding to the request. In determining which records are responsive to a request, a component ordinarily shall include only those records in its possession as of the date the component begins its search for them. If any other date is used, the component shall inform the requester of that date.</P>
+      <P>(b) <E T="03">Authority to grant or deny requests.</E> The head of a component, or the component head's designee, is authorized to grant or deny any request for access to a record of that component.</P>
+      <P>(c) <E T="03">Consultations and referrals.</E> When a component receives a request for access to a record in its possession, it shall determine whether another component, or another agency of the Federal Government, is better able to determine whether the record is exempt from access under the Privacy Act. If the receiving component determines that it is best able to process the record in response to the request, then it shall do so. If the receiving component determines that it is not best able to process the record, then it shall either:</P>
+      <P>(1) Respond to the request regarding that record, after consulting with the component or agency best able to determine whether the record is exempt from access and with any other component or agency that has a substantial interest in it; or</P>
+      <P>(2) Refer the responsibility for responding to the request regarding that record to the component best able to determine whether it is exempt from access, or to another agency that originated the record (but only if that agency is subject to the Privacy Act). Ordinarily, the component or agency that originated a record will be presumed to be best able to determine whether it is exempt from access.</P>
+      <P>(d) <E T="03">Law enforcement information.</E> Whenever a request is made for access to a record containing information that relates to an investigation of a possible violation of law and that was originated by another component or agency, the receiving component shall either refer the responsibility for responding to the request regarding that information to that other component or agency or shall consult with that other component or agency.</P>
+      <P>(e) <E T="03">Classified information.</E> Whenever a request is made for access to a record containing information that has been classified by or may be appropriate for classification by another component or agency under Executive Order 12958 or any other executive order concerning the classification of records, the receiving component shall refer the responsibility for responding to the request regarding that information to the component or agency that classified the information, should consider the information for classification, or has the primary interest in it, as appropriate. Whenever a record contains information that has been derivatively classified by a component because it contains information classified by another component or agency, the component shall refer the responsibility for responding to the request regarding that information to the component or agency that classified the underlying information.</P>
+      <P>(f) <E T="03">Notice of referral.</E> Whenever a component refers all or any part of the responsibility for responding to a request to another component or agency, it ordinarily shall notify the requester of the referral and inform the requester of the name of each component or agency to which the request has been referred and of the part of the request that has been referred.</P>
+      <P>(g) <E T="03">Timing of responses to consultations and referrals.</E> All consultations and referrals shall be handled according to the date the Privacy Act access request was initially received by the first component or agency, not any later date.</P>
+      <P>(h) <E T="03">Agreements regarding consultations and referrals.</E> Components may make agreements with other components or <PRTPAGE P="298"/>agencies to eliminate the need for consultations or referrals for particular types of records.</P>
+      <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 34965, June 26, 1998; 63 FR 51401, Sept. 25, 1998]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.43</SECTNO>
+      <SUBJECT>Responses to requests for access to records.</SUBJECT>
+      <P>(a) <E T="03">Acknowledgements of requests.</E> On receipt of a request, a component ordinarily shall send an acknowledgement letter to the requester which shall confirm the requester's agreement to pay fees under § 16.41(c) and provide an assigned request number for further reference.</P>
+      <P>(b) <E T="03">Grants of requests for access.</E> Once a component makes a determination to grant a request for access in whole or in part, it shall notify the requester in writing. The component shall inform the requester in the notice of any fee charged under § 16.49 and shall disclose records to the requester promptly on payment of any applicable fee. If a request is made in person, the component may disclose records to the requester directly, in a manner not unreasonably disruptive of its operations, on payment of any applicable fee and with a written record made of the grant of the request. If a requester is accompanied by another person, the requester shall be required to authorize in writing any discussion of the records in the presence of the other person.</P>
+      <P>(c) <E T="03">Adverse determinations of requests for access.</E> A component making an adverse determination denying a request for access in any respect shall notify the requester of that determination in writing. Adverse determinations, or denials of requests, consist of: A determination to withhold any requested record in whole or in part; a determination that a requested record does not exist or cannot be located; a determination that what has been requested is not a record subject to the Privacy Act; a determination on any disputed fee matter; and a denial of a request for expedited treatment. The notification letter shall be signed by the head of the component, or the component head's designee, and shall include:</P>
+      <P>(1) The name and title or position of the person responsible for the denial;</P>
+      <P>(2) A brief statement of the reason(s) for the denial, including any Privacy Act exemption(s) applied by the component in denying the request; and</P>
+      <P>(3) A statement that the denial may be appealed under § 16.45(a) and a description of the requirements of § 16.45(a).</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.44</SECTNO>
+      <SUBJECT>Classified information.</SUBJECT>
+      <P>In processing a request for access to a record containing information that is classified under Executive Order 12958 or any other executive order, the originating component shall review the information to determine whether it should remain classified. Information determined to no longer require classification shall not be withheld from a requester on the basis of Exemption (k)(1) of the Privacy Act. On receipt of any appeal involving classified information, the Office of Information and Privacy shall take appropriate action to ensure compliance with part 17 of this title.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.45</SECTNO>
+      <SUBJECT>Appeals from denials of requests for access to records.</SUBJECT>
+      <P>(a) <E T="03">Appeals.</E> If you are dissatisfied with a component's response to your request for access to records, you may appeal an adverse determination denying your request in any respect to the Office of Information and Privacy, U.S. Department of Justice, Flag Building, Suite 570, Washington, DC 20530-0001. You must make your appeal in writing and it must be received by the Office of Information and Privacy within 60 days of the date of the letter denying your request. Your appeal letter may include as much or as little related information as you wish, as long as it clearly identifies the component determination (including the assigned request number, if known) that you are appealing. For the quickest possible handling, you should mark both your appeal letter and the envelope “Privacy Act Appeal.” Unless the Attorney General directs otherwise, a Director of the Office of Information and Privacy will act on behalf of the Attorney General on all appeals under this section, except that:</P>
+
+      <P>(1) In the case of an adverse determination by the Deputy Attorney General or the Associate Attorney General, the Attorney General or the Attorney <PRTPAGE P="299"/>General's designee will act on the appeal;</P>
+      <P>(2) An adverse determination by the Attorney General will be the final action of the Department; and</P>
+      <P>(3) An appeal ordinarily will not be acted on if the request becomes a matter of litigation.</P>
+      <P>(b) <E T="03">Responses to appeals.</E> The decision on your appeal will be made in writing. A decision affirming an adverse determination in whole or in part will include a brief statement of the reason(s) for the affirmance, including any Privacy Act exemption applied, and will inform you of the Privacy Act provisions for court review of the decision. If the adverse determination is reversed or modified on appeal in whole or in part, you will be notified in a written decision and your request will be reprocessed in accordance with that appeal decision.</P>
+      <P>(c) <E T="03">When appeal is required.</E> If you wish to seek review by a court of any adverse determination or denial of a request, you must first appeal it under this section.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.46</SECTNO>
+      <SUBJECT>Requests for amendment or correction of records.</SUBJECT>
+      <P>(a) <E T="03">How made and addressed.</E> Unless the record is not subject to amendment or correction as stated in paragraph (f) of this section, you may make a request for amendment or correction of a Department of Justice record about yourself by writing directly to the Department component that maintains the record, following the procedures in § 16.41. Your request should identify each particular record in question, state the amendment or correction that you want, and state why you believe that the record is not accurate, relevant, timely, or complete. You may submit any documentation that you think would be helpful. If you believe that the same record is in more than one system of records, you should state that and address your request to each component that maintains a system of records containing the record.</P>
+      <P>(b) <E T="03">Component responses.</E> Within ten working days of receiving your request for amendment or correction of records, a component shall send you a written acknowledgment of its receipt of your request, and it shall promptly notify you whether your request is granted or denied. If the component grants your request in whole or in part, it shall describe the amendment or correction made and shall advise you of your right to obtain a copy of the corrected or amended record, in disclosable form. If the component denies your request in whole or in part, it shall send you a letter signed by the head of the component, or the component head's designee, that shall state:</P>
+      <P>(1) The reason(s) for the denial; and</P>
+      <P>(2) The procedure for appeal of the denial under paragraph (c) of this section, including the name and business address of the official who will act on your appeal.</P>
+      <P>(c) <E T="03">Appeals.</E> You may appeal a denial of a request for amendment or correction to the Office of Information and Privacy in the same manner as a denial of a request for access to records (see § 16.45) and the same procedures shall be followed. If your appeal is denied, you shall be advised of your right to file a Statement of Disagreement as described in paragraph (d) of this section and of your right under the Privacy Act for court review of the decision.</P>
+      <P>(d) <E T="03">Statements of Disagreement.</E> If your appeal under this section is denied in whole or in part, you have the right to file a Statement of Disagreement that states your reason(s) for disagreeing with the Department's denial of your request for amendment or correction. Statements of Disagreement must be concise, must clearly identify each part of any record that is disputed, and should be no longer than one typed page for each fact disputed. Your Statement of Disagreement must be sent to the component involved, which shall place it in the system of records in which the disputed record is maintained and shall mark the disputed record to indicate that a Statement of Disagreement has been filed and where in the system of records it may be found.</P>
+      <P>(e) <E T="03">Notification of amendment/correction or disagreement.</E> Within 30 working days of the amendment or correction of a record, the component that maintains the record shall notify all persons, organizations, or agencies to which it previously disclosed the record, if an <PRTPAGE P="300"/>accounting of that disclosure was made, that the record has been amended or corrected. If an individual has filed a Statement of Disagreement, the component shall append a copy of it to the disputed record whenever the record is disclosed and may also append a concise statement of its reason(s) for denying the request to amend or correct the record.</P>
+      <P>(f) <E T="03">Records not subject to amendment or correction.</E> The following records are not subject to amendment or correction:</P>
+      <P>(1) Transcripts of testimony given under oath or written statements made under oath;</P>
+      <P>(2) Transcripts of grand jury proceedings, judicial proceedings, or quasi-judicial proceedings, which are the official record of those proceedings;</P>
+      <P>(3) Presentence records that originated with the courts; and</P>
+
+      <P>(4) Records in systems of records that have been exempted from amendment and correction under Privacy Act, 5 U.S.C. 552a(j) or (k) by notice published in the <E T="04">Federal Register.</E>
+      </P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.47</SECTNO>
+      <SUBJECT>Requests for an accounting of record disclosures.</SUBJECT>
+      <P>(a) <E T="03">How made and addressed.</E> Except where accountings of disclosures are not required to be kept (as stated in paragraph (b) of this section), you may make a request for an accounting of any disclosure that has been made by the Department to another person, organization, or agency of any record about you. This accounting contains the date, nature, and purpose of each disclosure, as well as the name and address of the person, organization, or agency to which the disclosure was made. Your request for an accounting should identify each particular record in question and should be made by writing directly to the Department component that maintains the record, following the procedures in § 16.41.</P>
+      <P>(b) <E T="03">Where accountings are not required.</E> Components are not required to provide accountings to you where they relate to:</P>
+      <P>(1) Disclosures for which accountings are not required to be kept—in other words, disclosures that are made to employees within the agency and disclosures that are made under the FOIA;</P>
+      <P>(2) Disclosures made to law enforcement agencies for authorized law enforcement activities in response to written requests from those law enforcement agencies specifying the law enforcement activities for which the disclosures are sought; or</P>
+      <P>(3) Disclosures made from law enforcement systems of records that have been exempted from accounting requirements.</P>
+      <P>(c) <E T="03">Appeals.</E> You may appeal a denial of a request for an accounting to the Office of Information and Privacy in the same manner as a denial of a request for access to records (see § 16.45) and the same procedures will be followed.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.48</SECTNO>
+      <SUBJECT>Preservation of records.</SUBJECT>
+      <P>Each component will preserve all correspondence pertaining to the requests that it receives under this subpart, as well as copies of all requested records, until disposition or destruction is authorized by title 44 of the United States Code or the National Archives and Records Administration's General Records Schedule 14. Records will not be disposed of while they are the subject of a pending request, appeal, or lawsuit under the Act.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.49</SECTNO>
+      <SUBJECT>Fees.</SUBJECT>
+      <P>Components shall charge fees for duplication of records under the Privacy Act in the same way in which they charge duplication fees under § 16.11. No search or review fee may be charged for any record unless the record has been exempted from access under Exemptions (j)(2) or (k)(2) of the Privacy Act.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.50</SECTNO>
+      <SUBJECT>Notice of court-ordered and emergency disclosures.</SUBJECT>
+      <P>(a) <E T="03">Court-ordered disclosures.</E> When a record pertaining to an individual is required to be disclosed by a court order, the component shall make reasonable efforts to provide notice of this to the individual. Notice shall be given within a reasonable time after the component's receipt of the order—except that in a case in which the order is not a matter of public record, the notice shall be given only after the order becomes public. This notice shall be mailed to the individual's last known address and shall contain a copy of the <PRTPAGE P="301"/>order and a description of the information disclosed. Notice shall not be given if disclosure is made from a criminal law enforcement system of records that has been exempted from the notice requirement.</P>
+      <P>(b) <E T="03">Emergency disclosures.</E> Upon disclosing a record pertaining to an individual made under compelling circumstances affecting health or safety, the component shall notify that individual of the disclosure. This notice shall be mailed to the individual's last known address and shall state the nature of the information disclosed; the person, organization, or agency to which it was disclosed; the date of disclosure; and the compelling circumstances justifying the disclosure.</P>
+      <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 51401, Sept. 25, 1998]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.51</SECTNO>
+      <SUBJECT>Security of systems of records.</SUBJECT>
+      <P>(a) Each component shall establish administrative and physical controls to prevent unauthorized access to its systems of records, to prevent unauthorized disclosure of records, and to prevent physical damage to or destruction of records. The stringency of these controls shall correspond to the sensitivity of the records that the controls protect. At a minimum, each component's administrative and physical controls shall ensure that:</P>
+      <P>(1) Records are protected from public view;</P>
+      <P>(2) The area in which records are kept is supervised during business hours to prevent unauthorized persons from having access to them;</P>
+      <P>(3) Records are inaccessible to unauthorized persons outside of business hours; and</P>
+      <P>(4) Records are not disclosed to unauthorized persons or under unauthorized circumstances in either oral or written form.</P>
+      <P>(b) Each component shall have procedures that restrict access to records to only those individuals within the Department who must have access to those records in order to perform their duties and that prevent inadvertent disclosure of records.</P>
+      <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 34965, June 26, 1998]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.52</SECTNO>
+      <SUBJECT>Contracts for the operation of record systems.</SUBJECT>
+      <P>Any approved contract for the operation of a record system will contain the standard contract requirements issued by the General Services Administration to ensure compliance with the requirements of the Privacy Act for that record system. The contracting component will be responsible for ensuring that the contractor complies with these contract requirements.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.53</SECTNO>
+      <SUBJECT>Use and collection of social security numbers.</SUBJECT>
+      <P>Each component shall ensure that employees authorized to collect information are aware:</P>
+      <P>(a) That individuals may not be denied any right, benefit, or privilege as a result of refusing to provide their social security numbers, unless the collection is authorized either by a statute or by a regulation issued prior to 1975; and</P>
+      <P>(b) That individuals requested to provide their social security numbers must be informed of:</P>
+      <P>(1) Whether providing social security numbers is mandatory or voluntary;</P>
+      <P>(2) Any statutory or regulatory authority that authorizes the collection of social security numbers; and</P>
+      <P>(3) The uses that will be made of the numbers.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.54</SECTNO>
+      <SUBJECT>Employee standards of conduct.</SUBJECT>
+      <P>Each component will inform its employees of the provisions of the Privacy Act, including the Act's civil liability and criminal penalty provisions. Unless otherwise permitted by law, an employee of the Department of Justice shall:</P>
+      <P>(a) Collect from individuals only the information that is relevant and necessary to discharge the responsibilities of the Department;</P>
+      <P>(b) Collect information about an individual directly from that individual whenever practicable;</P>
+      <P>(c) Inform each individual from whom information is collected of:</P>
+      <P>(1) The legal authority to collect the information and whether providing it is mandatory or voluntary;</P>
+
+      <P>(2) The principal purpose for which the Department intends to use the information;<PRTPAGE P="302"/>
+      </P>
+      <P>(3) The routine uses the Department may make of the information; and</P>
+      <P>(4) The effects on the individual, if any, of not providing the information;</P>
+      <P>(d) Ensure that the component maintains no system of records without public notice and that it notifies appropriate Department officials of the existence or development of any system of records that is not the subject of a current or planned public notice;</P>
+      <P>(e) Maintain all records that are used by the Department in making any determination about an individual with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to ensure fairness to the individual in the determination;</P>
+      <P>(f) Except as to disclosures made to an agency or made under the FOIA, make reasonable efforts, prior to disseminating any record about an individual, to ensure that the record is accurate, relevant, timely, and complete;</P>
+      <P>(g) Maintain no record describing how an individual exercises his or her First Amendment rights, unless it is expressly authorized by statute or by the individual about whom the record is maintained, or is pertinent to and within the scope of an authorized law enforcement activity;</P>
+      <P>(h) When required by the Act, maintain an accounting in the specified form of all disclosures of records by the Department to persons, organizations, or agencies;</P>
+      <P>(i) Maintain and use records with care to prevent the unauthorized or inadvertent disclosure of a record to anyone; and</P>
+      <P>(j) Notify the appropriate Department official of any record that contains information that the Privacy Act does not permit the Department to maintain.</P>
+      <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 34965, June 26, 1998; 63 FR 51401, Sept. 25, 1998]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 16.55</SECTNO>
+      <SUBJECT>Other rights and services.</SUBJECT>
+      <P>Nothing in this subpart shall be construed to entitle any person, as of right, to any service or to the disclosure of any record to which such person is not entitled under the Privacy Act.</P>
+    </SECTION>
+  </SUBPART>
+</CFRGRANULE>

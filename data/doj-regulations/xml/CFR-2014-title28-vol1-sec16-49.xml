@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Fees.</TITLE>
+    <GRANULENUM>16.49</GRANULENUM>
+    <HEADING>Section 16.49</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="3">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="2">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="1">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+      <PARENT HEADING="Subpart D" SEQ="0">Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 16.49</SECTNO>
+    <SUBJECT>Fees.</SUBJECT>
+    <P>Components shall charge fees for duplication of records under the Privacy Act in the same way in which they charge duplication fees under § 16.11. No search or review fee may be charged for any record unless the record has been exempted from access under Exemptions (j)(2) or (k)(2) of the Privacy Act.</P>
+  </SECTION>
+</CFRGRANULE>

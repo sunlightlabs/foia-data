@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Requests for access to records.</TITLE>
+    <GRANULENUM>16.41</GRANULENUM>
+    <HEADING>Section 16.41</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="3">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="2">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="1">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+      <PARENT HEADING="Subpart D" SEQ="0">Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 16.41</SECTNO>
+    <SUBJECT>Requests for access to records.</SUBJECT>
+    <P>(a) <E T="03">How made and addressed.</E> You may make a request for access to a Department of Justice record about yourself by appearing in person or by writing directly to the Department component that maintains the record. Your request should be sent or delivered to the component's Privacy Act office at the address listed in appendix I to this <PRTPAGE P="296"/>part. In most cases, a component's central Privacy Act office is the place to send a Privacy Act request. For records held by a field office of the Federal Bureau of Investigation (FBI) or the Immigration and Naturalization Service (INS), however, you must write directly to that FBI or INS field office address, which can be found in most telephone books or by calling the component's central Privacy Act office. (The functions of each component are summarized in Part 0 of this title and in the description of the Department and its components in the “United States Government Manual,” which is issued annually and is available in most libraries, as well as for sale from the Government Printing Office's Superintendent of Documents. This manual also can be accessed electronically at the Government Printing Office's World Wide Web site (which can be found at <E T="03">http://www.access.gpo.gov/su_docs</E>). If you cannot determine where within the Department to send your request, you may send it to the FOIA/PA Mail Referral Unit, Justice Management Division, U.S. Department of Justice, 950 Pennsylvania Avenue, NW., Washington, DC 20530-0001, and that office will forward it to the component(s) it believes most likely to have the records that you seek. For the quickest possible handling, you should mark both your request letter and the envelope “Privacy Act Request.”</P>
+    <P>(b) <E T="03">Description of records sought.</E> You must describe the records that you want in enough detail to enable Department personnel to locate the system of records containing them with a reasonable amount of effort. Whenever possible, your request should describe the records sought, the time periods in which you believe they were compiled, and the name or identifying number of each system of records in which you believe they are kept. The Department publishes notices in the <E T="04">Federal Register</E> that describe its components' systems of records. A description of the Department's systems of records also may be found as part of the “Privacy Act Compilation” published by the National Archives and Records Administration's Office of the Federal Register. This compilation is available in most large reference and university libraries. This compilation also can be accessed electronically at the Government Printing Office's World Wide Web site (which can be found at <E T="03">http://www.access.gpo.gov/su_docs</E>).</P>
+    <P>(c) <E T="03">Agreement to pay fees.</E> If you make a Privacy Act request for access to records, it shall be considered an agreement by you to pay all applicable fees charged under § 16.49, up to $25.00. The component responsible for responding to your request ordinarily shall confirm this agreement in an acknowledgement letter. When making a request, you may specify a willingness to pay a greater or lesser amount.</P>
+    <P>(d) <E T="03">Verification of identity.</E> When you make a request for access to records about yourself, you must verify your identity. You must state your full name, current address, and date and place of birth. You must sign your request and your signature must either be notarized or submitted by you under 28 U.S.C. 1746, a law that permits statements to be made under penalty of perjury as a substitute for notarization. While no specific form is required, you may obtain forms for this purpose from the FOIA/PA Mail Referral Unit, Justice Management Division, U.S. Department of Justice, 950 Pennsylvania Avenue, NW., Washington, DC 20530-0001. In order to help the identification and location of requested records, you may also, at your option, include your social security number.</P>
+    <P>(e) <E T="03">Verification of guardianship.</E> When making a request as the parent or guardian of a minor or as the guardian of someone determined by a court to be incompetent, for access to records about that individual, you must establish:</P>
+    <P>(1) The identity of the individual who is the subject of the record, by stating the name, current address, date and place of birth, and, at your option, the social security number of the individual;</P>
+    <P>(2) Your own identity, as required in paragraph (d) of this section;</P>
+
+    <P>(3) That you are the parent or guardian of that individual, which you may prove by providing a copy of the individual's birth certificate showing your parentage or by providing a court order establishing your guardianship; and<PRTPAGE P="297"/>
+    </P>
+    <P>(4) That you are acting on behalf of that individual in making the request.</P>
+    <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 34965, June 26, 1998; 63 FR 51401, Sept. 25, 1998]</CITA>
+  </SECTION>
+</CFRGRANULE>

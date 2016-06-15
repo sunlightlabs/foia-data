@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Use and collection of social security numbers.</TITLE>
+    <GRANULENUM>16.53</GRANULENUM>
+    <HEADING>Section 16.53</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="3">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="2">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="1">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+      <PARENT HEADING="Subpart D" SEQ="0">Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 16.53</SECTNO>
+    <SUBJECT>Use and collection of social security numbers.</SUBJECT>
+    <P>Each component shall ensure that employees authorized to collect information are aware:</P>
+    <P>(a) That individuals may not be denied any right, benefit, or privilege as a result of refusing to provide their social security numbers, unless the collection is authorized either by a statute or by a regulation issued prior to 1975; and</P>
+    <P>(b) That individuals requested to provide their social security numbers must be informed of:</P>
+    <P>(1) Whether providing social security numbers is mandatory or voluntary;</P>
+    <P>(2) Any statutory or regulatory authority that authorizes the collection of social security numbers; and</P>
+    <P>(3) The uses that will be made of the numbers.</P>
+  </SECTION>
+</CFRGRANULE>

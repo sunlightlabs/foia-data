@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Employee standards of conduct.</TITLE>
+    <GRANULENUM>16.54</GRANULENUM>
+    <HEADING>Section 16.54</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="3">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="2">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="1">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+      <PARENT HEADING="Subpart D" SEQ="0">Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 16.54</SECTNO>
+    <SUBJECT>Employee standards of conduct.</SUBJECT>
+    <P>Each component will inform its employees of the provisions of the Privacy Act, including the Act's civil liability and criminal penalty provisions. Unless otherwise permitted by law, an employee of the Department of Justice shall:</P>
+    <P>(a) Collect from individuals only the information that is relevant and necessary to discharge the responsibilities of the Department;</P>
+    <P>(b) Collect information about an individual directly from that individual whenever practicable;</P>
+    <P>(c) Inform each individual from whom information is collected of:</P>
+    <P>(1) The legal authority to collect the information and whether providing it is mandatory or voluntary;</P>
+
+    <P>(2) The principal purpose for which the Department intends to use the information;<PRTPAGE P="302"/>
+    </P>
+    <P>(3) The routine uses the Department may make of the information; and</P>
+    <P>(4) The effects on the individual, if any, of not providing the information;</P>
+    <P>(d) Ensure that the component maintains no system of records without public notice and that it notifies appropriate Department officials of the existence or development of any system of records that is not the subject of a current or planned public notice;</P>
+    <P>(e) Maintain all records that are used by the Department in making any determination about an individual with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to ensure fairness to the individual in the determination;</P>
+    <P>(f) Except as to disclosures made to an agency or made under the FOIA, make reasonable efforts, prior to disseminating any record about an individual, to ensure that the record is accurate, relevant, timely, and complete;</P>
+    <P>(g) Maintain no record describing how an individual exercises his or her First Amendment rights, unless it is expressly authorized by statute or by the individual about whom the record is maintained, or is pertinent to and within the scope of an authorized law enforcement activity;</P>
+    <P>(h) When required by the Act, maintain an accounting in the specified form of all disclosures of records by the Department to persons, organizations, or agencies;</P>
+    <P>(i) Maintain and use records with care to prevent the unauthorized or inadvertent disclosure of a record to anyone; and</P>
+    <P>(j) Notify the appropriate Department official of any record that contains information that the Privacy Act does not permit the Department to maintain.</P>
+    <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 34965, June 26, 1998; 63 FR 51401, Sept. 25, 1998]</CITA>
+  </SECTION>
+</CFRGRANULE>

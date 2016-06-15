@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>28</CFRTITLE>
+    <CFRTITLETEXT>Judicial Administration</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2014-07-01</DATE>
+    <ORIGINALDATE>2014-07-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Security of systems of records.</TITLE>
+    <GRANULENUM>16.51</GRANULENUM>
+    <HEADING>Section 16.51</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 28" SEQ="3">Judicial Administration</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="2">DEPARTMENT OF JUSTICE</PARENT>
+      <PARENT HEADING="PART 16" SEQ="1">PRODUCTION OR DISCLOSURE OF MATERIAL OR INFORMATION</PARENT>
+      <PARENT HEADING="Subpart D" SEQ="0">Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 16.51</SECTNO>
+    <SUBJECT>Security of systems of records.</SUBJECT>
+    <P>(a) Each component shall establish administrative and physical controls to prevent unauthorized access to its systems of records, to prevent unauthorized disclosure of records, and to prevent physical damage to or destruction of records. The stringency of these controls shall correspond to the sensitivity of the records that the controls protect. At a minimum, each component's administrative and physical controls shall ensure that:</P>
+    <P>(1) Records are protected from public view;</P>
+    <P>(2) The area in which records are kept is supervised during business hours to prevent unauthorized persons from having access to them;</P>
+    <P>(3) Records are inaccessible to unauthorized persons outside of business hours; and</P>
+    <P>(4) Records are not disclosed to unauthorized persons or under unauthorized circumstances in either oral or written form.</P>
+    <P>(b) Each component shall have procedures that restrict access to records to only those individuals within the Department who must have access to those records in order to perform their duties and that prevent inadvertent disclosure of records.</P>
+    <CITA>[Order No. 2156-98, 63 FR 29600, June 1, 1998; 63 FR 34965, June 26, 1998]</CITA>
+  </SECTION>
+</CFRGRANULE>
