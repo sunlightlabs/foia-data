@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Parse JSON with jQuery .getJSON()</title>
+<style>
+body {
+    font-size: 75%;
+    font-family:"Segoe UI", Verdana, Helvetica, Sans-Serif;
+}
+#body {
+    clear: both;
+    margin: 0 auto;
+    max-width: 534px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 0.75em;
+    border: 0 none;
+    margin-top:35px;
+}
+#body td {
+    padding:15px 30px 15px 10px;
+}
+#body tr td:nth-child(1) {
+    font-weight:bold;
+}
+#address {
+    width:400px;
+}
+</style>
+</head>
+<body>
+
+<div id="body">
+    
+<h1>Parse JSON data using jQuery.getJSON()</h1>
+
+    <hr/>
+    <table border="1">
+        <tr>
+            <td>Url:</td>
+            <td><a class="myLink">The Google Geocoding API</a> 
+            </td>
+        </tr>
+        <tr>
+            <td>Address:</td>
+            <td id="address"></td>
+        </tr>
+        <tr>
+            <td>Latitude:</td>
+            <td id="latitude"></td>
+        </tr>
+        <tr>
+            <td>Latitude:</td>
+            <td id="longitude"></td>
+        </tr>
+    </table>
+</div>
+<script src="http://dev.bowdenweb.com/a/js/jquery-1.9.1.js"></script>
+<script>
+// The Google Geocoding API url used to get the JSON data
+var geocodingAPI = "2012-ABMC.json";
+
+$.getJSON(geocodingAPI, function (json) {
+
+    // Set the variables from the results array
+    var address = json.results[0].formatted_address;
+    console.log('Address : ', address);
+    
+    var latitude = json.results[0].geometry.location.lat;
+    console.log('Latitude : ', latitude);
+    
+    var longitude = json.results[0].geometry.location.lng;
+    console.log('Longitude : ', longitude);
+
+    // Set the table td text
+    $('#address').text(address);
+    $('#latitude').text(latitude);
+    $('#longitude').text(longitude);
+});
+
+// Caching the link jquery object
+var $myLink = $('a.myLink');
+
+// Set the links properties
+$myLink.prop({
+    href: geocodingAPI,
+    title: 'Click on this link to open in a new window.'
+}).click(function (e) {
+    e.preventDefault();
+    window.open(this.href, '_blank');
+});
+</script>
+</body>
+
+</html>
