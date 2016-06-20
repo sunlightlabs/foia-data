@@ -32,12 +32,18 @@ Appeals Backlogged
 
 # FOIA Data  
   
-## OGIS FOIA Data, References and Resources  
+## [OGIS - The Federal FOIA Ombudsman](https://ogis.archives.gov/)   
 
-[OGIS (Office of Government Information Services) The Federal FOIA Ombudsman](https://ogis.archives.gov/)  
 [OGIS Final Response Letters to Customers - Fiscal Year 2016](https://ogis.archives.gov/mediation-program/ogis-final-response-letters-to-customers/ogis-response-letters-to-customers-fy-2016.htm)  
 [FOIA Glossary - OGIS](https://ogis.archives.gov/Resources/ogis-toolbox/glossary.htm)  
 [Annual Reports - OGIS](https://ogis.archives.gov/about-ogis/annual-reports.htm)  
+[Quarterly Performance Metrics - OGIS](https://ogis.archives.gov/mediation-program/quarterly-performance-metrics.htm)  
+[2016 2nd Quarter Performance](https://ogis.archives.gov/Assets/Mediation+2nd+Quarter+2016+Metrics.pdf?method=1)  
+[2016 1st Quarter Performance](https://ogis.archives.gov/Assets/Mediation+1st+Quarter+2016+Metrics.pdf?method=1)  
+[2016 Performance Metrics](https://ogis.archives.gov/Assets/Quarterly+Performance+Metrics.csv?method=1)  
+[2016 Ten Oldest Cases](https://ogis.archives.gov/Assets/Quarterly+Ten+Oldest.csv?method=1)  
+[2016 Caseload](https://ogis.archives.gov/Assets/Quarterly+Caseload.csv?method=1)  
+[2016 Days Pending for Open Cases](https://ogis.archives.gov/Assets/Quarterly+Days+Pending.csv?method=1)  
 
 ## DOJ OIP FOIA  
 
