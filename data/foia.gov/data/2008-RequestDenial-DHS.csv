@@ -1,0 +1,43 @@
+Component,Description,No. of Times Used,Total
+OLA,Document referred not responsive,9,11
+OLA,Failure to comply with requirements,2,11
+OIG,0,0,0
+OGC,0,0,0
+OIG,"Request Apparently Misdirected. Contacted Requestor, No Reponse.",1,1
+CBP,Records Publicly Available,3,17
+CBP,Handled on Appeal Level,1,17
+CBP,Unable to locate requester,13,17
+CRCL,Administratively Closed,2,2
+FEMA,Unable to locate requester,1,1
+I&A,Administratively Closed,15,15
+ICE,Litigation,9,22
+ICE,Fugitive,8,22
+ICE,Administratively Closed,5,22
+MGMT,Records Publicly Available,1,1
+OIG,Records Publicly Available,1,9
+OIG,Unable to locate requester,6,9
+OIG,Administratively Closed,2,9
+OPS,Administratively Closed,2,2
+PRIV,Sent in error,1,14
+PRIV,Administratively Closed,5,14
+PRIV,Records Publicly Available,5,14
+PRIV,Unable to locate requester,1,14
+PRIV,Redress,2,14
+TSA,Administratively Closed,16,26
+TSA,Subpoena,1,26
+TSA,Litigation,2,26
+TSA,Records Publicly Available,2,26
+TSA,Response to requester from program area,5,26
+USCG,Administratively Closed,7,7
+USCIS,Certified Copy,2,129
+USCIS,Unable to locate requester,127,129
+USSS,Administratively Closed,2,2
+OIG,Not applicable,0,0
+OPA,N/A,0,0
+CFO,No Records in Partial Grant,1,1
+OIG,N/A,0,0
+OIG,Records  on OIG Webpage,1,1
+OGC,0,0,0
+OIG,N/A,0,0
+OIG,NA - Other reason was not relied on for denials.,0,0
+Total,0,261,657

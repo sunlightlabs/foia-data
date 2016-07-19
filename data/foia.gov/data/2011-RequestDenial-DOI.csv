@@ -1,0 +1,50 @@
+Component,Description,No. of Times Used,Total
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,Transferred within DOT,3,3
+OIG,N/A,0,0
+OS,N/A,0,0
+OIG,Requester Address Not Provided Upon Request,1,8
+OIG,Verification of Identity Not Provided,7,8
+OIG,Unable to locate requester,2,2
+BIA,Requester failed to provide written consent of subject individual.,6,22
+BIA,Request administratively closed.,1,22
+BIA,Assigned to other bureau/office for response.,2,22
+BIA,Requester failed to provide requested clarification.,13,22
+BLM,Assigned to other bureau/office for response.,49,60
+BLM,Request administratively closed.,6,60
+BLM,Requester failed to provide requested clarification.,5,60
+BOR,Requester failed to provide requested clarification.,6,16
+BOR,Request administratively closed.,8,16
+BOR,Assigned to other bureau/office for response.,2,16
+FWS,Request administratively closed.,8,248
+FWS,Requester failed to provide written consent of subject individual.,2,248
+FWS,Assigned to other bureau/office for response.,224,248
+FWS,Requester failed to provide requested clarification.,14,248
+NPS,Requester failed to provide requested clarification.,7,13
+NPS,Assigned to other bureau/office for response.,5,13
+NPS,Request administratively closed.,1,13
+OIG,Not applicable.,0,0
+OS,Request administratively closed.,70,70
+OSM,Request administratively closed.,1,2
+OSM,Assigned to other bureau/office for response.,1,2
+SOL,Not applicable.,0,0
+USGS,Requester failed to provide requested clarification.,5,5
+OIG,Records located were not responsive to the request,3,3
+SOL,"Not a FOIA assignment, SOL component was merely giving legal advice to another component for processing",2,7
+SOL,Duplicate Request,2,7
+SOL,Request was misrouted to SOL,1,7
+SOL,Request was resolved in litigation,1,7
+SOL,Reassignment,1,7
+OIG,No response to still interested letter.,18,20
+OIG,Administrative Closures,2,20
+OS,Admistrative Closure - Based on Response and Non-Response to continued interest call and correspondence.,310,310
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,No authorization to release records,7,20
+OIG,Glomarization,13,20
+BOEMRE,Requester failed to provide requested clarification.,12,14
+BOEMRE,Request administratively closed.,2,14
+OIG,N/A,0,0
+Total,0,823,1903

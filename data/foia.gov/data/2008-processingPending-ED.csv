@@ -1,0 +1,38 @@
+Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
+,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days
+FSA,18,274,289,39,49,49,0,0,0
+IES,1,284,284,0,0,0,0,0,0
+OCFO,1,94,94,0,0,0,0,0,0
+OCFO-CAM,8,451,513,22,107,109,0,0,0
+OCFO-FSS,3,223,222,3,74,68,0,0,0
+OCIO,0,0,0,0,0,0,0,0,0
+OCO,1,339,339,2,75,75,0,0,0
+OCR,0,0,0,1,32,32,0,0,0
+OCR-Atlanta,4,76,78,5,58,52,0,0,0
+OCR-Boston,2,45,45,2,40,40,0,0,0
+OCR-Chicago,2,4,4,0,0,0,0,0,0
+OCR-Cleveland,0,0,0,0,0,0,0,0,0
+OCR-Dallas,0,0,0,3,45,76,0,0,0
+OCR-Denver,0,0,0,0,0,0,0,0,0
+OCR-Kansas City,5,114,99,0,0,0,0,0,0
+OCR-Metro,2,38,38,4,93,132,0,0,0
+OCR-New York,8,54,61,22,89,132,0,0,0
+OCR-Philadelphia,19,136,182,3,55,45,0,0,0
+OCR-San Francisco,0,0,0,0,0,0,0,0,0
+OCR-Seattle,0,0,0,0,0,0,0,0,0
+OELA,0,0,0,8,57,79,0,0,0
+OESE,1,207,207,12,20,36,0,0,0
+OGC,5,207,239,2,114,114,0,0,0
+OIG,0,0,0,2,22,22,0,0,0
+OII,3,346,334,3,28,33,0,0,0
+OLCA,1,308,308,0,0,0,0,0,0
+OM,0,0,0,0,0,0,0,0,0
+OM-RIMS,14,341,328,32,68,95,0,0,0
+OPE,1,357,357,20,56,66,0,0,0
+OPEPD,4,712,635,4,22,41,0,0,0
+OS,3,527,515,6,121,282,0,0,0
+OSDFS,6,190,188,27,61,84,0,0,0
+OSERS,3,251,245,9,35,49,0,0,0
+OUS,1,347,347,0,0,0,0,0,0
+OVAE,0,0,0,1,6,6,0,0,0
+Total,116,230,265,232,74,100,0,0,0

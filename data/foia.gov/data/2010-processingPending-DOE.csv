@@ -1,0 +1,22 @@
+Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
+,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days
+BPA,15,13,31,4,41,43,0,0,0
+CBFO,0,0,0,0,0,0,0,0,0
+CH,0,0,0,0,0,0,0,0,0
+EMCBC,3,3,5,0,0,0,0,0,0
+GFO,3,31,30,0,0,0,0,0,0
+HQ,126,71.5,177,86,119.5,172,2,170,170
+ID,0,0,0,0,0,0,0,0,0
+NETL,8,14.5,15,0,0,0,0,0,0
+NNSA,6,74,89,183,133,217.52,1,38,38
+NR,0,0,0,0,0,0,0,0,0
+NRLFO,1,38,38,0,0,0,0,0,0
+ORO,11,2,4,3,15,11,0,0,0
+OSTI,2,177.5,177,0,0,0,0,0,0
+ROO,0,0,0,0,0,0,0,0,0
+SEPA,0,0,0,0,0,0,0,0,0
+SPR,1,12,12,0,0,0,0,0,0
+SRO,8,15,31,0,0,0,0,0,0
+SWPA,0,0,0,0,0,0,0,0,0
+WAPA,1,22,22,0,0,0,0,0,0
+Total,185,39,112,276,122,196,3,73,126

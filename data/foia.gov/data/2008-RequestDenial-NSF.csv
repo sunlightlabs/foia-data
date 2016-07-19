@@ -1,0 +1,17 @@
+Component,Description,No. of Times Used,Total
+OIG,0,0,0
+OGC,0,0,0
+OIG,"Request Apparently Misdirected. Contacted Requestor, No Reponse.",1,1
+OIG,Records Publicly Available,1,9
+OIG,Unable to locate requester,6,9
+OIG,Administratively Closed,2,9
+OIG,Not applicable,0,0
+OIG,N/A,0,0
+OIG,Records  on OIG Webpage,1,1
+OGC,0,0,0
+Foundation,Records Publicly Available,2,5
+Foundation,"Suspended, requester never responded to request for information",1,5
+Foundation,Records provided directly to requester from submitter,2,5
+OIG,N/A,0,0
+OIG,NA - Other reason was not relied on for denials.,0,0
+Total,0,16,44

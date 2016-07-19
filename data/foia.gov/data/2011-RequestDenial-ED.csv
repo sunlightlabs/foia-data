@@ -1,0 +1,35 @@
+Component,Description,No. of Times Used,Total
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,Transferred within DOT,3,3
+OGC,N/A,0,0
+OIG,N/A,0,0
+OS,N/A,0,0
+OIG,Verification of Identity Not Provided,7,8
+OIG,Requester Address Not Provided Upon Request,1,8
+OIG,Unable to locate requester,2,2
+OGC,N/A,0,0
+OIG,Not applicable.,0,0
+OS,Request administratively closed.,70,70
+OIG,Records located were not responsive to the request,3,3
+OIG,No response to still interested letter.,18,20
+OIG,Administrative Closures,2,20
+OS,Admistrative Closure - Based on Response and Non-Response to continued interest call and correspondence.,310,310
+OGC,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,Glomarization,13,20
+OIG,No authorization to release records,7,20
+FSA,Closed due to litigation,2,25
+FSA,Records not available in format requested,7,25
+FSA,Requester referred to public website,11,25
+FSA,Glomrization,4,25
+FSA,Requester failed to provide adequate mailing address,1,25
+OCFO,N/A,0,0
+OGC,Requests relate to litigation; administratively closed,2,3
+OGC,Records referred from another agency but were non-responsive,1,3
+OIG,N/A,0,0
+OGC,N/A,0,0
+OGC,N/A,0,0
+Total,0,464,615

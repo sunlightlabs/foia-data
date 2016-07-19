@@ -1,0 +1,53 @@
+Component,Description,No. of Times Used,Total
+ATLANTA,Files Lost,11,97
+ATLANTA,Files Destroyed,85,97
+ATLANTA,Access was provided to records under separate statute,1,97
+BIRMINGHAM,Files Lost,18,43
+BIRMINGHAM,Access was provided to records under separate statute,15,43
+BIRMINGHAM,Files Destroyed,10,43
+CHARLOTTE,Access was provided to records under separate statute,0,32
+CHARLOTTE,Files Lost,7,32
+CHARLOTTE,Files Destroyed,25,32
+CHICAGO,Files Lost,2,46
+CHICAGO,Access was provided to records under separate statute,0,46
+CHICAGO,Files Destroyed,44,46
+DALLAS,Access was provided to records under separate statute,6,29
+DALLAS,Files Lost,1,29
+DALLAS,Files Destroyed,22,29
+HOUSTON,Files Destroyed,10,23
+HOUSTON,Access was provided to records under separate statute,1,23
+HOUSTON,Files Lost,12,23
+INDIANAPOLIS,Files Destroyed,19,50
+INDIANAPOLIS,Files Lost,25,50
+INDIANAPOLIS,Access was provided to records under separate statute,6,50
+LOS ANGELES,Files Lost,12,33
+LOS ANGELES,Access was provided to records under separate statute,0,33
+LOS ANGELES,Files Destroyed,21,33
+MEMPHIS,Access was provided to records under separate statute,6,23
+MEMPHIS,Files Destroyed,8,23
+MEMPHIS,Files Lost,9,23
+MIAMI,Files Destroyed,50,155
+MIAMI,Access was provided to records under separate statute,7,155
+MIAMI,Files Lost,98,155
+NEW YORK,Files Destroyed,198,232
+NEW YORK,Access was provided to records under separate statute,0,232
+NEW YORK,Files Lost,34,232
+OLC/HDQ,Files Destroyed,0,0
+OLC/HDQ,Files Lost,0,0
+OLC/HDQ,Access was provided to records under separate statute,0,0
+PHILADELPHIA,Files Lost,188,194
+PHILADELPHIA,Files Destroyed,6,194
+PHILADELPHIA,Access was provided to records under separate statute,0,194
+PHOENIX,Files Lost,1,7
+PHOENIX,Files Destroyed,6,7
+PHOENIX,Access was provided to records under separate statute,0,7
+SAN FRANCISCO,Files Lost,0,15
+SAN FRANCISCO,Access was provided to records under separate statute,0,15
+SAN FRANCISCO,Files Destroyed,15,15
+ST. LOUIS,Files Destroyed,3,6
+ST. LOUIS,Files Lost,1,6
+ST. LOUIS,Access was provided to records under separate statute,2,6
+WFO,Files Destroyed,1,2
+WFO,Files Lost,0,2
+WFO,Access was provided to records under separate statute,1,2
+Total,0,987,2961

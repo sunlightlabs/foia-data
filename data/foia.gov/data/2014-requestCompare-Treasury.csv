@@ -1,0 +1,12 @@
+Component,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS PROCESSED,NUMBER OF REQUESTS PROCESSED
+,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
+BEP,90,88,90,83,
+DO,941,732,759,946,
+FinCEN,301,284,300,277,
+IRS,10990,10454,11035,10109,
+MINT,142,119,145,131,
+OCC,1816,1806,1822,1801,
+TIGTA,329,282,310,287,
+TTB,66,50,68,50,
+Fiscal Service,365,292,386,306,
+Total,15040,14107,14915,13990,

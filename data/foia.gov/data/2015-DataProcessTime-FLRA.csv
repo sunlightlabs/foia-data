@@ -1,0 +1,10 @@
+Component,Simple,Simple,Simple,Simple,Complex,Complex,Complex,Complex,Expedited,Expedited,Expedited,Expedited
+,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,
+Authority,7,9.4,,20,,,,,,,,,
+IG,12,9.67,,16,,,,,,,,,
+ATRO,7,8.5,1,20,,,,,,,,,
+BORO,9,9.67,3,20,,,,,,,,,
+DARO,10,10,5,15,,,,,,,,,
+SFRO,9.5,9.5,7,12,,,,,,,,,
+WARO,8,8,4,12,,,,,,,,,
+Total,9,9,0,20,0,0,0,0,0,0,0,0,

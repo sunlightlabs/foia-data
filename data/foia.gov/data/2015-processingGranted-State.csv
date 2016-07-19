@@ -1,0 +1,5 @@
+Component,Simple,Simple,Simple,Simple,Complex,Complex,Complex,Complex,Expedited,Expedited,Expedited,Expedited
+,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,
+DoS,155,167,10,1781,408,589,11,2374,40,40,40,40,
+OIG,22,35,1,132,,,,,,,,,
+Total,154,165,1,1781,408,589,11,2374,40,40,40,40,

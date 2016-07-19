@@ -1,0 +1,57 @@
+Component,Description,No. of Times Used,Total
+Office of the AG,Document referred was not responsive,2,44
+Office of the AG,Directed requester to another agency/other entity,39,44
+Office of the AG,Misdirected by other agency/component,1,44
+Office of the AG,Deferred to another agency or component,2,44
+Office of the DAG,Directed requester to another agency,3,7
+Office of the DAG,Document referred was not responsive,4,7
+Office of the Assoc. AG,Directed requester to another agency or other entity,4,4
+Antitrust,Third party request without consent,1,1
+ATF,Unable to locate requester,6,6
+Civil Rights,Third party request without consent,8,8
+DEA,Change of address; location unknown,101,101
+EOUSA,Public records available from court,35,651
+EOUSA,Burdensome search,1,651
+EOUSA,Court Sealed,1,651
+EOUSA,Requester refused mail,1,651
+EOUSA,No power of attorney,530,651
+EOUSA,FOIA rights waived,49,651
+EOUSA,Closed in litigation,11,651
+EOUSA,Available at GPO,1,651
+EOUSA,Explanation of split requests,1,651
+EOUSA,No forwarding address,20,651
+EOUSA,Subject rescinded Privacy Act waiver,1,651
+JMD,Request was for state records,1,292
+JMD,Requests received by Mail Referral Unit and directed to appropriate DOJ components/agencies,291,292
+NSD,Requester failed to comply with requirements,16,16
+OIP,Directed requester to another agency or entity,200,201
+OIP,Misdirected by other agency/component,1,201
+OLA,Directed requester to another agency/other entity,6,9
+OLA,Deferred to another agency or component,1,9
+OLA,Document referred was not responsive,2,9
+OLP,Directed requester to another agency,5,6
+OLP,Misdirected by other agency/component,1,6
+OPR,OPR's new computer system erroneously assigned multiple FOIA numbers,6,6
+Public Affairs,Directed requester to another agency,2,3
+Public Affairs,Deferred to other agency/component,1,3
+TAX,Access granted by reading room,6,7
+TAX,Mail returned unclaimed,1,7
+USMS,No forwarding address,12,18
+USMS,Access granted by alternative means.  Routine use requests -- information available on DOJ/USMS internet sites,6,18
+USNCB,Third party request without consent,15,19
+USNCB,Unable to locate requester,2,19
+USNCB,Requests for foreign or U.S. police assistance,2,19
+USPC,Parole hearing tapes could not be sent to prisoner/requester because of policy of institution in which he was incarcerated,1,1
+OIG,0,0,0
+OIG,Request referred to another DOT component,5,5
+OIG,Request Misdirected and Withdrawn,13,13
+OIG,Unable to locate requester,1,2
+OIG,Sent in error,1,2
+OIG,Not applicable,0,0
+OIG,Records referred were not related or indexed to the requester,3,3
+OIG,No response from Requester,4,5
+OIG,Records  on OIG Webpage,1,5
+OIG,None,0,0
+OLC,N/A,0,0
+OIG,NA - Other reason was not relied on for denials.,0,0
+Total,0,1428,8667

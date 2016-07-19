@@ -1,0 +1,36 @@
+Component,Description,No. of Times Used,Total
+OIG,0,0,0
+OIG,Request referred to another DOT component,5,5
+OIG,Request Misdirected and Withdrawn,13,13
+OIG,Unable to locate requester,1,2
+OIG,Sent in error,1,2
+BIA,Consent form not provided,8,30
+BIA,Unable to locate requester/mail returned,1,30
+BIA,Requester failed to provide requested clarification,5,30
+BIA,Litigation,4,30
+BIA,Assigned to other bureau/office for response,12,30
+BLM,Assigned to other bureau/office for response,1,5
+BLM,Request administratively closed,2,5
+BLM,Requester failed to provide requested clarification,2,5
+BOR,Requester failed to provide requested clarification,1,7
+BOR,Request administratively closed,3,7
+BOR,Assigned to other bureau/office for response,3,7
+FWS,Assigned to other bureau/office for response,74,94
+FWS,Request administratively closed,1,94
+FWS,Requester failed to provide requested clarification,19,94
+MMS,Requester failed to provide requested clarification,3,3
+NPS,Request administratively closed,11,22
+NPS,Assigned to other bureau/office for response,6,22
+NPS,Requester failed to provide requested clarification,5,22
+OIG,Not applicable,0,0
+OS,Not applicable,0,0
+OSM,Not applicable,0,0
+SOL,Not applicable,0,0
+USGS,Not applicable,0,0
+OIG,Records referred were not related or indexed to the requester,3,3
+OIG,Records  on OIG Webpage,1,5
+OIG,No response from Requester,4,5
+OS,N/A,0,0
+OIG,None,0,0
+OIG,NA - Other reason was not relied on for denials.,0,0
+Total,0,189,572

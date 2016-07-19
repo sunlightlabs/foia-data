@@ -1,0 +1,33 @@
+Component,Description,No. of Times Used,Total
+IG,0,0,0
+BVA,Not an agency record,1,4
+BVA,Not a proper FOIA request for some other reason,2,4
+BVA,Referrals,1,4
+CFM,Not an agency record,3,8
+CFM,Not a proper FOIA request for some other reason,4,8
+CFM,Referrals,1,8
+GC,Not a proper FOIA request for some other reason,1,1
+IG,Not a proper FOIA request for some other reason,10,28
+IG,Not an agency record,11,28
+IG,Referrals,7,28
+NCA,Not a proper FOIA request for some other reason,2,4
+NCA,Referrals,2,4
+OAL,Not a proper FOIA request for some other reason,1,4
+OAL,Referrals,3,4
+OASP&IA,Not a proper FOIA request for some other reason,1,1
+OF,Referrals,1,1
+OI&T,Not an agency record,13,42
+OI&T,Not a proper FOIA request for some other reason,29,42
+PA,Referrals,1,1
+VBA,Not an agency record,6,1071
+VBA,Not a proper FOIA request for some other reason,180,1071
+VBA,Requestor died before request was completed,4,1071
+VBA,Referrals,881,1071
+VHA,Not an agency record,11,500
+VHA,Subsumed by litigation,5,500
+VHA,Glomar response,4,500
+VHA,Requestor died before request was completed,30,500
+VHA,Referrals,40,500
+VHA,Not a proper FOIA request for some other reason,410,500
+MGMT,Records Publicly Available,6,6
+Total,0,1671,7514

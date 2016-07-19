@@ -1,0 +1,61 @@
+Component,Description,No. of Times Used,Total
+OIG,N/A,0,0
+OIG,Transferred within DOT,6,6
+OIG,Verification of Identity Not Provided,6,6
+OIG,Coordinated by another processing office,1,4
+OIG,Unable to locate requester,2,4
+OIG,Records Publicly Available,1,4
+OIG,N/A,0,0
+SOL,N/A,0,0
+ADJ BDS,N/A,0,0
+ALJ,Records distroyed in accordance with approved schedule,1,4
+ALJ,Request not perfected,2,4
+ALJ,Misrouted request,1,4
+ASP,Request not perfected,6,6
+OPA,N/A,0,0
+CFO,N/A,0,0
+EBSA,Privacy Act,2,7
+EBSA,Request not perfected,5,7
+ETA,N/A,0,0
+ILAB,N/A,0,0
+BLS,Misrouted request,2,2
+MSHA,Misrouted request,54,54
+OSHA,Records distroyed in accordance with approved schedule,21,452
+OSHA,Misrouted request,41,452
+OSHA,Request Transferred,62,452
+OSHA,Privacy Act,3,452
+OSHA,Case file still open,189,452
+OSHA,Information available on web,3,452
+OSHA,Request not perfected,40,452
+OSHA,Under contest/investgation,84,452
+OSHA,Requester was asked to narrow scope with no response,9,452
+OASAM,Request not perfected,1,3
+OASAM,Information available on web,1,3
+OASAM,Misrouted request,1,3
+OCIA,N/A,0,0
+ODEP,N/A,0,0
+OIG,Records referred not related or indexed to the requester,3,3
+SOL,Request not perfected,2,8
+SOL,Misrouted request,5,8
+SOL,Information available on web,1,8
+VETS,Information available on web,1,64
+VETS,Request not perfected,34,64
+VETS,Misrouted request,29,64
+WB,Misrouted request,1,1
+OIG,N/A,0,0
+OIG,Administrative Closures - based on Response and Non response to continued interested calls and correspondence,6,11
+OIG,Available on the Internet,5,11
+OIG,Glomar Response.,9,10
+OIG,No Authorization to Release Records.,1,10
+OFCCP,N/A,0,0
+OLMS,Misrouted request,1,1
+OWCP,Privacy Act,1,20
+OWCP,Request not perfected,16,20
+OWCP,Misrouted request,3,20
+WHD,Misrouted request,61,69
+WHD,Request not perfected,8,69
+OIG,Referral page(s),167,167
+OSEC,Misrouted request,3,3
+EXEC SEC,Departmental Search Conducted (not a request for processing),79,79
+OIG,N/A,0,0
+Total,0,980,4899

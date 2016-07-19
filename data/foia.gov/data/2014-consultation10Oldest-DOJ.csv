@@ -1,0 +1,19 @@
+Component,,10th,9th,8th,7th,6th,5th,4th,3rd,2nd,Oldest Request
+Office of the AG,Date of Receipt,,,,,,,,,2014-09-24,2014-09-19
+Office of the AG,Number of Days Pending,,,,,,,,,0,7
+ATF,Date of Receipt,2014-07-22,2014-06-24,2014-05-08,2014-04-15,2014-04-08,2014-03-12,2014-02-07,2014-01-14,2014-01-07,2013-12-13
+ATF,Number of Days Pending,49,68,100,117,122,141,163,180,185,200
+Criminal,Date of Receipt,2013-11-01,2013-10-25,2013-10-25,2013-10-24,2013-10-17,2013-09-06,2013-07-23,2013-07-23,2013-07-22,2013-04-24
+Criminal,Number of Days Pending,228,233,233,234,239,267,299,299,300,361
+DEA,Date of Receipt,2014-09-03,2014-08-29,2014-08-26,2014-08-13,2014-07-14,2014-07-11,2014-06-26,2014-06-25,2014-06-24,2014-04-15
+DEA,Number of Days Pending,19,21,24,33,55,56,66,67,68,117
+EOUSA,Date of Receipt,2014-01-14,2014-01-14,2014-01-14,2014-01-02,2013-12-05,2013-11-26,2013-11-19,2013-11-04,2013-10-31,2013-10-31
+EOUSA,Number of Days Pending,180,180,180,188,206,212,217,227,229,229
+FBI,Date of Receipt,2013-10-21,2013-09-03,2013-08-21,2013-08-20,2013-08-19,2013-06-14,2013-06-03,2012-12-05,2012-12-03,2012-11-14
+FBI,Number of Days Pending,237,270,278,279,280,325,332,456,458,470
+OIP,Date of Receipt,,,,,,,,,,2014-09-23
+OIP,Number of Days Pending,,,,,,,,,,5
+OLA,Date of Receipt,,,,,,,,,,2014-09-24
+OLA,Number of Days Pending,,,,,,,,,,4
+Public Affairs,Date of Receipt,,,,,,,,,,2014-06-03
+Public Affairs,Number of Days Pending,,,,,,,,,,83

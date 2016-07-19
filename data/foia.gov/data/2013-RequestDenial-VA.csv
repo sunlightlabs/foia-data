@@ -1,0 +1,8 @@
+Component,Description,No. of Times Used,Total
+VBA,Requester died before request was completed,1,1
+VHA,Litigation,1,14
+VHA,Requester died before request was completed,13,14
+SEC,Referred to the web,173,375
+SEC,Cancelled*,70,375
+SEC,Records lost or destroyed,132,375
+Total,0,390,1154

@@ -1,0 +1,90 @@
+Component,Description,No. of Times Used,Total
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,Opened in Error,8,8
+OIG,N/A,0,0
+OS,Publicly Available Information,13,14
+OS,Request Opened in Error,1,14
+OIG,N/A,0,0
+OIG,Unable to locate requester,2,5
+OIG,Opened in Error,3,5
+BIA,Unable to locate requester,27,92
+BIA,Assigned to other bureau/office for response,11,92
+BIA,Directed Requester to Another Entity Subject to the FOIA,3,92
+BIA,Requester failed to provide requested clarification,45,92
+BIA,Publicly Available Information,2,92
+BIA,Request Opened in Error,4,92
+BLM,Directed Requester to Another Entity Subject to the FOIA,1,67
+BLM,Unable to locate requester,4,67
+BLM,Request Opened in Error,4,67
+BLM,Request administratively closed,12,67
+BLM,Publicly Available Information,10,67
+BLM,Assigned to other bureau/office for response,13,67
+BLM,Requester failed to provide requested clarification,23,67
+BOR,Unable to locate requester,2,69
+BOR,Assigned to other bureau/office for response,45,69
+BOR,Publicly Available Information,2,69
+BOR,Requester failed to provide requested clarification,11,69
+BOR,Request Opened in Error,7,69
+BOR,Request administratively closed,2,69
+FWS,Requester failed to provide requested clarification,30,101
+FWS,Unable to locate requester,7,101
+FWS,Request Opened in Error,9,101
+FWS,Directed Requester to Another Entity Subject to the FOIA,4,101
+FWS,Publicly Available Information,8,101
+FWS,Assigned to other bureau/office for response,32,101
+FWS,Request administratively closed,11,101
+NPS,Assigned to other bureau/office for response,3,52
+NPS,Unable to locate requester,12,52
+NPS,Request Opened in Error,1,52
+NPS,Directed Requester to Another Entity Subject to the FOIA,1,52
+NPS,Requester failed to provide requested clarification,31,52
+NPS,Request administratively closed,4,52
+OIG,Request administratively closed,2,8
+OIG,Assigned to other bureau/office for response,1,8
+OIG,Requester failed to provide requested clarification,4,8
+OIG,Publicly Available Information,1,8
+OS,Assigned to other bureau/office for response,24,77
+OS,Requester failed to provide requested clarification,5,77
+OS,Directed Requester to Another Entity Subject to the FOIA,17,77
+OS,Request administratively closed,6,77
+OS,Unable to locate requester,1,77
+OS,Publicly Available Information,21,77
+OS,Request Opened in Error,3,77
+OSM,Requester failed to provide requested clarification,3,7
+OSM,Unable to locate requester,1,7
+OSM,Assigned to other bureau/office for response,2,7
+OSM,Directed Requester to Another Entity Subject to the FOIA,1,7
+SOL,Request administratively closed,1,17
+SOL,Unable to locate requester,7,17
+SOL,Assigned to other bureau/office for response,4,17
+SOL,Directed Requester to Another Entity Subject to the FOIA,5,17
+USGS,Assigned to other bureau/office for response,3,21
+USGS,Requester failed to provide requested clarification,3,21
+USGS,Unable to locate requester,1,21
+USGS,Publicly Available Information,9,21
+USGS,Directed Requester to Another Entity Subject to the FOIA,4,21
+USGS,Request Opened in Error,1,21
+OIG,N/A,0,0
+SOL,N/A,0,0
+OCIO,N/A,0,0
+OIG,N/A,0,0
+OS,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,Request Opened in Error,8,8
+OIG,N/A,0,0
+OIG,N/A,0,0
+BOEM,Publicly Available Information,1,29
+BOEM,Assigned to other bureau/office for response,23,29
+BOEM,Requester failed to provide requested clarification,5,29
+BSEE,Request administratively closed,2,23
+BSEE,Request Opened in Error,1,23
+BSEE,Requester failed to provide requested clarification,8,23
+BSEE,Directed Requester to Another Entity Subject to the FOIA,4,23
+BSEE,Assigned to other bureau/office for response,6,23
+BSEE,Publicly Available Information,2,23
+OIG,N/A,0,0
+Total,0,598,3526

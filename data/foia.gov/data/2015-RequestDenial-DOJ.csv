@@ -1,0 +1,85 @@
+Component,Description,No. of Times Used,Total
+Office of the AG,Referred Documents Not Responsive,1,13
+Office of the AG,Referred Records Improperly Directed,1,13
+Office of the AG,Directed Requester to Another Entity Subject to the FOIA,11,13
+Office of the DAG,Referred Documents Not Responsive,2,5
+Office of the DAG,Directed Requester to Another Entity Subject to the FOIA,2,5
+Office of the DAG,Referred Records Improperly Directed,1,5
+Office of the Assoc. AG,Directed Requester to Another Entity Subject to the FOIA,1,2
+Office of the Assoc. AG,Referred Records Improperly Directed,1,2
+Antitrust,N/A,0,0
+ATF,Referred Records Improperly Directed,1,24
+ATF,Unable to locate requester,8,24
+ATF,Request Opened in Error,15,24
+BOP,N/A,0,0
+Civil,Request Opened in Error,1,1
+Civil Rights,N/A,0,0
+COPS,N/A,0,0
+Criminal,Closed in litigation,6,247
+Criminal,Directed Requester to Another Entity Subject to the FOIA,233,247
+Criminal,Referred Documents Not Responsive,3,247
+Criminal,Referred Records Improperly Directed,5,247
+CRS,N/A,0,0
+DEA,Waived FOIA Rights,1,21
+DEA,Referred Documents Not Responsive,6,21
+DEA,Unable to locate requester,11,21
+DEA,Closed in litigation,3,21
+ENRD,N/A,0,0
+EOIR,N/A,0,0
+EOUSA,Court Sealed,17,146
+EOUSA,FOIA rights waived,80,146
+EOUSA,Directed Requester to Another Entity Subject to the FOIA,38,146
+EOUSA,Unable to locate requester,11,146
+EOUST,N/A,0,0
+FBI,Court Sealed,2,1151
+FBI,Unable to locate requester,14,1151
+FBI,Directed Requester to Another Entity Subject to the FOIA,594,1151
+FBI,Closed in litigation,283,1151
+FBI,Request Opened in Error,121,1151
+FBI,Referred Documents Not Responsive,8,1151
+FBI,Unable to Provide Records to Inmate Requester,129,1151
+FCSC,N/A,0,0
+JMD,Directed Requester to Another Entity Subject to the FOIA,1,1
+NSD,Closed in litigation,1,1
+OIG,N/A,0,0
+OIP,Referred Records Improperly Directed,19,191
+OIP,Directed Requester to Another Entity Subject to the FOIA,172,191
+OJP,N/A,0,0
+OLA,Directed Requester to Another Entity Subject to the FOIA,3,4
+OLA,Referred Records Improperly Directed,1,4
+OLC,N/A,0,0
+OLP,Directed Requester to Another Entity Subject to the FOIA,8,8
+OPR,Directed Requester to Another Entity Subject to the FOIA,32,32
+OSG,N/A,0,0
+OVW,N/A,0,0
+Pardon Attorney,N/A,0,0
+Public Affairs,Referred Documents Not Responsive,1,1
+PRAO,N/A,0,0
+TAX,N/A,0,0
+USMS,Closed in litigation,1,9
+USMS,Unable to locate requester,8,9
+USNCB,N/A,0,0
+USPC,N/A,0,0
+OIG,N/A,0,0
+OIG,Opened in Error,8,8
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,Unable to locate requester,2,5
+OIG,Opened in Error,3,5
+OIG,Assigned to other bureau/office for response,1,8
+OIG,Requester failed to provide requested clarification,4,8
+OIG,Publicly Available Information,1,8
+OIG,Request administratively closed,2,8
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OCDETF,Referred Documents Not Responsive,1,1
+OIG,N/A,0,0
+OIG,Request Opened in Error,8,8
+OIG,N/A,0,0
+OLA,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+Total,0,1887,10354

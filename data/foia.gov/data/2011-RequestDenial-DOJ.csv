@@ -1,0 +1,77 @@
+Component,Description,No. of Times Used,Total
+Office of the AG,Referred Records Improperly Directed,2,55
+Office of the AG,Referred Records Not Responsive,9,55
+Office of the AG,Directed requester to another agency or entity,44,55
+Office of the DAG,Referred Records Improperly Directed,5,22
+Office of the DAG,Directed requester to another agency or entity,11,22
+Office of the DAG,Referred Records Not Responsive,6,22
+Office of the Assoc. AG,Recommend More Appropriate Entity,5,5
+Antitrust,N/A,0,0
+ATF,Unable to locate requester,10,10
+BOP,N/A,0,0
+Civil,N/A,0,0
+Civil Rights,Unable to locate requester,1,1
+COPS,N/A,0,0
+Criminal,N/A,0,0
+CRS,N/A,0,0
+DEA,Unable to locate requester,20,30
+DEA,Closed in litigation,10,30
+ENRD,N/A,0,0
+EOIR,Closed in litigation,3,4
+EOIR,Unable to locate requester,1,4
+EOUSA,Burdensome search,2,93
+EOUSA,Closed in litigation,1,93
+EOUSA,Unable to Provide Contraband to Inmate,1,93
+EOUSA,FOIA rights waived,69,93
+EOUSA,Unable to locate requester,11,93
+EOUSA,Court Sealed,9,93
+EOUST,Directed requester to another agency or entity,2,2
+FBI,N/A,0,0
+FCSC,N/A,0,0
+JMD,Referred Records Not Responsive,3,3
+NDIC,N/A,0,0
+NSD,Referred Records Not Responsive,1,2
+NSD,Closed in litigation,1,2
+ODR,N/A,0,0
+OFDT,N/A,0,0
+OIG,N/A,0,0
+OIP,Referred Records Not Responsive,1,131
+OIP,Referred Records Improperly Directed,39,131
+OIP,Directed requester to another agency or entity,91,131
+OIPL,Directed requester to another agency or entity,3,3
+OJP,N/A,0,0
+OLA,Referred Records Not Responsive,2,6
+OLA,Referred Records Improperly Directed,1,6
+OLA,Directed requester to another agency or entity,3,6
+OLC,Unable to locate requester,2,3
+OLC,Closed in litigation,1,3
+OLP,Directed requester to another agency or entity,6,6
+OPR,N/A,0,0
+OSG,N/A,0,0
+OVW,Directed requester to another agency or entity,1,1
+Pardon Attorney,N/A,0,0
+Public Affairs,Referred Records Improperly Directed,1,3
+Public Affairs,Directed requester to another agency or entity,2,3
+PRAO,N/A,0,0
+TAX,N/A,0,0
+USMS,Unable to locate requester,7,7
+USNCB,Referred Records Not Responsive,3,3
+USPC,N/A,0,0
+OIG,N/A,0,0
+OIG,Transferred within DOT,3,3
+OIG,N/A,0,0
+OIG,Requester Address Not Provided Upon Request,1,8
+OIG,Verification of Identity Not Provided,7,8
+OIG,Unable to locate requester,2,2
+OIG,Not applicable.,0,0
+OIG,Records located were not responsive to the request,3,3
+OIG,No response to still interested letter.,18,20
+OIG,Administrative Closures,2,20
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OCDETF,N/A,0,0
+OIG,Glomarization,13,20
+OIG,No authorization to release records,7,20
+OIG,N/A,0,0
+Total,0,446,1429

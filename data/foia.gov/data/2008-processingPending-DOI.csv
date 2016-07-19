@@ -1,0 +1,14 @@
+Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
+,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days
+BIA,0,0,0,121,,150.62,0,0,0
+BLM,0,0,0,104,,70.84,0,0,0
+BOR,1,0,0,21,,52.05,0,0,0
+FWS,0,0,0,108,,114.52,1,1,1
+MMS,0,0,0,24,,54.63,0,0,0
+NPS,0,0,0,54,,95.22,1,8,8
+OIG,2,197.5,197.5,261,,839.43,0,0,0
+OS,0,0,0,69,,64,0,0,0
+OSM,0,0,0,3,,43,0,0,0
+SOL,74,293,261,0,,,0,0,0
+USGS,0,0,0,1,,20,0,0,0
+Total,77,1,1,725,0,366,2,5,5

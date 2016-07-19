@@ -1,0 +1,14 @@
+Component,Description,No. of Times Used,Total
+HQ,Headquarters,3,3
+OIG,Office of the Inspector General,0,0
+R01,Region 1 - Boston,0,0
+R02,Region 2 - New York,0,0
+R03,Region 3 - Philadelphia,0,0
+R04,Region 4 - Atlanta,0,0
+R05,Region 5 - Chicago,0,0
+R06,Region 6 - Fort Worth,0,0
+R07,Region 7 - Kansas,0,0
+R08,Region 8 - Denver,0,0
+R09,Region 9 - San Fracisco,1,1
+R0X,Region 10 -Seattle,0,0
+Total,0,4,4

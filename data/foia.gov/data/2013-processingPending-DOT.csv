@@ -1,0 +1,15 @@
+Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
+,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days
+FAA,642,16,78,180,29,90,2,15,15
+FHWA,47,26,88,2,18,18,4,10,42
+FMCSA,253,25,28,134,36,43,0,,
+FRA,0,,,102,62,111,0,,
+FTA,24,22,45,0,,,0,,
+MARAD,51,210,269,14,87,111,0,,
+NHTSA,14,18,93,20,124,157,0,,
+OIG,20,38,38,6,68,99,0,,
+OST,3,53,57,69,105,167,0,,
+PHMSA,2,221,221,66,63,125,12,254,258
+RITA,3,7,147,1,90,90,0,,
+SLSDC,0,,,0,,,0,,
+Total,1059,47,95,594,52,111,18,117,188

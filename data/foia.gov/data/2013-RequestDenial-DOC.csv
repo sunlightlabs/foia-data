@@ -1,0 +1,34 @@
+Component,Description,No. of Times Used,Total
+OIG,N/A,0,0
+OIG,Transferred outside of DOT,1,13
+OIG,Transferred to another DOT component,12,13
+OS,Publicly Available Information,6,7
+OS,Responded to outside of FOIA,1,7
+Census,Appeal - Processed at DOC,1,23
+Census,Response returned by USPS,1,23
+Census,Publicly Available Information,13,23
+Census,The Department FOIA Office took the lead on the request and its was reopened separately,8,23
+NIST,"Request referrals returned to another agency for direct response to requester, as the requests did not involve NIST",2,2
+NOAA,Appeal - Processed at DOC,2,13
+NOAA,Publicly Available Information,11,13
+OIG,FOIA Misdirected,1,1
+OIG,Records Publicly Available,2,2
+OIG,Request administratively closed,6,7
+OIG,Assigned to other bureau/office for response,1,7
+OS,Assigned to other bureau/office for response,27,47
+OS,Requester failed to provide requested clarification,4,47
+OS,Requester failed to provide written consent of subject individual,1,47
+OS,Request administratively closed,15,47
+OIG,N/A,0,0
+OIG,Records on website,4,24
+OIG,Administratively Closed - Based on response/non-response due to continued interest calls and correspondence,20,24
+OS,Administrative Closure - Based on Response and Non Response to Continued Interest calls and Correspondence,24,32
+OS,In Litigation,4,32
+OS,Referred to website,4,32
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+Total,0,171,509

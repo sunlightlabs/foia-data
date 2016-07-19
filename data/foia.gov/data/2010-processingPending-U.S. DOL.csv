@@ -1,0 +1,25 @@
+Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
+,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days
+ADJ BDS,1,410,410,0,0,0,0,0,0
+ALJ,0,0,0,3,8,6.7,0,0,0
+ASP,0,0,0,16,740,671.4,0,0,0
+BLS,4,6,6,0,0,0,0,0,0
+CFO,0,0,0,2,158,158.5,0,0,0
+EBSA,42,6,5.3,17,8,12.2,0,0,0
+ETA,16,3,4.4,47,11,16.1,0,0,0
+ILAB,0,0,0,0,0,0,0,0,0
+MSHA,0,0,0,194,24,55.4,9,77,69.9
+OASAM,0,0,0,41,60,76.21,0,0,0
+OCIA,0,0,0,0,0,0,0,0,0
+ODEP,0,0,0,0,0,0,0,0,0
+OFCCP,0,0,0,13,36,70.5,0,0,0
+OIG,1,209,209,8,72,140,0,0,0
+OLMS,0,0,0,3,20,6.8,0,0,0
+OPA,5,486,480,0,0,0,0,0,0
+OSHA,120,11,44.4,164,27,71,2,16,16.5
+OWCP,2,195,195.5,4,80,114.1,0,0,0
+SOL,0,0,0,23,268,203.1,0,0,0
+VETS,1,10,10,6,4,7.98,1,9,9
+WB,0,0,0,0,0,0,0,0,0
+WHD,56,16,43,141,22,60.3,1,8,8
+Total,248,0,64,682,16,76,13,0,5

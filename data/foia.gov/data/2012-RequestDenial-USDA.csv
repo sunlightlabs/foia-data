@@ -1,0 +1,51 @@
+Component,Description,No. of Times Used,Total
+OIG,N/A,0,0
+OIG,Transferred within DOT,6,6
+OGC,N/A,0,0
+OIG,Verification of Identity Not Provided,6,6
+OIG,Coordinated by another processing office,1,4
+OIG,Unable to locate requester,2,4
+OIG,Records Publicly Available,1,4
+OGC,N/A,0,0
+OIG,N/A,0,0
+OIG,Records referred not related or indexed to the requester,3,3
+FSA,N/A,0,0
+OCFO,N/A,0,0
+OGC,N/A,0,0
+OIG,N/A,0,0
+OIG,Administrative Closures - based on Response and Non response to continued interested calls and correspondence,6,11
+OIG,Available on the Internet,5,11
+OGC,N/A,0,0
+APHIS,N/A,0,0
+FNCS,N/A,0,0
+OIG,No Authorization to Release Records.,1,10
+OIG,Glomar Response.,9,10
+FSA,Requester Referred to Public Website.,8,19
+FSA,Glomar Response.,1,19
+FSA,Records Not Available in Format Requested.,10,19
+OCFO,N/A,0,0
+DM,N/A,0,0
+NRCS,N/A,0,0
+AMS,Requester failed to comply with multiple requests for clarification.,8,8
+OGC,N/A,0,0
+RD,N/A,0,0
+REE,N/A,0,0
+RMA,N/A,0,0
+FAS,N/A,0,0
+OBPA,N/A,0,0
+GIPSA,N/A,0,0
+FS,Requester failed to comply with multiple requests for clarification.,59,59
+ASCR,N/A,0,0
+FSIS,N/A,0,0
+NAD,N/A,0,0
+OGC,unable to locate record.,1,6
+OGC,records retired to NARA,1,6
+OGC,retired to NARA Archived records,1,6
+OGC,retired to NARA,1,6
+OGC,Not in scope,1,6
+OGC,unable to locate retirement information,1,6
+OIG,Referral page(s),167,167
+OSEC,Misrouted request,3,3
+OSEC/OCIO,N/A,0,0
+OIG,N/A,0,0
+Total,0,302,399

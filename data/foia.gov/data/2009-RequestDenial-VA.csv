@@ -1,0 +1,13 @@
+Component,Description,No. of Times Used,Total
+IG,0,0,0
+OAL,4th QTR FY 08 sales info not available at time of request,2,77
+OAL,Unable to verify requests or not response from requestors,75,77
+VBA,Requestor died before request was completed,1,14
+VBA,"Need death, birth or marriage certificate to release records",13,14
+VHA,Subsummed by Litigation,4,189
+VHA,Glomar,2,189
+VHA,Publicly Available,50,189
+VHA,Patient Died,24,189
+VHA,Medically Sensitive,109,189
+MGMT,Records Publicly Available,2,2
+Total,0,282,1129

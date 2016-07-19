@@ -1,0 +1,59 @@
+Component,Description,No. of Times Used,Total
+OIG,N/A,0,0
+OLA,Referred Records Not Responsive,5,8
+OLA,Directed requester to another agency or entity,3,8
+OIG,Request referred to another DOT component,5,5
+OGC,0,0,0
+OIG,Not a proper FOIA request for some other reason,1,3
+OIG,Referrals,2,3
+OIG,Verification of Identity Not Provided,2,4
+OIG,Request Misdirected,2,4
+CBP,Coordinated by Another Office,10,32
+CBP,Unable to locate requester,12,32
+CBP,Records Publicly Available,10,32
+FEMA,Records Publicly Available,6,23
+FEMA,Coordinated by Another Office,16,23
+FEMA,Aggregated,1,23
+FLETC,Nonresponsive to Requests for Additional Information,28,28
+ICE,Litigation,3,30
+ICE,Fugitive,20,30
+ICE,Unable to locate requester,7,30
+MGMT,Records Publicly Available,6,6
+OIG,Records Publicly Available,1,6
+OIG,Coordinated by Another Office,1,6
+OIG,Nonresponsive to Requests for Additional Information,1,6
+OIG,Defer to other Agency recommendation,1,6
+OIG,Unable to locate requester,2,6
+OGC,Litigation,4,4
+PRIV,Records Publicly Available,8,31
+PRIV,Aggregated,15,31
+PRIV,Sent in error,1,31
+PRIV,Nonresponsive records referred,1,31
+PRIV,Redress,1,31
+PRIV,Coordinated by Another Office,5,31
+TSA,Coordinated by Another Office,1,3
+TSA,Records Publicly Available,1,3
+TSA,Unable to locate requester,1,3
+USCG,Litigation,1,20
+USCG,Sent in error,18,20
+USCG,Nonresponsive to Requests for Additional Information,1,20
+USCIS,Unable to Locate Records,120,120
+USSS,Previously Furnished,2,2
+OIG,N/A,0,0
+OIG,Records located were not responsive to the request.,2,2
+OIG,Administratively Closed,5,22
+OIG,Enjoined from Release by Court Order,2,22
+OIG,Records on OIG Website,8,22
+OIG,No Response from Requestor,7,22
+OGC,0,0,0
+OIG,0,0,0
+OIG,No authorization to release records,4,6
+OIG,Glomarization,2,6
+OGC,Requester left no forwarding address,1,1
+OIG,Clarification and no longer interest,3,3
+OGC,too broad.,1,7
+OGC,unable to locate records.,4,7
+OGC,records retired to NARA,1,7
+OGC,records previously provided under case 10-226F,1,7
+OIG,N/A,0,0
+Total,0,366,869

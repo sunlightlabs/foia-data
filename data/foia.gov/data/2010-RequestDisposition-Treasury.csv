@@ -1,0 +1,14 @@
+Component,No. of Full Grants,No. of Partial Grants/ Partial Denials,No. of Full Denials Based on Exemptions,Number of Full Denials Based on Reasons Other than Exemptions,Number of Full Denials Based on Reasons Other than Exemptions,Number of Full Denials Based on Reasons Other than Exemptions,Number of Full Denials Based on Reasons Other than Exemptions,Number of Full Denials Based on Reasons Other than Exemptions,Number of Full Denials Based on Reasons Other than Exemptions,Number of Full Denials Based on Reasons Other than Exemptions,Number of Full Denials Based on Reasons Other than Exemptions,Number of Full Denials Based on Reasons Other than Exemptions,Total
+,,,,No Records,All Records Referred,Request Withdrawn,Fee-Related Reason,Not Reasonably Described,Improper FOIA request,Not Agency Record,Duplicate Request,Other
+BEP,38,7,2,22,7,2,2,0,2,0,0,0,82
+BPD,37,21,4,36,15,1,0,1,6,12,1,0,134
+DO,76,182,24,55,1501,67,150,60,121,41,27,34,2338
+FinCEN,10,47,95,32,8,0,0,0,0,4,1,0,197
+FMS,47,95,59,18,9,4,29,7,1,38,0,14,321
+IRS,4463,2124,176,1204,180,157,142,751,2987,52,64,0,12300
+MINT,55,17,2,23,4,4,7,2,12,1,0,0,127
+OCC,1337,153,85,50,13,20,1,11,1,149,22,84,1926
+OTS,420,124,30,68,0,36,0,9,33,31,1,26,778
+TIGTA,16,116,5,27,3,4,1,2,66,23,4,0,267
+TTB,16,26,9,21,9,5,4,0,0,2,2,0,94
+Total,6515,2912,491,1556,1749,300,336,843,3229,353,122,158,18564

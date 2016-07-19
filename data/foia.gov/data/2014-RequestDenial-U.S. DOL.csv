@@ -1,0 +1,48 @@
+Component,Description,No. of Times Used,Total
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,Transferred to another DOT component,9,9
+OIG,Unable to locate requester,2,2
+OIG,Assigned to other bureau/office for response,1,17
+OIG,Requester did not respond to the bureau's communications/unable to locate requester,5,17
+OIG,Requester failed to provide written consent of subject individual,1,17
+OIG,Requester failed to provide requested clarification,5,17
+OIG,Request administratively closed,5,17
+SOL,Request administratively closed,1,8
+SOL,Assigned to other bureau/office for response,7,8
+ADJ BDS,N/A,0,0
+ALJ,N/A,0,0
+ASP,N/A,0,0
+OPA,N/A,0,0
+CFO,N/A,0,0
+EBSA,N/A,0,0
+ETA,N/A,0,0
+ILAB,N/A,0,0
+BLS,N/A,0,0
+MSHA,N/A,0,0
+OSHA,N/A,0,0
+OASAM,Request Transferred,9,9
+OCIA,N/A,0,0
+ODEP,N/A,0,0
+OIG,Records referred not related or indexed to requester,2,2
+SOL,Department provided a consolidated response,3,3
+VETS,Department provided a consolidated response,2,2
+WB,N/A,0,0
+OIG,N/A,0,0
+OIG,Administrative Closure- Based on response/non-response to continued interest correspondence,20,21
+OIG,In Litigation,1,21
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,Not applicable.,0,0
+OFCCP,N/A,0,0
+OLMS,N/A,0,0
+OWCP,N/A,0,0
+WHD,Department provided a consolidated response,7,7
+OIG,N/A,0,0
+OIG,N/A,0,0
+OIG,In Litigation,1,1
+OSEC,N/A,0,0
+EXEC SEC,N/A,0,0
+OIG,N/A,0,0
+OIG,N/A,0,0
+Total,0,81,178

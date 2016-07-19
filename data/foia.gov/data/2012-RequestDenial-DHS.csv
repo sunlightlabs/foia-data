@@ -1,0 +1,67 @@
+Component,Description,No. of Times Used,Total
+OIG,N/A,0,0
+OLA,Referred Documents Not Responsive,5,9
+OLA,Referred Records Improperly Directed,1,9
+OLA,Directed requester to another agency or entity,3,9
+OIG,Transferred within DOT,6,6
+OGC,N/A,0,0
+OIG,Verification of Identity Not Provided,6,6
+CBP,Coordinated by another processing office,49,91
+CBP,Records Publicly Available,36,91
+CBP,Unable to locate requester,6,91
+CRCL,N/A,0,0
+FEMA,Nonresponsive to Requests for Additional Information,323,323
+FLETC,Glomar response,3,4
+FLETC,Coordinated by another processing office,1,4
+I&A,Aggregated,1,4
+I&A,Records Publicly Available,3,4
+ICE,Litigation,4,79
+ICE,Fugitive,75,79
+MGMT,Records Publicly Available,1,1
+NPPD,Records Publicly Available,3,5
+NPPD,Glomar response,2,5
+OIG,Coordinated by another processing office,1,4
+OIG,Unable to locate requester,2,4
+OIG,Records Publicly Available,1,4
+OGC,N/A,0,0
+OPS,N/A,0,0
+PLCY,N/A,0,0
+PRIV,Litigation,3,23
+PRIV,Aggregated,2,23
+PRIV,Records Publicly Available,17,23
+PRIV,Sent in error,1,23
+S&T,N/A,0,0
+TSA,Nonresponsive to Requests for Additional Information,61,107
+TSA,Records Publicly Available,3,107
+TSA,Glomar Responses,43,107
+USCG,Nonresponsive to Requests for Additional Information,10,10
+USCIS,Unable to Locate Records,23,23
+USSS,Statute of Limitation Past,22,246
+USSS,Nonresponsive to Requests for Additional Information,184,246
+USSS,Unable to locate requester,6,246
+USSS,Coordinated by Another Office,1,246
+USSS,Records referred not responsive,16,246
+USSS,Not subject to FOIA,1,246
+USSS,Sent in error,16,246
+OIG,N/A,0,0
+OPA,N/A,0,0
+CFO,N/A,0,0
+OIG,Records referred not related or indexed to the requester,3,3
+OGC,N/A,0,0
+OIG,N/A,0,0
+OIG,Administrative Closures - based on Response and Non response to continued interested calls and correspondence,6,11
+OIG,Available on the Internet,5,11
+OGC,N/A,0,0
+OIG,Glomar Response.,9,10
+OIG,No Authorization to Release Records.,1,10
+OGC,N/A,0,0
+OGC,Not in scope,1,6
+OGC,unable to locate retirement information,1,6
+OGC,unable to locate record.,1,6
+OGC,records retired to NARA,1,6
+OGC,retired to NARA Archived records,1,6
+OGC,retired to NARA,1,6
+OIG,Referral page(s),167,167
+OLA,N/A,0,0
+OIG,N/A,0,0
+Total,0,1138,3248

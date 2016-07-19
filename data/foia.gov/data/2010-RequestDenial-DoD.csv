@@ -1,0 +1,68 @@
+Component,Description,No. of Times Used,Total
+AF,Unable to contact requester,59,604
+AF,Publicly Available,57,604
+AF,Misdirected Request,126,604
+AF,Litigation,5,604
+AF,Administratively Closed,357,604
+ASBCA,N/A,0,0
+ARMY,Administratively Closed,59,359
+ARMY,Publicly Available,3,359
+ARMY,Litigation,1,359
+ARMY,Misdirected Request,296,359
+CENTCOM,Litigation,13,37
+CENTCOM,Publicly Available,1,37
+CENTCOM,Administratively Closed,23,37
+DCAA,N/A,0,0
+DCMA,Administratively Closed,38,46
+DCMA,Misdirected Requests,8,46
+DeCA,N/A,0,0
+DFAS,Administratively Closed,6,6
+DIA,Unable to contact requester,75,108
+DIA,Administratively Closed,33,108
+DISA,Administratively Closed,27,27
+DLA,Publicly Available,4,88
+DLA,Misdirected Request,76,88
+DLA,Administratively Closed,7,88
+DLA,Litigation,1,88
+DoDEA,Misdirected Request,1,1
+DoDIG,Litigation,1,1
+DSS,N/A,0,0
+DTIC,Misdirected Request,4,15
+DTIC,Administratively Closed,10,15
+DTIC,Publicly Available,1,15
+DTRA,Administratively Closed,4,8
+DTRA,Publicly Available,1,8
+DTRA,Misdirected Request,3,8
+EUCOM,N/A,0,0
+JFCOM,Misdirected Request,1,11
+JFCOM,Publicly Available,9,11
+JFCOM,Administratively Closed,1,11
+NAVY,Litigation,2,972
+NAVY,Misdirected Request,465,972
+NAVY,Administratively Closed,410,972
+NAVY,Publicly Available,95,972
+NGA,Administratively Closed,111,111
+NORTHCOM,N/A,0,0
+NRO,Publicly Available,4,7
+NRO,Misdirected Request,3,7
+NSA,Misdirected Request,9,79
+NSA,Publicly Available,11,79
+NSA,Administratively Closed,59,79
+OSD/JS,Litigation,21,544
+OSD/JS,Publicly Available,30,544
+OSD/JS,Administratively Closed,50,544
+OSD/JS,Unable to contact requester,5,544
+OSD/JS,Misdirected Request,438,544
+PACOM,Administratively Closed,5,5
+SOCOM,Administratively Closed,25,26
+SOCOM,Publicly Available,1,26
+SOUTHCOM,Litigation,4,5
+SOUTHCOM,Administratively Closed,1,5
+STRATCOM,Administratively Closed,6,17
+STRATCOM,Misdirected Request,11,17
+TRANSCOM,Publicly Available,13,18
+TRANSCOM,Administratively Closed,5,18
+TRICARE,N/A,0,0
+AFRICOM,N/A,0,0
+NGB,N/A,0,0
+Total,0,3095,12471

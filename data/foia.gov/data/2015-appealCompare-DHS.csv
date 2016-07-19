@@ -1,0 +1,13 @@
+Component,NUMBER OF APPEALS RECEIVED,NUMBER OF APPEALS RECEIVED,NUMBER OF APPEALS PROCESSED,NUMBER OF APPEALS PROCESSED
+,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
+CBP,1004,1735,991,1647,
+FEMA,16,19,17,14,
+FLETC,2,0,4,0,
+ICE,477,599,339,609,
+OGC,93,116,101,100,
+OIG,16,19,25,36,
+TSA,28,20,21,29,
+USCG,32,30,28,41,
+USCIS,1926,1987,1919,2002,
+USSS,33,154,30,156,
+Total,3627,4679,3475,4634,

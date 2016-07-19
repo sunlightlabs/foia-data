@@ -1,0 +1,23 @@
+Component,,10th,9th,8th,7th,6th,5th,4th,3rd,2nd,Oldest Request
+Office of the AG,Date of Receipt,,,,,,,,2010-07-26,2010-03-03,2009-12-28
+Office of the AG,Number of Days Pending,,,,,,,,47,148,192
+Office of the DAG,Date of Receipt,,,,,,,2010-07-28,2010-03-25,2010-03-10,2010-01-28
+Office of the DAG,Number of Days Pending,,,,,,,45,132,143,171
+Criminal,Date of Receipt,,,,,,,,,,2010-04-21
+Criminal,Number of Days Pending,,,,,,,,,,113
+DEA,Date of Receipt,2010-05-14,2010-05-13,2010-05-11,2010-04-26,2010-04-13,2010-03-10,2010-03-09,2010-03-09,2010-02-18,2007-12-20
+DEA,Number of Days Pending,96,97,99,110,119,143,144,144,157,709
+EOUSA,Date of Receipt,,,2010-09-28,2010-09-24,2010-09-15,2010-09-15,2010-07-13,2010-02-24,2010-01-13,2010-01-07
+EOUSA,Number of Days Pending,,,2,4,11,11,56,153,181,185
+FBI,Date of Receipt,2010-02-23,2010-02-22,2010-02-19,2010-01-14,2009-12-30,2009-12-30,2009-12-30,2009-12-18,2009-10-29,2009-10-28
+FBI,Number of Days Pending,154,155,156,180,190,190,190,197,231,232
+FCSC,Date of Receipt,,,,,,,,,,2010-07-26
+FCSC,Number of Days Pending,,,,,,,,,,47
+JMD,Date of Receipt,,,,,,,,,2010-09-24,2010-02-01
+JMD,Number of Days Pending,,,,,,,,,4,169
+OIP,Date of Receipt,,,,,,,,,,2009-10-27
+OIP,Number of Days Pending,,,,,,,,,,233
+OLA,Date of Receipt,,,,,,,,,,2010-01-28
+OLA,Number of Days Pending,,,,,,,,,,171
+Public Affairs,Date of Receipt,,,,,,,,2010-08-11,2010-03-10,2010-01-28
+Public Affairs,Number of Days Pending,,,,,,,,35,143,171
