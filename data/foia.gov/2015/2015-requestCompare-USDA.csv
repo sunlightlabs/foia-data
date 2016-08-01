@@ -1,13 +1,5 @@
 Component,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS PROCESSED,NUMBER OF REQUESTS PROCESSED
-,"Number of Received During 
-Fiscal Year From 
-Last Year's Annual Report","Number of Received During 
-Fiscal Year From 
-Current Annual Report","Number of Processed During 
-Fiscal Year From 
-Last Year's Annual Report","Number of Processed During 
-Fiscal Year From 
-Current Annual Report", 
+,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
 AMS,161,141,163,142,
 APHIS,993,955,798,959,
 ASCR,19,32,18,33,
@@ -27,4 +19,4 @@ OSEC/OCIO/DM,181,235,251,225,
 RD,248,260,301,485,
 REE,115,127,115,122,
 RMA,61,95,51,97,
-Total,19864,20132,19243,19559, 
+Total,19864,20132,19243,19559,

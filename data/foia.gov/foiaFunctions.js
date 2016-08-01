@@ -7,35 +7,73 @@
 	Global variables
 */
 
-var aLink=["reportRequests","reportExemptions",
-		"reportAppeals","reportProcessingTime","reportFeeWaiver",
-		"reportPersonnel","reportBacklog","reportConsultations",
-		"requestDisposition","requestDenial","requestPending",
-		"Exemption3Statutes",
-		"appealDisposition","appealDenialEx","appealDenialOther",
-		"appealDenialReason","appealResponseTime","appeal10Pending",
-     		"processingGranted","processingSimple","processingComplex",
-     		"processingExpedited","processingPending",
-     		"processing10Request","personnelCost",
-     		"consultation10Oldest","requestCompare",
-     		"requestBacklog",
-     		"appealCompare","appealBacklog",
-     		"feewaiverWaiver","reportAdministration"];
+var aLink=[
+"reportRequests",
+"reportExemptions",
+"reportAppeals",
+"reportProcessingTime",
+"reportFeeWaiver",
+"reportPersonnel",
+"reportBacklog",
+"reportConsultations",
+"requestDisposition",
+"requestDenial",
+"requestPending",
+"Exemption3Statutes",
+"appealDisposition",
+"appealDenialEx",
+"appealDenialOther",
+"appealDenialReason",
+"appealResponseTime",
+"appeal10Pending",
+"processingGranted",
+"processingSimple",
+"processingComplex",
+"processingExpedited",
+"processingPending",
+"processing10Request",
+"personnelCost",
+"consultation10Oldest",
+"requestCompare",
+"requestBacklog",
+"appealCompare",
+"appealBacklog",
+"feewaiverWaiver",
+"reportAdministration"];
 
-var jspLink=["foia/Services/DataRequest.jsp?","foia/Services/DataExemption.jsp?",
-		"foia/Services/DataAppeal.jsp?","foia/Services/DataProcessTime.jsp?","foia/Services/DataFeewaiver.jsp?",
-		"foia/Services/DataPerson.jsp?","foia/Services/DataBacklog.jsp?","foia/Services/DataConsultant.jsp?",
-		"foia/Services/RequestDisposition.jsp?","foia/Services/RequestDenial.jsp?","foia/Services/RequestPending.jsp?",
-		"foia/Services/Exemption3Statutes.jsp?",
-		"foia/Services/appealDisposition.jsp?","foia/Services/appealDenialEx.jsp?","foia/Services/appealDenialOther.jsp?",
-		"foia/Services/appealDenialReason.jsp?","foia/Services/appealResponseTime.jsp?","foia/Services/appeal10Pending.jsp?",
-		"foia/Services/processingGranted.jsp?","foia/Services/processingSimple.jsp?","foia/Services/processingComplex.jsp?",
-		"foia/Services/processingExpedited.jsp?","foia/Services/processingPending.jsp?",
-		"foia/Services/processing10Request.jsp?","foia/Services/personnelCost.jsp?",
-		"foia/Services/consultation10Oldest.jsp?","foia/Services/requestCompare.jsp?",
-		"foia/Services/requestBacklog.jsp?",
-		"foia/Services/appealCompare.jsp?","foia/Services/appealBacklog.jsp?",
-		"foia/Services/feewaiverWaiver.jsp?","foia/Services/DataPerson.jsp?"];
+var jspLink=[
+"foia/Services/DataRequest.jsp?",
+"foia/Services/DataExemption.jsp?",
+"foia/Services/DataAppeal.jsp?",
+"foia/Services/DataProcessTime.jsp?",
+"foia/Services/DataFeewaiver.jsp?",
+"foia/Services/DataPerson.jsp?",
+"foia/Services/DataBacklog.jsp?",
+"foia/Services/DataConsultant.jsp?",
+"foia/Services/RequestDisposition.jsp?",
+"foia/Services/RequestDenial.jsp?",
+"foia/Services/RequestPending.jsp?",
+"foia/Services/Exemption3Statutes.jsp?",
+"foia/Services/appealDisposition.jsp?",
+"foia/Services/appealDenialEx.jsp?",
+"foia/Services/appealDenialOther.jsp?",
+"foia/Services/appealDenialReason.jsp?",
+"foia/Services/appealResponseTime.jsp?",
+"foia/Services/appeal10Pending.jsp?",
+"foia/Services/processingGranted.jsp?",
+"foia/Services/processingSimple.jsp?",
+"foia/Services/processingComplex.jsp?",
+"foia/Services/processingExpedited.jsp?",
+"foia/Services/processingPending.jsp?",
+"foia/Services/processing10Request.jsp?",
+"foia/Services/personnelCost.jsp?",
+"foia/Services/consultation10Oldest.jsp?",
+"foia/Services/requestCompare.jsp?",
+"foia/Services/requestBacklog.jsp?",
+"foia/Services/appealCompare.jsp?",
+"foia/Services/appealBacklog.jsp?",
+"foia/Services/feewaiverWaiver.jsp?",
+"foia/Services/DataPerson.jsp?"];
 
 
 
@@ -135,38 +173,38 @@ var ret="";
 var z;
 
 	for(var i=0;i<aLink.length;++i){
-		if(reportSelection == aLink[i]){
-			requestString=jspLink[i];
-			break;
-		}
+if(reportSelection == aLink[i]){
+	requestString=jspLink[i];
+	break;
+}
 	}
 	if(advanceSearchEnable){
-		x=document.getElementById("fullReportList");
-		if(x != null){
-			reportSelection=x.options[x.selectedIndex].value;
-			for(var i=0;i<aLink.length;++i){
-				if(reportSelection == aLink[i]){
-					requestString=jspLink[i];
-					break;
-				}
-			}
-		}
+x=document.getElementById("fullReportList");
+if(x != null){
+	reportSelection=x.options[x.selectedIndex].value;
+	for(var i=0;i<aLink.length;++i){
+if(reportSelection == aLink[i]){
+	requestString=jspLink[i];
+	break;
+}
+	}
+}
 
 	}
 	requestString+=getScreenFY();
 	ret=getScreenAgency();
 	if(ret == "" && !advanceSearchEnable){
-		alert("no agency provided.");
+alert("no agency provided.");
 	}else{
-		requestString+=ret;
-		//alert(requestString);
-		if(getCriteria()){
-			requestString+=searchCriteria;
-			//alert(requestString);
-			jumpLocation="";
-			divAjaxData="foiaData";
-			IEAjaxRequest(requestString);
-		}
+requestString+=ret;
+//alert(requestString);
+if(getCriteria()){
+	requestString+=searchCriteria;
+	//alert(requestString);
+	jumpLocation="";
+	divAjaxData="foiaData";
+	IEAjaxRequest(requestString);
+}
 	}
 }
 
@@ -199,42 +237,42 @@ var y;
 	IEAjaxRequest(requestString);
 	if(param == 0){
 
-		x=document.getElementById("searchAdvance");
-		x.style.display='none';
-		var x=document.getElementById("basicSearch");
-		x.style.display='block';
-		advanceSearchEnable=false;
-		resetReportSelect('reportRequests');
+x=document.getElementById("searchAdvance");
+x.style.display='none';
+var x=document.getElementById("basicSearch");
+x.style.display='block';
+advanceSearchEnable=false;
+resetReportSelect('reportRequests');
 
-		  for(var i=2;i<5;++i){
-			z=document.getElementById("addagency"+i);
-			if(z != null){
-				z.className='addAgency';
-			}
-			x=document.getElementById("agencydiv"+i);
-			if(x != null){
-				x.style.display='none';
-			}
+  for(var i=2;i<5;++i){
+	z=document.getElementById("addagency"+i);
+	if(z != null){
+z.className='addAgency';
+	}
+	x=document.getElementById("agencydiv"+i);
+	if(x != null){
+x.style.display='none';
+	}
 
-			y=document.getElementById("agency"+i);
-			if(y != null){
-				y.value='';
-			}
-		  }
+	y=document.getElementById("agency"+i);
+	if(y != null){
+y.value='';
+	}
+  }
 
-		x=document.getElementById("addagency1");
-		if(x != null){
-			x.className='addAgency';
-		}
+x=document.getElementById("addagency1");
+if(x != null){
+	x.className='addAgency';
+}
 
-		y=document.getElementById("agency1");
-		if(y != null){
-			y.value='';
-		}
-		x=document.getElementById("FY2010");
-		if(x != null){
-			x.checked=true;
-		}
+y=document.getElementById("agency1");
+if(y != null){
+	y.value='';
+}
+x=document.getElementById("FY2010");
+if(x != null){
+	x.checked=true;
+}
 	}
 }
 
@@ -245,8 +283,8 @@ var agencyName="";
 
 	var multiple=param.indexOf("Multiple&");
 	if(multiple>-1){
-		requestString="foia/FoiaDrilldown.jsp?";
-		param=param.substring(multiple+9);
+requestString="foia/FoiaDrilldown.jsp?";
+param=param.substring(multiple+9);
 	}
 	requestString+=param;
 	//alert(requestString);
@@ -284,33 +322,33 @@ function setPSsearchField(){
 	var options;
 	var ctlLength;
 
-		x=document.getElementById("psReport");
-		if(x != null) selectionPs=x.options[x.selectedIndex].value;
-		fields=aPSCondition[selectionPs];
-		nofields=aNoPSCondition[selectionPs];
+x=document.getElementById("psReport");
+if(x != null) selectionPs=x.options[x.selectedIndex].value;
+fields=aPSCondition[selectionPs];
+nofields=aNoPSCondition[selectionPs];
 
 	x=document.getElementById("requestField");
 	ctlLength=x.length;
 	for(var i=1;i<ctlLength;++i){
-		if(x.length == 1) break;
-		x.remove(1);
+if(x.length == 1) break;
+x.remove(1);
 	}
 
 	for(var i=0;i<fields.length;++i){
-		options=document.createElement('option');
-		options.value=nofields[i];
-		if(nofields[i] == 0){
-			options.text=(fields[i]);
-			options.disabled="disabled";
-		}else{
-			options.text=("  "+fields[i]);
-		}
+options=document.createElement('option');
+options.value=nofields[i];
+if(nofields[i] == 0){
+	options.text=(fields[i]);
+	options.disabled="disabled";
+}else{
+	options.text=("  "+fields[i]);
+}
 
-		try{
-			x.add(options,null);
-		}catch(ex){
-			x.add(options);
-		}
+try{
+	x.add(options,null);
+}catch(ex){
+	x.add(options);
+}
 	}
 }
 
@@ -327,12 +365,12 @@ function getCriteria(){
 	x=document.getElementById("compValue");
 	queryString+=x.value;
 	if(!advanceSearchEnable){
-		return true;
+return true;
 	}
 	var patt1=/^\d\d+\.(gt|lt|eq)\.\-?\d+$/g;
 	if(!patt1.test(queryString)){
-		alert("Please provide correct query string.");
-		return false;
+alert("Please provide correct query string.");
+return false;
 	}
 	searchCriteria+="&advanceSearch="+queryString;
 	return true;
@@ -345,47 +383,47 @@ function resetReportSelect(reportName){
 
 	c=document.getElementById(reportName);
 	try{
-		c=c.nextSibling.nextSibling;
-		if(c != null){
-			if(c.nodeName == "DIV"){
-				c.style.display='block';
-				if(openSelection != null){
-					if(c != openSelection){
-						openSelection.style.display='none';
-					}
-				}
-				openSelection=c;
-			}
-		}
+c=c.nextSibling.nextSibling;
+if(c != null){
+	if(c.nodeName == "DIV"){
+c.style.display='block';
+if(openSelection != null){
+	if(c != openSelection){
+openSelection.style.display='none';
+	}
+}
+openSelection=c;
+	}
+}
 	}catch(ex){
 	}
 
 
 
 	//for(var i=0;i<aLink.length;++i){
-		x=document.getElementById(reportSelection);
-		if(x != null){
-			//x.style.color="";
-			//x.style.backgroundImage="";
-			x.className="";
-		}
-		try{
-			if(reportSelection == "reportAdministration"){
-				x=document.getElementById("reportPersonnel");
-				x.className="";
-			}
-			if(reportSelection == "reportPersonnel"){
-				x=document.getElementById("reportAdministration");
-				x.className="";
-			}
-		}catch(ex){
-		}
+x=document.getElementById(reportSelection);
+if(x != null){
+	//x.style.color="";
+	//x.style.backgroundImage="";
+	x.className="";
+}
+try{
+	if(reportSelection == "reportAdministration"){
+x=document.getElementById("reportPersonnel");
+x.className="";
+	}
+	if(reportSelection == "reportPersonnel"){
+x=document.getElementById("reportAdministration");
+x.className="";
+	}
+}catch(ex){
+}
 	//}
 	setReportSelect(reportName);
 	//for(var i=0;i<aLink.length;++i){
 	//	if(reportSelection == aLink[i]){
-	//		setSearchFields(i);
-	//		break;
+	//setSearchFields(i);
+	//break;
 	//	}
 	//}
 }
@@ -399,35 +437,35 @@ var selection=aLink[0];
 	if(x != null) selection=x.options[x.selectedIndex].value;
 
 	for(var i=0;i<aLink.length;++i){
-		if(selection == aLink[i]){
-			setSearchFields(i);
-			try{
-				x=document.getElementById("aAttrNo");
-				if(x.checked){
-					x=document.getElementById("requestField");
-					if(i==0){
-						x.selectedIndex=2;
-						x=document.getElementById("compValue");
-						x.value="-999999";
-					}
-					else{
-						x.selectedIndex=1;
-						x=document.getElementById("compValue");
-						x.value="-999999";
-					}
-					x=document.getElementById("comparator");
-					x.selectedIndex=0;
-				}else{
-					x=document.getElementById("requestField");
-					x.selectedIndex=0;
-					x=document.getElementById("compValue");
-					x.value="";
-				}
-			}catch(e){
-				selection=aLink[0];
-			}
-			break;
-		}
+if(selection == aLink[i]){
+	setSearchFields(i);
+	try{
+x=document.getElementById("aAttrNo");
+if(x.checked){
+	x=document.getElementById("requestField");
+	if(i==0){
+x.selectedIndex=2;
+x=document.getElementById("compValue");
+x.value="-999999";
+	}
+	else{
+x.selectedIndex=1;
+x=document.getElementById("compValue");
+x.value="-999999";
+	}
+	x=document.getElementById("comparator");
+	x.selectedIndex=0;
+}else{
+	x=document.getElementById("requestField");
+	x.selectedIndex=0;
+	x=document.getElementById("compValue");
+	x.value="";
+}
+	}catch(e){
+selection=aLink[0];
+	}
+	break;
+}
 	}
 }
 
@@ -438,38 +476,38 @@ var selection;
 
 	x=document.getElementById("selectionAttributes");
 	if(x != null){
-		if(action == 0){
-			x.style.display='none';
-		}else{
-			x.style.display='block';
-		}
-		try{
-			x=document.getElementById("aAttrNo");
-			if(x.checked){
-				x=document.getElementById("requestField");
-				y=document.getElementById("fullReportList");
-				if(y != null) selection=y.options[y.selectedIndex].value;
-				if(selection==aLink[0]){
-					x.selectedIndex=2;
-					x=document.getElementById("compValue");
-					x.value="-999999";
-				}
-				else{
-					x.selectedIndex=1;
-					x=document.getElementById("compValue");
-					x.value="-999999";
-				}
-				x=document.getElementById("comparator");
-				x.selectedIndex=0;
-			}else{
-				x=document.getElementById("requestField");
-				x.selectedIndex=0;
-				x=document.getElementById("compValue");
-				x.value="";
-			}
-		}catch(e){
-			selection=aLink[0];
-		}
+if(action == 0){
+	x.style.display='none';
+}else{
+	x.style.display='block';
+}
+try{
+	x=document.getElementById("aAttrNo");
+	if(x.checked){
+x=document.getElementById("requestField");
+y=document.getElementById("fullReportList");
+if(y != null) selection=y.options[y.selectedIndex].value;
+if(selection==aLink[0]){
+	x.selectedIndex=2;
+	x=document.getElementById("compValue");
+	x.value="-999999";
+}
+else{
+	x.selectedIndex=1;
+	x=document.getElementById("compValue");
+	x.value="-999999";
+}
+x=document.getElementById("comparator");
+x.selectedIndex=0;
+	}else{
+x=document.getElementById("requestField");
+x.selectedIndex=0;
+x=document.getElementById("compValue");
+x.value="";
+	}
+}catch(e){
+	selection=aLink[0];
+}
 
 	}
 
@@ -491,36 +529,36 @@ var selectedItem=1;
 
 	if(popWindow.indexOf("filing")>0){
 	var x=document.getElementById("ComponentsList");
-		selectedItem=(popWindow.indexOf("PrintAll")>0)?9999:x.selectedIndex;
-		if(selectedItem == 0) alert("Please select an office to print.");
-		else
-		if(x != null){
-		  popWindow+="&Format="+selectedItem;
-		}
+selectedItem=(popWindow.indexOf("PrintAll")>0)?9999:x.selectedIndex;
+if(selectedItem == 0) alert("Please select an office to print.");
+else
+if(x != null){
+  popWindow+="&Format="+selectedItem;
+}
 	}
 	if(selectedItem>0) window.open(popWindow,"_blank");
 }
 
 function toggleFYAllButton(){
 	if(advanceSearchEnable){
-		prefix="a";
+prefix="a";
 	}else{
-		prefix="";
+prefix="";
 	}
 	x=document.getElementById(prefix+"ALL");
 	if(x != null){
-		for(var i=2008;i<2016;++i){
-			y=document.getElementById(prefix+"FY"+i);
-			if(y != null){
-				if(x.checked){
-					y.checked=false;
-					y.disabled=true;
-				}
-				else{
-					y.disabled=false;
-					if(i == 2014) y.checked=true;
-				}
-			}
-		}
+for(var i=2008;i<2016;++i){
+	y=document.getElementById(prefix+"FY"+i);
+	if(y != null){
+if(x.checked){
+	y.checked=false;
+	y.disabled=true;
+}
+else{
+	y.disabled=false;
+	if(i == 2014) y.checked=true;
+}
+	}
+}
 	}
 }
