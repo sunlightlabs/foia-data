@@ -1,5 +1,4 @@
-Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
-,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,
+Component,Number Pending - Simple,Median No. of Days - Simple,Average No. of Days - Simple,Number Pending - Complex,Median No. of Days - Complex,Average No. of Days - Complex,Number Pending - Expedited,Median No. of Days - Expedited,Average No. of Days - Expedited,
 AF,230,12,74,768,45,108,0,,0,
 AFRICOM,2,36,36,17,147,172,0,,0,
 ARMY,620,7,13,1253,75,165,30,,61,

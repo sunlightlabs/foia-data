@@ -1,5 +1,4 @@
-Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
-,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,
+Component,Number Pending - Simple,Median No. of Days - Simple,Average No. of Days - Simple,Number Pending - Complex,Median No. of Days - Complex,Average No. of Days - Complex,Number Pending - Expedited,Median No. of Days - Expedited,Average No. of Days - Expedited,
 HQ,682,99,221.51,6,652,695,6,154,272.17,
 Region 1,24,4.5,20.25,2,374.5,374.5,0,0,0,
 Region 2,728,63,82.23,8,29,76,0,0,0,

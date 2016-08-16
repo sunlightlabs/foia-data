@@ -1,5 +1,4 @@
-Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
-,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,
+Component,Number Pending - Simple,Median No. of Days - Simple,Average No. of Days - Simple,Number Pending - Complex,Median No. of Days - Complex,Average No. of Days - Complex,Number Pending - Expedited,Median No. of Days - Expedited,Average No. of Days - Expedited,
 AMS,4,8,7,12,40,60,0,0,0,
 APHIS,156,47,88,9,295,393,1,76,76,
 ASCR,2,5.5,5,0,0,0,0,0,0,

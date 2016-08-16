@@ -1,5 +1,4 @@
 Component,Number Pending - Simple,Median No. of Days - Simple,Average No. of Days - Simple,Number Pending - Complex,Median No. of Days - Complex,Average No. of Days - Complex,Number Pending - Expedited,Median No. of Days - Expedited,Average No. of Days - Expedited,
-BEP,0,,,8,53,75,0,,,
 DO,56,56,118,385,215,305,1,386,386,
 FinCEN,0,,,13,28,42,0,,,
 IRS,0,0,0,896,19,54,3,81,236,
