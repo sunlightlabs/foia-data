@@ -1,4 +1,3 @@
-Component,Simple,Simple,Simple,Simple,Complex,Complex,Complex,Complex,Expedited,Expedited,Expedited,Expedited
-,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,
+Component,Median No. of Days - Simple,Average No. of Days - Simple,Lowest No. of Days - Simple,Highest No. of Days - Simple,Median No. of Days - Complex,Average No. of Days - Complex,Lowest No. of Days - Complex,Highest No. of Days - Complex,Median No. of Days - Expedited,Average No. of Days - Expedited,Lowest No. of Days - Expedited,Highest No. of Days - Expedited,
 FEC,41,62.1,3,399,0,0,0,0,212,188.2,25,403,
 Total,41,62,3,399,0,0,0,0,212,188,25,403,

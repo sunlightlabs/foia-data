@@ -1,5 +1,4 @@
-Component,Simple,Simple,Simple,Simple,Complex,Complex,Complex,Complex,Expedited,Expedited,Expedited,Expedited
-,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,
+Component,Median No. of Days - Simple,Average No. of Days - Simple,Lowest No. of Days - Simple,Highest No. of Days - Simple,Median No. of Days - Complex,Average No. of Days - Complex,Lowest No. of Days - Complex,Highest No. of Days - Complex,Median No. of Days - Expedited,Average No. of Days - Expedited,Lowest No. of Days - Expedited,Highest No. of Days - Expedited,
 BPA,5,9.91,,76,20.5,40.27,,302,,,,,
 CH,3,5.98,,65,20,41.08,,321,,,,,
 EMCBC,16,35.02,,188,4,26.4,,89,46,46,46,46,
