@@ -1,5 +1,4 @@
-Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
-,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,
+Component,Number Pending - Simple,Median No. of Days - Simple,Average No. of Days - Simple,Number Pending - Complex,Median No. of Days - Complex,Average No. of Days - Complex,Number Pending - Expedited,Median No. of Days - Expedited,Average No. of Days - Expedited,
 DoS,3045,135.34,269.03,11669,364.7,552.18,147,141.04,169.28,
 OIG,9,37,77,0,0,0,0,0,0,
 Total,3054,135,265,11669,365,552,147,141,169,

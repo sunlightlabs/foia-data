@@ -1,5 +1,4 @@
-Component,Simple,Simple,Simple,Complex,Complex,Complex,Expedited,Expedited,Expedited
-,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,Number Pending,Median No. of Days,Average No. of Days,
+Component,Number Pending - Simple,Median No. of Days - Simple,Average No. of Days - Simple,Number Pending - Complex,Median No. of Days - Complex,Average No. of Days - Complex,Number Pending - Expedited,Median No. of Days - Expedited,Average No. of Days - Expedited,
 Office of the AG,32,51.5,92,261,343,431.24,45,289,456.8,
 Office of the DAG,29,85,165.21,186,336,432.06,27,565,547.19,
 Office of the Assoc. AG,3,13,177.67,51,287,299.53,2,136,136,
