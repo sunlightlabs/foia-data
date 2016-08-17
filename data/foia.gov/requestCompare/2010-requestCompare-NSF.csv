@@ -1,5 +1,4 @@
-Component,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS PROCESSED,NUMBER OF REQUESTS PROCESSED
-,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
+Component,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Curren Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Current Report,
 OGC,318,412,302,377,
 OIG,77,88,77,88,
 Total,395,500,379,465,

@@ -1,5 +1,4 @@
-Component,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS PROCESSED,NUMBER OF REQUESTS PROCESSED
-,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
+Component,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Curren Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Current Report,
 ATLANTA,899,1419,859,1433,
 BIRMINGHAM,1321,1279,1358,1310,
 CHARLOTTE,1275,1269,1270,1291,

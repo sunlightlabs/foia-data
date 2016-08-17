@@ -1,5 +1,4 @@
-Component,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS PROCESSED,NUMBER OF REQUESTS PROCESSED
-,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
+Component,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Curren Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Current Report,
 AF,7812,7170,7899,7205,
 AFRICOM,5,22,1,8,
 ARMY,37081,38712,37681,39967,

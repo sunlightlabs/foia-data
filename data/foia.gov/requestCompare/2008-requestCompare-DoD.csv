@@ -1,5 +1,4 @@
-Component,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS PROCESSED,NUMBER OF REQUESTS PROCESSED
-,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
+Component,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Curren Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Current Report,
 AF,8126,8287,8395,8351,
 ARMY,34589,35688,33496,35370,
 ASBCA,16,20,17,20,

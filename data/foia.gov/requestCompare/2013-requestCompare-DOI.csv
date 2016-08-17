@@ -1,5 +1,4 @@
-Component,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS RECEIVED,NUMBER OF REQUESTS PROCESSED,NUMBER OF REQUESTS PROCESSED
-,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
+Component,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Received - Number of Received During Fiscal Year From Last Year's Curren Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Requests Processed - Number of Received During Fiscal Year From Last Year's Current Report,
 BIA,1700,2011,1708,1956,
 BLM,983,942,1006,939,
 BOEM,83,87,75,94,
