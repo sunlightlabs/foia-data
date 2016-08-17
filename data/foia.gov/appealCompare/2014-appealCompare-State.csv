@@ -1,5 +1,4 @@
-Component,NUMBER OF APPEALS RECEIVED,NUMBER OF APPEALS RECEIVED,NUMBER OF APPEALS PROCESSED,NUMBER OF APPEALS PROCESSED
-,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
+Component,Number of Appeals Received - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Appeals Received - Number of Received During Fiscal Year From Current Annual Report,Number of Appeals Processed - Number of Processed During Fiscal Year From Last Year's Annual Report,,Number of Appeals Processed - Number of Processed During Fiscal Year From Current Annual Report,
 DoS,276,351,367,382,
 OIG,6,5,3,0,
 Total,282,356,370,382,

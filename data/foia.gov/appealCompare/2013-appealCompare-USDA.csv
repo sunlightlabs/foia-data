@@ -1,5 +1,4 @@
-Component,NUMBER OF APPEALS RECEIVED,NUMBER OF APPEALS RECEIVED,NUMBER OF APPEALS PROCESSED,NUMBER OF APPEALS PROCESSED
-,Number of Received During Fiscal Year From Last Year's Annual Report,Number of Received During Fiscal Year From Current Annual Report,Number of Processed During Fiscal Year From Last Year's Annual Report,Number of Processed During Fiscal Year From Current Annual Report,
+Component,Number of Appeals Received - Number of Received During Fiscal Year From Last Year's Annual Report,Number of Appeals Received - Number of Received During Fiscal Year From Current Annual Report,Number of Appeals Processed - Number of Processed During Fiscal Year From Last Year's Annual Report,,Number of Appeals Processed - Number of Processed During Fiscal Year From Current Annual Report,
 AMS,5,14,8,11,
 APHIS,36,25,23,19,
 ASCR,1,0,1,0,
