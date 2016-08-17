@@ -1,5 +1,4 @@
-Component,Simple,Simple,Simple,Simple,Complex,Complex,Complex,Complex,Expedited,Expedited,Expedited,Expedited
-,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,
+Component,Simple - Median No. of Days,Simple - Average No. of Days,Simple - Lowest No. of Days,Simple - Highest No. of Days,Complex - Median No. of Days,Complex - Average No. of Days,Complex - Lowest No. of Days,Complex - Highest No. of Days,Expedited - Median No. of Days,Expedited - Average No. of Days,Expedited - Lowest No. of Days,Expedited - Highest No. of Days,
 CBP,7,8.08,1,20,274,262.87,1,680,36,94.06,1,428,
 CRCL,2.5,3.75,1,9,90.5,93.88,24,220,,,,,
 FEMA,177,235.46,2,695,157,195.67,1,422,19,19,4,34,

@@ -1,5 +1,4 @@
-Component,Simple,Simple,Simple,Simple,Complex,Complex,Complex,Complex,Expedited,Expedited,Expedited,Expedited
-,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,Median No. of Days,Average No. of Days,Lowest No. of Days,Highest No. of Days,
+Component,Simple - Median No. of Days,Simple - Average No. of Days,Simple - Lowest No. of Days,Simple - Highest No. of Days,Complex - Median No. of Days,Complex - Average No. of Days,Complex - Lowest No. of Days,Complex - Highest No. of Days,Expedited - Median No. of Days,Expedited - Average No. of Days,Expedited - Lowest No. of Days,Expedited - Highest No. of Days,
 FHFA-HQ,20,28.64,1,136,45,64.82,20,208,,,,,
 FHFA-OIG,13,21.07,1,215,203,203,203,203,,,,,
 Total,16,26,1,215,52,76,20,208,0,0,0,0,
