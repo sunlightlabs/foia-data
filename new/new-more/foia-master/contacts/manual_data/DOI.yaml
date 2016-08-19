@@ -1,0 +1,29 @@
+departments:
+- name: Bureau of Indian Affairs
+  abbreviation: BIA
+  top_level: true
+- name: Bureau of Land Management
+  top_level: true
+- name: Bureau of Ocean Energy Management
+  top_level: true
+- name: Bureau of Reclamation
+  abbreviation: USBR
+  top_level: true
+- name: Bureau of Safety and Environmental Enforcement
+  top_level: true
+- name: U.S. Fish and Wildlife Service
+  top_level: true
+- name: National Park Service
+  top_level: true
+- name: Office of the Inspector General
+  website: http://www.doi.gov/oig/foia/index.cfm
+- name: Office of the Secretary
+  emails: []
+- name: Office of Natural Resources Revenue
+  emails:
+  - os_foia@ios.doi.gov
+- name: Office of the Special Trustee
+  public_liaison:
+    name: Veronica Herkshan
+    phone:
+      - 505-816-1645

@@ -1,0 +1,10 @@
+name: Federal Labor Relations Authority
+request_form: https://foiaonline.regulations.gov/foia/action/public/home
+departments:
+- name: Atlanta Regional Office
+  emails: []
+- name: San Francisco Regional Office
+  emails: []
+- name: Denver Regional Office
+  emails:
+  - deromail@flra.gov

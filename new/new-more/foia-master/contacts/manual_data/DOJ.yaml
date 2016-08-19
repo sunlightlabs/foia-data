@@ -1,0 +1,34 @@
+departments:
+- description: The Attorney General is responsible for the overall supervision and
+    direction of the administration and operation of the Department. The Attorney
+    General represents the United States in legal matters generally and furnishes
+    advice and opinions on legal matters to the President, the Cabinet, heads of the
+    executive departments, and other agencies of the Federal Government. Records maintained
+    include those relating to the administration of the office.
+  name: Office of the Attorney General
+  top_level: true
+- name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
+  abbreviation: ATF
+  top_level: true
+- name: Drug Enforcement Administration
+  abbreviation: DEA
+  top_level: true
+- description: As an intelligence-driven and a threat-focused national security organization
+    with both intelligence and law enforcement responsibilities, the mission of the
+    FBI is to protect and defend the United States against terrorist and foreign intelligence
+    threats, to uphold and enforce the criminal laws of the United States, and to
+    provide leadership and criminal justice services to federal, state, municipal,
+    and international agencies and partners.
+  name: Federal Bureau of Investigation
+  top_level: true
+- name: Federal Bureau of Prisons
+  abbreviation: BOP
+  top_level: true
+- name: Office of Community Oriented Policing Services
+  top_level: true
+- name: United States Marshals Service
+  top_level: true
+- name: Office of Tribal Justice
+  website: http://www.justice.gov/usao/resources/foiarequests/
+- name: Office of Legislative Affairs
+  emails: []

@@ -1,0 +1,69 @@
+departments:
+- name: U.S. Citizenship & Immigration Services
+  abbreviation: USCIS
+  top_level: true
+- name: U.S. Coast Guard
+  abbreviation: USCG
+  top_level: true
+- name: U.S. Customs & Border Protection
+  top_level: true
+  abbreviation: CBP
+  website: http://www.cbp.gov/site-policy-notices/foia
+- name: Federal Emergency Management Agency
+  top_level: true
+  website: http://www.fema.gov/fema-freedom-information-act
+- name: Federal Law Enforcement Training Center
+  abbreviation: FLETC
+  request_form: http://www.fletc.gov/about/freedom-information-act-request
+  top_level: true
+  website: http://www.fletc.gov/freedom-information-act-foia
+- name: U.S. Immigration & Customs Enforcement
+  abbreviation: ICE
+  request_form: http://www.ice.gov/webform/foia-request-form
+  top_level: true
+- name: United States Secret Service
+  top_level: true
+- name: Transportation Security Administration
+  emails:
+  - FOIA@tsa.dhs.gov
+  top_level: true
+  website: http://www.tsa.gov/research-center/freedom-information-act-foia
+- name: Office for Civil Rights and Civil Liberties
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Office of the Inspector General
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- address:
+    address_lines:
+    - 'FOIA: Office of Intelligence & Analysis'
+    - U.S. Department of Homeland Security
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20528'
+  name: Office of Intelligence & Analysis
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- address:
+    address_lines:
+    - 'FOIA: Directorate for National Protection and Programs'
+    - U.S. Department of Homeland Security
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20528'
+  name: Directorate for National Protection and Programs
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- address:
+    address_lines:
+    - 'FOIA: Office of Operations Coordination and Planning'
+    - U.S. Department of Homeland Security
+    city: Washington
+    state: DC
+    street: ''
+    zip: '20528'
+  name: Office of Operations Coordination and Planning
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Science & Technology Directorate
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+- name: Office of Biometric Identity Management
+  request_form: http://www.dhs.gov/dhs-foia-request-submission-form
+name: Department of Homeland Security
