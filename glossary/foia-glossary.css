@@ -1,0 +1,17 @@
+*{margin:0; padding:0; border:none;}
+ol,ul{list-style:none;}
+.ol-nav{}
+.ol-nav li{float:left; display:inline;}
+.ol-nav a{float:left; display:block; margin-right:5px;}
+
+.ol-glossary a{color:#000; font-weight:700;}
+
+dl{}
+.dl-sub{padding-left:10%;}
+.dl-sub dt{}
+.dl-sub dd{}
+dt{}
+dd{}
+dfn{}
+
+.clearleft{clear:left; float:none;}
