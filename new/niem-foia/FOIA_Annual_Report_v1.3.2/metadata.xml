@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Metadata>
+    <URI>http://leisp.usdoj.gov/niem/FoiaAnnualReport</URI>
+    <Name>FOIA Annual Report v1.3.2</Name>
+    <Summary>Represents an agency's FOIA Annual Report for a fiscal year.</Summary>
+    <Description>Represents an agency's FOIA Annual Report for a fiscal year.  Version 1.3.2 has been updated to include support for generating Microsoft Word document reports.</Description>
+    <Version>1.2</Version>
+    <URL/>
+    <CreationDate>6/11/2010</CreationDate>
+    <LastRevisionDate>9/25/2013</LastRevisionDate>
+    <NextRevisionDate/>
+    <NIEMVersion>2.0</NIEMVersion>
+    <Security>Public</Security>
+    <Maturity>3</Maturity>
+    <Status/>
+    <Schedule/>
+    <Lineage/>
+    <Relationships/>
+    <Keywords/>
+    <Domain>FOIA</Domain>
+    <ExchangePartners/>
+    <Process/>
+    <TriggeringEvent/>
+    <Conditions/>
+    <Endorsements/>
+    <Sponsors/>
+    <Purpose>Publishing and exchange of federal agency FOIA annual reports</Purpose>
+    <MessageExchangePatterns>document</MessageExchangePatterns>
+    <CommunicationsEnvironment/>
+    <ExchangePartnerCategories/>
+    <AuthoritativeSource>
+        <Category/>
+        <Organization>
+            <Name>U S Department of Justice</Name>
+            <Address1/>
+            <Address2/>
+            <City/>
+            <State/>
+            <Zip/>
+            <Country/>
+            <URL/>
+        </Organization>
+        <PointOfContact>
+            <Name>Vijay Kumar</Name>
+            <Address1/>
+            <Address2/>
+            <City/>
+            <State/>
+            <Zip/>
+            <Country/>
+            <Phone>202-353-4422</Phone>
+            <Fax/>
+            <Email>Vijay.Kumar@usdoj.gov</Email>
+        </PointOfContact>
+    </AuthoritativeSource>
+</Metadata>

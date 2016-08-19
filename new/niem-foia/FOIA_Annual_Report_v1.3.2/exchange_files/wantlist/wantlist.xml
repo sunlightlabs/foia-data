@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:WantList w:release="2.1" w:product="NIEM"
+  xmlns:nc="http://niem.gov/niem/niem-core/2.0"
+  xmlns:niem-xsd="http://niem.gov/niem/proxy/xsd/2.0"
+  xmlns:j="http://niem.gov/niem/domains/jxdm/4.1" xmlns:w="http://niem.gov/niem/wantlist/2">
+  <w:Element w:name="j:Case" w:isReference="false"/>
+  <w:Element w:name="nc:Date" w:isReference="false"/>
+  <w:Element w:name="nc:DateTime" w:isReference="false"/>
+  <w:Element w:name="nc:DocumentApplicationName" w:isReference="false"/>
+  <w:Element w:name="nc:Organization" w:isReference="false"/>
+  <w:Element w:name="nc:Year" w:isReference="false"/>
+  <w:Element w:name="nc:YearMonth" w:isReference="false"/>
+  <w:Type w:name="j:StatuteType" w:isRequested="true">
+    <w:ElementInType w:name="j:StatuteDescriptionText"
+      w:isReference="false" w:minOccurs="0" w:maxOccurs="unbounded"/>
+  </w:Type>
+  <w:Type w:name="nc:ActivityOrganizationAssociationType" w:isRequested="false">
+    <w:ElementInType w:name="nc:Organization" w:isReference="true"
+      w:minOccurs="0" w:maxOccurs="unbounded"/>
+  </w:Type>
+  <w:Type w:name="nc:AmountType" w:isRequested="true"/>
+  <w:Type w:name="nc:ApplicationNameType" w:isRequested="false">
+    <w:AttributeInType w:name="nc:applicationVersionText"/>
+  </w:Type>
+  <w:Type w:name="nc:AssociationType" w:isRequested="true"/>
+  <w:Type w:name="nc:CaseType" w:isRequested="false">
+    <w:ElementInType w:name="nc:CaseTitleText" w:isReference="false"
+      w:minOccurs="0" w:maxOccurs="unbounded"/>
+  </w:Type>
+  <w:Type w:name="nc:DateType" w:isRequested="false">
+    <w:ElementInType w:name="nc:DateAccuracyCode" w:isReference="false"
+      w:minOccurs="0" w:maxOccurs="unbounded"/>
+    <w:ElementInType w:name="nc:DateRepresentation"
+      w:isReference="false" w:minOccurs="0" w:maxOccurs="unbounded"/>
+    <w:ElementInType w:name="nc:MarginDuration" w:isReference="false"
+      w:minOccurs="0" w:maxOccurs="unbounded"/>
+  </w:Type>
+  <w:Type w:name="nc:DocumentType" w:isRequested="true">
+    <w:ElementInType w:name="nc:DocumentApplicationName"
+      w:isReference="false" w:minOccurs="0" w:maxOccurs="unbounded"/>
+    <w:ElementInType w:name="nc:DocumentCreationDate"
+      w:isReference="false" w:minOccurs="0" w:maxOccurs="1"/>
+    <w:ElementInType w:name="nc:DocumentDescriptionText"
+      w:isReference="false" w:minOccurs="1" w:maxOccurs="1"/>
+  </w:Type>
+  <w:Type w:name="nc:OrganizationType" w:isRequested="true">
+    <w:ElementInType w:name="nc:OrganizationAbbreviationText"
+      w:isReference="false" w:minOccurs="0" w:maxOccurs="unbounded"/>
+    <w:ElementInType w:name="nc:OrganizationName" w:isReference="false"
+      w:minOccurs="0" w:maxOccurs="unbounded"/>
+    <w:ElementInType w:name="nc:OrganizationSubUnit"
+      w:isReference="false" w:minOccurs="0" w:maxOccurs="unbounded"/>
+  </w:Type>
+  <w:Type w:name="nc:PercentageType" w:isRequested="true"/>
+  <w:Type w:name="nc:TextType" w:isRequested="true"/>
+  <w:Type w:name="niem-xsd:decimal" w:isRequested="true"/>
+  <w:Type w:name="niem-xsd:nonNegativeInteger" w:isRequested="true"/>
+</w:WantList>

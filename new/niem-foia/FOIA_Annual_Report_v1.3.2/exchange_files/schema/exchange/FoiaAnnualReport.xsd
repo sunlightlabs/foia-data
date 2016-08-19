@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:iepd="http://leisp.usdoj.gov/niem/FoiaAnnualReport/exchange/1.03" xmlns:foia="http://leisp.usdoj.gov/niem/FoiaAnnualReport/extension/1.03" xmlns:i="http://niem.gov/niem/appinfo/2.0" xmlns:nc="http://niem.gov/niem/niem-core/2.0" xmlns:s="http://niem.gov/niem/structures/2.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://leisp.usdoj.gov/niem/FoiaAnnualReport/exchange/1.03" elementFormDefault="qualified" attributeFormDefault="qualified" version="1.0.0">
+   <xsd:import namespace="http://leisp.usdoj.gov/niem/FoiaAnnualReport/extension/1.03" schemaLocation="../extension/FoiaAnnualReportExtensions.xsd"/>
+   <xsd:import namespace="http://niem.gov/niem/appinfo/2.0" schemaLocation="../Subset/niem/appinfo/2.0/appinfo.xsd"/>
+   <xsd:import namespace="http://niem.gov/niem/niem-core/2.0" schemaLocation="../Subset/niem/niem-core/2.0/niem-core.xsd"/>
+   <xsd:import namespace="http://niem.gov/niem/structures/2.0" schemaLocation="../Subset/niem/structures/2.0/structures.xsd"/>
+   <xsd:annotation>
+      <xsd:documentation>FOIA Annual Report</xsd:documentation>
+      <xsd:appinfo>
+         <i:ConformantIndicator>true</i:ConformantIndicator>
+      </xsd:appinfo>
+   </xsd:annotation>
+   <xsd:complexType name="FoiaAnnualReportType">
+      <xsd:annotation>
+         <xsd:documentation>A data type for a FOIA Annual Report adhering to the U. S. Department of Justice
+			"2008 Guidelines for Agency Preparation of Annual FOIA Reports"
+			(http://www.justice.gov/oip/foiapost/guidance-annualreport-052008.pdf).</xsd:documentation>
+      </xsd:annotation>
+      <xsd:complexContent>
+         <xsd:extension base="nc:DocumentType">
+            <xsd:sequence>
+               <xsd:element ref="nc:Organization"/>
+               <xsd:element ref="foia:DocumentFiscalYearDate"/>
+               <xsd:element ref="foia:Exemption3StatuteSection"/>
+               <xsd:element ref="foia:ProcessedRequestSection"/>
+               <xsd:element ref="foia:RequestDispositionSection"/>
+               <xsd:element ref="foia:RequestDenialOtherReasonSection"/>
+               <xsd:element ref="foia:RequestDispositionAppliedExemptionsSection"/>
+               <xsd:element ref="foia:ProcessedAppealSection"/>
+               <xsd:element ref="foia:AppealDispositionSection"/>
+               <xsd:element ref="foia:AppealDispositionAppliedExemptionsSection"/>
+               <xsd:element ref="foia:AppealNonExemptionDenialSection"/>
+               <xsd:element ref="foia:AppealDenialOtherReasonSection"/>
+               <xsd:element ref="foia:AppealResponseTimeSection"/>
+               <xsd:element ref="foia:OldestPendingAppealSection"/>
+               <xsd:element ref="foia:ProcessedResponseTimeSection"/>
+               <xsd:element ref="foia:InformationGrantedResponseTimeSection"/>
+               <xsd:element ref="foia:SimpleResponseTimeIncrementsSection"/>
+               <xsd:element ref="foia:ComplexResponseTimeIncrementsSection"/>
+               <xsd:element ref="foia:ExpeditedResponseTimeIncrementsSection"/>
+               <xsd:element ref="foia:PendingPerfectedRequestsSection"/>
+               <xsd:element ref="foia:OldestPendingRequestSection"/>
+               <xsd:element ref="foia:ExpeditedProcessingSection"/>
+               <xsd:element ref="foia:FeeWaiverSection"/>
+               <xsd:element ref="foia:PersonnelAndCostSection"/>
+               <xsd:element ref="foia:FeesCollectedSection"/>
+               <xsd:element ref="foia:BacklogSection"/>
+               <xsd:element ref="foia:ProcessedConsultationSection"/>
+               <xsd:element ref="foia:OldestPendingConsultationSection"/>
+               <xsd:element ref="foia:ProcessedRequestComparisonSection"/>
+               <xsd:element ref="foia:BackloggedRequestComparisonSection"/>
+               <xsd:element ref="foia:ProcessedAppealComparisonSection"/>
+               <xsd:element ref="foia:BackloggedAppealComparisonSection"/>
+            </xsd:sequence>
+         </xsd:extension>
+      </xsd:complexContent>
+   </xsd:complexType>
+   <xsd:element name="FoiaAnnualReport" type="iepd:FoiaAnnualReportType">
+      <xsd:annotation>
+         <xsd:documentation>A FOIA Annual Report adhering to the U. S. Department of Justice
+			"2008 Guidelines for Agency Preparation of Annual FOIA Reports"
+			(http://www.justice.gov/oip/foiapost/guidance-annualreport-052008.pdf).
+			</xsd:documentation>
+      </xsd:annotation>
+   </xsd:element>
+</xsd:schema>
