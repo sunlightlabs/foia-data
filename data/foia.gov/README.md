@@ -36,7 +36,7 @@ Comparisons
 Not even the same agency names, etc.  
 ![Request Backlog Results API Call Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/request-backlog-api-call-results.png)   
 
-### Requests - Expedited Processing  
+### Requests - Denied and Pending
 ![Requests Denial Commented Out Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-reports-options-not-offered-02.png)  
 
 These are still exposed via breadcrumbs in the basic search page but that is the only place I can find that functionality:  
