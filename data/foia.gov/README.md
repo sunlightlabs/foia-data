@@ -102,8 +102,8 @@ From Sitemap -> Click on News Spotlight -> Click on RSS Icon top right -> takes 
 [github - last updated 7 months ago](https://github.com/18F/foia-hub)  
 
 [Down to the details of design, not sure what the difference(s) Are between foia.gov and foiaonline.regulations.gov](https://foiaonline.regulations.gov/foia/action/public/report)  
-Definitely offers Denials Report(s):
-insert image regarding denials report
+Definitely offers Denials Report(s):  
+insert image regarding denials report  
 [OGIS Library RSS Feed - Check Last Update (2011-11-28)](https://ogis.archives.gov/Page298_Topic8.rss)  
 [OGIS Events and Presentation Calendar](https://ogis.archives.gov/Page298_Topic7.rss)  
 
