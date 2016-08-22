@@ -121,6 +121,14 @@ Basic Request - USDA 2010
 Advanced Request - USDA 2010  
 ![Advanced Request - USDA 2010](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/advanced-request-screenshot.png)   
 
+## Processing Times: Simple Requests vs. Complex Requests
+[Simple Requests](https://www.foia.gov/foia/Services/processingSimple.jsp?requestYear=2010&agencyName=USDA&Random=183)  
+[Complex Requests](https://www.foia.gov/foia/Services/processingComplex.jsp?requestYear=2010&agencyName=USDA&Random=45)  
+[Processing Simple Requests Full](https://github.com/sunlightlabs/foia-data/blob/master/data/foia.gov/full/processingSimple-2008-2015.csv)  
+[Processing Complex Requests Full](https://github.com/sunlightlabs/foia-data/blob/master/data/foia.gov/full/processingComplex-2008-2015.csv)  
+[D3 Chart - Processing Simple Requests Full - Totals](http://dev.bowdenweb.com/processing-times-simple.html)  
+[D3 Chart - Processing Complex Requests Full - Totals](http://dev.bowdenweb.com/processing-times-complex.html)  
+
 # Takeaways  
 Why is Basic more advanced than Advanced?  
 Why are the Denials not provided at all?  
@@ -128,5 +136,10 @@ Why are some of the options only provided via breadcrumbs (not really provided, 
 What is the difference between foia.gov vs. foiaonline.regulations.gov?  
 Why is foia.gov partially/poorly maintained?  
 Why are their different results shown for the three backlog requests searches?  
+We could build a better search [Build Better Search via Proxy](http://dev.bowdenweb.com/proxy-foia-demo.html)  
+We could serve up better results [Search Results via Proxy](http://dev.bowdenweb.com/proxy-foia-jsp-results.html)  
+[Compared to Search Results API](https://www.foia.gov/foia/Services/processingSimple.jsp?requestYear=2015&agencyName=USDA)  
+We could fork JKAN and host foia data we've scraped in it on github  
+
 
 
