@@ -117,10 +117,10 @@ insert image regarding denials report
 ![Sitemap Last Updated 2011 Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/sitemap-last-updated-2011.png)  
   
 ## Simple vs. Advanced Requests  
-Basic Request  
-![]()  
-Advanced Request  
-
+Basic Request - USDA 2010  
+![Basic Request - USDA 2010](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/simple-requests-screenshot.png)  
+Advanced Request - USDA 2010  
+![Advanced Request - USDA 2010](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/advanced-request-screenshot.png)   
 
 # Takeaways  
 Why is Basic more advanced than Advanced?  
