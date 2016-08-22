@@ -104,8 +104,7 @@ From Sitemap -> Click on News Spotlight -> Click on RSS Icon top right -> takes 
 
 [Down to the details of design, not sure what the difference(s) Are between foia.gov and foiaonline.regulations.gov](https://foiaonline.regulations.gov/foia/action/public/report)  
 Definitely offers Denials Report(s):  
-insert image regarding denials report  
-![alt tag](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/backlog-requests-and-repairs-usda-2010.png)  
+![foiaonline.regulations.gov FOIA Denial Report Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/foiaonline.regulations.gov-partial-denials-search.png)  
 [OGIS Library RSS Feed - Check Last Update (2011-11-28)](https://ogis.archives.gov/Page298_Topic8.rss)  
 [OGIS Events and Presentation Calendar](https://ogis.archives.gov/Page298_Topic7.rss)  
 
