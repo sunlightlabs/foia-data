@@ -25,13 +25,13 @@ Comparisons
   [Appeals Compare - USDA 2010](https://www.foia.gov/foia/Services/appealCompare.jsp?requestYear=2010&agencyName=USDA)  
   Appeals Backlogged - Availalbe under Basic -> Comparisons -> Appeals Compare  
   [Appeals Backlog - USDA 2010](https://www.foia.gov/foia/Services/appealBacklog.jsp?requestYear=2010&agencyName=USDA)
-  [Backlog Option Available from Basic Search - USDA 2010](https://www.foia.gov/foia/Services/DataBacklog.jsp?requestYear=2010&agencyName=USDA) Backlog Requests are confusing from Advanced Search  
-![alt tag](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/backlog-requests-and-repairs-usda-2010.png)    
-  Also compare Backlog Requests from Basic Search
-  insert backlog search basic
-  Run advanced report search -> Backlog - Department of Agriculture -> 2010
-insert img
-Not the same results as: [foia.gov/foia/Services/requestBacklog.jsp?requestYear=2010&agencyName=USDA](https://www.foia.gov/foia/Services/requestBacklog.jsp?requestYear=2010&agencyName=USDA)  
+  [Backlog Option Available from Basic Search - USDA 2010](https://www.foia.gov/foia/Services/DataBacklog.jsp?requestYear=2010&agencyName=USDA)  
+  Backlog Requests are confusing from Advanced Search  
+  Compare below image from Advanced Search - Advanced Search -> Backlog -> USDA (Department of Agriculture) -> 2010:  
+![Basic Search Advanced Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/backlog-requests-and-repairs-usda-2010.png)    
+  Compare Backlog Requests from Basic Search:  
+![Backlog Search Basic Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/backlog-search-basic.png)  
+[Request Backlog API Call - Not the same results as either: foia.gov/foia/Services/requestBacklog.jsp?requestYear=2010&agencyName=USDA](https://www.foia.gov/foia/Services/requestBacklog.jsp?requestYear=2010&agencyName=USDA)  
 Not even the same agency names....  
 
 ### Requests - Expedited Processing  
