@@ -1,8 +1,6 @@
 # [foia.gov](https://www.foia.gov/)  
 
-## [FOIA.gov Data Options Not Offered](https://www.foia.gov/data.html)  
-
-## Data Options
+## [FOIA.gov Data Options Offered/Not Offered](https://www.foia.gov/data.html) 
 ### Report Category: Fee Waive  
 Requests ** As far as I can tell, feewaiverWaiver is still exposed/functional, the option above it in the HTML serves the same purpose. Or rather, the commented out option is a feature, and not an option.  
 
@@ -97,23 +95,10 @@ Missing Documents:
 From Sitemap -> Click on News Spotlight -> Click on RSS Icon top right -> takes you to feed last updated 2011-09-06
 [old feed from sitemap](https://www.foia.gov/xml/foiarss.xml)  
 
-[Where/How Does open.foia.gov Fit Into The Mix?](https://open.foia.gov/)  
 
-[18f open.foia.gov Looks A Little Abandoned](http://foia-hub.readthedocs.io/en/latest/api.html)  
-[github - last updated 7 months ago](https://github.com/18F/foia-hub)  
 
-[Down to the details of design, not sure what the difference(s) Are between foia.gov and foiaonline.regulations.gov](https://foiaonline.regulations.gov/foia/action/public/report)  
-Definitely offers Denials Report(s):  
-![foiaonline.regulations.gov FOIA Denial Report Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/foiaonline.regulations.gov-partial-denials-search.png)  
-[OGIS Library RSS Feed - Check Last Update (2011-11-28)](https://ogis.archives.gov/Page298_Topic8.rss)  
-[OGIS Events and Presentation Calendar](https://ogis.archives.gov/Page298_Topic7.rss)  
 
-![foia.gov Alert Fail](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-css-error-and-alert-error-yay.png)  
-![foia.gov Select Components Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-data-advanced-report-select-components-chrome.png)  
-![foia.gov View Video in Firefox Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-data-video-firefox.png)  
-![Misspelling of Exemption Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/mispelling.png)  
-![OGIS FOIA CSV Download Screenshot in Open Office](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/ogis-csv-download-rendering-in-openoffice-2016-05-26.png)  
-![Sitemap Last Updated 2011 Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/sitemap-last-updated-2011.png)  
+
   
 ## Simple vs. Advanced Requests  
 Basic Request - USDA 2010  
@@ -129,6 +114,17 @@ Advanced Request - USDA 2010
 [D3 Chart - Processing Simple Requests Full - Totals](http://dev.bowdenweb.com/processing-times-simple.html)  
 [D3 Chart - Processing Complex Requests Full - Totals](http://dev.bowdenweb.com/processing-times-complex.html)  
 
+
+![Featured Option Not Being Offered](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/featured-option-not-being-offered.png)  
+![Learn How to Make a Basic FOIA Report Not Being Offered](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/learn-how-to-make-a-basic-foia-report-not-being-offered.png)  
+![Odd/Confusing](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/useless.png)  
+![View More Data Options Commented Out](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/view-more-data-options-not-being-offered.png)  
+![foia.gov Alert Fail](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-css-error-and-alert-error-yay.png)  
+![foia.gov Select Components Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-data-advanced-report-select-components-chrome.png)  
+![foia.gov View Video in Firefox Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-data-video-firefox.png)  
+![Misspelling of Exemption Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/mispelling.png)  
+![Sitemap Last Updated 2011 Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/sitemap-last-updated-2011.png)  
+
 # Takeaways  
 Why is Basic more advanced than Advanced?  
 Why are the Denials not provided at all?  
@@ -140,6 +136,24 @@ We could build a better search [Build Better Search via Proxy](http://dev.bowden
 We could serve up better results [Search Results via Proxy](http://dev.bowdenweb.com/proxy-foia-jsp-results.html)  
 [Compared to Search Results API](https://www.foia.gov/foia/Services/processingSimple.jsp?requestYear=2015&agencyName=USDA)  
 We could fork JKAN and host foia data we've scraped in it on github  
+
+# OTHER FOIA SITES  
+
+## OGIS  
+![OGIS FOIA CSV Download Screenshot in Open Office](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/ogis-csv-download-rendering-in-openoffice-2016-05-26.png)  
+[OGIS Library RSS Feed - Check Last Update (2011-11-28)](https://ogis.archives.gov/Page298_Topic8.rss)  
+[OGIS Events and Presentation Calendar](https://ogis.archives.gov/Page298_Topic7.rss)  
+
+## 18f/open.foia.gov
+[Where/How Does open.foia.gov Fit Into The Mix?](https://open.foia.gov/)  
+[18f open.foia.gov Looks A Little Abandoned](http://foia-hub.readthedocs.io/en/latest/api.html)  
+[github - last updated 7 months ago](https://github.com/18F/foia-hub)  
+
+## foiaonline.regulations.gov  
+[Down to the details of design, not sure what the difference(s) Are between foia.gov and foiaonline.regulations.gov](https://foiaonline.regulations.gov/foia/action/public/report)  
+Definitely offers Denials Report(s):  
+![foiaonline.regulations.gov FOIA Denial Report Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/foiaonline.regulations.gov-partial-denials-search.png)  
+
 
 
 
