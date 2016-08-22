@@ -7,6 +7,7 @@
 Requests ** As far as I can tell, feewaiverWaiver is still exposed/functional, the option above it in the HTML serves the same purpose. Or rather, the commented out option is a feature, and not an option.  
 
 ### Advanced Report Categories  
+![Screenshot of Cluttered UI for Advanced Search on foia.gov](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/broken-ui.png)  
 Denial  
 Exemption 3 Statutes - Available under Basic Search -> Exemptions -> Exemption 3 Statutes [Exemption 3 Statutes - USDA 2015](https://www.foia.gov/foia/Services/Exemption3Statutes.jsp?requestYear=2015&agencyName=USDA)  
 Denials(Reasons)  
@@ -36,19 +37,15 @@ Not even the same agency names, etc.
 ![Request Backlog Results API Call Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/request-backlog-api-call-results.png)   
 
 ### Requests - Expedited Processing  
+![Requests Denial Commented Out Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-reports-options-not-offered-02.png)  
+
 These are still exposed via breadcrumbs in the basic search page but that is the only place I can find that functionality:  
 Denial  
 [Requests Denied - USDA 2015](https://www.foia.gov/foia/Services/RequestDenial.jsp?requestYear=2015&agencyName=USDA)  
 Pending  
 [Requests Pending - USDA 2015](https://www.foia.gov/foia/Services/RequestPending.jsp?requestYear=2015&agencyName=USDA)  
 
-maybe you dont need this
-While the options are not as limited as I thought, using the Advanced Search is odd, considering some of them are not available there. 
-Very Confusing. From Advanced Search -> Select Exemptions -> USDA -> 2010  
-
-
-
-## Advanced Report Options  
+## Advanced Report Options - Available  
 reportRequests      Report Name ->Requests  
 requestDisposition      Report Name ->   - Disposition  
 reportFeeWaiver      Report Name ->   - Expedited Processing  
@@ -72,7 +69,10 @@ personnelCost      Report Name ->   - FOIA Costs
 reportBacklog      Report Name -> Backlog  
 reportConsultations      Report Name -> Consultations  
 
-### Advanced Report Options Commented Out  
+### Advanced Report Options - Not Available/Visible to Users  
+![HTML Options Commented Out Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/basic-search-option-elements-commented-out-markup-foia.gov-screenshot.png) 
+![Closer Version of HTML Options Commented Out Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/commented-out-markup-options.png)  
+
 requestDenial      Report Name ->   - Denial  
 Exemption3Statutes      Report Name ->   - Exemption 3 Statutes  
 appealDenialReason      Report Name ->   - Denials(Reasons)  
@@ -108,4 +108,26 @@ insert image regarding denials report
 ![alt tag](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/backlog-requests-and-repairs-usda-2010.png)  
 [OGIS Library RSS Feed - Check Last Update (2011-11-28)](https://ogis.archives.gov/Page298_Topic8.rss)  
 [OGIS Events and Presentation Calendar](https://ogis.archives.gov/Page298_Topic7.rss)  
+
+![foia.gov Alert Fail](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-css-error-and-alert-error-yay.png)  
+![foia.gov Select Components Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-data-advanced-report-select-components-chrome.png)  
+![foia.gov View Video in Firefox Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-data-video-firefox.png)  
+![Misspelling of Exemption Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/mispelling.png)  
+![OGIS FOIA CSV Download Screenshot in Open Office](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/ogis-csv-download-rendering-in-openoffice-2016-05-26.png)  
+![Sitemap Last Updated 2011 Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/sitemap-last-updated-2011.png)  
+  
+## Simple vs. Advanced Requests  
+Basic Request  
+![]()  
+Advanced Request  
+
+
+# Takeaways  
+Why is Basic more advanced than Advanced?  
+Why are the Denials not provided at all?  
+Why are some of the options only provided via breadcrumbs (not really provided, you have to be inspecting/paying attention)?  
+What is the difference between foia.gov vs. foiaonline.regulations.gov?  
+Why is foia.gov partially/poorly maintained?  
+Why are their different results shown for the three backlog requests searches?  
+
 
