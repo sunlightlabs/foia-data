@@ -68,7 +68,9 @@ reportBacklog      Report Name -> Backlog
 reportConsultations      Report Name -> Consultations  
 
 ### Advanced Report Options - Not Available/Visible to Users  
-![HTML Options Commented Out Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/basic-search-option-elements-commented-out-markup-foia.gov-screenshot.png) 
+HTML Options Commented Out Screenshot  
+![HTML Options Commented Out Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/basic-search-option-elements-commented-out-markup-foia.gov-screenshot.png)  
+Closer Version of HTML Options Commented Out Screenshot
 ![Closer Version of HTML Options Commented Out Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/commented-out-markup-options.png)  
 
 requestDenial      Report Name ->   - Denial  
@@ -102,8 +104,9 @@ From Sitemap -> Click on News Spotlight -> Click on RSS Icon top right -> takes 
   
 ## Simple vs. Advanced Requests  
 Basic Request - USDA 2010  
+Basic Request - USDA 2010 Screenshot  
 ![Basic Request - USDA 2010](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/simple-requests-screenshot.png)  
-Advanced Request - USDA 2010  
+Advanced Request - USDA 2010 Screenshot  
 ![Advanced Request - USDA 2010](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/advanced-request-screenshot.png)   
 
 ## Processing Times: Simple Requests vs. Complex Requests
@@ -114,15 +117,24 @@ Advanced Request - USDA 2010
 [D3 Chart - Processing Simple Requests Full - Totals](http://dev.bowdenweb.com/processing-times-simple.html)  
 [D3 Chart - Processing Complex Requests Full - Totals](http://dev.bowdenweb.com/processing-times-complex.html)  
 
-
+## Options Not Being Offered/Bad UI/UX  
+Featured Option Not Being Offered  
 ![Featured Option Not Being Offered](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/featured-option-not-being-offered.png)  
+Learn How to Make a Basic FOIA Report Not Being Offered  
 ![Learn How to Make a Basic FOIA Report Not Being Offered](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/learn-how-to-make-a-basic-foia-report-not-being-offered.png)  
+Odd/Confusing  
 ![Odd/Confusing](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/useless.png)  
+View More Data Options Commented Out  
 ![View More Data Options Commented Out](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/view-more-data-options-not-being-offered.png)  
+foia.gov Alert Fail  
 ![foia.gov Alert Fail](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-css-error-and-alert-error-yay.png)  
+foia.gov Select Components Screenshot  
 ![foia.gov Select Components Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-data-advanced-report-select-components-chrome.png)  
+foia.gov View Video in Firefox Screenshot  
 ![foia.gov View Video in Firefox Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/fail-foia.gov-data-video-firefox.png)  
+Misspelling of Exemption Screenshot  
 ![Misspelling of Exemption Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/mispelling.png)  
+Sitemap Last Updated 2011 Screenshot  
 ![Sitemap Last Updated 2011 Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/sitemap-last-updated-2011.png)  
 
 # Takeaways  
@@ -140,8 +152,11 @@ We could fork JKAN and host foia data we've scraped in it on github
 # OTHER FOIA SITES  
 
 ## OGIS  
+Nonvalid CSV - OGIS FOIA CSV Download Screenshot in Open Office  
 ![OGIS FOIA CSV Download Screenshot in Open Office](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/ogis-csv-download-rendering-in-openoffice-2016-05-26.png)  
+OGIS Library RSS Feed - Check Last Update (2011-11-28)  
 [OGIS Library RSS Feed - Check Last Update (2011-11-28)](https://ogis.archives.gov/Page298_Topic8.rss)  
+OGIS Events and Presentation Calendar Screenshot  
 [OGIS Events and Presentation Calendar](https://ogis.archives.gov/Page298_Topic7.rss)  
 
 ## 18f/open.foia.gov
@@ -152,6 +167,7 @@ We could fork JKAN and host foia data we've scraped in it on github
 ## foiaonline.regulations.gov  
 [Down to the details of design, not sure what the difference(s) Are between foia.gov and foiaonline.regulations.gov](https://foiaonline.regulations.gov/foia/action/public/report)  
 Definitely offers Denials Report(s):  
+foiaonline.regulations.gov FOIA Denial Report Screenshot  
 ![foiaonline.regulations.gov FOIA Denial Report Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/foiaonline.regulations.gov-partial-denials-search.png)  
 
 
