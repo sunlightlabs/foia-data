@@ -32,7 +32,8 @@ Comparisons
   Compare Backlog Requests from Basic Search:  
 ![Backlog Search Basic Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/backlog-search-basic.png)  
 [Request Backlog API Call - Not the same results as either: foia.gov/foia/Services/requestBacklog.jsp?requestYear=2010&agencyName=USDA](https://www.foia.gov/foia/Services/requestBacklog.jsp?requestYear=2010&agencyName=USDA)  
-Not even the same agency names....  
+Not even the same agency names, etc.  
+![Request Backlog Results API Call Screenshot](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/request-backlog-api-call-results.png)   
 
 ### Requests - Expedited Processing  
 These are still exposed via breadcrumbs in the basic search page but that is the only place I can find that functionality:  
