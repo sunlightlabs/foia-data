@@ -38,7 +38,7 @@ Not even the same agency names, etc.
 ### Requests - Expedited Processing  
 These are still exposed via breadcrumbs in the basic search page but that is the only place I can find that functionality:  
 Denial  
-[Requests Denied - USDA 2015](https://www.foia.gov/foia/Services/RequestDenial.jsp?requestYear=2015&agencyName=USDA) 
+[Requests Denied - USDA 2015](https://www.foia.gov/foia/Services/RequestDenial.jsp?requestYear=2015&agencyName=USDA)  
 Pending  
 [Requests Pending - USDA 2015](https://www.foia.gov/foia/Services/RequestPending.jsp?requestYear=2015&agencyName=USDA)  
 
