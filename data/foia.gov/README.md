@@ -26,7 +26,7 @@ Comparisons
   Appeals Backlogged - Availalbe under Basic -> Comparisons -> Appeals Compare  
   [Appeals Backlog - USDA 2010](https://www.foia.gov/foia/Services/appealBacklog.jsp?requestYear=2010&agencyName=USDA)
   [Backlog Option Available from Basic Search - USDA 2010](https://www.foia.gov/foia/Services/DataBacklog.jsp?requestYear=2010&agencyName=USDA) Backlog Requests are confusing from Advanced Search  
-  insert backlog search img  
+![alt tag](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/backlog-requests-and-repairs-usda-2010.png)    
   Also compare Backlog Requests from Basic Search
   insert backlog search basic
   Run advanced report search -> Backlog - Department of Agriculture -> 2010
@@ -104,6 +104,7 @@ From Sitemap -> Click on News Spotlight -> Click on RSS Icon top right -> takes 
 [Down to the details of design, not sure what the difference(s) Are between foia.gov and foiaonline.regulations.gov](https://foiaonline.regulations.gov/foia/action/public/report)  
 Definitely offers Denials Report(s):  
 insert image regarding denials report  
+![alt tag](https://raw.githubusercontent.com/sunlightlabs/foia-data/master/screen-shots/backlog-requests-and-repairs-usda-2010.png)  
 [OGIS Library RSS Feed - Check Last Update (2011-11-28)](https://ogis.archives.gov/Page298_Topic8.rss)  
 [OGIS Events and Presentation Calendar](https://ogis.archives.gov/Page298_Topic7.rss)  
 
