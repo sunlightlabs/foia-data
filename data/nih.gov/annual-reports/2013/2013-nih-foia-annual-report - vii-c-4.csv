@@ -1,0 +1,4 @@
+Request Type,# Pend.,Median # Days,Avg # Days
+Simple Requests,45,11,14
+Complex Requests,25,31,72
+Expedited Processing,0,0,0

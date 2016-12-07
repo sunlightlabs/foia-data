@@ -1,0 +1,7 @@
+# [NIH FOIA Log](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office/nih-foia-log)  
+[NIH FOIA Log – FY 2017 - NIH Purchase Card List](https://www.nih.gov/sites/default/files/institutes/foia/foia-log-sep2017.xlsx)  
+[NIH FOIA Log – FY 2017 - NIH Purchase Card List - Printer-friendly version](https://www.nih.gov/sites/default/files/institutes/foia/foia-log-sep2017.pdf)  
+[NIH FOIA Log – FY 2016 - NIH Purchase Card List](https://www.nih.gov/sites/default/files/institutes/foia/foia-log-sep2016.xlsx)  
+[NIH FOIA Log – FY 2016 - NIH Purchase Card List - Printer-friendly version](https://www.nih.gov/sites/default/files/institutes/foia/foia-log-sep2016.pdf)  
+[NIH FOIA Log – FY 2015 - NIH Purchase Card List](https://www.nih.gov/sites/default/files/institutes/foia/2015-foia-log.xlsx)  
+[NIH FOIA Log – FY 2015 - NIH Purchase Card List - Printer-friendly version](https://www.nih.gov/sites/default/files/institutes/foia/2015-foia-log.pdf)  

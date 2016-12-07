@@ -1,0 +1,16 @@
+Days,# of Requests Processed
+< 1 day,35
+1-20 days,761
+21-40 days,198
+41-60 days,38
+61-80 days,8
+81-100 days,6
+101-120,0
+121-140 days,0
+141-160 days,0
+161-180 days,0
+181-200 days,0
+201-300 days,0
+301-400 days,0
+401+,0
+Total,1046

@@ -1,0 +1,4 @@
+Request Type,Median # Days,Avg # Days,Lowest # Days,Highest # Days
+Simple Requests,15,17,1,93
+Complex Requests,51,74,1,742
+Expedited Processing,0,0,0,0
