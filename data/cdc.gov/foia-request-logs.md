@@ -1,0 +1,13 @@
+# [CDC FOIA Requst Log](https://www.cdc.gov/od/foia/requestlog/index.htm)  
+
+*[FOIA Log - January 1 - March 31, 2014 (PDF)](https://www.cdc.gov/od/foia/docs/foia-log-january1-march312014.pdf)  
+*[FOIA Log - April 1 - June 30, 2014 (XLSX)](https://www.cdc.gov/od/foia/docs/foia-log-april1-june302014.xlsx)  
+*[FOIA Log - July 1 - September 30, 2014 (XLSX)](https://www.cdc.gov/od/foia/docs/foia-log-july1-sept302014.xlsx)  
+*[FOIA Log - October 1 - December 31, 2014 (XLSX)](https://www.cdc.gov/od/foia/docs/foia-log-oct1-dec312014.xlsx)  
+*[FOIA Log - January 1 - March 31, 2015 (XLSX)](https://www.cdc.gov/od/foia/docs/foia-log-january1-march312015.xlsx)  
+*[FOIA Log - April 1 - June 30, 2015 (XLSX)](https://www.cdc.gov/od/foia/docs/foia-log-april1-june302015.xlsx)  
+*[FOIA Log - July 1 - September 30, 2015 (XLSX)](https://www.cdc.gov/od/foia/docs/foia-log-july1-september302015.xlsx)  
+*[FOIA Log - October 1 - December 31, 2015 (XLSX)](https://www.cdc.gov/od/foia/docs/foialog-oct1-dec312015.xlsx)  
+*[FOIA Log - January 1, 2016 - March 31, 2016 (XLSX)](https://www.cdc.gov/od/foia/docs/foia-log-january1-march312016.xlsx)  
+*[FOIA Log - April 1, 2016 - June 30, 2016 (XLSX)](https://www.cdc.gov/od/foia/docs/foia-log-april1-june30-2016.xlsx)  
+*[FOIA Log - July 1, 2016 - September 30, 2016 (XLSX)](https://www.cdc.gov/od/foia/docs/foia-log-july1-sept30-2016.xlsx)  
