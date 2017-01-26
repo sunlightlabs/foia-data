@@ -32,3 +32,17 @@
 [2012-10](https://www.aphis.usda.gov/foia/foia_logs/2012/October.xlsx)  
 [2012-11](https://www.aphis.usda.gov/foia/foia_logs/2012/November.xlsx)  
 [2012-12](https://www.aphis.usda.gov/foia/foia_logs/2012/December.xlsx)  
+
+## 2013 FOIA Logs  
+[2013-01](https://www.aphis.usda.gov/foia/foia_logs/2013/January.xls)
+[2013-02](https://www.aphis.usda.gov/foia/foia_logs/2013/February.xls)
+[2013-03](https://www.aphis.usda.gov/foia/foia_logs/2013/March.xlsx)
+[2013-04](https://www.aphis.usda.gov/foia/foia_logs/2013/April.xlsx)
+[2013-05](https://www.aphis.usda.gov/foia/foia_logs/2013/May.xlsx)
+[2013-06](https://www.aphis.usda.gov/foia/foia_logs/2013/June.xlsx)
+[2013-07](https://www.aphis.usda.gov/foia/foia_logs/2013/July.xlsx)
+[2013-08](https://www.aphis.usda.gov/foia/foia_logs/2013/August.xlsx)
+[2013-09](https://www.aphis.usda.gov/foia/foia_logs/2013/September.xlsx)
+[2013-10](https://www.aphis.usda.gov/foia/foia_logs/2013/October.xlsx)
+[2013-11](https://www.aphis.usda.gov/foia/foia_logs/2013/November.xlsx)
+[2013-12](https://www.aphis.usda.gov/foia/foia_logs/2013/December.xlsx)
