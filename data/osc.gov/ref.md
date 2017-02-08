@@ -1,0 +1,10 @@
+# [U.S. Office of Special Counsel Freedom of Information Act](https://osc.gov/Pages/FOIA-Resources.aspx)  
+
+[FOIA Handbook](https://osc.gov/Pages/FOIA-Handbook.aspx)  
+[OSC Public Access Link (PAL) FOIA Portal](https://efoia.osc.gov/)  
+[Annual Reports](annual-reports.md)  
+[FOIA Library/Electronic Reading Room](foia-library-electronic-reading-room.md)  
+[FOIA Program Plans](foia-program-plans.md)  
+[GPRA Reports](gpra-reports.md)  
+[Information Quality Reports](information-quality-reports.md)  
+[Performance Accountability Reports](performance-accountabilty-reportds.md)  
