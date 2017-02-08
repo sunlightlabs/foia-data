@@ -1,0 +1,1087 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "9dh4-qcur",
+      "name" : "FOIA Requests (FY 2007–2015)",
+      "attribution" : "IMLS",
+      "attributionLink" : "https://www.imls.gov/about-us/agency-reports/freedom-information-act-foia",
+      "averageRating" : 0,
+      "category" : "Administrative Data",
+      "createdAt" : 1423498546,
+      "description" : "Review summary data on IMLS' annual reports on Freedom of Information Act (FOIA) requests from FY 2007 to FY 2015. \r\n\r\nFull reports are available at https://www.imls.gov/about-us/agency-reports/freedom-information-act-foia.",
+      "displayType" : "table",
+      "downloadCount" : 67,
+      "indexUpdatedAt" : 1472563237,
+      "licenseId" : "USGOV_WORKS",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 21665093,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1465994590,
+      "publicationGroup" : 2214711,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1465994406,
+      "rowsUpdatedBy" : "b4ig-itd5",
+      "tableId" : 11327767,
+      "totalTimesRated" : 0,
+      "viewCount" : 296,
+      "viewLastModified" : 1472563023,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 259007151,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24514218,
+        "width" : 83,
+        "cachedContents" : {
+          "non_null" : 9,
+          "largest" : "2015",
+          "null" : 0,
+          "top" : [ {
+            "item" : "2007",
+            "count" : 20
+          }, {
+            "item" : "2008",
+            "count" : 19
+          }, {
+            "item" : "2009",
+            "count" : 18
+          }, {
+            "item" : "2010",
+            "count" : 17
+          }, {
+            "item" : "2011",
+            "count" : 16
+          }, {
+            "item" : "2012",
+            "count" : 15
+          }, {
+            "item" : "2013",
+            "count" : 14
+          }, {
+            "item" : "2014",
+            "count" : 13
+          }, {
+            "item" : "2015",
+            "count" : 12
+          } ],
+          "smallest" : "2007"
+        },
+        "format" : {
+          "align" : "right"
+        }
+      }, {
+        "id" : 259007152,
+        "name" : "Total Number of Requests Processed in Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "total_number_of_requests_processed_in_fiscal_year",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514219,
+        "width" : 150,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "43.11111111111111",
+          "largest" : "58",
+          "null" : 0,
+          "top" : [ {
+            "item" : "58",
+            "count" : 20
+          }, {
+            "item" : "44",
+            "count" : 19
+          }, {
+            "item" : "39",
+            "count" : 18
+          }, {
+            "item" : "51",
+            "count" : 17
+          }, {
+            "item" : "36",
+            "count" : 16
+          }, {
+            "item" : "35",
+            "count" : 15
+          }, {
+            "item" : "41",
+            "count" : 14
+          }, {
+            "item" : "33",
+            "count" : 13
+          } ],
+          "smallest" : "33",
+          "sum" : "388"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007153,
+        "name" : "Number of Full Grants",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_full_grants",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514220,
+        "width" : 192,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "13.55555555555556",
+          "largest" : "24",
+          "null" : 0,
+          "top" : [ {
+            "item" : "17",
+            "count" : 20
+          }, {
+            "item" : "15",
+            "count" : 19
+          }, {
+            "item" : "12",
+            "count" : 18
+          }, {
+            "item" : "11",
+            "count" : 17
+          }, {
+            "item" : "8",
+            "count" : 16
+          }, {
+            "item" : "10",
+            "count" : 15
+          }, {
+            "item" : "24",
+            "count" : 14
+          }, {
+            "item" : "13",
+            "count" : 13
+          } ],
+          "smallest" : "8",
+          "sum" : "122"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007154,
+        "name" : "Number of Partial Grants/ Partial Denials",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_partial_grants_partial_denials",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514221,
+        "width" : 300,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "18.11111111111111",
+          "largest" : "27",
+          "null" : 0,
+          "top" : [ {
+            "item" : "27",
+            "count" : 20
+          }, {
+            "item" : "18",
+            "count" : 19
+          }, {
+            "item" : "17",
+            "count" : 18
+          }, {
+            "item" : "16",
+            "count" : 17
+          }, {
+            "item" : "13",
+            "count" : 16
+          }, {
+            "item" : "9",
+            "count" : 15
+          } ],
+          "smallest" : "9",
+          "sum" : "163"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007155,
+        "name" : "Number of Full Denials Based on Exemptions",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_full_denials_based_on_exemptions",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514222,
+        "width" : 326,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "0.6666666666666667",
+          "largest" : "3",
+          "null" : 0,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "0",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          }, {
+            "item" : "2",
+            "count" : 17
+          } ],
+          "smallest" : "0",
+          "sum" : "6"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007156,
+        "name" : "Number of Full Denials Based on Reasons Other than Exemptions",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_full_denials_based_on_reasons_other_than_exemptions",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24521072,
+        "width" : 351,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "9.555555555555556",
+          "largest" : "14",
+          "null" : 0,
+          "top" : [ {
+            "item" : "11",
+            "count" : 20
+          }, {
+            "item" : "10",
+            "count" : 19
+          }, {
+            "item" : "12",
+            "count" : 18
+          }, {
+            "item" : "6",
+            "count" : 17
+          }, {
+            "item" : "9",
+            "count" : 16
+          }, {
+            "item" : "13",
+            "count" : 15
+          }, {
+            "item" : "14",
+            "count" : 14
+          }, {
+            "item" : "0",
+            "count" : 13
+          } ],
+          "smallest" : "0",
+          "sum" : "86"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007157,
+        "name" : "Denial - No Records",
+        "dataTypeName" : "number",
+        "fieldName" : "denial_no_records",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514223,
+        "width" : 228,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "6",
+          "largest" : "10",
+          "null" : 0,
+          "top" : [ {
+            "item" : "4",
+            "count" : 20
+          }, {
+            "item" : "10",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          }, {
+            "item" : "7",
+            "count" : 17
+          }, {
+            "item" : "2",
+            "count" : 16
+          } ],
+          "smallest" : "2",
+          "sum" : "54"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007158,
+        "name" : "Denial - All Records Referred to Another Component or Agency",
+        "dataTypeName" : "number",
+        "fieldName" : "denial_all_records_referred_to_another_component_or_agency",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514224,
+        "width" : 422,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "0",
+          "largest" : "0",
+          "null" : 0,
+          "top" : [ {
+            "item" : "0",
+            "count" : 20
+          } ],
+          "smallest" : "0",
+          "sum" : "0"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007159,
+        "name" : "Denial - Request Withdrawn",
+        "dataTypeName" : "number",
+        "fieldName" : "denial_request_withdrawn",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514225,
+        "width" : 233,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "0.7777777777777778",
+          "largest" : "2",
+          "null" : 0,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "0",
+            "count" : 19
+          }, {
+            "item" : "2",
+            "count" : 18
+          } ],
+          "smallest" : "0",
+          "sum" : "7"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007160,
+        "name" : "Denial - Fee-Related Reason",
+        "dataTypeName" : "number",
+        "fieldName" : "denial_fee_related_reason",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514226,
+        "width" : 252,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "0",
+          "largest" : "0",
+          "null" : 0,
+          "top" : [ {
+            "item" : "0",
+            "count" : 20
+          } ],
+          "smallest" : "0",
+          "sum" : "0"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007161,
+        "name" : "Denial - Records not Reasonably Described",
+        "dataTypeName" : "number",
+        "fieldName" : "denial_records_not_reasonably_described",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514227,
+        "width" : 346,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "0.1111111111111111",
+          "largest" : "1",
+          "null" : 0,
+          "top" : [ {
+            "item" : "0",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          } ],
+          "smallest" : "0",
+          "sum" : "1"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007162,
+        "name" : "Denial - Improper FOIA Request for Other Reason",
+        "dataTypeName" : "number",
+        "fieldName" : "denial_improper_foia_request_for_other_reason",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514228,
+        "width" : 343,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "0.4444444444444444",
+          "largest" : "2",
+          "null" : 0,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          }, {
+            "item" : "0",
+            "count" : 18
+          } ],
+          "smallest" : "0",
+          "sum" : "4"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007163,
+        "name" : "Denial - Not Agency Record",
+        "dataTypeName" : "number",
+        "fieldName" : "denial_not_agency_record",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514229,
+        "width" : 276,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "1.777777777777778",
+          "largest" : "5",
+          "null" : 0,
+          "top" : [ {
+            "item" : "4",
+            "count" : 20
+          }, {
+            "item" : "0",
+            "count" : 19
+          }, {
+            "item" : "5",
+            "count" : 18
+          }, {
+            "item" : "3",
+            "count" : 17
+          }, {
+            "item" : "1",
+            "count" : 16
+          }, {
+            "item" : "2",
+            "count" : 15
+          } ],
+          "smallest" : "0",
+          "sum" : "16"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007164,
+        "name" : "Denial - Duplicate Request",
+        "dataTypeName" : "number",
+        "fieldName" : "denial_duplicate_request",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514230,
+        "width" : 239,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "0.2222222222222222",
+          "largest" : "1",
+          "null" : 0,
+          "top" : [ {
+            "item" : "0",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          } ],
+          "smallest" : "0",
+          "sum" : "2"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007165,
+        "name" : "Denial - Other",
+        "dataTypeName" : "number",
+        "fieldName" : "denial_other_explain_in_chart_below",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514231,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "1.222222222222222",
+          "largest" : "4",
+          "null" : 0,
+          "top" : [ {
+            "item" : "0",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          }, {
+            "item" : "4",
+            "count" : 18
+          }, {
+            "item" : "3",
+            "count" : 17
+          }, {
+            "item" : "2",
+            "count" : 16
+          } ],
+          "smallest" : "0",
+          "sum" : "11"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 259007166,
+        "name" : "Simple - Median Number of Days ",
+        "dataTypeName" : "number",
+        "fieldName" : "simple_median_number_of_days",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514232,
+        "width" : 270,
+        "cachedContents" : {
+          "non_null" : 8,
+          "average" : "8.5625",
+          "largest" : "11",
+          "null" : 1,
+          "top" : [ {
+            "item" : "9",
+            "count" : 20
+          }, {
+            "item" : "11",
+            "count" : 19
+          }, {
+            "item" : "9.5",
+            "count" : 18
+          }, {
+            "item" : "7",
+            "count" : 17
+          }, {
+            "item" : "5",
+            "count" : 16
+          } ],
+          "smallest" : "5",
+          "sum" : "68.5"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007167,
+        "name" : "Simple - Average Number of Days ",
+        "dataTypeName" : "number",
+        "fieldName" : "simple_average_number_of_days",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514233,
+        "width" : 265,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "9.468888888888889",
+          "largest" : "12.7",
+          "null" : 0,
+          "top" : [ {
+            "item" : "11",
+            "count" : 20
+          }, {
+            "item" : "12.7",
+            "count" : 19
+          }, {
+            "item" : "9.6",
+            "count" : 18
+          }, {
+            "item" : "9.3",
+            "count" : 17
+          }, {
+            "item" : "8.9",
+            "count" : 16
+          }, {
+            "item" : "7.9",
+            "count" : 15
+          }, {
+            "item" : "5.92",
+            "count" : 14
+          } ],
+          "smallest" : "5.92",
+          "sum" : "85.22"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007168,
+        "name" : "Simple - Lowest Number of Days ",
+        "dataTypeName" : "number",
+        "fieldName" : "simple_lowest_number_of_days",
+        "position" : 18,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514234,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 8,
+          "average" : "1",
+          "largest" : "1",
+          "null" : 1,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          } ],
+          "smallest" : "1",
+          "sum" : "8"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007169,
+        "name" : "Simple - Highest Number of Days",
+        "dataTypeName" : "number",
+        "fieldName" : "simple_highest_number_of_days",
+        "position" : 19,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514235,
+        "width" : 278,
+        "cachedContents" : {
+          "non_null" : 8,
+          "average" : "23.125",
+          "largest" : "38",
+          "null" : 1,
+          "top" : [ {
+            "item" : "25",
+            "count" : 20
+          }, {
+            "item" : "38",
+            "count" : 19
+          }, {
+            "item" : "26",
+            "count" : 18
+          }, {
+            "item" : "22",
+            "count" : 17
+          }, {
+            "item" : "19",
+            "count" : 16
+          }, {
+            "item" : "18",
+            "count" : 15
+          }, {
+            "item" : "20",
+            "count" : 14
+          }, {
+            "item" : "17",
+            "count" : 13
+          } ],
+          "smallest" : "17",
+          "sum" : "185"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007170,
+        "name" : "Complex - Median Number of Days ",
+        "dataTypeName" : "number",
+        "fieldName" : "complex_median_number_of_days",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514236,
+        "width" : 271,
+        "cachedContents" : {
+          "non_null" : 7,
+          "average" : "42.35714285714286",
+          "largest" : "77",
+          "null" : 2,
+          "top" : [ {
+            "item" : "65",
+            "count" : 20
+          }, {
+            "item" : "55.5",
+            "count" : 19
+          }, {
+            "item" : "77",
+            "count" : 18
+          }, {
+            "item" : "24",
+            "count" : 17
+          }, {
+            "item" : "24.5",
+            "count" : 16
+          }, {
+            "item" : "26",
+            "count" : 15
+          } ],
+          "smallest" : "24",
+          "sum" : "296.5"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007171,
+        "name" : "Complex - Average Number of Days ",
+        "dataTypeName" : "number",
+        "fieldName" : "complex_average_number_of_days",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514237,
+        "width" : 250,
+        "cachedContents" : {
+          "non_null" : 8,
+          "average" : "41.7875",
+          "largest" : "64.5",
+          "null" : 1,
+          "top" : [ {
+            "item" : "38",
+            "count" : 20
+          }, {
+            "item" : "64.5",
+            "count" : 19
+          }, {
+            "item" : "55.3",
+            "count" : 18
+          }, {
+            "item" : "58.5",
+            "count" : 17
+          }, {
+            "item" : "28.7",
+            "count" : 16
+          }, {
+            "item" : "24.8",
+            "count" : 15
+          }, {
+            "item" : "33.4",
+            "count" : 14
+          }, {
+            "item" : "31.1",
+            "count" : 13
+          } ],
+          "smallest" : "24.8",
+          "sum" : "334.3"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007172,
+        "name" : "Complex - Lowest Number of Days ",
+        "dataTypeName" : "number",
+        "fieldName" : "complex_lowest_number_of_days",
+        "position" : 22,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514238,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 7,
+          "average" : "29.42857142857143",
+          "largest" : "44",
+          "null" : 2,
+          "top" : [ {
+            "item" : "44",
+            "count" : 20
+          }, {
+            "item" : "36",
+            "count" : 19
+          }, {
+            "item" : "40",
+            "count" : 18
+          }, {
+            "item" : "23",
+            "count" : 17
+          }, {
+            "item" : "21",
+            "count" : 16
+          }, {
+            "item" : "22",
+            "count" : 15
+          }, {
+            "item" : "20",
+            "count" : 14
+          } ],
+          "smallest" : "20",
+          "sum" : "206"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007173,
+        "name" : "Complex - Highest Number of Days",
+        "dataTypeName" : "number",
+        "fieldName" : "complex_highest_number_of_days",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514239,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 7,
+          "average" : "61.14285714285714",
+          "largest" : "85",
+          "null" : 2,
+          "top" : [ {
+            "item" : "85",
+            "count" : 20
+          }, {
+            "item" : "74",
+            "count" : 19
+          }, {
+            "item" : "77",
+            "count" : 18
+          }, {
+            "item" : "39",
+            "count" : 17
+          }, {
+            "item" : "30",
+            "count" : 16
+          }, {
+            "item" : "56",
+            "count" : 15
+          }, {
+            "item" : "67",
+            "count" : 14
+          } ],
+          "smallest" : "30",
+          "sum" : "428"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007174,
+        "name" : "Expedited Processing - Median Number of Days ",
+        "dataTypeName" : "number",
+        "fieldName" : "expedited_processing_median_number_of_days",
+        "position" : 24,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514240,
+        "width" : 298,
+        "cachedContents" : {
+          "non_null" : 7,
+          "average" : "0.6428571428571429",
+          "largest" : "3.5",
+          "null" : 2,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "0",
+            "count" : 19
+          }, {
+            "item" : "3.5",
+            "count" : 18
+          } ],
+          "smallest" : "0",
+          "sum" : "4.5"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007175,
+        "name" : "Expedited Processing - Average Number of Days ",
+        "dataTypeName" : "number",
+        "fieldName" : "expedited_processing_average_number_of_days",
+        "position" : 25,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514241,
+        "width" : 338,
+        "cachedContents" : {
+          "non_null" : 7,
+          "average" : "0.6428571428571429",
+          "largest" : "3.5",
+          "null" : 2,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "0",
+            "count" : 19
+          }, {
+            "item" : "3.5",
+            "count" : 18
+          } ],
+          "smallest" : "0",
+          "sum" : "4.5"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007176,
+        "name" : "Expedited Processing - Lowest Number of Days ",
+        "dataTypeName" : "number",
+        "fieldName" : "expedited_processing_lowest_number_of_days",
+        "position" : 26,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514242,
+        "width" : 349,
+        "cachedContents" : {
+          "non_null" : 7,
+          "average" : "0.5714285714285714",
+          "largest" : "3",
+          "null" : 2,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "0",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          } ],
+          "smallest" : "0",
+          "sum" : "4"
+        },
+        "format" : { }
+      }, {
+        "id" : 259007177,
+        "name" : "Expedited Processing - Highest Number of Days",
+        "dataTypeName" : "number",
+        "fieldName" : "expedited_processing_highest_number_of_days",
+        "position" : 27,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24514243,
+        "width" : 356,
+        "cachedContents" : {
+          "non_null" : 7,
+          "average" : "0.7142857142857143",
+          "largest" : "4",
+          "null" : 2,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "0",
+            "count" : 19
+          }, {
+            "item" : "4",
+            "count" : 18
+          } ],
+          "smallest" : "0",
+          "sum" : "5"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain U.S. Government",
+        "termsLink" : "https://www.usa.gov/government-works"
+      },
+      "metadata" : {
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "fiscal_year"
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rdfClass" : "",
+        "custom_fields" : {
+          "Common Core" : {
+            "Contact Email" : "imlsinfo@imls.gov",
+            "Contact Name" : "Office of Digital and Information Strategy",
+            "Program Code" : "000:000",
+            "Bureau Code" : "474:00"
+          }
+        },
+        "rowIdentifier" : "0",
+        "rowLabel" : "Fiscal year",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "b4ig-itd5",
+        "displayName" : "Ammie",
+        "roleName" : "administrator",
+        "screenName" : "Ammie",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs", "use_data_connectors" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 259007151,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 259007151,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "b4ig-itd5",
+        "displayName" : "Ammie",
+        "roleName" : "administrator",
+        "screenName" : "Ammie",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs", "use_data_connectors" ]
+      },
+      "tags" : [ "foia", "freedom of information act", "administrative", "transparency" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 1, "4D180A57-7D19-4FEC-B1B2-7B625CA350A7", 1, 1465969182, "949141", 1465969182, "949141", null, "2007", "58", "17", "27", "1", "11", "4", "0", "1", "0", "0", "2", "4", "0", "0", null, "11", null, null, null, "38", null, null, null, null, null, null ]
+, [ 2, "610C45E6-880D-40F7-981D-288110992BE4", 2, 1465969182, "949141", 1465969182, "949141", null, "2008", "44", "15", "18", "0", "11", "10", "0", "0", "0", "0", "1", "0", "0", "0", "9", "11", "1", "25", null, null, null, null, "1", "1", "1", "1" ]
+, [ 3, "4B3FB000-5151-43CD-B58A-C2F6C00EDCCE", 3, 1465969182, "949141", 1465969182, "949141", null, "2009", "39", "12", "17", "0", "10", "3", "0", "2", "0", "0", "0", "5", "0", "0", "11", "12.7", "1", "38", "65", "64.5", "44", "85", "0", "0", "0", "0" ]
+, [ 4, "5C59AD25-A96C-44DB-B782-38A524A080E2", 4, 1465969182, "949141", 1465969182, "949141", null, "2010", "51", "12", "27", "0", "12", "7", "0", "0", "0", "0", "0", "3", "1", "1", "9", "9.6", "1", "26", "55.5", "55.3", "36", "74", "0", "0", "0", "0" ]
+, [ 5, "750C1CB1-777D-43D0-AFE1-20B468320B6C", 5, 1465969182, "949141", 1465969182, "949141", null, "2011", "36", "11", "16", "3", "6", "2", "0", "1", "0", "0", "0", "1", "1", "1", "9.5", "9.3", "1", "22", "77", "58.5", "40", "77", "3.5", "3.5", "3", "4" ]
+, [ 6, "641F562C-5726-4C46-BE4C-1C8D87C32C7D", 6, 1465969182, "949141", 1465969182, "949141", null, "2012", "35", "8", "18", "0", "9", "4", "0", "1", "0", "0", "0", "0", "0", "4", "9", "8.9", "1", "19", "24", "28.7", "23", "39", "0", "0", "0", "0" ]
+, [ 7, "5206B869-19B3-4F7A-A49A-D07F525B29ED", 7, 1465969182, "949141", 1465969182, "949141", null, "2013", "41", "10", "18", "0", "13", "7", "0", "0", "0", "1", "0", "2", "0", "3", "9", "8.9", "1", "18", "24.5", "24.8", "21", "30", "0", "0", "0", "0" ]
+, [ 8, "F8DE6C67-C94B-4541-8711-CE841D8D0FAD", 8, 1465969182, "949141", 1465969182, "949141", null, "2014", "51", "24", "13", "0", "14", "10", "0", "2", "0", "0", "0", "0", "0", "2", "7", "7.9", "1", "20", "24.5", "33.4", "22", "56", null, null, null, null ]
+, [ 9, "0936448A-5BCC-4248-AC44-84594C130F8F", 9, 1465969182, "949141", 1465969182, "949141", null, "2015", "33", "13", "9", "2", "0", "7", "0", "0", "0", "0", "1", "1", "0", "0", "5", "5.92", "1", "17", "26", "31.1", "20", "67", "0", "0", "0", "0" ]
+ ]
+}
