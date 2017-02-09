@@ -57,4 +57,15 @@
 
 
 [IMLS Performance and Accountability Reports](performance-and-accountability-reports-par.md)  
+[Equal Employment Opportunity Data](equal-employment-opportunity-data.md)  
+
+## Federally-issued VISA SmartPay purchase card holders:  
+
+[Stephanie Burwell: mailto:sburwell@imls.gov](mailto:sburwell@imls.gov)  
+[Wallace Cruz: mailto:wcruz@imls.gov](mailto:wcruz@imls.gov)  
+[Robin Greer: mailto:rgreer@imls.gov](mailto:rgreer@imls.gov)  
+[Alfred Jackson: mailto:ajackson@imls.gov](mailto:ajackson@imls.gov)  
+[Elizabeth Lyons: mailto:elyons@imls.gov](mailto:elyons@imls.gov)  
+[Steven White: mailto:swhite@imls.gov](mailto:swhite@imls.gov)  
+
 
