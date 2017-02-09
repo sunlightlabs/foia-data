@@ -55,3 +55,6 @@
 [2011 (PDF, 60 KB)](https://www.imls.gov/sites/default/files/chief_foia_officer_report_2011.pdf)  
 [2010 (PDF, 235 KB)](https://www.imls.gov/sites/default/files/chief_foia_officer_report_2010.pdf)  
 
+
+[IMLS Performance and Accountability Reports](performance-and-accountability-reports-par.md)  
+
