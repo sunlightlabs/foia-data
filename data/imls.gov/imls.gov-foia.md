@@ -59,6 +59,8 @@
 [IMLS Performance and Accountability Reports](performance-and-accountability-reports-par.md)  
 [Equal Employment Opportunity Data](equal-employment-opportunity-data.md)  
 [Measuring Success Initiative in the Grants to States Program](measuring-success-initiatives-in-grants-to-states-program.md)  
+[State Allotments](state-allotments.md)  
+
 
 
 ## Federally-issued VISA SmartPay purchase card holders:  
