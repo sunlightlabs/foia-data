@@ -1,6 +1,6 @@
 # [Equal Employment Opportunity Data](https://www.imls.gov/about-us/agency-reports/equal-employment-opportunity-data)  
 
-IMLS Internal Complaint Activity
+# IMLS Internal Complaint Activity
 
 ## 2015  
 [4th Quarter 2015 (PDF, 249KB)](https://www.imls.gov/sites/default/files/2015_october_31st_4th_quarter_no_fear_act.pdf)  
