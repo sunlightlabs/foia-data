@@ -17,7 +17,7 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 [Smoothhound Shark](foia-oa-commercial-smoothound-shark.md)  
 [South Atlantic Shrimp](foia-oa-commercial-south-atlantic-shrimp.md)  
 [Spanish Mackerel](foia-oa-commercial-spanish-mackeral.md)  
-[Spiny Lobster Tailing](.md)  
+[Spiny Lobster Tailing](foia-oa-commercial-spiny-lobster-tailing.md)  
 [Spiny Lobster](.md)  
 [Wreckfish](.md)  
 [Commercial Caribbean Small Boat](.md)  
