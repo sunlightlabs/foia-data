@@ -21,8 +21,9 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 [Spiny Lobster](foia-oa-commercial-spiny-lobster.md)  
 [Wreckfish](foia-oa-commercial-wreckfish.md)  
 [Commercial Caribbean Small Boat](foia-oa-commercial-caribbean-small-boat.md)  
-[Open Access Charter / Headboat Permits](.md)  
-[Atlantic Charter / Headboat for Dolphin / Wahoo](.md)  
+
+## Open Access Charter / Headboat Permits  
+[Atlantic Charter / Headboat for Dolphin / Wahoo](foia-oa-charter-headboat-atlantic-charter-headboat-for-dolphin-wahoo.md)  
 [South Atlantic Charter / Headboat for Pelagic Fish](.md)  
 [South Atlantic Charter / Headboat for Snapper / Grouper](.md)  
 
