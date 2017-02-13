@@ -24,8 +24,8 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 
 ## Open Access Charter / Headboat Permits  
 [Atlantic Charter / Headboat for Dolphin / Wahoo](foia-oa-charter-headboat-atlantic-charter-headboat-for-dolphin-wahoo.md)  
-[South Atlantic Charter / Headboat for Pelagic Fish](.md)  
-[South Atlantic Charter / Headboat for Snapper / Grouper](.md)  
+[South Atlantic Charter / Headboat for Pelagic Fish](foia-oa-charter-headboat-south-atlantic-charter-headboat-for-pelagic-fish.md)  
+[South Atlantic Charter / Headboat for Snapper / Grouper](foia-oa-charter-headboat-south-atlantic-charter-headboat-for-snapper-grouper.md)  
 
 ## Limited Access Commercial Permits
 Atlantic Tuna Longline
