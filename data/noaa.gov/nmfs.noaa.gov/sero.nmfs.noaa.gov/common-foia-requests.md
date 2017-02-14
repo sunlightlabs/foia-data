@@ -30,7 +30,7 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 ## Limited Access Commercial Permits  
 [Atlantic Tuna Longline](foia-limited-access-commercial-permits-atlantic-tuna-longline.md)
 [Eastern Gulf Reef Fish Bottom Longline Endorsement](foia-limited-access-commercial-permits-eastern-gulf-reef-fish-bottom-longline-endorsement.md)
-Gillnet for King Mackerel
+[Gillnet for King Mackerel](foia-limited-access-commercial-permits-gillnet-for-king-mackerel.md)  
 Golden Crab
 Golden Tilefish Endorsement
 Gulf of Mexico Reef Fish
