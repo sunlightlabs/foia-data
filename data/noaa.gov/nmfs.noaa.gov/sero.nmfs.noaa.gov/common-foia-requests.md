@@ -33,8 +33,8 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 [Gillnet for King Mackerel](foia-limited-access-commercial-permits-gillnet-for-king-mackerel.md)  
 [Golden Crab](foia-limited-access-commercial-permits-golden-crab.md)
 [Golden Tilefish Endorsement](foia-limited-access-commercial-permits-golden-tilefish-endorsement.md)
-Gulf of Mexico Reef Fish
-Gulf of Mexico Shrimp
+[Gulf of Mexico Reef Fish](foia-limited-access-commercial-permits-gulf-of-mexico-reef-fish.md)  
+[Gulf of Mexico Shrimp](foia-limited-access-commercial-permits-gulf-of-mexico-shrimp.md)  
 King Mackerel
 Rock Shrimp (South Atlantic EEZ)
 Sea Bass Pot Endorsement
