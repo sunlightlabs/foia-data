@@ -27,9 +27,9 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 [South Atlantic Charter / Headboat for Pelagic Fish](foia-oa-charter-headboat-south-atlantic-charter-headboat-for-pelagic-fish.md)  
 [South Atlantic Charter / Headboat for Snapper / Grouper](foia-oa-charter-headboat-south-atlantic-charter-headboat-for-snapper-grouper.md)  
 
-## Limited Access Commercial Permits
-Atlantic Tuna Longline
-Eastern Gulf Reef Fish Bottom Longline Endorsement
+## Limited Access Commercial Permits  
+[Atlantic Tuna Longline](foia-limited-access-commercial-permits-atlantic-tuna-longline.md)
+[Eastern Gulf Reef Fish Bottom Longline Endorsement](foia-limited-access-commercial-permits-eastern-gulf-reef-fish-bottom-longline-endorsement.md)
 Gillnet for King Mackerel
 Golden Crab
 Golden Tilefish Endorsement
