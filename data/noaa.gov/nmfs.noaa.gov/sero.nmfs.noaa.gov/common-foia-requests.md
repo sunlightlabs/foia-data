@@ -35,7 +35,7 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 [Golden Tilefish Endorsement](foia-limited-access-commercial-permits-golden-tilefish-endorsement.md)
 [Gulf of Mexico Reef Fish](foia-limited-access-commercial-permits-gulf-of-mexico-reef-fish.md)  
 [Gulf of Mexico Shrimp](foia-limited-access-commercial-permits-gulf-of-mexico-shrimp.md)  
-King Mackerel
+[King Mackerel](foia-limited-access-commercial-permits-king-mackerel.md)  
 Rock Shrimp (South Atlantic EEZ)
 Sea Bass Pot Endorsement
 Shark Directed
