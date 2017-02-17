@@ -36,13 +36,13 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 [Gulf of Mexico Reef Fish](foia-limited-access-commercial-permits-gulf-of-mexico-reef-fish.md)  
 [Gulf of Mexico Shrimp](foia-limited-access-commercial-permits-gulf-of-mexico-shrimp.md)  
 [King Mackerel](foia-limited-access-commercial-permits-king-mackerel.md)  
-Rock Shrimp (South Atlantic EEZ)
-Sea Bass Pot Endorsement
-Shark Directed
-Shark Incidental
-South Atlantic 225lb Trip Limit Snapper / Grouper
-South Atlantic Unlimited Snapper / Grouper
-Swordfish Directed
+[Rock Shrimp (South Atlantic EEZ)](foia-limited-access-commercial-permits-rock-shrimp-south-atlantic-eez.md)  
+[Sea Bass Pot Endorsement](foia-limited-access-commercial-permits-sea-bass-pot-endorsement.md)
+[Shark Directed](foia-limited-access-commercial-permits-shark-directed.md)
+[Shark Incidental](foia-limited-access-commercial-permits-shark-incidental.md)
+[South Atlantic 225lb Trip Limit Snapper / Grouper](foia-limited-access-commercial-permits-south-atlantic-225lb-trip-limit-snapper-grouper.md)
+[South Atlantic Unlimited Snapper / Grouper](foia-limited-access-commercial-permits-south-atlantic-unlimited-snapper-grouper.md)
+[Swordfish Directed](foia-limited-access-commercial-permits-swordfish-directed.md)  
 Swordfish Handgear
 Swordfish Incidental
 
