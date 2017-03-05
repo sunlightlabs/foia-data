@@ -43,20 +43,20 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 [South Atlantic 225lb Trip Limit Snapper / Grouper](foia-limited-access-commercial-permits-south-atlantic-225lb-trip-limit-snapper-grouper.md)
 [South Atlantic Unlimited Snapper / Grouper](foia-limited-access-commercial-permits-south-atlantic-unlimited-snapper-grouper.md)
 [Swordfish Directed](foia-limited-access-commercial-permits-swordfish-directed.md)  
-Swordfish Handgear
-Swordfish Incidental
+[Swordfish Handgear](foia-limited-access-commercial-permits-swordfish-handgear.md)  
+[Swordfish Incidental](foia-limited-access-commercial-permits-swordfish-incidental.md)  
 
 ## Limited Access Charter / Headboat Permits
-Gulf of Mexico Charter / Headboat for Pelagic Fish
-Gulf of Mexico Charter / Headboat for Reef Fish
-Historical Captain Gulf of Mexico Charter / Headboat for Pelagic Fish
-Historical Captain Gulf of Mexico Charter / Headboat for Reef Fish
+[Gulf of Mexico Charter / Headboat for Pelagic Fish](foia-limited-access-charter-headboat-permits-gulf-of-mexico-charter-headboat-for-pelagic-fish.md)  
+[Gulf of Mexico Charter / Headboat for Reef Fish](foia-limited-access-charter-headboat-permits-gulf-of-mexico-charter-headboat-for-reef-fish.md)  
+[Historical Captain Gulf of Mexico Charter / Headboat for Pelagic Fish](foia-limited-access-charter-headboat-permits-historical-captain-gulf-of-mexico-charter-headboat-for-pelagic-fish.md)  
+[Historical Captain Gulf of Mexico Charter / Headboat for Reef Fish](foia-limited-access-charter-headboat-permits-historical-captain-gulf-of-mexico-charter-headboat-for-reef-fish.md)  
 
 ## Catch Shares
-IFQ Gulf Reef Fish Accounts
-Wreckfish ITQ Shareholders
+[IFQ Gulf Reef Fish Accounts]()  
+[Wreckfish ITQ Shareholders]()  
 
 ## Additional Information
-All SERO Vessel Permits  
+[All SERO Vessel Permits]()  
 
 
