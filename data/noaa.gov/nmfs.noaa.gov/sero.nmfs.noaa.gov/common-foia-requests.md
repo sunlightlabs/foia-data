@@ -57,6 +57,6 @@ List of Frequent FOIA Requests Regarding Permits, Vessels, and IFQ
 [Wreckfish ITQ Shareholders](foia-wreckfish-itq-shareholders.md)  
 
 ## Additional Information
-[All SERO Vessel Permits]()  
+[All SERO Vessel Permits](foia-all-sero-vessel-permits.md)  
 
 
